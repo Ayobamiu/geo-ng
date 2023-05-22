@@ -27,7 +27,6 @@
   "author": "Usman Ayobami",
   "license": "ISC",
   "dependencies": {
-    "fs": "^0.0.1-security",
     "typescript": "^5.0.4"
   },
   "types": "index.d.ts"
