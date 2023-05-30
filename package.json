@@ -1,6 +1,6 @@
 {
   "name": "geo-ng",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Retrieve a comprehensive list of states, areas, and sub-areas in Nigeria, providing users with essential geographic information for the country.",
   "main": "index.js",
   "scripts": {
