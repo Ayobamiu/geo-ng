@@ -38,7 +38,7 @@ export type StateCodes =
   | "ZA";
 
 export interface NigeriaState {
-  code: string;
+  code: StateCodes;
   name: string;
   lgas: string[];
   subs: { [area: string]: string[] };

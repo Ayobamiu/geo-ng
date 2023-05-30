@@ -38,16 +38,32 @@ console.log(lgas);
 
 ```
 
+### Get Areas/Sub-Areas of an LGA
+
+```shell
+import { getLgaSubAreas } from 'geo-ng';
+
+const subAreas = getLgaSubAreas("AB", "ABA NORTH");
+console.log(subAreas);
+
+
+```
+
 ## API
 
 The **geo-ng** package provides the following API:
 
 - **getNigeriaStates()**: Returns a list of Nigerian states with their codes.
 - **getLGAs(stateCode: string)**: Returns the Local Government Areas (LGAs) of a specified state.
+- **getLgaSubAreas(stateCode: string, lga: string)**: Returns the areas/sub-areas of a specified LGA.
 
-<!-- ## Contributing -->
+## Contributing
 
-<!-- Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the **GitHub repository**. -->
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [**GitHub repository**](https://github.com/Ayobamiu/geo-ng).
+
+## Attribution
+
+The states, local government areas (LGAs), and sub-areas data in this package are sourced from https://govote.ng/, a website providing information related to geographic locations in Nigeria. This data was used to update and enhance the geographic data in the `geo-ng` package. Visit https://govote.ng/ for more details.
 
 <!-- ## License
 
