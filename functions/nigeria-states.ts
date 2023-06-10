@@ -9,7 +9,7 @@ export const areas: NigeriaState[] = [
       "ABA SOUTH",
       "AROCHUKWU",
       "BENDE",
-      "IKWUAN",
+      "IKWUANO",
       "ISIALA NGWA",
       "ISIALA NGWA SOUTH",
       "ISUIKWUATO",
@@ -80,7 +80,7 @@ export const areas: NigeriaState[] = [
         "UMUIMENYI/NKPA",
         "UZUAKOLI",
       ],
-      IKWUAN: [
+      IKWUANO: [
         "ARIAM",
         "IBERE I",
         "IBERE II",
