@@ -1,6 +1,6 @@
 {
   "name": "geo-ng",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Retrieve a comprehensive list of states, areas, and sub-areas in Nigeria, providing users with essential geographic information for the country.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Ayobamiu/geo-ng.git"
   },
+  "homepage": "https://ayobamiu.github.io/geo-ng-web/",
   "keywords": [
     "Nigeria",
     "States",
