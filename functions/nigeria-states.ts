@@ -2,28 +2,28 @@ import { NigeriaState } from "../@types";
 
 export const areas: NigeriaState[] = [
   {
-    code: "AB",
-    name: "ABIA",
-    lgas: [
+    "code": "AB",
+    "name": "ABIA",
+    "lgas": [
       "ABA NORTH",
       "ABA SOUTH",
       "AROCHUKWU",
       "BENDE",
       "IKWUANO",
-      "ISIALA NGWA",
+      "ISIALA NGWA NORTH",
       "ISIALA NGWA SOUTH",
       "ISUIKWUATO",
-      "OBINGWA",
+      "OBI NGWA",
       "OHAFIA",
-      "OSISIOMA",
-      "UGWUNABO",
+      "OSISIOMA NGWA",
+      "UGWUNAGBO",
       "UKWA EAST",
       "UKWA WEST",
       "UMU NNEOCHI",
       "UMUAHIA NORTH",
-      "UMUAHIA SOUTH",
+      "UMUAHIA SOUTH"
     ],
-    subs: {
+    "subs": {
       "ABA NORTH": [
         "ARIARIA MARKET",
         "EZIAMA",
@@ -36,7 +36,7 @@ export const areas: NigeriaState[] = [
         "ST. EUGENE",
         "UMUOGOR",
         "UMUOLA",
-        "URATTA",
+        "URATTA"
       ],
       "ABA SOUTH": [
         "ABA RIVER",
@@ -50,9 +50,9 @@ export const areas: NigeriaState[] = [
         "MOSQUE",
         "NGWA",
         "OHAZU I",
-        "OHAZU II",
+        "OHAZU II"
       ],
-      AROCHUKWU: [
+      "AROCHUKWU": [
         "AROCHUKWU I",
         "AROCHUKWU II",
         "AROCHUKWU III",
@@ -63,9 +63,9 @@ export const areas: NigeriaState[] = [
         "OHAFOR I",
         "OHAFOR II",
         "OVUKWU",
-        "UTUTU",
+        "UTUTU"
       ],
-      BENDE: [
+      "BENDE": [
         "AMANKALU/ AKOLIOFU",
         "BENDE",
         "IGBERE ' A'",
@@ -78,9 +78,9 @@ export const areas: NigeriaState[] = [
         "UGWUEKE/EZEUKWU",
         "UMUHU/EZECHI",
         "UMUIMENYI/NKPA",
-        "UZUAKOLI",
+        "UZUAKOLI"
       ],
-      IKWUANO: [
+      "IKWUANO": [
         "ARIAM",
         "IBERE I",
         "IBERE II",
@@ -90,9 +90,9 @@ export const areas: NigeriaState[] = [
         "OBORO IV",
         "OLOKO I",
         "OLOKO II",
-        "USAKA",
+        "USAKA"
       ],
-      "ISIALA NGWA": [
+      "ISIALA NGWA NORTH": [
         "AMA SA NTIGHA",
         "AMAPU NTIGHA",
         "AMASA NSULU",
@@ -102,7 +102,7 @@ export const areas: NigeriaState[] = [
         "NGWA UKWU  II",
         "NGWA UKWU I",
         "UMUNNA NSULU",
-        "UMUOHA",
+        "UMUOHA"
       ],
       "ISIALA NGWA SOUTH": [
         "AKU NA EKPU, EZIAMA NA OBU",
@@ -114,9 +114,9 @@ export const areas: NigeriaState[] = [
         "OKPORO AHABA",
         "OMOBA",
         "OVUNGWU",
-        "OVUOKWU",
+        "OVUOKWU"
       ],
-      ISUIKWUATO: [
+      "ISUIKWUATO": [
         "ACHARA/ MBUGWU",
         "EZERE",
         "IKEAGHA  II",
@@ -126,9 +126,9 @@ export const areas: NigeriaState[] = [
         "ISU AMAWU",
         "OGUNDUASA",
         "UMUANYI/ ABSU",
-        "UMUNNEKWU",
+        "UMUNNEKWU"
       ],
-      OBINGWA: [
+      "OBI NGWA": [
         "ABAYI  II",
         "ABAYI I",
         "AHIABA",
@@ -139,9 +139,9 @@ export const areas: NigeriaState[] = [
         "MGBOKO NTUNGWA",
         "MGBOKO- UMUANUNU",
         "NDIAKATA/AMAIRINABUO",
-        "NTIGHAUZO AMAIRI",
+        "NTIGHAUZO AMAIRI"
       ],
-      OHAFIA: [
+      "OHAFIA": [
         "AGBORJI ABIRIBA",
         "AMEKE",
         "AMOGUDU ABIRIBA",
@@ -152,9 +152,9 @@ export const areas: NigeriaState[] = [
         "NDI ELU",
         "NDI ETITI  NKPORO",
         "OHAFOR",
-        "OKAMU",
+        "OKAMU"
       ],
-      OSISIOMA: [
+      "OSISIOMA NGWA": [
         "AMA-ASAA",
         "AMAFOR",
         "AMASATOR",
@@ -164,9 +164,9 @@ export const areas: NigeriaState[] = [
         "OSO-OKWA",
         "UKPU- UMUOBO",
         "UMUNNEISE",
-        "URATTA",
+        "URATTA"
       ],
-      UGWUNABO: [
+      "UGWUNAGBO": [
         "EIGHT",
         "FIV E",
         "FOUR",
@@ -176,7 +176,7 @@ export const areas: NigeriaState[] = [
         "SIX",
         "TEN",
         "THREE",
-        "TWO",
+        "TWO"
       ],
       "UKWA EAST": [
         "AKWETE",
@@ -188,7 +188,7 @@ export const areas: NigeriaState[] = [
         "IKWURIATOR WEST",
         "NKPOROBE/OHURU",
         "OBOHIA",
-        "UMUIEGUBE/ACHARA",
+        "UMUIEGUBE/ACHARA"
       ],
       "UKWA WEST": [
         "ASA NORTH",
@@ -199,7 +199,7 @@ export const areas: NigeriaState[] = [
         "OBUZOR",
         "OGWE",
         "OZAA UKWU",
-        "OZAA WEST",
+        "OZAA WEST"
       ],
       "UMU NNEOCHI": [
         "AMUDA",
@@ -213,7 +213,7 @@ export const areas: NigeriaState[] = [
         "UMUAKU",
         "UMUCHIEZE I",
         "UMUCHIEZE II",
-        "UMUCHIEZE III",
+        "UMUCHIEZE III"
       ],
       "UMUAHIA NORTH": [
         "AFUGIRI",
@@ -227,7 +227,7 @@ export const areas: NigeriaState[] = [
         "UMUHU",
         "UR BAN II",
         "URBAN I",
-        "URBAN III",
+        "URBAN III"
       ],
       "UMUAHIA SOUTH": [
         "AHIAUKWU I",
@@ -239,14 +239,14 @@ export const areas: NigeriaState[] = [
         "OLD UMUAHIA",
         "OMAEGWU",
         "UBAKALA  'A'",
-        "UBAKALA  'B'",
-      ],
-    },
+        "UBAKALA  'B'"
+      ]
+    }
   },
   {
-    code: "AD",
-    name: "ADAMAWA",
-    lgas: [
+    "code": "AD",
+    "name": "ADAMAWA",
+    "lgas": [
       "DEMSA",
       "FUFORE",
       "GANYE",
@@ -263,14 +263,14 @@ export const areas: NigeriaState[] = [
       "MUBI NORTH",
       "MUBI SOUTH",
       "NUMAN",
-      "SHELLENGE",
+      "SHELLENG",
       "SONG",
       "TOUNGO",
       "YOLA NORTH",
-      "YOLA SOUTH",
+      "YOLA SOUTH"
     ],
-    subs: {
-      DEMSA: [
+    "subs": {
+      "DEMSA": [
         "BILLE",
         "BORRONG",
         "DEMSA",
@@ -280,9 +280,9 @@ export const areas: NigeriaState[] = [
         "GWAMBA",
         "KPASHAM",
         "MBULA KULI",
-        "NASSARAWO DEMSA",
+        "NASSARAWO DEMSA"
       ],
-      FUFORE: [
+      "FUFORE": [
         "BETI",
         "FARANG",
         "FUFORE",
@@ -293,9 +293,9 @@ export const areas: NigeriaState[] = [
         "RIBADU",
         "UKI-TUKI",
         "WURO- BOKKI",
-        "YADIM",
+        "YADIM"
       ],
-      GANYE: [
+      "GANYE": [
         "BAKARI GUSO",
         "GAMU",
         "GANYE  I",
@@ -305,9 +305,9 @@ export const areas: NigeriaState[] = [
         "SANGASSUMI",
         "SUGU",
         "TIMDORE",
-        "YEBBI",
+        "YEBBI"
       ],
-      GIREI: [
+      "GIREI": [
         "DAKRI",
         "DAMARE",
         "GERENG",
@@ -317,9 +317,9 @@ export const areas: NigeriaState[] = [
         "JERA BONYO",
         "MODIRE VINIKILANG",
         "TAMBO",
-        "WURO DOLE",
+        "WURO DOLE"
       ],
-      GOMBI: [
+      "GOMBI": [
         "BOGA/DINGAI",
         "DUWA",
         "GA'ANDA",
@@ -329,9 +329,9 @@ export const areas: NigeriaState[] = [
         "GOMBI SOUTH",
         "GUYAKU",
         "TAWA",
-        "YANG",
+        "YANG"
       ],
-      GUYUK: [
+      "GUYUK": [
         "BANJIRAM",
         "BOBINI",
         "BODEN",
@@ -341,9 +341,9 @@ export const areas: NigeriaState[] = [
         "GUYUK",
         "KOLA",
         "LOKORO",
-        "PUROKAYO",
+        "PUROKAYO"
       ],
-      HONG: [
+      "HONG": [
         "BANGSHIKA",
         "DAKSIRI",
         "GARAHA",
@@ -355,9 +355,9 @@ export const areas: NigeriaState[] = [
         "MAYO LOPE",
         "SHANGUI",
         "THILBANG",
-        "UBA",
+        "UBA"
       ],
-      JADA: [
+      "JADA": [
         "DANABA",
         "JADA I",
         "JADA II",
@@ -368,9 +368,9 @@ export const areas: NigeriaState[] = [
         "MAYO-KALAYE",
         "MBULO",
         "NYIBANGO",
-        "YELLI",
+        "YELLI"
       ],
-      LAMURDE: [
+      "LAMURDE": [
         "DUBWAGUN",
         "GYAWANA",
         "LAFIYA",
@@ -380,9 +380,9 @@ export const areas: NigeriaState[] = [
         "OPALO",
         "RIGANGE",
         "SUWA",
-        "WADUKU",
+        "WADUKU"
       ],
-      MADAGALI: [
+      "MADAGALI": [
         "BABEL",
         "DUHU/SHUWA",
         "GULAK",
@@ -392,9 +392,9 @@ export const areas: NigeriaState[] = [
         "PALLAM",
         "S/S/VAPURA",
         "WAGGA",
-        "WULA",
+        "WULA"
       ],
-      MAIHA: [
+      "MAIHA": [
         "BELEL",
         "HUMBUTUDI",
         "KONKOL",
@@ -404,7 +404,7 @@ export const areas: NigeriaState[] = [
         "PAKKA",
         "SORAU A",
         "SORAU B",
-        "TAMBAJAM",
+        "TAMBAJAM"
       ],
       "MAYO BELWA": [
         "BAJAMA",
@@ -418,9 +418,9 @@ export const areas: NigeriaState[] = [
         "NDIKONG",
         "RIBADU",
         "TOLA",
-        "YOFFO",
+        "YOFFO"
       ],
-      MICHIKA: [
+      "MICHIKA": [
         "BAZZA/MARGI",
         "FUTUDOU/FUTULESS",
         "GARTA/GUNCHI",
@@ -436,7 +436,7 @@ export const areas: NigeriaState[] = [
         "THUKUDOU/SUFUKU/ZAH",
         "TUMBARA/NGABILI",
         "VI/BOKA",
-        "WAMBILIMI/TILLI",
+        "WAMBILIMI/TILLI"
       ],
       "MUBI NORTH": [
         "BAHULI",
@@ -449,7 +449,7 @@ export const areas: NigeriaState[] = [
         "MUCHALLA",
         "SABON LAYI",
         "VIMTIM",
-        "YELWA",
+        "YELWA"
       ],
       "MUBI SOUTH": [
         "DIRBISHI",
@@ -461,9 +461,9 @@ export const areas: NigeriaState[] = [
         "MUGULBU",
         "MUJARA",
         "NASSARAWO",
-        "NDUKU",
+        "NDUKU"
       ],
-      NUMAN: [
+      "NUMAN": [
         "BARE",
         "BOLKI",
         "GAMADIO",
@@ -473,9 +473,9 @@ export const areas: NigeriaState[] = [
         "NUMAN II",
         "NUMAN III",
         "SABON PEGI",
-        "VULPI",
+        "VULPI"
       ],
-      SHELLENGE: [
+      "SHELLENG": [
         "BAKTA",
         "BODWAI",
         "GUNDO",
@@ -485,9 +485,9 @@ export const areas: NigeriaState[] = [
         "KIRI",
         "LIBBO",
         "SHELLENG",
-        "TALLUM",
+        "TALLUM"
       ],
-      SONG: [
+      "SONG": [
         "DIRMA",
         "DUMNE",
         "GUDUMBOI",
@@ -498,9 +498,9 @@ export const areas: NigeriaState[] = [
         "SONG WAJE",
         "SUKTU",
         "WALTANDI",
-        "ZUMO",
+        "ZUMO"
       ],
-      TOUNGO: [
+      "TOUNGO": [
         "DAWO I",
         "DAWO II",
         "GUMTI",
@@ -510,7 +510,7 @@ export const areas: NigeriaState[] = [
         "KOGIN BABA II",
         "TOUNGO I",
         "TOUNGO II",
-        "TOUNGO III",
+        "TOUNGO III"
       ],
       "YOLA NORTH": [
         "AJIYA",
@@ -523,7 +523,7 @@ export const areas: NigeriaState[] = [
         "LUGGERE",
         "NASSARAWO",
         "RUMDE",
-        "YELWA",
+        "YELWA"
       ],
       "YOLA SOUTH": [
         "ADARAWO",
@@ -536,14 +536,14 @@ export const areas: NigeriaState[] = [
         "NAMTARI",
         "NGURORE",
         "TOUNGO",
-        "YOLDE KOHI",
-      ],
-    },
+        "YOLDE KOHI"
+      ]
+    }
   },
   {
-    code: "AK",
-    name: "AKWA IBOM",
-    lgas: [
+    "code": "AK",
+    "name": "AKWA IBOM",
+    "lgas": [
       "ABAK",
       "EASTERN OBOLO",
       "EKET",
@@ -552,10 +552,10 @@ export const areas: NigeriaState[] = [
       "ETIM EKPO",
       "ETINAN",
       "IBESIKPO ASUTAN",
-      "IBION",
-      "IBION IBOM",
+      "IBENO",
+      "IBIONO IBOM",
       "IKA",
-      "IKON",
+      "IKONO",
       "IKOT ABASI",
       "IKOT EKPENE",
       "INI",
@@ -572,12 +572,12 @@ export const areas: NigeriaState[] = [
       "ORUK ANAM",
       "UDUNG UKO",
       "UKANAFUN",
-      "URE OFFONG/ORUKO",
+      "URUE OFFONG/ORUKO",
       "URUAN",
-      "UYO",
+      "UYO"
     ],
-    subs: {
-      ABAK: [
+    "subs": {
+      "ABAK": [
         "ABAK URBAN I",
         "ABAK URBAN II",
         "ABAK URBAN III",
@@ -588,7 +588,7 @@ export const areas: NigeriaState[] = [
         "MIDIM II",
         "OTORO I",
         "OTORO II",
-        "OTORO III",
+        "OTORO III"
       ],
       "EASTERN OBOLO": [
         "EASTERN OBOLO I",
@@ -600,9 +600,9 @@ export const areas: NigeriaState[] = [
         "EASTERN OBOLO VI",
         "EASTERN OBOLO VII",
         "EASTERN OBOLO VIII",
-        "EASTERN OBOLO X",
+        "EASTERN OBOLO X"
       ],
-      EKET: [
+      "EKET": [
         "EKET CENTRAL I",
         "EKET CENTRAL II",
         "EKET CENTRAL III",
@@ -613,7 +613,7 @@ export const areas: NigeriaState[] = [
         "EKET URBAN III",
         "EKET URBAN IV",
         "OKON I",
-        "OKON II",
+        "OKON II"
       ],
       "ESIT EKET": [
         "AKPAUTONG",
@@ -625,7 +625,7 @@ export const areas: NigeriaState[] = [
         "ETEBI IDUNG ASSAN",
         "IKPA",
         "NTAK INYANG",
-        "UQUO",
+        "UQUO"
       ],
       "ESSIEN UDIM": [
         "ADIASIM",
@@ -638,7 +638,7 @@ export const areas: NigeriaState[] = [
         "OKON",
         "UKANA EAST",
         "UKANA WEST I",
-        "UKANA WEST II",
+        "UKANA WEST II"
       ],
       "ETIM EKPO": [
         "ETIM EKPO I",
@@ -650,9 +650,9 @@ export const areas: NigeriaState[] = [
         "ETIM EKPO VI",
         "ETIM EKPO VII",
         "ETIM EKPO VIII",
-        "ETIM EKPO X",
+        "ETIM EKPO X"
       ],
-      ETINAN: [
+      "ETINAN": [
         "ETINAN URBAN I",
         "ETINAN URBAN II",
         "ETINAN URBAN III",
@@ -663,7 +663,7 @@ export const areas: NigeriaState[] = [
         "SOUTHERN IMAN I",
         "SOUTHERN IMAN II",
         "SOUTHERN IMAN III",
-        "SOUTHERN IMAN IV",
+        "SOUTHERN IMAN IV"
       ],
       "IBESIKPO ASUTAN": [
         "ASUTAN I",
@@ -675,9 +675,9 @@ export const areas: NigeriaState[] = [
         "IBESIKPO II",
         "IBESIKPO III",
         "IBESIKPO IV",
-        "IBESIKPO V",
+        "IBESIKPO V"
       ],
-      IBION: [
+      "IBENO": [
         "IBEN I",
         "IBEN II",
         "IBEN III",
@@ -687,9 +687,9 @@ export const areas: NigeriaState[] = [
         "IBEN VI",
         "IBEN VII",
         "IBEN VIII",
-        "IBEN X",
+        "IBEN X"
       ],
-      "IBION IBOM": [
+      "IBIONO IBOM": [
         "IBION CENTRAL I",
         "IBION CENTRAL II",
         "IBION EASTERN I",
@@ -700,9 +700,9 @@ export const areas: NigeriaState[] = [
         "IBION SOUTHERN II",
         "IBION WESTERN I",
         "IBION WESTERN II",
-        "IKPANYA CLAN",
+        "IKPANYA CLAN"
       ],
-      IKA: [
+      "IKA": [
         "ACHAN I",
         "ACHAN II",
         "ACHAN III",
@@ -712,9 +712,9 @@ export const areas: NigeriaState[] = [
         "ODORO I",
         "ODORO II",
         "URBAN I",
-        "URBAN II",
+        "URBAN II"
       ],
-      IKON: [
+      "IKONO": [
         "EDIENE I",
         "EDIENE II",
         "IKON MIDDLE I",
@@ -725,7 +725,7 @@ export const areas: NigeriaState[] = [
         "ITAK",
         "NDIYA/IKOT IDAHA",
         "NKWOT I",
-        "NKWOT II",
+        "NKWOT II"
       ],
       "IKOT ABASI": [
         "EDEMAYA I",
@@ -737,7 +737,7 @@ export const areas: NigeriaState[] = [
         "IKPA NUNG ASANG II",
         "UKPUM ETE I",
         "UKPUM ETE II",
-        "UKPUM OKON",
+        "UKPUM OKON"
       ],
       "IKOT EKPENE": [
         "IKOT EKPENE I",
@@ -750,9 +750,9 @@ export const areas: NigeriaState[] = [
         "IKOT EKPENE VII",
         "IKOT EKPENE VIII",
         "IKOT EKPENE X",
-        "IKOT EKPENE XI",
+        "IKOT EKPENE XI"
       ],
-      INI: [
+      "INI": [
         "IKON NORTH I",
         "IKON NORTH II",
         "IKON NORTH III",
@@ -762,9 +762,9 @@ export const areas: NigeriaState[] = [
         "IWERRE",
         "NKARI",
         "ODORO UKWOK",
-        "USUK UKWOK",
+        "USUK UKWOK"
       ],
-      ITU: [
+      "ITU": [
         "EAST ITAM I",
         "EAST ITAM II",
         "EAST ITAM III",
@@ -774,9 +774,9 @@ export const areas: NigeriaState[] = [
         "OKU IBOKU",
         "WEST ITAM I",
         "WEST ITAM II",
-        "WEST ITAM III",
+        "WEST ITAM III"
       ],
-      MBO: [
+      "MBO": [
         "EBUGHU I",
         "EBUGHU II",
         "EFIAT I",
@@ -785,7 +785,7 @@ export const areas: NigeriaState[] = [
         "IBAKA",
         "UDA I",
         "UDA II",
-        "UDESI",
+        "UDESI"
       ],
       "MKPAT ENIN": [
         "IBIAKU I",
@@ -801,7 +801,7 @@ export const areas: NigeriaState[] = [
         "UKPUM MINYA I",
         "UKPUM MINYA II",
         "UKPUM MINYA III",
-        "UKPUM MINYA IV",
+        "UKPUM MINYA IV"
       ],
       "NSIT ATAI": [
         "EASTERN NSIT I",
@@ -813,7 +813,7 @@ export const areas: NigeriaState[] = [
         "EASTERN NSIT VI",
         "EASTERN NSIT VII",
         "EASTERN NSIT VIII",
-        "EASTERN NSIT X",
+        "EASTERN NSIT X"
       ],
       "NSIT IBOM": [
         "ASANG I",
@@ -825,7 +825,7 @@ export const areas: NigeriaState[] = [
         "MBIASO II",
         "MBIASO III",
         "MBIASO IV",
-        "MBIASO V",
+        "MBIASO V"
       ],
       "NSIT UBIUM": [
         "IBIAKAN OBOTIM II",
@@ -837,7 +837,7 @@ export const areas: NigeriaState[] = [
         "UBIUM NORTH III",
         "UBIUM SOUTH I",
         "UBIUM SOUTH II",
-        "UBIUM SOUTH III",
+        "UBIUM SOUTH III"
       ],
       "OBOT AKARA": [
         "IKOT ABIA I",
@@ -849,9 +849,9 @@ export const areas: NigeriaState[] = [
         "NTO EDIN IV",
         "OBOT AKARA I",
         "OBOT AKARA II",
-        "OBOT AKARA III",
+        "OBOT AKARA III"
       ],
-      OKOBO: [
+      "OKOBO": [
         "AKAI/MBUKPU/UDUNG",
         "EKEYA",
         "EWEME II",
@@ -861,9 +861,9 @@ export const areas: NigeriaState[] = [
         "OFFI I",
         "OFFI II",
         "OKOPEDI I",
-        "OKOPEDI II",
+        "OKOPEDI II"
       ],
-      ONNA: [
+      "ONNA": [
         "AWA I",
         "AWA II",
         "AWA III",
@@ -875,9 +875,9 @@ export const areas: NigeriaState[] = [
         "ONIONG EAST III",
         "ONIONG WEST I",
         "ONIONG WEST II",
-        "ONIONG WEST III",
+        "ONIONG WEST III"
       ],
-      ORON: [
+      "ORON": [
         "ORON URBAN I",
         "ORON URBAN II",
         "ORON URBAN III",
@@ -887,7 +887,7 @@ export const areas: NigeriaState[] = [
         "ORON URBAN VI",
         "ORON URBAN VII",
         "ORON URBAN VIII",
-        "ORON URBAN X",
+        "ORON URBAN X"
       ],
       "ORUK ANAM": [
         "ABAK /MIDIM I",
@@ -902,7 +902,7 @@ export const areas: NigeriaState[] = [
         "IKOT IBRITAM II",
         "NDOT/ IKOT OKORO II",
         "NDOT/ IKOT OKORO III",
-        "NDOT/IKOT OKORO I",
+        "NDOT/IKOT OKORO I"
       ],
       "UDUNG UKO": [
         "UDUNG UKO I",
@@ -914,9 +914,9 @@ export const areas: NigeriaState[] = [
         "UDUNG UKO VI",
         "UDUNG UKO VII",
         "UDUNG UKO VIII",
-        "UDUNG UKO X",
+        "UDUNG UKO X"
       ],
-      UKANAFUN: [
+      "UKANAFUN": [
         "NORTHERN AFAHA I",
         "NORTHERN AFAHA II",
         "NORTHERN UKANAFUN I",
@@ -927,9 +927,9 @@ export const areas: NigeriaState[] = [
         "SOUTHERN AFAHA/ ADAT IFANG IV",
         "SOUTHERN UKANAFUN I",
         "SOUTHERN UKANAFUN II",
-        "UKANAFUN URBAN",
+        "UKANAFUN URBAN"
       ],
-      "URE OFFONG/ORUKO": [
+      "URUE OFFONG/ORUKO": [
         "ORUKO I",
         "ORUKO II",
         "ORUKO III",
@@ -939,9 +939,9 @@ export const areas: NigeriaState[] = [
         "URUE OFFONG II",
         "URUE OFFONG III",
         "URUE OFFONG IV",
-        "URUE OFFONG V",
+        "URUE OFFONG V"
       ],
-      URUAN: [
+      "URUAN": [
         "CENTRAL URUAN I",
         "CENTRAL URUAN II",
         "CENTRAL URUAN III",
@@ -952,9 +952,9 @@ export const areas: NigeriaState[] = [
         "SOUTHERN URUAN III",
         "SOUTHERN URUAN IV",
         "SOUTHERN URUAN V",
-        "SOUTHERN URUAN VI",
+        "SOUTHERN URUAN VI"
       ],
-      UYO: [
+      "UYO": [
         "ETOI I",
         "ETOI II",
         "IKON I",
@@ -965,14 +965,14 @@ export const areas: NigeriaState[] = [
         "OKU II",
         "UYO URBAN I",
         "UYO URBAN II",
-        "UYO URBAN III",
-      ],
-    },
+        "UYO URBAN III"
+      ]
+    }
   },
   {
-    code: "AN",
-    name: "ANAMBRA",
-    lgas: [
+    "code": "AN",
+    "name": "ANAMBRA",
+    "lgas": [
       "AGUATA",
       "ANAMBRA EAST",
       "ANAMBRA WEST",
@@ -993,10 +993,10 @@ export const areas: NigeriaState[] = [
       "ONITSHA SOUTH",
       "ORUMBA NORTH",
       "ORUMBA SOUTH",
-      "OYI",
+      "OYI"
     ],
-    subs: {
-      AGUATA: [
+    "subs": {
+      "AGUATA": [
         "ACHINA I",
         "ACHINA II",
         "AGULUEZECHUKWU",
@@ -1016,7 +1016,7 @@ export const areas: NigeriaState[] = [
         "UGA II",
         "UMUCHU I",
         "UMUCHU II",
-        "UMUONA",
+        "UMUONA"
       ],
       "ANAMBRA EAST": [
         "AGULERI I",
@@ -1033,7 +1033,7 @@ export const areas: NigeriaState[] = [
         "OTUOCHA II",
         "UMULERI I",
         "UMULERI II",
-        "UMUOBA ANAM",
+        "UMUOBA ANAM"
       ],
       "ANAMBRA WEST": [
         "EZI ANAM",
@@ -1045,9 +1045,9 @@ export const areas: NigeriaState[] = [
         "UMUENWELUM ANAM",
         "UMUEZE ANAM I",
         "UMUEZE ANAM II",
-        "UMUOBA ANAM",
+        "UMUOBA ANAM"
       ],
-      ANAOCHA: [
+      "ANAOCHA": [
         "ADAZI-ANI I",
         "ADAZI-ANI II",
         "ADAZI-ENU I",
@@ -1066,7 +1066,7 @@ export const areas: NigeriaState[] = [
         "NENI II",
         "NRI I",
         "NRI II",
-        "OBELEDU",
+        "OBELEDU"
       ],
       "AWKA NORTH": [
         "ACHALLA I",
@@ -1082,7 +1082,7 @@ export const areas: NigeriaState[] = [
         "MGBAKWU",
         "UGBENE",
         "UGBENU",
-        "URUM",
+        "URUM"
       ],
       "AWKA SOUTH": [
         "AGU OKA",
@@ -1104,9 +1104,9 @@ export const areas: NigeriaState[] = [
         "NISE I",
         "NISE II",
         "OKPUN",
-        "UMUAWULU",
+        "UMUAWULU"
       ],
-      AYAMELUM: [
+      "AYAMELUM": [
         "ANAKU",
         "IFITE OGWARI I",
         "IFITE OGWARI II",
@@ -1117,9 +1117,9 @@ export const areas: NigeriaState[] = [
         "OMOR III",
         "UMUEJE",
         "UMUELUM",
-        "UMUMBO",
+        "UMUMBO"
       ],
-      DUNUKOFIA: [
+      "DUNUKOFIA": [
         "AKWA",
         "IFITEDUNU II",
         "NAWGU I",
@@ -1132,9 +1132,9 @@ export const areas: NigeriaState[] = [
         "UMUDIOKA I",
         "UMUDIOKA II",
         "UMUNACHI I",
-        "UMUNACHI II",
+        "UMUNACHI II"
       ],
-      EKWUSIGO: [
+      "EKWUSIGO": [
         "AMAKWA II",
         "ICHI",
         "IHEMBOSI/ ANABUDU",
@@ -1146,7 +1146,7 @@ export const areas: NigeriaState[] = [
         "OZUBULU II",
         "OZUBULU III",
         "OZUBULU IV",
-        "OZUBULU V",
+        "OZUBULU V"
       ],
       "IDEMILI NORTH": [
         "ABACHA",
@@ -1160,7 +1160,7 @@ export const areas: NigeriaState[] = [
         "OGIDI II",
         "ORAUKWU",
         "UKE",
-        "UMUOJI",
+        "UMUOJI"
       ],
       "IDEMILI SOUTH": [
         "AKWUKWU",
@@ -1174,9 +1174,9 @@ export const areas: NigeriaState[] = [
         "NNKWA",
         "OBA I",
         "OBA II",
-        "OJOTO",
+        "OJOTO"
       ],
-      IHIALA: [
+      "IHIALA": [
         "AMAMU I",
         "AMAMU II",
         "AMORKA",
@@ -1196,9 +1196,9 @@ export const areas: NigeriaState[] = [
         "ULI I",
         "ULI II",
         "ULI III",
-        "UZOAKWA",
+        "UZOAKWA"
       ],
-      NJIKOKA: [
+      "NJIKOKA": [
         "ABAGANA I",
         "ABAGANA II",
         "ABAGANA III",
@@ -1216,7 +1216,7 @@ export const areas: NigeriaState[] = [
         "NIMO I",
         "NIMO II",
         "NIMO III",
-        "NIMO IV",
+        "NIMO IV"
       ],
       "NNEWI NORTH": [
         "NNEWI-ICHI I",
@@ -1228,7 +1228,7 @@ export const areas: NigeriaState[] = [
         "UMUDIM II",
         "URUAGU I",
         "URUAGU II",
-        "URUAGU III",
+        "URUAGU III"
       ],
       "NNEWI SOUTH": [
         "AKWA-IHEDI",
@@ -1250,9 +1250,9 @@ export const areas: NigeriaState[] = [
         "UKPOR V",
         "UKPOR VI",
         "UNUBI",
-        "UTUH",
+        "UTUH"
       ],
-      OGBARU: [
+      "OGBARU": [
         "AKILI-OZIZOR",
         "AKILIOGIDI/OBEAGWE",
         "ATANI I",
@@ -1268,7 +1268,7 @@ export const areas: NigeriaState[] = [
         "OKPOKO V",
         "OKPOKO VI",
         "OSSOMALA",
-        "UMUNANKWO/MPUTU",
+        "UMUNANKWO/MPUTU"
       ],
       "ONITSHA NORTH": [
         "AMERICAN QUARTERS",
@@ -1285,7 +1285,7 @@ export const areas: NigeriaState[] = [
         "TRANS NKISI",
         "WATER SIDE CENTRAL I",
         "WATER SIDE CENTRAL II",
-        "WOLIWO LAYOUT",
+        "WOLIWO LAYOUT"
       ],
       "ONITSHA SOUTH": [
         "BRIDGE HEAD I",
@@ -1304,7 +1304,7 @@ export const areas: NigeriaState[] = [
         "ODOAKPU IV",
         "ODOAKPU V",
         "ODOAKPU VI",
-        "ODOAKPU VII",
+        "ODOAKPU VII"
       ],
       "ORUMBA NORTH": [
         "AJALLI I",
@@ -1324,7 +1324,7 @@ export const areas: NigeriaState[] = [
         "OKO I",
         "OKO II",
         "UFUMA I",
-        "UFUMA II",
+        "UFUMA II"
       ],
       "ORUMBA SOUTH": [
         "AGBUDU",
@@ -1344,9 +1344,9 @@ export const areas: NigeriaState[] = [
         "UMUNZE 11",
         "UMUNZE 111",
         "UMUNZE1",
-        "UMUOMAKU",
+        "UMUOMAKU"
       ],
-      OYI: [
+      "OYI": [
         "AWKUZUZ I",
         "AWKUZUZ II",
         "AWKUZUZ III",
@@ -1361,14 +1361,14 @@ export const areas: NigeriaState[] = [
         "OGBUNIKE I",
         "OGBUNIKE II",
         "UMUNYA I",
-        "UMUNYA II",
-      ],
-    },
+        "UMUNYA II"
+      ]
+    }
   },
   {
-    code: "BA",
-    name: "BAUCHI",
-    lgas: [
+    "code": "BA",
+    "name": "BAUCHI",
+    "lgas": [
       "ALKALERI",
       "BAUCHI",
       "BOGORO",
@@ -1388,10 +1388,10 @@ export const areas: NigeriaState[] = [
       "T/BALEWA",
       "TORO",
       "WARJI",
-      "ZAKI",
+      "ZAKI"
     ],
-    subs: {
-      ALKALERI: [
+    "subs": {
+      "ALKALERI": [
         "ALKALERI",
         "BIRIN/GIGARA/YANKARI",
         "DAN/KUNGIBAR",
@@ -1402,9 +1402,9 @@ export const areas: NigeriaState[] = [
         "MAIMADI",
         "PALI",
         "YALO",
-        "YULI/LIM",
+        "YULI/LIM"
       ],
-      BAUCHI: [
+      "BAUCHI": [
         "BIRSHI/MIRI",
         "DANDANGO YAMRAT",
         "DAWAKI",
@@ -1416,9 +1416,9 @@ export const areas: NigeriaState[] = [
         "MAJIDADI 'B'",
         "MAKAMA SARKIN BAKI",
         "MUN/MUNSAL",
-        "ZUNGUR LIMAN KATAGUM",
+        "ZUNGUR LIMAN KATAGUM"
       ],
-      BOGORO: [
+      "BOGORO": [
         "BOGORO (A)",
         "BOGORO (B)",
         "BOGORO (C)",
@@ -1428,9 +1428,9 @@ export const areas: NigeriaState[] = [
         "BOI (C)",
         "LUSA (A)",
         "LUSA (B)",
-        "LUSA (C)",
+        "LUSA (C)"
       ],
-      DANBAM: [
+      "DANBAM": [
         "DAGAUDA",
         "DAMBAM",
         "GARGAWA",
@@ -1440,9 +1440,9 @@ export const areas: NigeriaState[] = [
         "JALAM EAST",
         "YAME",
         "YANDA",
-        "ZAURA",
+        "ZAURA"
       ],
-      DARAZO: [
+      "DARAZO": [
         "DARAZO",
         "GABARIN",
         "GABCIYARI",
@@ -1453,9 +1453,9 @@ export const areas: NigeriaState[] = [
         "SADE",
         "TAUYA",
         "WAHU",
-        "YAUTARE",
+        "YAUTARE"
       ],
-      DASS: [
+      "DASS": [
         "BAGEL/BAJAR",
         "BARAZA",
         "BUNDOT",
@@ -1465,9 +1465,9 @@ export const areas: NigeriaState[] = [
         "DURR",
         "POLCHI",
         "WANDI",
-        "ZUMBUL/LUKSHI",
+        "ZUMBUL/LUKSHI"
       ],
-      GAMAWA: [
+      "GAMAWA": [
         "ALAGARN/ JADORI",
         "GADIYA",
         "GAMAWA",
@@ -1478,9 +1478,9 @@ export const areas: NigeriaState[] = [
         "TARMASUWA",
         "TUMBI",
         "UDUBO",
-        "ZINDIWA",
+        "ZINDIWA"
       ],
-      GANJUWA: [
+      "GANJUWA": [
         "GANJUWA",
         "GUNGURA",
         "KAFIN MADAKI",
@@ -1491,9 +1491,9 @@ export const areas: NigeriaState[] = [
         "MIYA WEST",
         "NASARAWA NORTH",
         "NASARAWA SOUTH",
-        "YALI",
+        "YALI"
       ],
-      GIADE: [
+      "GIADE": [
         "CHINKANI",
         "DOGUWA CENTRAL",
         "DOGUWA SOUTH",
@@ -1503,7 +1503,7 @@ export const areas: NigeriaState[] = [
         "UZUM A",
         "UZUM B",
         "ZABI",
-        "ZIRAMI",
+        "ZIRAMI"
       ],
       "ITAS GADAU": [
         "ABDALLAWA/MAGARYA",
@@ -1515,7 +1515,7 @@ export const areas: NigeriaState[] = [
         "ITAS",
         "KASHURI",
         "MASHEMA",
-        "ZUBUKI",
+        "ZUBUKI"
       ],
       "JAMA'ARE": [
         "DOGON JEJI A",
@@ -1527,9 +1527,9 @@ export const areas: NigeriaState[] = [
         "JAMA'ARE B",
         "JAMA'ARE C",
         "JAMA'ARE D",
-        "JURARA",
+        "JURARA"
       ],
-      KATAGUM: [
+      "KATAGUM": [
         "BULKACHUWA/DAGARO",
         "BUSKURI",
         "CHINADE",
@@ -1540,9 +1540,9 @@ export const areas: NigeriaState[] = [
         "NASARAWA BAKIN KASUWA",
         "RAGWAM/MAGWONSHI",
         "TSAKUWA KOFAR GABAS",
-        "YAYU",
+        "YAYU"
       ],
-      KIRFI: [
+      "KIRFI": [
         "BADARA",
         "BARA",
         "BENI “A”",
@@ -1552,9 +1552,9 @@ export const areas: NigeriaState[] = [
         "KIRFI",
         "SHANGO",
         "TUBULE",
-        "WANKA",
+        "WANKA"
       ],
-      MISAU: [
+      "MISAU": [
         "AJILIN/GUGULIN",
         "BETI",
         "GWARAM",
@@ -1564,9 +1564,9 @@ export const areas: NigeriaState[] = [
         "SARMA/AKUYAM",
         "SIRKO",
         "TOFU",
-        "ZADAWA",
+        "ZADAWA"
       ],
-      NINGI: [
+      "NINGI": [
         "BALMA",
         "BASHE",
         "BURRA/KYATA",
@@ -1577,9 +1577,9 @@ export const areas: NigeriaState[] = [
         "NASARU",
         "NINGI",
         "SAMA",
-        "TIFFI/GUDA",
+        "TIFFI/GUDA"
       ],
-      SHIRA: [
+      "SHIRA": [
         "ANDUBUN",
         "BELI/GAGIDIBA",
         "BUKUL/BANGIRE",
@@ -1590,7 +1590,7 @@ export const areas: NigeriaState[] = [
         "SHIRA",
         "TSAFI",
         "TUMFAFI",
-        "ZUBO",
+        "ZUBO"
       ],
       "T/BALEWA": [
         "BALL",
@@ -1603,9 +1603,9 @@ export const areas: NigeriaState[] = [
         "LERE NORTH",
         "LERE SOUTH",
         "TAPSHIN",
-        "WAI",
+        "WAI"
       ],
-      TORO: [
+      "TORO": [
         "JAMA'A ZARANDA",
         "LAME",
         "MARA PALAMA",
@@ -1616,9 +1616,9 @@ export const areas: NigeriaState[] = [
         "TILDEN FULANI",
         "TORO TULAI",
         "WONU",
-        "ZALAU RISHI",
+        "ZALAU RISHI"
       ],
-      WARJI: [
+      "WARJI": [
         "BAIMA NORTH WEST",
         "BAIMA SOUTH EAST",
         "DAGU EAST",
@@ -1628,9 +1628,9 @@ export const areas: NigeriaState[] = [
         "RANGA",
         "TIYIN",
         "TUDUN WADA EAST",
-        "TUDUN WADA WEST",
+        "TUDUN WADA WEST"
       ],
-      ZAKI: [
+      "ZAKI": [
         "ALANGAWARI/KAFIN LARABAWA",
         "BURSALI",
         "GUMAI",
@@ -1641,14 +1641,14 @@ export const areas: NigeriaState[] = [
         "MURMUR NORTH",
         "MURMUR SOUTH",
         "SAKWA",
-        "TASHENA/GADAI",
-      ],
-    },
+        "TASHENA/GADAI"
+      ]
+    }
   },
   {
-    code: "BY",
-    name: "BAYELSA",
-    lgas: [
+    "code": "BY",
+    "name": "BAYELSA",
+    "lgas": [
       "BRASS",
       "EKEREMOR",
       "KOLOKUMA/OPOKUMA",
@@ -1656,10 +1656,10 @@ export const areas: NigeriaState[] = [
       "OGBIA",
       "SAGBAMA",
       "SOUTHERN IJAW",
-      "YENAGOA",
+      "YENAGOA"
     ],
-    subs: {
-      BRASS: [
+    "subs": {
+      "BRASS": [
         "BRASS WARD I",
         "BRASS WARD II",
         "CAPEFORMOSA",
@@ -1669,9 +1669,9 @@ export const areas: NigeriaState[] = [
         "ODIOMA/DIEMA",
         "OGINIBIRI",
         "OKPOAMA",
-        "SANGANA",
+        "SANGANA"
       ],
-      EKEREMOR: [
+      "EKEREMOR": [
         "EDUWINI I",
         "EDUWINI II",
         "OPOROMOR I",
@@ -1683,7 +1683,7 @@ export const areas: NigeriaState[] = [
         "OYIAKIRI II",
         "OYIAKIRI III",
         "OYIAKIRI IV",
-        "TARAKIRI",
+        "TARAKIRI"
       ],
       "KOLOKUMA/OPOKUMA": [
         "IGBEDI",
@@ -1696,9 +1696,9 @@ export const areas: NigeriaState[] = [
         "OPOKUMA NORTH",
         "OPOKUMA SOUTH",
         "SAMPOU/KALAMA",
-        "SEIBOKOROGHA SABAGREIA",
+        "SEIBOKOROGHA SABAGREIA"
       ],
-      NEMBE: [
+      "NEMBE": [
         "BASSAMBIRI I",
         "BASSAMBIRI II",
         "BASSAMBIRI III",
@@ -1711,9 +1711,9 @@ export const areas: NigeriaState[] = [
         "OGBOLOMABIRI III",
         "OKOROMA I",
         "OKOROMA II",
-        "OLUASIRI",
+        "OLUASIRI"
       ],
-      OGBIA: [
+      "OGBIA": [
         "ANYAMA",
         "EMEYAL",
         "IMIRINGI",
@@ -1726,9 +1726,9 @@ export const areas: NigeriaState[] = [
         "OTAKEME",
         "OTUABULA",
         "OTUASEGA",
-        "OTUOKPOTI",
+        "OTUOKPOTI"
       ],
-      SAGBAMA: [
+      "SAGBAMA": [
         "ADAGBABIRI",
         "AGBERE",
         "AGORO",
@@ -1742,7 +1742,7 @@ export const areas: NigeriaState[] = [
         "OSIAMA",
         "SAGBAMA",
         "TORU-EBENI",
-        "TROFANI",
+        "TROFANI"
       ],
       "SOUTHERN IJAW": [
         "AMASSOMA I",
@@ -1761,9 +1761,9 @@ export const areas: NigeriaState[] = [
         "OPOROMA II",
         "OTUAN",
         "UKUBIE",
-        "WEST BOMO",
+        "WEST BOMO"
       ],
-      YENAGOA: [
+      "YENAGOA": [
         "ATTISSA I",
         "ATTISSA II",
         "ATTISSA III",
@@ -1778,14 +1778,14 @@ export const areas: NigeriaState[] = [
         "GBARAIN I",
         "GBARAIN II",
         "OKORDIA",
-        "ZARAMA",
-      ],
-    },
+        "ZARAMA"
+      ]
+    }
   },
   {
-    code: "BE",
-    name: "BENUE",
-    lgas: [
+    "code": "BE",
+    "name": "BENUE",
+    "lgas": [
       "ADO",
       "AGATU",
       "APA",
@@ -1794,24 +1794,24 @@ export const areas: NigeriaState[] = [
       "GUMA",
       "GWER EAST",
       "GWER WEST",
-      "KATSINALA",
+      "KATSINA ALA",
       "KONSHISHA",
-      "KWADE",
+      "KWANDE",
       "LOGO",
       "MAKURDI",
       "OBI",
-      "OGADIBO",
+      "OGBADIBO",
       "OJU",
       "OKPOKWU",
-      "OMIMII",
+      "OHIMINI",
       "OTUKPO",
       "TARKA",
       "UKUM",
       "USHONGO",
-      "VANDEKYA",
+      "VANDEIKYA"
     ],
-    subs: {
-      ADO: [
+    "subs": {
+      "ADO": [
         "AKPOGE/OGBILOLO",
         "APA",
         "EKILE",
@@ -1821,9 +1821,9 @@ export const areas: NigeriaState[] = [
         "OGEGE",
         "ROYONGO",
         "UKWONYO",
-        "ULAYI",
+        "ULAYI"
       ],
-      AGATU: [
+      "AGATU": [
         "EGBA",
         "ENUNGBA",
         "OBAGAJI",
@@ -1833,9 +1833,9 @@ export const areas: NigeriaState[] = [
         "OGWULE OGBAULU",
         "OKOKOLO",
         "OSHIGBUDU",
-        "USHA",
+        "USHA"
       ],
-      APA: [
+      "APA": [
         "AKPETE/OJANTELE",
         "AUKE",
         "EDIKWU I",
@@ -1846,9 +1846,9 @@ export const areas: NigeriaState[] = [
         "OBA",
         "OFOKE",
         "OIJI",
-        "UGBOKPO",
+        "UGBOKPO"
       ],
-      BURUKU: [
+      "BURUKU": [
         "BINEV",
         "ETULO",
         "MB AYA",
@@ -1861,9 +1861,9 @@ export const areas: NigeriaState[] = [
         "MBAITYOUGH",
         "MBAKYAAN",
         "MBAYAKA",
-        "SHOROV",
+        "SHOROV"
       ],
-      GBOKO: [
+      "GBOKO": [
         "GBOKO CENTRAL MKT",
         "GBOKO EAST",
         "GBOKO N/WEST",
@@ -1880,9 +1880,9 @@ export const areas: NigeriaState[] = [
         "MBATZER",
         "UKPE-KPE",
         "YANDEV NORTH",
-        "YANDEV SOUTH",
+        "YANDEV SOUTH"
       ],
-      GUMA: [
+      "GUMA": [
         "ABINSI",
         "KAAMBE",
         "MBABAI",
@@ -1892,7 +1892,7 @@ export const areas: NigeriaState[] = [
         "NYIEV",
         "NZOROV",
         "SAGHEV",
-        "UVIR",
+        "UVIR"
       ],
       "GWER EAST": [
         "AKPACHANYI",
@@ -1908,7 +1908,7 @@ export const areas: NigeriaState[] = [
         "MBASOSOMBO",
         "MBAYOM",
         "MBIAKYU",
-        "UGEE",
+        "UGEE"
       ],
       "GWER WEST": [
         "AVIHIJIME",
@@ -1925,9 +1925,9 @@ export const areas: NigeriaState[] = [
         "SENGEV",
         "SENGEV/YENGEV",
         "TIJIME",
-        "TSAMBE/MBESSEV",
+        "TSAMBE/MBESSEV"
       ],
-      KATSINALA: [
+      "KATSINA ALA": [
         "IKURAV-TIEV I",
         "IKURAV-TIEV II",
         "IWAR",
@@ -1939,9 +1939,9 @@ export const areas: NigeriaState[] = [
         "MICHICHE",
         "TIIR",
         "UTANGE",
-        "YOOYO",
+        "YOOYO"
       ],
-      KONSHISHA: [
+      "KONSHISHA": [
         "IKYURAV/MBATWER",
         "MBAGUSA/MBATSER",
         "MBAINARNYAM",
@@ -1952,9 +1952,9 @@ export const areas: NigeriaState[] = [
         "MBAVAA",
         "MBAWAR",
         "MBAYEGH/MBAIKYEGH",
-        "TSEAGARAGBA",
+        "TSEAGARAGBA"
       ],
-      KWADE: [
+      "KWANDE": [
         "ADKPO METROPOLIS",
         "KUMAKWAGH",
         "LIVE I",
@@ -1969,9 +1969,9 @@ export const areas: NigeriaState[] = [
         "TAAV",
         "TONDOV I",
         "TONDOV II",
-        "USAR",
+        "USAR"
       ],
-      LOGO: [
+      "LOGO": [
         "MBADYUL",
         "MBAGBER",
         "MBATER",
@@ -1981,9 +1981,9 @@ export const areas: NigeriaState[] = [
         "TOMBO",
         "TURAN",
         "UKEMBREGA/TSWAREV",
-        "YONV",
+        "YONV"
       ],
-      MAKURDI: [
+      "MAKURDI": [
         "AGAN",
         "ANKPA/WADATA",
         "BAR",
@@ -1994,9 +1994,9 @@ export const areas: NigeriaState[] = [
         "MODERN MKT",
         "NORTH BANK I",
         "NORTH BANK II",
-        "WALLOMAYO",
+        "WALLOMAYO"
       ],
-      OBI: [
+      "OBI": [
         "ADIKO",
         "AOUM-WEST",
         "IKWOKWU",
@@ -2008,9 +2008,9 @@ export const areas: NigeriaState[] = [
         "OGORE",
         "OKPOKWU",
         "OKWUTUNGBE",
-        "ORIHI",
+        "ORIHI"
       ],
-      OGADIBO: [
+      "OGBADIBO": [
         "AI- OODO I",
         "AI- OODO II",
         "AI-OON I",
@@ -2023,9 +2023,9 @@ export const areas: NigeriaState[] = [
         "OLACHAGBAHA",
         "ORORAM I",
         "ORORAM II",
-        "ORORAM III",
+        "ORORAM III"
       ],
-      OJU: [
+      "OJU": [
         "ADOKPA",
         "AINU",
         "IBBILA",
@@ -2036,9 +2036,9 @@ export const areas: NigeriaState[] = [
         "OKPOKPO",
         "OKWUDU",
         "OWO",
-        "UKPA AINU/ETTE",
+        "UKPA AINU/ETTE"
       ],
-      OKPOKWU: [
+      "OKPOKWU": [
         "AMEJO",
         "EKE",
         "ICHAMA II",
@@ -2050,9 +2050,9 @@ export const areas: NigeriaState[] = [
         "OKPOGA NORTH",
         "OKPOGA SOUTH",
         "OKPOGA WEST",
-        "UGBOKOLO",
+        "UGBOKOLO"
       ],
-      OMIMII: [
+      "OHIMINI": [
         "AGADAGBA",
         "AWUME-EHAJE",
         "AWUME-ICHO",
@@ -2062,9 +2062,9 @@ export const areas: NigeriaState[] = [
         "OGLENU-ICHO",
         "OGLEWU-EHAJE",
         "ONYAGEDE-EHAJE",
-        "ONYAGEDE-ICHO",
+        "ONYAGEDE-ICHO"
       ],
-      OTUKPO: [
+      "OTUKPO": [
         "ADOKA-EHAJE",
         "ADOKA-ICHO",
         "ALLAN",
@@ -2077,9 +2077,9 @@ export const areas: NigeriaState[] = [
         "OTUKPO/WEST",
         "UGBOJU-EHAJE",
         "UGBOJU-ICHO",
-        "UGBOJU-OTAHE",
+        "UGBOJU-OTAHE"
       ],
-      TARKA: [
+      "TARKA": [
         "MBAAJIRAKAA",
         "MBAAYO",
         "MBACHAVRIKYONDO",
@@ -2089,9 +2089,9 @@ export const areas: NigeriaState[] = [
         "MBANYAGBER",
         "MBIAGBA",
         "SHITILE",
-        "TONGOV",
+        "TONGOV"
       ],
-      UKUM: [
+      "UKUM": [
         "ATEKEYANGE",
         "AZENDESHE",
         "BORIKYO",
@@ -2104,9 +2104,9 @@ export const areas: NigeriaState[] = [
         "MBAZUM",
         "TSAAV",
         "UGBAAM",
-        "UYAM",
+        "UYAM"
       ],
-      USHONGO: [
+      "USHONGO": [
         "ATIRKYE",
         "IKOV",
         "MBAAKA",
@@ -2117,9 +2117,9 @@ export const areas: NigeriaState[] = [
         "MBAKUHA",
         "MBAYEGH",
         "TOWNSHIP",
-        "UTANGE",
+        "UTANGE"
       ],
-      VANDEKYA: [
+      "VANDEIKYA": [
         "MBADEDE",
         "MBAGBAM",
         "MBAGBERA",
@@ -2131,14 +2131,14 @@ export const areas: NigeriaState[] = [
         "MBAYONGO",
         "NINGEV",
         "TOWNSHIP",
-        "TSAMBE",
-      ],
-    },
+        "TSAMBE"
+      ]
+    }
   },
   {
-    code: "BO",
-    name: "BORNO",
-    lgas: [
+    "code": "BO",
+    "name": "BORNO",
+    "lgas": [
       "ABADAM",
       "ASKIRA UBA",
       "BAMA",
@@ -2159,16 +2159,16 @@ export const areas: NigeriaState[] = [
       "KWAYA KUSAR",
       "MAFA",
       "MAGUMERI",
-      "MAIDUGURI M.C",
+      "MAIDUGURI",
       "MARTE",
       "MOBBAR",
       "MONGUNO",
       "NGALA",
-      "NGANZI",
-      "SHANI",
+      "NGANZAI",
+      "SHANI"
     ],
-    subs: {
-      ABADAM: [
+    "subs": {
+      "ABADAM": [
         "AREGE",
         "BANWA",
         "FOGUWA",
@@ -2178,7 +2178,7 @@ export const areas: NigeriaState[] = [
         "MALLAM KAUNARI",
         "YAU",
         "YAWA KURA",
-        "YITUWA",
+        "YITUWA"
       ],
       "ASKIRA UBA": [
         "ASKIRA EAST",
@@ -2193,9 +2193,9 @@ export const areas: NigeriaState[] = [
         "UBA",
         "UDA/UVU",
         "WAMDEO/GIWI",
-        "ZADAWA/HAUSARI",
+        "ZADAWA/HAUSARI"
       ],
-      BAMA: [
+      "BAMA": [
         "ANDARA/AJIRI/WULBA",
         "BUDUWA/BULA CHIRABE",
         "DIPCHARI/JERE/DARJAMMAL",
@@ -2209,9 +2209,9 @@ export const areas: NigeriaState[] = [
         "SHEHURI/HAUSARI/MAIRI",
         "WULBARI/NDINE/CHAHILE",
         "YABIRI GANA/YABIRI KURA",
-        "ZANGERI KESH/KESH",
+        "ZANGERI KESH/KESH"
       ],
-      BAYO: [
+      "BAYO": [
         "BALBAYA",
         "BRIYEL",
         "FIKAYEL",
@@ -2221,9 +2221,9 @@ export const areas: NigeriaState[] = [
         "LIMANTI",
         "TELI",
         "WUYO",
-        "ZARA",
+        "ZARA"
       ],
-      BIU: [
+      "BIU": [
         "BURATAI",
         "DADIN KOWA",
         "DUGJA",
@@ -2234,9 +2234,9 @@ export const areas: NigeriaState[] = [
         "MIRINGA",
         "SULUMTHLA",
         "YAWI",
-        "ZARAWUYAKU",
+        "ZARAWUYAKU"
       ],
-      CHIBOK: [
+      "CHIBOK": [
         "GARU",
         "GATAMARWA",
         "KAUTIKARI",
@@ -2247,9 +2247,9 @@ export const areas: NigeriaState[] = [
         "MBOA - KURA",
         "PEMI",
         "SHIKARKIR",
-        "WHUNTHAKU",
+        "WHUNTHAKU"
       ],
-      DAMBOA: [
+      "DAMBOA": [
         "AJIGIN (A)",
         "AJIGIN (B)",
         "AZIR, MULTE, FORFOR",
@@ -2259,9 +2259,9 @@ export const areas: NigeriaState[] = [
         "KAFA MAFI",
         "MULGWAI/KUBCHI",
         "NZUDA/WUYARAM",
-        "WAWA KOREDE",
+        "WAWA KOREDE"
       ],
-      DIKWA: [
+      "DIKWA": [
         "BOBOSHE",
         "DIKWA",
         "GAJIBO",
@@ -2271,9 +2271,9 @@ export const areas: NigeriaState[] = [
         "MUDU KAZA",
         "MULIYE/JEMURI",
         "NGUDURAM",
-        "SOGOMO",
+        "SOGOMO"
       ],
-      GUBIO: [
+      "GUBIO": [
         "ARDIMINI",
         "DABIRA",
         "FELO",
@@ -2283,9 +2283,9 @@ export const areas: NigeriaState[] = [
         "GUBIO II",
         "KINGOWA",
         "NGETRA",
-        "ZOWO",
+        "ZOWO"
       ],
-      GUZAMALA: [
+      "GUZAMALA": [
         "ADUWA",
         "GUDUMBALI EAST",
         "GUDUMBALI WEST",
@@ -2295,9 +2295,9 @@ export const areas: NigeriaState[] = [
         "KINGARWA",
         "MAIRARI",
         "MODURI",
-        "WAMIRI",
+        "WAMIRI"
       ],
-      GWOZA: [
+      "GWOZA": [
         "ASHIGASHIYA",
         "BITA/IZGE",
         "DURE/WARA/WARABE",
@@ -2310,9 +2310,9 @@ export const areas: NigeriaState[] = [
         "KIRAWA JIMINI",
         "KURANA BASSA NGOSHE SAMA’A",
         "NGOSHE",
-        "PULKA",
+        "PULKA"
       ],
-      HAWUL: [
+      "HAWUL": [
         "BIILINGWI",
         "DZAR/VINADAM/BIRNI/DLANDI",
         "GWANZANG/PUSDA",
@@ -2324,9 +2324,9 @@ export const areas: NigeriaState[] = [
         "PAMA/WHITAMBAYA",
         "PUBA/VIDAU/LOKAJA",
         "SAKWA/HEMA",
-        "SHAFFA",
+        "SHAFFA"
       ],
-      JERE: [
+      "JERE": [
         "ALAU",
         "BALE/GALTIMARI",
         "DALA LAWANTI",
@@ -2338,9 +2338,9 @@ export const areas: NigeriaState[] = [
         "MASHAMARI",
         "NGUDDA/ADDAMARI",
         "OLD MAIDUGURI",
-        "TUBA",
+        "TUBA"
       ],
-      KAGA: [
+      "KAGA": [
         "AFA/DIG/MAUDORI",
         "BARGOZO",
         "BENISHEIK",
@@ -2355,7 +2355,7 @@ export const areas: NigeriaState[] = [
         "SHETTIMARI",
         "TOBOLO",
         "WAJIRO/BURGUMA",
-        "WASSARAM",
+        "WASSARAM"
       ],
       "KALA BALGE": [
         "JARAWA",
@@ -2367,9 +2367,9 @@ export const areas: NigeriaState[] = [
         "MOHOLO",
         "RANN A",
         "RANN B",
-        "SIGAL",
+        "SIGAL"
       ],
-      KONDUGA: [
+      "KONDUGA": [
         "AUN / CHABBAL",
         "DALORI / WANRI",
         "JEWU / LAMBOA",
@@ -2380,9 +2380,9 @@ export const areas: NigeriaState[] = [
         "MALARI / KAIGAMARI/ DALWA EAST",
         "MASBA / DALWA WEST",
         "SANDIYA / NYALERI / YAJIWA",
-        "SOJIRI / NGURO-NGURO",
+        "SOJIRI / NGURO-NGURO"
       ],
-      KUKAWA: [
+      "KUKAWA": [
         "ALAGARN",
         "BAGA",
         "BUNDUR",
@@ -2392,7 +2392,7 @@ export const areas: NigeriaState[] = [
         "KEKEN",
         "KUKAWA",
         "MODUARY/BARWATI",
-        "YOYO",
+        "YOYO"
       ],
       "KWAYA KUSAR": [
         "GONDI",
@@ -2404,9 +2404,9 @@ export const areas: NigeriaState[] = [
         "PETA",
         "WADA",
         "WAWA",
-        "YIRMITHAN",
+        "YIRMITHAN"
       ],
-      MAFA: [
+      "MAFA": [
         "ABARI",
         "ANADUA",
         "GAWA",
@@ -2418,9 +2418,9 @@ export const areas: NigeriaState[] = [
         "MAFA",
         "MASU",
         "MUJIGINE",
-        "TAMSUNGAMDUA",
+        "TAMSUNGAMDUA"
       ],
-      MAGUMERI: [
+      "MAGUMERI": [
         "AGAMMA",
         "ARDORAM",
         "AYI/YASKU",
@@ -2433,9 +2433,9 @@ export const areas: NigeriaState[] = [
         "KARERAM",
         "KUBTI",
         "MAGUMERI",
-        "NGUMBALA BAMMA",
+        "NGUMBALA BAMMA"
       ],
-      "MAIDUGURI M.C": [
+      "MAIDUGURI": [
         "BOLORI I",
         "BOLORI II",
         "BULABULIN",
@@ -2450,9 +2450,9 @@ export const areas: NigeriaState[] = [
         "MAFONI",
         "MAISANDARI",
         "SHEHURI NORTH",
-        "SHEHURI SOUTH",
+        "SHEHURI SOUTH"
       ],
-      MARTE: [
+      "MARTE": [
         "ALA",
         "ALA LAWANTI",
         "BORSORI",
@@ -2465,9 +2465,9 @@ export const areas: NigeriaState[] = [
         "MUSUNE",
         "NGELEWA",
         "NJINE",
-        "ZAGA",
+        "ZAGA"
       ],
-      MOBBAR: [
+      "MOBBAR": [
         "ASAGA",
         "BOGUM",
         "CHAMBA",
@@ -2477,9 +2477,9 @@ export const areas: NigeriaState[] = [
         "KARETO",
         "LAYI",
         "ZANNA UMORTI",
-        "ZARI",
+        "ZARI"
       ],
-      MONGUNO: [
+      "MONGUNO": [
         "DAMAKULI",
         "KAGURAM",
         "KUMALIA",
@@ -2491,9 +2491,9 @@ export const areas: NigeriaState[] = [
         "SURE",
         "WULO",
         "YELE",
-        "ZULUM",
+        "ZULUM"
       ],
-      NGALA: [
+      "NGALA": [
         "FUYE",
         "GAMBORU B",
         "GAMBORU C",
@@ -2505,10 +2505,12 @@ export const areas: NigeriaState[] = [
         "TUNKALIA",
         "WARSHELE",
         "WULGO",
-        "WURGE",
+        "WURGE"
       ],
-      NGANZI: ["GAJIRAM"],
-      SHANI: [
+      "NGANZAI": [
+        "GAJIRAM"
+      ],
+      "SHANI": [
         "BARGU/BURASHIKA",
         "BUMA",
         "GASI/SALIFAWA",
@@ -2519,14 +2521,14 @@ export const areas: NigeriaState[] = [
         "KUBO",
         "KWABA",
         "SHANI",
-        "WALAMA",
-      ],
-    },
+        "WALAMA"
+      ]
+    }
   },
   {
-    code: "CR",
-    name: "CROSS RIVER",
-    lgas: [
+    "code": "CR",
+    "name": "CROSS RIVER",
+    "lgas": [
       "ABI",
       "AKAMKPA",
       "AKPABUYO",
@@ -2534,9 +2536,8 @@ export const areas: NigeriaState[] = [
       "BEKWARRA",
       "BIASE",
       "BOKI",
-      "CALABAR MUNI",
+      "CALABAR MUNICIPAL",
       "CALABAR SOUTH",
-      "CHIBOK",
       "ETUNG",
       "IKOM",
       "OBANLIKU",
@@ -2545,10 +2546,10 @@ export const areas: NigeriaState[] = [
       "ODUKPANI",
       "OGOJA",
       "YAKURR",
-      "YALA",
+      "YALA"
     ],
-    subs: {
-      ABI: [
+    "subs": {
+      "ABI": [
         "ADADAMA",
         "AFAFANYI (IGONIGONI)",
         "EBOM",
@@ -2558,9 +2559,9 @@ export const areas: NigeriaState[] = [
         "IMABANA I",
         "IMABANA II",
         "ITIGIDI",
-        "USUMUTONG",
+        "USUMUTONG"
       ],
-      AKAMKPA: [
+      "AKAMKPA": [
         "AKAMKPA URBAN",
         "AWI",
         "EKU",
@@ -2570,9 +2571,9 @@ export const areas: NigeriaState[] = [
         "OBAN",
         "OJUK NORTH",
         "OJUK SOUTH",
-        "UYANGA",
+        "UYANGA"
       ],
-      AKPABUYO: [
+      "AKPABUYO": [
         "ATIMBO EAST",
         "ATIMBO WEST",
         "ENEYO",
@@ -2582,9 +2583,9 @@ export const areas: NigeriaState[] = [
         "IKANG SOUTH",
         "IKOT EDEM ODO",
         "IKOT EYO",
-        "IKOT NAKANDA",
+        "IKOT NAKANDA"
       ],
-      BAKASSI: [
+      "BAKASSI": [
         "ABANA",
         "AKPANKANYA",
         "AKWA",
@@ -2594,10 +2595,14 @@ export const areas: NigeriaState[] = [
         "ATAI EMA",
         "EFUT INWANG",
         "EKPOT ABIA",
-        "ODIONG",
+        "ODIONG"
       ],
-      BEKWARRA: ["ABUOCHICHE", "AFRIKE OCHAGBE", "AFRIKE OKPECHE"],
-      BIASE: [
+      "BEKWARRA": [
+        "ABUOCHICHE",
+        "AFRIKE OCHAGBE",
+        "AFRIKE OKPECHE"
+      ],
+      "BIASE": [
         "ABAYONG",
         "ADIM",
         "AGWAGUNE/OKURIKE",
@@ -2608,9 +2613,9 @@ export const areas: NigeriaState[] = [
         "ERIEI SOUTH",
         "IKUN/ETON",
         "UMON NORTH",
-        "UMON SOUTH",
+        "UMON SOUTH"
       ],
-      BOKI: [
+      "BOKI": [
         "ABO",
         "ALANKWU",
         "BEEBO/BUMAJI",
@@ -2621,9 +2626,9 @@ export const areas: NigeriaState[] = [
         "EKPASHI",
         "KAKWAGOM/BAWOP",
         "OGEP/OSOKOM",
-        "OKU/BORUM/NJUA",
+        "OKU/BORUM/NJUA"
       ],
-      "CALABAR MUNI": [
+      "CALABAR MUNICIPAL": [
         "WARD EIGHT",
         "WARD FIVE",
         "WARD FOUR",
@@ -2633,7 +2638,7 @@ export const areas: NigeriaState[] = [
         "WARD SIX",
         "WARD TEN",
         "WARD THREE",
-        "WARD TWO",
+        "WARD TWO"
       ],
       "CALABAR SOUTH": [
         "EIGHT",
@@ -2647,10 +2652,9 @@ export const areas: NigeriaState[] = [
         "TEN",
         "THREE",
         "TWELVE",
-        "TWO",
+        "TWO"
       ],
-      CHIBOK: ["GARU"],
-      ETUNG: [
+      "ETUNG": [
         "ABIA",
         "ABIJANG",
         "AGBOKIM",
@@ -2660,9 +2664,9 @@ export const areas: NigeriaState[] = [
         "ETOMI",
         "ITAKA",
         "MKPOT/ AYUK ABA",
-        "NSOFANG",
+        "NSOFANG"
       ],
-      IKOM: [
+      "IKOM": [
         "ABANYUM",
         "AKPARABONG",
         "IKOM URBAN 1",
@@ -2673,9 +2677,9 @@ export const areas: NigeriaState[] = [
         "OFUTOP 11",
         "OFUTOP1",
         "OLULUMO",
-        "YALA/ NKUM",
+        "YALA/ NKUM"
       ],
-      OBANLIKU: [
+      "OBANLIKU": [
         "BASANG",
         "BEBI",
         "BECHEVE",
@@ -2685,9 +2689,9 @@ export const areas: NigeriaState[] = [
         "BISHIRI SOUTH",
         "BISU",
         "BUSI",
-        "UTANGA",
+        "UTANGA"
       ],
-      OBUBRA: [
+      "OBUBRA": [
         "ABABENE",
         "APIAPUM",
         "IYAMOYONG",
@@ -2698,9 +2702,9 @@ export const areas: NigeriaState[] = [
         "OFUMBONGHA/YALA",
         "OSOPONG I",
         "OSOPONG II",
-        "OVONUM",
+        "OVONUM"
       ],
-      OBUDU: [
+      "OBUDU": [
         "ALAGE/ UBANG",
         "ANGIABA/BEGIAKA",
         "BEGIADING",
@@ -2709,9 +2713,9 @@ export const areas: NigeriaState[] = [
         "URBAN 1",
         "URBAN 2",
         "UTUGWANG CENTRAL",
-        "UTUGWANG NORTH",
+        "UTUGWANG NORTH"
       ],
-      ODUKPANI: [
+      "ODUKPANI": [
         "ADIABO/EFUT",
         "AKAMKPA",
         "CREEK TOWN I",
@@ -2724,9 +2728,9 @@ export const areas: NigeriaState[] = [
         "OBOMITIAT/MBIABO/EDIONG",
         "ODOT",
         "ODUKPANI CENTRAL",
-        "ONIMANKIONG",
+        "ONIMANKIONG"
       ],
-      OGOJA: [
+      "OGOJA": [
         "EKAJUK I",
         "EKAJUK II",
         "MBUBE EAST I",
@@ -2736,9 +2740,9 @@ export const areas: NigeriaState[] = [
         "NKUM IBORO",
         "NKUM IREDE",
         "OGOJA URBAN I",
-        "OGOJA URBAN II",
+        "OGOJA URBAN II"
       ],
-      YAKURR: [
+      "YAKURR": [
         "ABANAKPI",
         "AFREKPE/EPENTI",
         "AJERE",
@@ -2751,9 +2755,9 @@ export const areas: NigeriaState[] = [
         "INYIMA",
         "MKPANI/AGOI",
         "NKPOLO/UKPAWEN",
-        "NTAN",
+        "NTAN"
       ],
-      YALA: [
+      "YALA": [
         "ECHUMOFANA",
         "GABU",
         "IJIRAGA",
@@ -2764,14 +2768,14 @@ export const areas: NigeriaState[] = [
         "WANIHEM",
         "WANIKADE",
         "YACHE",
-        "YAHE",
-      ],
-    },
+        "YAHE"
+      ]
+    }
   },
   {
-    code: "DE",
-    name: "DELTA",
-    lgas: [
+    "code": "DE",
+    "name": "DELTA",
+    "lgas": [
       "ANIOCHA NORTH",
       "ANIOCHA SOUTH",
       "BOMADI",
@@ -2784,7 +2788,6 @@ export const areas: NigeriaState[] = [
       "ISOKO SOUTH",
       "NDOKWA EAST",
       "NDOKWA WEST",
-      "OBUDU",
       "OKPE",
       "OSHIMILI NORTH",
       "OSHIMILI SOUTH",
@@ -2797,9 +2800,9 @@ export const areas: NigeriaState[] = [
       "UVWIE",
       "WARRI NORTH",
       "WARRI SOUTH",
-      "WARRI SOUTH WEST",
+      "WARRI SOUTH WEST"
     ],
-    subs: {
+    "subs": {
       "ANIOCHA NORTH": [
         "EZI",
         "IDUMUJE UNR",
@@ -2809,7 +2812,7 @@ export const areas: NigeriaState[] = [
         "OBOMKPA",
         "ONICHA OLONA",
         "ONICHA UGBO",
-        "UKWU-NZU",
+        "UKWU-NZU"
       ],
       "ANIOCHA SOUTH": [
         "ABA UNR",
@@ -2822,9 +2825,9 @@ export const areas: NigeriaState[] = [
         "UBULU OKITI",
         "UBULU UKU I",
         "UBULU UKU II",
-        "UBULU UNR",
+        "UBULU UNR"
       ],
-      BOMADI: [
+      "BOMADI": [
         "AKUGBENE  I",
         "AKUGBENE  II",
         "AKUGBENE  III",
@@ -2834,9 +2837,9 @@ export const areas: NigeriaState[] = [
         "KPAKIAMA",
         "OGBEINAMA/OKOLOBA",
         "OGO-EZE",
-        "OGRIAGBENE",
+        "OGRIAGBENE"
       ],
-      BURUTU: [
+      "BURUTU": [
         "BOLOU-NDORO",
         "NGBILEBIRI I",
         "NGBILEBIRI II",
@@ -2847,7 +2850,7 @@ export const areas: NigeriaState[] = [
         "SEIMBIRI",
         "TAMIGBE",
         "TORUGBENE",
-        "TUOMO",
+        "TUOMO"
       ],
       "ETHIOPE EAST": [
         "ABRAKA I",
@@ -2860,7 +2863,7 @@ export const areas: NigeriaState[] = [
         "AGBON V",
         "AGBON VI",
         "AGBON VII",
-        "AGBON VIII",
+        "AGBON VIII"
       ],
       "ETHIOPE WEST": [
         "JESSE I",
@@ -2873,7 +2876,7 @@ export const areas: NigeriaState[] = [
         "OGHARA II",
         "OGHARA III",
         "OGHARA IV",
-        "OGHARA V",
+        "OGHARA V"
       ],
       "IKA NORTH EAST": [
         "AKUMAZI",
@@ -2889,7 +2892,7 @@ export const areas: NigeriaState[] = [
         "OWA VI",
         "UMUNEDE",
         "UTE-OGBEJE",
-        "UTE-OKPU",
+        "UTE-OKPU"
       ],
       "IKA SOUTH": [
         "ABAVO I",
@@ -2903,7 +2906,7 @@ export const areas: NigeriaState[] = [
         "EKUKU-AGBOR",
         "IHUIYASE I",
         "IHUIYASE II",
-        "IHUZOMOR/ OZANGOGO",
+        "IHUZOMOR/ OZANGOGO"
       ],
       "ISOKO NORTH": [
         "ELLU/OVRODE/OVRODE",
@@ -2918,7 +2921,7 @@ export const areas: NigeriaState[] = [
         "OYEDE",
         "OZORO I",
         "OZORO II",
-        "OZORO III",
+        "OZORO III"
       ],
       "ISOKO SOUTH": [
         "AVIARA",
@@ -2931,7 +2934,7 @@ export const areas: NigeriaState[] = [
         "OLEH I",
         "OLEH II",
         "OLOMORO",
-        "UZERE",
+        "UZERE"
       ],
       "NDOKWA EAST": [
         "ABARRA/INYI/ONUABOH",
@@ -2943,7 +2946,7 @@ export const areas: NigeriaState[] = [
         "IBREDE/IGBUKU/ONGBOKOR",
         "OKPAI/UTCHI/BENEKU",
         "ONYAI/ADIAI/UMUOLU/ UTUOKWU",
-        "OSSISSA",
+        "OSSISSA"
       ],
       "NDOKWA WEST": [
         "ABBI I",
@@ -2955,10 +2958,9 @@ export const areas: NigeriaState[] = [
         "UTAGBA OGBE",
         "UTAGBA UN I",
         "UTAGBA UN II",
-        "UTAGBA UN III",
+        "UTAGBA UN III"
       ],
-      OBUDU: ["UTUGWANG SOUTH"],
-      OKPE: [
+      "OKPE": [
         "AGHALOKPE",
         "ARHAGBA",
         "MEREJE I",
@@ -2968,7 +2970,7 @@ export const areas: NigeriaState[] = [
         "OHA II",
         "OREROKPE",
         "OVIRI OKPE",
-        "UGHOTON",
+        "UGHOTON"
       ],
       "OSHIMILI NORTH": [
         "AKWUKWU IGBO",
@@ -2980,7 +2982,7 @@ export const areas: NigeriaState[] = [
         "IBUSA V",
         "ILLAH",
         "OKPANAM",
-        "UKALA",
+        "UKALA"
       ],
       "OSHIMILI SOUTH": [
         "AGU",
@@ -2993,9 +2995,9 @@ export const areas: NigeriaState[] = [
         "UMUAJI",
         "UMUEZEI",
         "UMUONAJE",
-        "WEST - END",
+        "WEST - END"
       ],
-      PATANI: [
+      "PATANI": [
         "ABARI",
         "AGOLOMA",
         "BOLOU – ANGIAMA",
@@ -3005,9 +3007,9 @@ export const areas: NigeriaState[] = [
         "PATNI II",
         "TAWARE/KOLOWARE/AVEN",
         "TORU ANGIAMA",
-        "UDUOPHORI",
+        "UDUOPHORI"
       ],
-      SAPELE: [
+      "SAPELE": [
         "AMUOKPE",
         "ELUME",
         "OKOKPORO/UGBORHEN",
@@ -3018,9 +3020,9 @@ export const areas: NigeriaState[] = [
         "SAPELE URBAN V",
         "SAPELE URBAN VI",
         "SAPELE URBAN VII",
-        "SAPELE URBAN VIII",
+        "SAPELE URBAN VIII"
       ],
-      UDU: [
+      "UDU": [
         "ALADJA",
         "EKETE",
         "EMADAJA",
@@ -3030,7 +3032,7 @@ export const areas: NigeriaState[] = [
         "OVWIAN I",
         "OVWIAN II",
         "OWHODE",
-        "UDU II",
+        "UDU II"
       ],
       "UGHELLI NORTH": [
         "AGBARHA",
@@ -3043,7 +3045,7 @@ export const areas: NigeriaState[] = [
         "UGHELLI I",
         "UGHELLI II",
         "UGHELLI III",
-        "UWHERU",
+        "UWHERU"
       ],
       "UGHELLI SOUTH": [
         "EFFURUN-OTOR",
@@ -3056,9 +3058,9 @@ export const areas: NigeriaState[] = [
         "JEREMI III",
         "JEREMI IV",
         "OLOMU I",
-        "OLOMU II",
+        "OLOMU II"
       ],
-      UKWUANI: [
+      "UKWUANI": [
         "AKOKU",
         "AMAI",
         "EBEDEI",
@@ -3068,9 +3070,9 @@ export const areas: NigeriaState[] = [
         "OBIARUKU II",
         "UMUEBU",
         "UMUKWATA",
-        "UMUTU",
+        "UMUTU"
       ],
-      UVWIE: [
+      "UVWIE": [
         "ARMY BARRACKS AREA",
         "EFFURUN I",
         "EFFURUN II",
@@ -3080,7 +3082,7 @@ export const areas: NigeriaState[] = [
         "ENERHEN II",
         "UGBOMRO/UGBOLOKPOSO",
         "UGBORIKOKO",
-        "UGBOROKE",
+        "UGBOROKE"
       ],
       "WARRI NORTH": [
         "EBROHIMI",
@@ -3092,7 +3094,7 @@ export const areas: NigeriaState[] = [
         "OGBUDUGBUDU",
         "OGHEYE",
         "OPUAMA",
-        "TSEKELEWU (EGBEMA)",
+        "TSEKELEWU (EGBEMA)"
       ],
       "WARRI SOUTH": [
         "BOWEN",
@@ -3106,7 +3108,7 @@ export const areas: NigeriaState[] = [
         "OKUMAGBA I",
         "OKUMAGBA II",
         "PESSU",
-        "UGBUWANGUE/ EKUREDE ITSEKIRI",
+        "UGBUWANGUE/ EKUREDE ITSEKIRI"
       ],
       "WARRI SOUTH WEST": [
         "WARD  5 UGBORORDO",
@@ -3118,14 +3120,14 @@ export const areas: NigeriaState[] = [
         "WARD 6 AKPIKPA",
         "WARD 7 MADANGHO",
         "WARD 8 ORERE",
-        "WARD 9 AJUDAIBO",
-      ],
-    },
+        "WARD 9 AJUDAIBO"
+      ]
+    }
   },
   {
-    code: "EB",
-    name: "EBONYI",
-    lgas: [
+    "code": "EB",
+    "name": "EBONYI",
+    "lgas": [
       "ABAKALIKI",
       "AFIKPO NORTH",
       "AFIKPO SOUTH",
@@ -3138,10 +3140,10 @@ export const areas: NigeriaState[] = [
       "IZZI",
       "OHAOZARA",
       "OHAUKWU",
-      "ONICHA",
+      "ONICHA"
     ],
-    subs: {
-      ABAKALIKI: [
+    "subs": {
+      "ABAKALIKI": [
         "ABAKPA",
         "AMACHI NDEBOR",
         "AMACHI NDEGU",
@@ -3155,7 +3157,7 @@ export const areas: NigeriaState[] = [
         "NDIAGU",
         "OKPUITUMO NDIEBOER",
         "OKPUITUMO NDIEGU",
-        "TIMBER SHED",
+        "TIMBER SHED"
       ],
       "AFIKPO NORTH": [
         "AMATA AKPOHA",
@@ -3169,7 +3171,7 @@ export const areas: NigeriaState[] = [
         "POPERI AMASIRI",
         "UGWUEGU",
         "UNWANA 'A'",
-        "UNWANA 'B'",
+        "UNWANA 'B'"
       ],
       "AFIKPO SOUTH": [
         "AMAEKE EKOLI",
@@ -3182,9 +3184,9 @@ export const areas: NigeriaState[] = [
         "NGUZU",
         "OGBU",
         "OSO",
-        "OWUTU",
+        "OWUTU"
       ],
-      EBONYI: [
+      "EBONYI": [
         "ABAKPA",
         "ABOFIA",
         "AGALEGU",
@@ -3197,7 +3199,7 @@ export const areas: NigeriaState[] = [
         "NDIAGU",
         "NDIEBOR",
         "ONUEBONYI",
-        "URBAN NEW LAYOUT",
+        "URBAN NEW LAYOUT"
       ],
       "EZZA NORTH": [
         "AMUDA/AMAWULA",
@@ -3210,7 +3212,7 @@ export const areas: NigeriaState[] = [
         "OMEGE UMUEZEOKOHA",
         "ORIUZOR",
         "OSHIEGBE UMUEZEOKOHA",
-        "UMUEZEOKA",
+        "UMUEZEOKA"
       ],
       "EZZA SOUTH": [
         "AMAEZEKWE",
@@ -3223,9 +3225,9 @@ export const areas: NigeriaState[] = [
         "EZZAMA",
         "IKWUATOR/IDEMBIA",
         "ONUEKE URBAN",
-        "UMUNWAGU/IDEMBIA",
+        "UMUNWAGU/IDEMBIA"
       ],
-      IKWO: [
+      "IKWO": [
         "AKPANWUDELE",
         "AMAINYIMA",
         "ECHIALIKE",
@@ -3245,9 +3247,9 @@ export const areas: NigeriaState[] = [
         "NDUFU AMAGU I",
         "NDUFU AMAGU II",
         "NDUFU ECHARA",
-        "NOYO",
+        "NOYO"
       ],
-      ISHIELU: [
+      "ISHIELU": [
         "AGBA",
         "AMAEZU",
         "AZUINYIBA \"A'",
@@ -3263,9 +3265,9 @@ export const areas: NigeriaState[] = [
         "OBEAGU",
         "OHOFIA",
         "OKPOTO",
-        "UMUHUALI",
+        "UMUHUALI"
       ],
-      IVO: [
+      "IVO": [
         "AKAECE UKWU",
         "AMAEZE",
         "AMAGU",
@@ -3276,9 +3278,9 @@ export const areas: NigeriaState[] = [
         "NGWONGWO",
         "OBINAGU",
         "OKUE",
-        "UMUBO",
+        "UMUBO"
       ],
-      IZZI: [
+      "IZZI": [
         "AGBAJA ANYANWUIGWE",
         "AGBAJA MGBO",
         "AGBAJA OFFIA ONWE",
@@ -3292,9 +3294,9 @@ export const areas: NigeriaState[] = [
         "MGBALAUKWU INYIMAGU I",
         "MGBALAUKWU INYIMAGU II",
         "NDIEZE INYIMAGU MGBABELUZOR",
-        "NDIEZE INYIMAGU II NDIABOR ISHIAGU",
+        "NDIEZE INYIMAGU II NDIABOR ISHIAGU"
       ],
-      OHAOZARA: [
+      "OHAOZARA": [
         "AMAECHI OKPOSI",
         "ENE-NA-EZERAKU",
         "MGBOM OKPOSI",
@@ -3305,9 +3307,9 @@ export const areas: NigeriaState[] = [
         "UHUOTARU",
         "UMUCHIMA",
         "UMUNAGA",
-        "UMUOBUNA",
+        "UMUOBUNA"
       ],
-      OHAUKWU: [
+      "OHAUKWU": [
         "EFFIUM I",
         "EFFIUM II",
         "EZZANGBO",
@@ -3322,9 +3324,9 @@ export const areas: NigeriaState[] = [
         "UMUOGUDU OSHIA",
         "WIGBEKE I",
         "WIGBEKE II",
-        "WIGBEKE III",
+        "WIGBEKE III"
       ],
-      ONICHA: [
+      "ONICHA": [
         "ABAOMEGE",
         "AGBABOR ISU",
         "AMANATOR ISU",
@@ -3336,14 +3338,14 @@ export const areas: NigeriaState[] = [
         "OGUDU OKWOR OSHIRI",
         "OKUZU UKAWU",
         "UGWU OSHIRI",
-        "UMUDOMI ONICHA",
-      ],
-    },
+        "UMUDOMI ONICHA"
+      ]
+    }
   },
   {
-    code: "ED",
-    name: "EDO",
-    lgas: [
+    "code": "ED",
+    "name": "EDO",
+    "lgas": [
       "AKOKO EDO",
       "EGOR",
       "ESAN CENTRAL",
@@ -3361,9 +3363,9 @@ export const areas: NigeriaState[] = [
       "OVIA SOUTH WEST",
       "OWAN EAST",
       "OWAN WEST",
-      "UHUNMWONDE",
+      "UHUNMWONDE"
     ],
-    subs: {
+    "subs": {
       "AKOKO EDO": [
         "ENWAN/ATTE/IKPESHI/ EGBIGELE",
         "IBILLO/EKPESA/IKIRANILE/ IKIRAN OKE",
@@ -3374,9 +3376,9 @@ export const areas: NigeriaState[] = [
         "OLOMA/OKPE/IJAJA/ IKAKUMO/ANYANRA",
         "OSOSO",
         "SOMORIKA/OGBA/SASARO/ ONUMU",
-        "UNEME NEKHUA/AKPAMA/ AIYETORO/EKPEDO/UNEME OSU",
+        "UNEME NEKHUA/AKPAMA/ AIYETORO/EKPEDO/UNEME OSU"
       ],
-      EGOR: [
+      "EGOR": [
         "EGOR",
         "EVBAREKE",
         "OGIDA/USE",
@@ -3386,7 +3388,7 @@ export const areas: NigeriaState[] = [
         "UGBOWO",
         "USELU I",
         "USELU II",
-        "UWELU",
+        "UWELU"
       ],
       "ESAN CENTRAL": [
         "EWU I",
@@ -3398,7 +3400,7 @@ export const areas: NigeriaState[] = [
         "UGBEGUN",
         "UNEAH",
         "UWESSAN I",
-        "UWESSAN II",
+        "UWESSAN II"
       ],
       "ESAN NORTH EAST": [
         "AMEDOKHAIN",
@@ -3411,7 +3413,7 @@ export const areas: NigeriaState[] = [
         "UBIERUMU",
         "UELEN OKUGBE",
         "UWALOR",
-        "UZEA",
+        "UZEA"
       ],
       "ESAN SOUTH EAST": [
         "EMU",
@@ -3423,7 +3425,7 @@ export const areas: NigeriaState[] = [
         "OHORDUA",
         "UBIAJA I",
         "UBIAJA II",
-        "UGBOHA",
+        "UGBOHA"
       ],
       "ESAN WEST": [
         "EGORO/IDOA/UKHUN",
@@ -3435,7 +3437,7 @@ export const areas: NigeriaState[] = [
         "OGWA",
         "UHIELE",
         "UJIOGBA",
-        "UROHI",
+        "UROHI"
       ],
       "ETSAKO CENTRAL": [
         "EKPERI I",
@@ -3447,7 +3449,7 @@ export const areas: NigeriaState[] = [
         "IRAOKHOR",
         "OGBONA",
         "SOUTH UNEME I",
-        "SOUTH UNEME II",
+        "SOUTH UNEME II"
       ],
       "ETSAKO EAST": [
         "AGENEBODE",
@@ -3459,7 +3461,7 @@ export const areas: NigeriaState[] = [
         "THREE IBIES",
         "WANNO I",
         "WANNO II",
-        "WEPPA",
+        "WEPPA"
       ],
       "ETSAKO WEST": [
         "ANWAIN",
@@ -3473,9 +3475,9 @@ export const areas: NigeriaState[] = [
         "UZAIRUE NORTH EAST",
         "UZAIRUE NORTH WEST",
         "UZAIRUE SOUTH EAST",
-        "UZAIRUE SOUTH WEST",
+        "UZAIRUE SOUTH WEST"
       ],
-      IGUEBEN: [
+      "IGUEBEN": [
         "AFUDA/IDUMUOKA",
         "AMAHOR/UGUN",
         "EKEKHEN/IDUMOGO/EGBIKI",
@@ -3485,7 +3487,7 @@ export const areas: NigeriaState[] = [
         "OKALO/OKPUJIE",
         "OWU/OKUTA/EGUARE EBELLE",
         "UDO",
-        "UHE/IDUMUOGBO/IDUMEKE",
+        "UHE/IDUMUOGBO/IDUMEKE"
       ],
       "IKPOBA OKHA": [
         "ADUWAWA / EVBOMODU",
@@ -3497,9 +3499,9 @@ export const areas: NigeriaState[] = [
         "OLOGBO",
         "OREGBENI",
         "ST. SAVIOUR",
-        "UGBEKUN",
+        "UGBEKUN"
       ],
-      OREDO: [
+      "OREDO": [
         "G.R.A/ETETE",
         "IBIWE/IWEGIE/UGBAGUE",
         "IKPEMA/EGUADASE",
@@ -3511,9 +3513,9 @@ export const areas: NigeriaState[] = [
         "UNUERU/OGBOKA",
         "URU/IWEHEN/IHOGBE/ICE RD",
         "URUBI/EVBIEMWEN/IWEHEN",
-        "UZEBU",
+        "UZEBU"
       ],
-      ORHIONMWON: [
+      "ORHIONMWON": [
         "AIBIOKULA I",
         "AIBIOKULA II",
         "EVBOESI",
@@ -3525,7 +3527,7 @@ export const areas: NigeriaState[] = [
         "UGU",
         "UKPATO",
         "URHONIGBE NORHT",
-        "URHONIGBE SOUTH",
+        "URHONIGBE SOUTH"
       ],
       "OVIA NORTH EAST": [
         "ADOLOR",
@@ -3540,7 +3542,7 @@ export const areas: NigeriaState[] = [
         "OLUKU",
         "UHEN",
         "UHIERE",
-        "UTOKA",
+        "UTOKA"
       ],
       "OVIA SOUTH WEST": [
         "IGUOBAZUWA EAST",
@@ -3552,7 +3554,7 @@ export const areas: NigeriaState[] = [
         "UDO",
         "UGBOGUI",
         "UMAZA",
-        "USEN",
+        "USEN"
       ],
       "OWAN EAST": [
         "EMAI I",
@@ -3565,7 +3567,7 @@ export const areas: NigeriaState[] = [
         "OTUO I",
         "OTUO II",
         "UOKHA/AKE",
-        "WARRAKE",
+        "WARRAKE"
       ],
       "OWAN WEST": [
         "AVBIOSI",
@@ -3578,9 +3580,9 @@ export const areas: NigeriaState[] = [
         "UHUNMORA",
         "UHUNSE-OSI",
         "UZEBBA I",
-        "UZEBBA II",
+        "UZEBBA II"
       ],
-      UHUNMWONDE: [
+      "UHUNMWONDE": [
         "EGBEDE",
         "EHOR",
         "IGIEDUMA",
@@ -3590,14 +3592,14 @@ export const areas: NigeriaState[] = [
         "OHUAN",
         "UHI",
         "UMAGBAE SOUTH",
-        "UMAGEA NORTH",
-      ],
-    },
+        "UMAGEA NORTH"
+      ]
+    }
   },
   {
-    code: "EK",
-    name: "EKITI",
-    lgas: [
+    "code": "EK",
+    "name": "EKITI",
+    "lgas": [
       "ADO",
       "EFON",
       "EKITI EAST",
@@ -3613,10 +3615,10 @@ export const areas: NigeriaState[] = [
       "IREPODUN IFELODUN",
       "ISE/ORUN",
       "MOBA",
-      "OYE",
+      "OYE"
     ],
-    subs: {
-      ADO: [
+    "subs": {
+      "ADO": [
         "ADO ‘A’ IDOFIN",
         "ADO ‘B’ INISA",
         "ADO ‘C’ IDOLOFIN",
@@ -3629,9 +3631,9 @@ export const areas: NigeriaState[] = [
         "ADO ‘J’ OKESA",
         "ADO ‘K’ IRONA",
         "ADO ‘L’ IGBEHIN",
-        "ADO ‘M’ FARM SELTLEMENT",
+        "ADO ‘M’ FARM SELTLEMENT"
       ],
-      EFON: [
+      "EFON": [
         "EFON I",
         "EFON II",
         "EFON III",
@@ -3641,7 +3643,7 @@ export const areas: NigeriaState[] = [
         "EFON VI",
         "EFON VII",
         "EFON VIII",
-        "EFON X",
+        "EFON X"
       ],
       "EKITI EAST": [
         "ARAROMI OMUO",
@@ -3655,7 +3657,7 @@ export const areas: NigeriaState[] = [
         "OBADORE III",
         "OBADORE IV",
         "OMUO- OKE I",
-        "OMUO-OKE II",
+        "OMUO-OKE II"
       ],
       "EKITI SOUTH WEST": [
         "IGBARA ODO I",
@@ -3668,7 +3670,7 @@ export const areas: NigeriaState[] = [
         "ILAWE VI",
         "ILAWE VII",
         "OGOGTUN II",
-        "OGOTUN I",
+        "OGOTUN I"
       ],
       "EKITI WEST": [
         "ARAMOKO I",
@@ -3681,9 +3683,9 @@ export const areas: NigeriaState[] = [
         "IPOLE ILORO",
         "OKEMESI 1",
         "OKEMESI ll",
-        "OKEMESI lll",
+        "OKEMESI lll"
       ],
-      EMURE: [
+      "EMURE": [
         "IDAMUDU I",
         "IDAMUDU II",
         "ODO EMURE I",
@@ -3693,9 +3695,9 @@ export const areas: NigeriaState[] = [
         "OGBONTIORO I",
         "OGBONTIORO II",
         "OKE EMURE I",
-        "OKE EMURE II",
+        "OKE EMURE II"
       ],
-      GBONYIN: [
+      "GBONYIN": [
         "AGBADO",
         "AISEGBA I",
         "AISEGBA II",
@@ -3705,7 +3707,7 @@ export const areas: NigeriaState[] = [
         "IMESI",
         "ODE I",
         "ODE II",
-        "ODE III",
+        "ODE III"
       ],
       "IDO OSI": [
         "AYETORO I",
@@ -3718,9 +3720,9 @@ export const areas: NigeriaState[] = [
         "ILOGBO",
         "ORIN/ORA",
         "OSI",
-        "USI",
+        "USI"
       ],
-      IJERO: [
+      "IJERO": [
         "EKAMARUN",
         "EKAMETA",
         "IJERO A",
@@ -3732,9 +3734,9 @@ export const areas: NigeriaState[] = [
         "ILORO/IJURIN",
         "IPOTI",
         "IPOTI B",
-        "ODO-OWA",
+        "ODO-OWA"
       ],
-      IKERE: [
+      "IKERE": [
         "AFAO/KAJOLA",
         "AGBADO/OYO",
         "ARE ARAROMI",
@@ -3745,9 +3747,9 @@ export const areas: NigeriaState[] = [
         "OGBONJANA",
         "OKE-OSUN",
         "OKERUKU",
-        "UGELE/AROKU",
+        "UGELE/AROKU"
       ],
-      IKOLE: [
+      "IKOLE": [
         "ARAROMI/ BOLUWADURO",
         "IJESA ISU",
         "IKOLE EAST",
@@ -3759,9 +3761,9 @@ export const areas: NigeriaState[] = [
         "ITAPAJI/ IYEMERO",
         "ODO AYEDUN",
         "ODO AYEDUN/ AYEBODE",
-        "OKE AYEDUN",
+        "OKE AYEDUN"
       ],
-      ILEJEMEJE: [
+      "ILEJEMEJE": [
         "EDA ONIYO",
         "EWU",
         "IJESAMODU",
@@ -3771,7 +3773,7 @@ export const areas: NigeriaState[] = [
         "IYE I",
         "IYE II",
         "IYE III",
-        "OBADA",
+        "OBADA"
       ],
       "IREPODUN IFELODUN": [
         "AFAO",
@@ -3784,7 +3786,7 @@ export const areas: NigeriaState[] = [
         "IROPORA/ESURE/EYIO",
         "IWOROKO",
         "IYIN I",
-        "IYIN II",
+        "IYIN II"
       ],
       "ISE/ORUN": [
         "ERINWA I",
@@ -3796,9 +3798,9 @@ export const areas: NigeriaState[] = [
         "ORAYE II",
         "ORAYE III",
         "ORUN I",
-        "ORUN II",
+        "ORUN II"
       ],
-      MOBA: [
+      "MOBA": [
         "ERINMOPE I",
         "ERINMOPE II",
         "IGOGO I",
@@ -3809,9 +3811,9 @@ export const areas: NigeriaState[] = [
         "OSUN",
         "OTUN I",
         "OTUN II",
-        "OTUN III",
+        "OTUN III"
       ],
-      OYE: [
+      "OYE": [
         "AYEDE NORTH",
         "AYEDE SOUTH",
         "AYEGBAJU",
@@ -3823,34 +3825,34 @@ export const areas: NigeriaState[] = [
         "ITAPA/OSIN",
         "OMU/IJELU",
         "OYE I",
-        "OYE II",
-      ],
-    },
+        "OYE II"
+      ]
+    }
   },
   {
-    code: "EN",
-    name: "ENUGU",
-    lgas: [
+    "code": "EN",
+    "name": "ENUGU",
+    "lgas": [
       "ANINRI",
       "AWGU",
       "ENUGU EAST",
       "ENUGU NORTH",
       "ENUGU SOUTH",
       "EZEAGU",
-      "IGBO EKITI",
+      "IGBO ETITI",
       "IGBO EZE NORTH",
       "IGBO EZE SOUTH",
       "ISI UZO",
-      "NKANU",
+      "NKANU EAST",
       "NKANU WEST",
       "NSUKKA",
       "OJI RIVER",
       "UDENU",
       "UDI",
-      "UZO UWANI",
+      "UZO UWANI"
     ],
-    subs: {
-      ANINRI: [
+    "subs": {
+      "ANINRI": [
         "MPU",
         "NDEABOH",
         "NENWE I",
@@ -3860,9 +3862,9 @@ export const areas: NigeriaState[] = [
         "ODUMA II",
         "ODUMA III",
         "ODUMA IV",
-        "OKPANKU",
+        "OKPANKU"
       ],
-      AWGU: [
+      "AWGU": [
         "AGBOGUGU",
         "AMOLI/OGUGU/UGBO/OWELLI",
         "ANIKENAN",
@@ -3873,7 +3875,7 @@ export const areas: NigeriaState[] = [
         "MGBIDI/MAKU",
         "MGBOWO",
         "OBEAGU",
-        "OGBAKU",
+        "OGBAKU"
       ],
       "ENUGU EAST": [
         "ABAKPA I",
@@ -3887,7 +3889,7 @@ export const areas: NigeriaState[] = [
         "TRANS EKULU",
         "UGWOGO NIKE",
         "UMUCHIGBO",
-        "UMUENWENE",
+        "UMUENWENE"
       ],
       "ENUGU NORTH": [
         "ASATA TOWNSHIP",
@@ -3902,7 +3904,7 @@ export const areas: NigeriaState[] = [
         "OGUI TOWNSHIP",
         "ONU-ASATA",
         "UDI SIDING/ IVA VALLEY",
-        "UMUNEVO",
+        "UMUNEVO"
       ],
       "ENUGU SOUTH": [
         "ACHARA LAYOUT EAST",
@@ -3917,9 +3919,9 @@ export const areas: NigeriaState[] = [
         "OBEAGU II",
         "UGWUAJI",
         "UWANI EAST",
-        "UWANI WEST",
+        "UWANI WEST"
       ],
-      EZEAGU: [
+      "EZEAGU": [
         "AGBA UMANA",
         "AGUOBU (UMUMBA)",
         "AGUOBU OWA I",
@@ -3939,9 +3941,9 @@ export const areas: NigeriaState[] = [
         "OLO/AMAGU/UMULOKPA I",
         "OLO/AMAGU/UMULOKPA II",
         "UMANA NDIAGU",
-        "UMUMBA NDIUN",
+        "UMUMBA NDIUN"
       ],
-      "IGBO EKITI": [
+      "IGBO ETITI": [
         "AKU I",
         "AKU II",
         "AKU III",
@@ -3961,7 +3963,7 @@ export const areas: NigeriaState[] = [
         "UKEHE II",
         "UKEHE III",
         "UKEHE IV",
-        "UKEHE V",
+        "UKEHE V"
       ],
       "IGBO EZE NORTH": [
         "ESSODO I",
@@ -3983,7 +3985,7 @@ export const areas: NigeriaState[] = [
         "UMUOZZI VIII",
         "UMUOZZI X",
         "UMUTIODO II",
-        "UMUUITODO III",
+        "UMUUITODO III"
       ],
       "IGBO EZE SOUTH": [
         "ALOR-AGU",
@@ -4001,7 +4003,7 @@ export const areas: NigeriaState[] = [
         "OVOKO UMULOLO",
         "UHUNWERRE",
         "UMELO OVOKO AGU",
-        "UNADU",
+        "UNADU"
       ],
       "ISI UZO": [
         "EHA AMUFU I",
@@ -4014,9 +4016,9 @@ export const areas: NigeriaState[] = [
         "NEKE II",
         "NKEM I",
         "NKEM II",
-        "UMUALOR",
+        "UMUALOR"
       ],
-      NKANU: [
+      "NKANU EAST": [
         "AKPAWFU/ISI-ENU/AMAGNZE",
         "AMANKANU/OGBAHU",
         "AMECHI/IDODO/ORUKUI",
@@ -4030,7 +4032,7 @@ export const areas: NigeriaState[] = [
         "OHUANI/ONICHAAGU/ AMAUNZE",
         "OWO",
         "UGBAWKA I",
-        "UGBAWKA II",
+        "UGBAWKA II"
       ],
       "NKANU WEST": [
         "AGBANI",
@@ -4046,9 +4048,9 @@ export const areas: NigeriaState[] = [
         "OBE",
         "OBUOFFIA",
         "OZALLA",
-        "UMUEZE",
+        "UMUEZE"
       ],
-      NSUKKA: [
+      "NSUKKA": [
         "AGBAME/UMABOR",
         "AKAIBUTE",
         "AKPA/OZZI",
@@ -4068,7 +4070,7 @@ export const areas: NigeriaState[] = [
         "OBIMO/IKWOKA",
         "OBUKPA",
         "OKPUJE/OKUTU/ANUK",
-        "OWERE/UMUOYO",
+        "OWERE/UMUOYO"
       ],
       "OJI RIVER": [
         "ACHIAGU I",
@@ -4090,9 +4092,9 @@ export const areas: NigeriaState[] = [
         "OJI-RIVER IV",
         "UGWUOBA I",
         "UGWUOBA II",
-        "UGWUOBA III",
+        "UGWUOBA III"
       ],
-      UDENU: [
+      "UDENU": [
         "AMALA",
         "EZIMO",
         "IMILIKE",
@@ -4102,9 +4104,9 @@ export const areas: NigeriaState[] = [
         "OGBODU-ABA",
         "ORBA I",
         "ORBA II",
-        "UMUNEDEM",
+        "UMUNEDEM"
       ],
-      UDI: [
+      "UDI": [
         "ABIA",
         "ABOR",
         "AFFA/PGHU/IKON",
@@ -4124,7 +4126,7 @@ export const areas: NigeriaState[] = [
         "UDI/AGBUDU",
         "UMUABI",
         "UMUAGA",
-        "UMULUMGBE",
+        "UMULUMGBE"
       ],
       "UZO UWANI": [
         "ABBI",
@@ -4142,22 +4144,22 @@ export const areas: NigeriaState[] = [
         "UGBENE II",
         "UKPATA",
         "UMULOKPA",
-        "UVURU",
-      ],
-    },
+        "UVURU"
+      ]
+    }
   },
   {
-    code: "FC",
-    name: "FCT",
-    lgas: [
+    "code": "FC",
+    "name": "FCT",
+    "lgas": [
       "ABUJA MUNICIPAL AREA COUNCIL (AMAC)",
       "ABAJI AREA COUNCIL",
       "BWARI AREA COUNCIL",
       "GWAGWALADA AREA COUNCIL",
       "KUJE AREA COUNCIL",
-      "KWALI AREA COUNCIL",
+      "KWALI AREA COUNCIL"
     ],
-    subs: {
+    "subs": {
       "ABUJA MUNICIPAL AREA COUNCIL (AMAC)": [
         "City Centre",
         "Garki",
@@ -4171,7 +4173,7 @@ export const areas: NigeriaState[] = [
         "Nyanya",
         "Orozo",
         "WARD",
-        "Wuse",
+        "Wuse"
       ],
       "ABAJI AREA COUNCIL": [
         "Abaji Central",
@@ -4183,7 +4185,7 @@ export const areas: NigeriaState[] = [
         "Gurdi",
         "Nuku",
         "Rimba Ebagi",
-        "Yaba",
+        "Yaba"
       ],
       "BWARI AREA COUNCIL": [
         "Bwari Central",
@@ -4195,7 +4197,7 @@ export const areas: NigeriaState[] = [
         "Kuduru",
         "Shere",
         "Ushafa",
-        "Usuma",
+        "Usuma"
       ],
       "GWAGWALADA AREA COUNCIL": [
         "Dobi Ward",
@@ -4208,7 +4210,7 @@ export const areas: NigeriaState[] = [
         "Staff Quarters Ward",
         "Tungan Maje Ward",
         "WARD",
-        "Zuba Ward",
+        "Zuba Ward"
       ],
       "KUJE AREA COUNCIL": [
         "Chibiri",
@@ -4221,7 +4223,7 @@ export const areas: NigeriaState[] = [
         "Kwaku",
         "Rubochi",
         "WARD",
-        "Yenche",
+        "Yenche"
       ],
       "KWALI AREA COUNCIL": [
         "Ashara",
@@ -4234,14 +4236,14 @@ export const areas: NigeriaState[] = [
         "Wako",
         "WARD",
         "Yangoji",
-        "Yebu",
-      ],
-    },
+        "Yebu"
+      ]
+    }
   },
   {
-    code: "GO",
-    name: "GOMBE",
-    lgas: [
+    "code": "GO",
+    "name": "GOMBE",
+    "lgas": [
       "AKKO",
       "BALANGA",
       "BILLIRI",
@@ -4252,10 +4254,10 @@ export const areas: NigeriaState[] = [
       "KWAMI",
       "NAFADA",
       "SHONGOM",
-      "YAMALTU",
+      "YAMALTU"
     ],
-    subs: {
-      AKKO: [
+    "subs": {
+      "AKKO": [
         "AKKO",
         "GARKO",
         "KALSHINGI",
@@ -4266,9 +4268,9 @@ export const areas: NigeriaState[] = [
         "KUMO WEST",
         "PINDIGA",
         "TUKULMA",
-        "TUMU",
+        "TUMU"
       ],
-      BALANGA: [
+      "BALANGA": [
         "BAMBAM",
         "BANGU/DALAWAJA/ WALA LUNGUDA",
         "DADIYA",
@@ -4278,9 +4280,9 @@ export const areas: NigeriaState[] = [
         "MWONA",
         "NYUWAR/JESSU",
         "SWA/REFELE/WALA WAJA",
-        "TALASSE/DONG/ REME",
+        "TALASSE/DONG/ REME"
       ],
-      BILLIRI: [
+      "BILLIRI": [
         "BANGANJE NORTH",
         "BANGANJE SOUTH",
         "BARE",
@@ -4290,9 +4292,9 @@ export const areas: NigeriaState[] = [
         "TAL",
         "TANGLANG",
         "TODI",
-        "TUDU KWAYA",
+        "TUDU KWAYA"
       ],
-      DUKKU: [
+      "DUKKU": [
         "GOMBE ABBA",
         "HASHIDU",
         "JAMARI",
@@ -4303,9 +4305,9 @@ export const areas: NigeriaState[] = [
         "WAZIRI SOUTH/CENTRAL",
         "WURO TALE",
         "ZANGE",
-        "ZAUNE",
+        "ZAUNE"
       ],
-      FUNAKAYE: [
+      "FUNAKAYE": [
         "ASHAKA/MAGABA",
         "BAGE",
         "BAJOGA EAST",
@@ -4315,9 +4317,9 @@ export const areas: NigeriaState[] = [
         "KUPTO",
         "RIBADU",
         "TONGO",
-        "WAWA/WAKALTU",
+        "WAWA/WAKALTU"
       ],
-      GOMBE: [
+      "GOMBE": [
         "AJIYA",
         "BAJOGA",
         "BOLARI EAST",
@@ -4328,9 +4330,9 @@ export const areas: NigeriaState[] = [
         "KUMBIYA KUMBIYA",
         "NASARAWO",
         "PANTAMI",
-        "SHAMAKI",
+        "SHAMAKI"
       ],
-      KALTUNGO: [
+      "KALTUNGO": [
         "AWAK",
         "BULE KALTIN",
         "KALTUNGO EAST",
@@ -4340,9 +4342,9 @@ export const areas: NigeriaState[] = [
         "TULA WANGE",
         "TULA YIRI",
         "TUNGO",
-        "TURE",
+        "TURE"
       ],
-      KWAMI: [
+      "KWAMI": [
         "BOJUDE",
         "DABAN FULANI",
         "DOHO",
@@ -4352,9 +4354,9 @@ export const areas: NigeriaState[] = [
         "KOMFULATA",
         "KWAMI",
         "MALAM SIDI",
-        "MALLERI",
+        "MALLERI"
       ],
-      NAFADA: [
+      "NAFADA": [
         "BARWO WINDE",
         "BARWO/NASSARAWO",
         "BIRIN BOLEWA",
@@ -4364,9 +4366,9 @@ export const areas: NigeriaState[] = [
         "JIGAWA",
         "NAFADA CENTRAL",
         "NAFADA EAST",
-        "NAFADA WEST",
+        "NAFADA WEST"
       ],
-      SHONGOM: [
+      "SHONGOM": [
         "BANGUNJI",
         "BOH",
         "BURAK",
@@ -4376,9 +4378,9 @@ export const areas: NigeriaState[] = [
         "KULISHIN",
         "KUSHI",
         "LALAIPIDO",
-        "LAPAN",
+        "LAPAN"
       ],
-      YAMALTU: [
+      "YAMALTU": [
         "DEBA",
         "DIFA/LUBO/KINAFA",
         "GWANI/SHINGA/ WADE",
@@ -4389,14 +4391,14 @@ export const areas: NigeriaState[] = [
         "KURI/LAN/LAMBAM",
         "KWADON/LIJI/KURBA",
         "NN/KUNUWAL/WURO BIRDEKA",
-        "ZAMBUK/KWALI",
-      ],
-    },
+        "ZAMBUK/KWALI"
+      ]
+    }
   },
   {
-    code: "IM",
-    name: "IMO",
-    lgas: [
+    "code": "IM",
+    "name": "IMO",
+    "lgas": [
       "ABOH MBAISE",
       "EHIME MBANO",
       "EZINHITTE MBAISE",
@@ -4423,9 +4425,9 @@ export const areas: NigeriaState[] = [
       "ORU WEST",
       "OWERRI MUNICIPAL",
       "OWERRI NORTH",
-      "OWERRI WEST",
+      "OWERRI WEST"
     ],
-    subs: {
+    "subs": {
       "ABOH MBAISE": [
         "AMUZU",
         "ENYIOGUGU",
@@ -4438,7 +4440,7 @@ export const areas: NigeriaState[] = [
         "NGURU-NWANKWO",
         "UMUHU",
         "UVURU I",
-        "UVURU II",
+        "UVURU II"
       ],
       "EHIME MBANO": [
         "AGBAJA",
@@ -4451,7 +4453,7 @@ export const areas: NigeriaState[] = [
         "UMUEZEALA",
         "UMUKABIA",
         "UMUNAKANU",
-        "UMUNUMO",
+        "UMUNUMO"
       ],
       "EZINHITTE MBAISE": [
         "AMUMARA",
@@ -4465,7 +4467,7 @@ export const areas: NigeriaState[] = [
         "ONICHA II",
         "ONICHA III",
         "ONICHA IV",
-        "UDO NA OBIZI",
+        "UDO NA OBIZI"
       ],
       "IDEATO NORTH": [
         "AKPULU",
@@ -4481,7 +4483,7 @@ export const areas: NigeriaState[] = [
         "OZUAKOLI/UMUAGI",
         "UMUOKWARA/UMUEZEAGA",
         "UMUOPIA/UMUKEGWU",
-        "UZII/UMUALOMA",
+        "UZII/UMUALOMA"
       ],
       "IDEATOR SOUTH": [
         "AMANATOR/UMUESHI",
@@ -4495,7 +4497,7 @@ export const areas: NigeriaState[] = [
         "UMUAKAM/UMUAGO",
         "UMUCHIMA",
         "UMUMAISIAKU",
-        "UMUOBOM",
+        "UMUOBOM"
       ],
       "IHITTE UBOMA": [
         "ABUEKE",
@@ -4507,9 +4509,9 @@ export const areas: NigeriaState[] = [
         "IKPEREJERE",
         "OKATA",
         "UMUEZEGWU",
-        "UMUIHI",
+        "UMUIHI"
       ],
-      IKEDURU: [
+      "IKEDURU": [
         "AKABO",
         "AMAIMO",
         "AMAKOHIA",
@@ -4521,7 +4523,7 @@ export const areas: NigeriaState[] = [
         "INYISHI/UMUDIM",
         "NGUGO/IKEMBARA",
         "UGIRIKE/OKWU/EZIAMA",
-        "UZOAGBA",
+        "UZOAGBA"
       ],
       "ISIALA MBANO": [
         "AMARAKU",
@@ -4535,9 +4537,9 @@ export const areas: NigeriaState[] = [
         "OSUOWERRI II",
         "UGIRI OKA",
         "UMUNKWO",
-        "UMUOZU",
+        "UMUOZU"
       ],
-      ISU: [
+      "ISU": [
         "AMANDUGBA I",
         "AMANDUGBA II",
         "AMURIE OMANZE I",
@@ -4548,9 +4550,9 @@ export const areas: NigeriaState[] = [
         "ISUNJABA II",
         "ISUNJABA III",
         "UMUNDUGBA I",
-        "UMUNDUGBA II",
+        "UMUNDUGBA II"
       ],
-      MBAISE: [
+      "MBAISE": [
         "AMUZI/IHENWORIE",
         "MPAM",
         "NNARAM BIA",
@@ -4562,9 +4564,9 @@ export const areas: NigeriaState[] = [
         "OPARANADIM",
         "ORUNA LUDE",
         "OTULU/AGUNEZE",
-        "UMUNUMO/UMUCHIEZE",
+        "UMUNUMO/UMUCHIEZE"
       ],
-      MBAITOLI: [
+      "MBAITOLI": [
         "AFARA/EZIAMA",
         "AMAIKE MBIERI",
         "EZINIHITTE MBIERI",
@@ -4576,7 +4578,7 @@ export const areas: NigeriaState[] = [
         "ORODO B",
         "UBOMIRI",
         "UMUNOHA/AZARA",
-        "UMUNWOHA/UMUAGWU",
+        "UMUNWOHA/UMUAGWU"
       ],
       "NGOR OKPALA": [
         "AMALA/ALULU/ OBOKWE/ OBURU/NTU",
@@ -4589,9 +4591,9 @@ export const areas: NigeriaState[] = [
         "OBIANGWU",
         "OHEKELEM/ NNEORIE",
         "OZUZU",
-        "UMUHU",
+        "UMUHU"
       ],
-      NJABA: [
+      "NJABA": [
         "AMUCHA I",
         "AMUCHA II",
         "ATTA I",
@@ -4602,9 +4604,9 @@ export const areas: NigeriaState[] = [
         "UMUAKA I",
         "UMUAKA II",
         "UMUAKA III",
-        "UMUAKA IV",
+        "UMUAKA IV"
       ],
-      NKWERRE: [
+      "NKWERRE": [
         "AMAOKPARA",
         "EZIAMA-OBAIRE",
         "NKWERE URBAN",
@@ -4614,9 +4616,9 @@ export const areas: NigeriaState[] = [
         "OWERRE-NKWORJI II",
         "UMUDI/UMWALA",
         "UMUKO",
-        "UMUNOBO/UMUNACHI",
+        "UMUNOBO/UMUNACHI"
       ],
-      NWANGELE: [
+      "NWANGELE": [
         "ABAJAH I",
         "ABAJAH II",
         "ABBA",
@@ -4627,9 +4629,9 @@ export const areas: NigeriaState[] = [
         "AMAIGBO V",
         "DIM NA NUME",
         "KARA NA ORLU",
-        "UMUOZU",
+        "UMUOZU"
       ],
-      OBOWO: [
+      "OBOWO": [
         "ALIKE",
         "AMANZE/ UMUNGWA",
         "AMUZI",
@@ -4639,9 +4641,9 @@ export const areas: NigeriaState[] = [
         "OKENALOGHO",
         "OKWUOHIA",
         "UMUARIAM/ACHARA",
-        "UMUNACHI",
+        "UMUNACHI"
       ],
-      OGUTA: [
+      "OGUTA": [
         "AWA",
         "EGWE/EGBUOMA",
         "IZOMBE",
@@ -4652,7 +4654,7 @@ export const areas: NigeriaState[] = [
         "OGUTA B",
         "ORU",
         "OSEMOTO/  ENUIGBO",
-        "UWAORIE",
+        "UWAORIE"
       ],
       "OHAJI/EGBEME": [
         "ASSA/OBILE",
@@ -4666,9 +4668,9 @@ export const areas: NigeriaState[] = [
         "OBITI/MGBISHI",
         "OHOBA",
         "UMUAGWO",
-        "UMUAPU",
+        "UMUAPU"
       ],
-      OKIGWE: [
+      "OKIGWE": [
         "AGBOBU",
         "AKU",
         "AMURO",
@@ -4679,9 +4681,9 @@ export const areas: NigeriaState[] = [
         "OKIGWE I",
         "OKIGWE II",
         "UMUALUMOKE",
-        "UMULOLO",
+        "UMULOLO"
       ],
-      ONUIMO: [
+      "ONUIMO": [
         "ABOH/OKOHIA",
         "EZELU",
         "EZIAMA",
@@ -4691,9 +4693,9 @@ export const areas: NigeriaState[] = [
         "OWERRE OKWE",
         "OZIMO/ UMUANUMEZE",
         "UMUCHEKE",
-        "UMUNNA",
+        "UMUNNA"
       ],
-      ORLU: [
+      "ORLU": [
         "AMAIFEKE",
         "EBENESE/UMUEZE/NNACHI IHIOMA",
         "EZIACHI/AMAIKE",
@@ -4706,9 +4708,9 @@ export const areas: NigeriaState[] = [
         "OWERRR-EBEIRI",
         "UMUDIOKA",
         "UMUNA",
-        "UMUZIKE/ UMUOWA",
+        "UMUZIKE/ UMUOWA"
       ],
-      ORSU: [
+      "ORSU": [
         "AMARURU",
         "ASSAH UBIRIELEM",
         "EBENATOR",
@@ -4719,7 +4721,7 @@ export const areas: NigeriaState[] = [
         "OKWUETITI",
         "OKWUFURUAKU",
         "ORSU IHITTEUKWA",
-        "UMUHU OKABIA",
+        "UMUHU OKABIA"
       ],
       "ORU EAST": [
         "AKATTA",
@@ -4731,7 +4733,7 @@ export const areas: NigeriaState[] = [
         "AWO-OMAMMA II",
         "AWO-OMAMMA III",
         "AWO-OMAMMA IV",
-        "OMUMA",
+        "OMUMA"
       ],
       "ORU WEST": [
         "AJI",
@@ -4743,7 +4745,7 @@ export const areas: NigeriaState[] = [
         "OHAKPU",
         "OTULU",
         "OZARA",
-        "UBULU",
+        "UBULU"
       ],
       "OWERRI MUNICIPAL": [
         "ALADINMA I",
@@ -4756,7 +4758,7 @@ export const areas: NigeriaState[] = [
         "IKENEGBU I",
         "IKENEGBU II",
         "NEW OWERRI I",
-        "NEW OWERRI II",
+        "NEW OWERRI II"
       ],
       "OWERRI NORTH": [
         "AGBALA/OBUBE/ ULAKWO",
@@ -4770,7 +4772,7 @@ export const areas: NigeriaState[] = [
         "OBIBI URATTA I",
         "OBIBI URATTA II",
         "OBIBIEZENA",
-        "ORJI",
+        "ORJI"
       ],
       "OWERRI WEST": [
         "AMAKOHIA-UBI/ NDEGWU/ OHII",
@@ -4782,14 +4784,14 @@ export const areas: NigeriaState[] = [
         "NEKEDE",
         "OBINZE",
         "OKUKU",
-        "UMUGUMA",
-      ],
-    },
+        "UMUGUMA"
+      ]
+    }
   },
   {
-    code: "JI",
-    name: "JIGAWA",
-    lgas: [
+    "code": "JI",
+    "name": "JIGAWA",
+    "lgas": [
       "AUYO",
       "BABURA",
       "BIRNIN KUDU",
@@ -4816,10 +4818,10 @@ export const areas: NigeriaState[] = [
       "RONI",
       "SULETANKARKAR",
       "TAURA",
-      "YANKWASHI",
+      "YANKWASHI"
     ],
-    subs: {
-      AUYO: [
+    "subs": {
+      "AUYO": [
         "AUYAKAWA",
         "AUYO",
         "AYAMA",
@@ -4829,9 +4831,9 @@ export const areas: NigeriaState[] = [
         "GATAFA",
         "KAFUR",
         "TSINDIR",
-        "UNIK",
+        "UNIK"
       ],
-      BABURA: [
+      "BABURA": [
         "BATALI",
         "DORAWA",
         "GARU",
@@ -4841,7 +4843,7 @@ export const areas: NigeriaState[] = [
         "KANYA",
         "KUZUNZUMI",
         "KYAMBO",
-        "TAKWASA",
+        "TAKWASA"
       ],
       "BIRNIN KUDU": [
         "BIRNIN KUDU",
@@ -4854,9 +4856,9 @@ export const areas: NigeriaState[] = [
         "SURKO",
         "UNGUWAR 'YA",
         "WURN",
-        "YALWAN DAMAI",
+        "YALWAN DAMAI"
       ],
-      BIRNIWA: [
+      "BIRNIWA": [
         "BATU",
         "BIRNIWA",
         "DANGWULERI",
@@ -4867,9 +4869,9 @@ export const areas: NigeriaState[] = [
         "KAZURA",
         "MACHINAMARI",
         "MATAMU",
-        "NGUWA",
+        "NGUWA"
       ],
-      BUJI: [
+      "BUJI": [
         "AHOTO",
         "BUJI",
         "CHURBUN",
@@ -4879,9 +4881,9 @@ export const areas: NigeriaState[] = [
         "KUKUMA",
         "LELEN KUDU",
         "MADABE",
-        "YAYARIN TUKUR",
+        "YAYARIN TUKUR"
       ],
-      DUTSE: [
+      "DUTSE": [
         "ABAYA",
         "CHAMO",
         "DUNDUBUS",
@@ -4892,9 +4894,9 @@ export const areas: NigeriaState[] = [
         "KUDAI",
         "LIMAWA",
         "MADOBI",
-        "SAKWAYA",
+        "SAKWAYA"
       ],
-      GAGARAWA: [
+      "GAGARAWA": [
         "GAGARAWA GARI",
         "GAGARAWA TAHSA",
         "GARIN CHIROMA",
@@ -4904,9 +4906,9 @@ export const areas: NigeriaState[] = [
         "MAI KILILI",
         "MEDU",
         "YALAWA",
-        "ZARADA",
+        "ZARADA"
       ],
-      GARKI: [
+      "GARKI": [
         "BUDURU",
         "DOKO",
         "GARKI",
@@ -4917,9 +4919,9 @@ export const areas: NigeriaState[] = [
         "KORE",
         "MUKU",
         "RAFIN MARKE",
-        "SIYORI",
+        "SIYORI"
       ],
-      GUMEL: [
+      "GUMEL": [
         "BAIKARYA",
         "DAN AMA",
         "DANTANMA",
@@ -4930,9 +4932,9 @@ export const areas: NigeriaState[] = [
         "HAMMADO",
         "K/AREWA",
         "KIYAMMA",
-        "ZANGO",
+        "ZANGO"
       ],
-      GURI: [
+      "GURI": [
         "ABUNABO",
         "ADIYANI",
         "DAWA",
@@ -4942,9 +4944,9 @@ export const areas: NigeriaState[] = [
         "LAFIYA",
         "MARGADU",
         "MATARA BABBA",
-        "MUSARI",
+        "MUSARI"
       ],
-      GWARAM: [
+      "GWARAM": [
         "BASIRKA",
         "DINGAYA",
         "FAGAM",
@@ -4955,9 +4957,9 @@ export const areas: NigeriaState[] = [
         "MARUTA",
         "SARA",
         "TSANGARWA",
-        "ZANDAM NAGOGO",
+        "ZANDAM NAGOGO"
       ],
-      GWIWA: [
+      "GWIWA": [
         "BUNTUSU",
         "DABI",
         "DARINA",
@@ -4968,9 +4970,9 @@ export const areas: NigeriaState[] = [
         "RORAU",
         "SHEFE",
         "YOLA",
-        "ZAUMAR SAINAWA",
+        "ZAUMAR SAINAWA"
       ],
-      HADEJIA: [
+      "HADEJIA": [
         "ATAFI",
         "DUBANTU",
         "GAGULMARI",
@@ -4981,9 +4983,9 @@ export const areas: NigeriaState[] = [
         "RUMFA",
         "SABON GARI",
         "YAN KOLI",
-        "YAYRI",
+        "YAYRI"
       ],
-      JAHUN: [
+      "JAHUN": [
         "AUJARA",
         "GANGAWA",
         "GAUZA TAZARA",
@@ -4994,7 +4996,7 @@ export const areas: NigeriaState[] = [
         "JABARNA",
         "JAHUN",
         "KALE",
-        "KANWA",
+        "KANWA"
       ],
       "KAFIN HAUSA": [
         "BALANGU",
@@ -5007,9 +5009,9 @@ export const areas: NigeriaState[] = [
         "MEZAN",
         "RUBA",
         "SARAWA",
-        "ZAGO",
+        "ZAGO"
       ],
-      KAUGAMA: [
+      "KAUGAMA": [
         "ARBUS",
         "ASKANDU",
         "DABUWARAN",
@@ -5020,9 +5022,9 @@ export const areas: NigeriaState[] = [
         "KAUGAMA",
         "MARKA",
         "U/JIBRIN",
-        "YALO",
+        "YALO"
       ],
-      KAZAURE: [
+      "KAZAURE": [
         "BA'AUZINI",
         "DABA",
         "DABAZA",
@@ -5033,9 +5035,9 @@ export const areas: NigeriaState[] = [
         "SABARU",
         "UNG. AREWA",
         "UNG. GABAS",
-        "UNG. YAMMA",
+        "UNG. YAMMA"
       ],
-      KIRIKASAMMA: [
+      "KIRIKASAMMA": [
         "BATURIYA",
         "BULUNCHAI",
         "DOLERI",
@@ -5045,9 +5047,9 @@ export const areas: NigeriaState[] = [
         "MADACHI",
         "MARMA",
         "TARBU",
-        "TASHEGUWA",
+        "TASHEGUWA"
       ],
-      KIYAWA: [
+      "KIYAWA": [
         "ABALAGO",
         "ANDAZA",
         "FAKE",
@@ -5058,9 +5060,9 @@ export const areas: NigeriaState[] = [
         "KIYAWA",
         "KWANDA",
         "MAJE",
-        "TSURMA",
+        "TSURMA"
       ],
-      MAIGATARI: [
+      "MAIGATARI": [
         "BALARABE",
         "DANKUMBO",
         "FULATA",
@@ -5071,7 +5073,7 @@ export const areas: NigeriaState[] = [
         "MAIGATARI AREWA",
         "MAIGATARI KUDU",
         "MATOYA",
-        "TURBUS",
+        "TURBUS"
       ],
       "MALAM MADORI": [
         "ARKI",
@@ -5084,9 +5086,9 @@ export const areas: NigeriaState[] = [
         "SHAYYA",
         "TAGWARO",
         "TASHENA",
-        "TONIKUTARA",
+        "TONIKUTARA"
       ],
-      MIGA: [
+      "MIGA": [
         "DANGYATIN",
         "GARBO",
         "HANSTU",
@@ -5096,9 +5098,9 @@ export const areas: NigeriaState[] = [
         "SANSANI",
         "TSAKUWAWA",
         "YANDUNA",
-        "ZAREKU",
+        "ZAREKU"
       ],
-      RINGIM: [
+      "RINGIM": [
         "CHAI-CHAI",
         "DABI",
         "KAFIN BABUSHE",
@@ -5108,9 +5110,9 @@ export const areas: NigeriaState[] = [
         "SANKARA",
         "SITILIMAWA",
         "TOFA",
-        "YAN DUTSE",
+        "YAN DUTSE"
       ],
-      RONI: [
+      "RONI": [
         "AMARYAWA",
         "BATAGUMI",
         "DANSURE",
@@ -5121,9 +5123,9 @@ export const areas: NigeriaState[] = [
         "SANKAU",
         "TUNAS",
         "YAN ZAKI",
-        "ZUGAI",
+        "ZUGAI"
       ],
-      SULETANKARKAR: [
+      "SULETANKARKAR": [
         "ALBASU",
         "AMANGA",
         "DANGWANKI",
@@ -5133,9 +5135,9 @@ export const areas: NigeriaState[] = [
         "SHABARU",
         "SULE TANKARKAR",
         "TAKATSABA",
-        "YANDAMO",
+        "YANDAMO"
       ],
-      TAURA: [
+      "TAURA": [
         "AJAURA",
         "CHAKWAIKWAIWA",
         "CHUKUTO",
@@ -5145,9 +5147,9 @@ export const areas: NigeriaState[] = [
         "MAJE",
         "MAJIYA",
         "S/GARIN 'YA 'YA",
-        "TAURA",
+        "TAURA"
       ],
-      YANKWASHI: [
+      "YANKWASHI": [
         "ACHILAFIYA",
         "BELAS",
         "DAWON GAWO",
@@ -5157,14 +5159,14 @@ export const areas: NigeriaState[] = [
         "KUDA",
         "RINGIM",
         "YANKWASHI",
-        "ZUGUMBA",
-      ],
-    },
+        "ZUGUMBA"
+      ]
+    }
   },
   {
-    code: "KD",
-    name: "KADUNA",
-    lgas: [
+    "code": "KD",
+    "name": "KADUNA",
+    "lgas": [
       "BIRNIN GWARI",
       "CHIKUN",
       "GIWA",
@@ -5172,7 +5174,7 @@ export const areas: NigeriaState[] = [
       "IKARA",
       "JABA",
       "JEMA'A",
-      "KABAU",
+      "KUBAU",
       "KACHIA",
       "KADUNA NORTH",
       "KADUNA SOUTH",
@@ -5187,9 +5189,9 @@ export const areas: NigeriaState[] = [
       "SANGA",
       "SOBA",
       "ZANGON KATAF",
-      "ZARIA",
+      "ZARIA"
     ],
-    subs: {
+    "subs": {
       "BIRNIN GWARI": [
         "DOGONDAWA",
         "GAYAM",
@@ -5201,9 +5203,9 @@ export const areas: NigeriaState[] = [
         "MAGAJINGARI II",
         "MAGAJINGARI III",
         "RANDAGI",
-        "TABANNI",
+        "TABANNI"
       ],
-      CHIKUN: [
+      "CHIKUN": [
         "CHIKUN",
         "GWAGWADA",
         "KAKAU",
@@ -5214,9 +5216,9 @@ export const areas: NigeriaState[] = [
         "RIDO",
         "SABON TASHA",
         "TRIKANIYA",
-        "UNGWAYELWA",
+        "UNGWAYELWA"
       ],
-      GIWA: [
+      "GIWA": [
         "DANMAHAWAYI",
         "GALADIMAWA",
         "GANGARA",
@@ -5227,9 +5229,9 @@ export const areas: NigeriaState[] = [
         "KIDANDAN",
         "PANHAUYA",
         "SHIKA",
-        "YAKAWADA",
+        "YAKAWADA"
       ],
-      IGABI: [
+      "IGABI": [
         "AFAKA",
         "BIRININ YERO",
         "GADAN GAYAN",
@@ -5241,9 +5243,9 @@ export const areas: NigeriaState[] = [
         "RIGASA",
         "SABON BIRNIN DAJI",
         "TURUNKU",
-        "ZANGON AYA",
+        "ZANGON AYA"
       ],
-      IKARA: [
+      "IKARA": [
         "AUCHAN",
         "IKARA",
         "JAMFALAN",
@@ -5253,9 +5255,9 @@ export const areas: NigeriaState[] = [
         "PALA",
         "RUMI",
         "SAULAWA",
-        "SAYA-SAYA",
+        "SAYA-SAYA"
       ],
-      JABA: [
+      "JABA": [
         "CHORI",
         "DADDU",
         "DURA BITARO",
@@ -5265,7 +5267,7 @@ export const areas: NigeriaState[] = [
         "NK",
         "SAB-ZURO",
         "SAMBAN",
-        "SAN-CHEM",
+        "SAN-CHEM"
       ],
       "JEMA'A": [
         "ASSO",
@@ -5279,9 +5281,9 @@ export const areas: NigeriaState[] = [
         "KANINKON",
         "MAIZIGO",
         "TAGOMA",
-        "TAKAU",
+        "TAKAU"
       ],
-      KABAU: [
+      "KUBAU": [
         "ANCHAU",
         "DAMAU",
         "DUSTENWAI",
@@ -5292,9 +5294,9 @@ export const areas: NigeriaState[] = [
         "MAH",
         "PNNBEGUA",
         "ZABI",
-        "ZUNTU",
+        "ZUNTU"
       ],
-      KACHIA: [
+      "KACHIA": [
         "AGUNU",
         "ANKWA",
         "AWON",
@@ -5306,7 +5308,7 @@ export const areas: NigeriaState[] = [
         "KATARI",
         "KURMIN MUSA",
         "KWATURU",
-        "SABON SARKI",
+        "SABON SARKI"
       ],
       "KADUNA NORTH": [
         "BADARAWA",
@@ -5320,7 +5322,7 @@ export const areas: NigeriaState[] = [
         "UNGWAN SHANU",
         "UNGWAR DOSA",
         "UNGWAR LIMAN",
-        "UNGWAR SARKI",
+        "UNGWAR SARKI"
       ],
       "KADUNA SOUTH": [
         "BADIKKO",
@@ -5335,9 +5337,9 @@ export const areas: NigeriaState[] = [
         "TUDUN WADA NORTH",
         "TUDUN WADA SOUTH",
         "TUDUN WADA WEST",
-        "UNGUWAN SANUSI",
+        "UNGUWAN SANUSI"
       ],
-      KAGARKO: [
+      "KAGARKO": [
         "ARIBI",
         "IDDAH",
         "JERE NORTH",
@@ -5347,9 +5349,9 @@ export const areas: NigeriaState[] = [
         "KATUGAL",
         "KUKUI",
         "KURMIN JIBRIN",
-        "KUSHE",
+        "KUSHE"
       ],
-      KAJURU: [
+      "KAJURU": [
         "AFOGO",
         "BUDA",
         "IDON",
@@ -5359,9 +5361,9 @@ export const areas: NigeriaState[] = [
         "KUFANA",
         "MAGANI",
         "RIMAU",
-        "TANTATU",
+        "TANTATU"
       ],
-      KAURA: [
+      "KAURA": [
         "BADURUMSAMA",
         "BITAL",
         "DAMAKASUWA",
@@ -5372,9 +5374,9 @@ export const areas: NigeriaState[] = [
         "KAURU WEST",
         "KWASSAM",
         "MAKAMI",
-        "PARI",
+        "PARI"
       ],
-      KAURU: [
+      "KAURU": [
         "BADURUMSAMA",
         "BITAL",
         "DAMAKASUWA",
@@ -5385,9 +5387,9 @@ export const areas: NigeriaState[] = [
         "KAURU WEST",
         "KWASSAM",
         "MAKAMI",
-        "PARI",
+        "PARI"
       ],
-      KUDAN: [
+      "KUDAN": [
         "DOKA",
         "GARU",
         "HUNKUYI",
@@ -5397,9 +5399,9 @@ export const areas: NigeriaState[] = [
         "LIKORO",
         "S/ GARIN HUNKUYI",
         "TABANSANI",
-        "ZABI",
+        "ZABI"
       ],
-      LERE: [
+      "LERE": [
         "ABADAWA",
         "DAN ALHAJI",
         "GARU",
@@ -5410,9 +5412,9 @@ export const areas: NigeriaState[] = [
         "RAMIN KURA",
         "SABONBIRNI",
         "SAMINAKA",
-        "YARKASUWA",
+        "YARKASUWA"
       ],
-      MAKARFI: [
+      "MAKARFI": [
         "DANDAMISA",
         "DANGUZIRI",
         "GAZARA",
@@ -5422,7 +5424,7 @@ export const areas: NigeriaState[] = [
         "MAKARFI",
         "MEYERE",
         "NASSARAWAN DOYA",
-        "TUDUN WADA",
+        "TUDUN WADA"
       ],
       "SABON GARI": [
         "BASAWA",
@@ -5435,9 +5437,9 @@ export const areas: NigeriaState[] = [
         "MUCHIYA",
         "SAMARU",
         "UNGUWAN GABAS",
-        "ZABI",
+        "ZABI"
       ],
-      SANGA: [
+      "SANGA": [
         "ABORO",
         "ARAK",
         "AYU",
@@ -5448,9 +5450,9 @@ export const areas: NigeriaState[] = [
         "NINZO NORTH",
         "NINZO SOUTH",
         "NINZO WEST",
-        "WASA STATION",
+        "WASA STATION"
       ],
-      SOBA: [
+      "SOBA": [
         "DAN WATA",
         "GAMAGIRA",
         "GARUN GWANKI",
@@ -5461,7 +5463,7 @@ export const areas: NigeriaState[] = [
         "RAHAMA",
         "RICHIFA",
         "SOBA",
-        "TURAWA",
+        "TURAWA"
       ],
       "ZANGON KATAF": [
         "GIDANJATAU",
@@ -5473,9 +5475,9 @@ export const areas: NigeriaState[] = [
         "UNGWANRIMI",
         "ZAMANDABO",
         "ZONKWA",
-        "ZONZON",
+        "ZONZON"
       ],
-      ZARIA: [
+      "ZARIA": [
         "DAMBO",
         "DUTSEN ABBA",
         "GYALLESU",
@@ -5488,71 +5490,61 @@ export const areas: NigeriaState[] = [
         "TUKUR-TUKUR",
         "UNG. JUMA",
         "UNGFATIKA",
-        "WUCICIRI",
-      ],
-    },
+        "WUCICIRI"
+      ]
+    }
   },
   {
-    code: "KN",
-    name: "KANO",
-    lgas: [
+    "code": "KN",
+    "name": "KANO",
+    "lgas": [
       "AJINGI",
       "ALBASU",
       "BAGWAI",
-      "BATTA",
       "BEBEJI",
       "BICHI",
       "BUNKURE",
-      "DAKATA",
       "DALA",
+      "DAMBATTA",
+      "DAWAKIN KUDU",
       "DAWAKIN TOFA",
       "DOGUWA",
       "FAGGE",
       "GABASAWA",
-      "GAMA",
       "GARKO",
-      "GAWUNA",
+      "GARUN MALAM",
       "GAYA",
       "GEZAWA",
-      "GIGINYU",
-      "GURUN MALLAM",
-      "GWAGWARWA",
       "GWALE",
       "GWARZO",
-      "HOTORO NORTH",
-      "HOTORO SOUTH",
       "KABO",
-      "KAN MUNICIPAL",
+      "KANO MUNICIPAL",
       "KARAYE",
-      "KAURA GOJE",
-      "KAWAJI",
       "KIBIYA",
       "KIRU",
-      "KUDU",
       "KUMBOTSO",
       "KUNCHI",
       "KURA",
       "MADOBI",
       "MAKODA",
-      "MINIJIBIR",
+      "MINJIBIR",
+      "NASARAWA",
       "RANO",
-      "RIMIN",
+      "RIMIN GADO",
       "ROGO",
-      "SHANN",
+      "SHANONO",
       "SUMAILA",
       "TAKAI",
       "TARAUNI",
       "TOFA",
       "TSANYAWA",
-      "TUDUN MURTALA",
       "TUDUN WADA",
-      "TUNDUN WADA",
       "UNGOGO",
       "WARAWA",
-      "WUDIL",
+      "WUDIL"
     ],
-    subs: {
-      AJINGI: [
+    "subs": {
+      "AJINGI": [
         "AJINGI",
         "BALARE",
         "CHULA",
@@ -5562,9 +5554,9 @@ export const areas: NigeriaState[] = [
         "GURDUBA",
         "KUNKURAWA",
         "TORANKE",
-        "UNGUWAR BAI",
+        "UNGUWAR BAI"
       ],
-      ALBASU: [
+      "ALBASU": [
         "ALBASU CENTRAL",
         "BATAIYA",
         "CHAMARANA",
@@ -5574,9 +5566,9 @@ export const areas: NigeriaState[] = [
         "GAGARAME",
         "HUNGU",
         "SAYA-SAYA",
-        "TSANGAYA",
+        "TSANGAYA"
       ],
-      BAGWAI: [
+      "BAGWAI": [
         "BAGWAI",
         "DANGADA",
         "GADANYA",
@@ -5586,9 +5578,9 @@ export const areas: NigeriaState[] = [
         "RIMIN DAKO",
         "ROMO",
         "SARE SARE",
-        "WURO BAGGA",
+        "WURO BAGGA"
       ],
-      BATTA: [
+      "DAMBATTA": [
         "AJUMAWA",
         "DAN BATTA EAST",
         "DAN BATTA WEST",
@@ -5598,9 +5590,9 @@ export const areas: NigeriaState[] = [
         "GWARABJAWA",
         "KORE",
         "SAIDAWA",
-        "SANSAN",
+        "SANSAN"
       ],
-      BEBEJI: [
+      "BEBEJI": [
         "ANADARIYA",
         "BAGUDA",
         "BEBEJI",
@@ -5614,9 +5606,9 @@ export const areas: NigeriaState[] = [
         "RANKA",
         "RANTAN",
         "TARIWA",
-        "WAK",
+        "WAK"
       ],
-      BICHI: [
+      "BICHI": [
         "BADUME",
         "BICHI",
         "DANZABUWA",
@@ -5627,9 +5619,9 @@ export const areas: NigeriaState[] = [
         "MUNTSIRA",
         "SAYE",
         "WAIRE",
-        "YALLAMI",
+        "YALLAMI"
       ],
-      BUNKURE: [
+      "BUNKURE": [
         "BARKUM",
         "BON",
         "BUNKURE",
@@ -5639,10 +5631,9 @@ export const areas: NigeriaState[] = [
         "GWAMMA",
         "KULLUWA",
         "KUMURYA",
-        "SANDA",
+        "SANDA"
       ],
-      DAKATA: ["DAKATA"],
-      DALA: [
+      "DALA": [
         "ADAKAWA",
         "BAKIN RUWA",
         "DALA",
@@ -5654,7 +5645,7 @@ export const areas: NigeriaState[] = [
         "KOFAR MAZUGAL",
         "KOFAR RUWA",
         "MADIGAWA",
-        "YALWA",
+        "YALWA"
       ],
       "DAWAKIN TOFA": [
         "DANGUGUWA",
@@ -5667,9 +5658,9 @@ export const areas: NigeriaState[] = [
         "KWA",
         "MARKE",
         "TATTARAWA",
-        "TUMFAFI",
+        "TUMFAFI"
       ],
-      DOGUWA: [
+      "DOGUWA": [
         "D/KAWO",
         "DARIYA",
         "DOGUWA",
@@ -5679,9 +5670,9 @@ export const areas: NigeriaState[] = [
         "RIRUWAI",
         "TAGWAYE",
         "U/NATSOHUWA",
-        "ZAINABI",
+        "ZAINABI"
       ],
-      FAGGE: [
+      "FAGGE": [
         "FAGGE A",
         "FAGGE B",
         "FAGGE C",
@@ -5691,9 +5682,9 @@ export const areas: NigeriaState[] = [
         "RIJIYAR LEMO",
         "SABON GARI EAST",
         "SABON GARI WEST",
-        "YAMMATA",
+        "YAMMATA"
       ],
-      GABASAWA: [
+      "GABASAWA": [
         "G/DANGA",
         "GABASAWA",
         "JODA",
@@ -5704,10 +5695,9 @@ export const areas: NigeriaState[] = [
         "YAUTA/KUDU",
         "YUNBU",
         "ZAKIRAI",
-        "ZUGACHI",
+        "ZUGACHI"
       ],
-      GAMA: ["GAMA"],
-      GARKO: [
+      "GARKO": [
         "DANDAGO",
         "DISO",
         "DORAYI",
@@ -5717,10 +5707,9 @@ export const areas: NigeriaState[] = [
         "GYARANYA",
         "KABUGA",
         "MANDAWARI",
-        "SANI MAINAGGE",
+        "SANI MAINAGGE"
       ],
-      GAWUNA: ["GAWUNA"],
-      GAYA: [
+      "GAYA": [
         "BALAN",
         "GAMARYA",
         "GAMOJI",
@@ -5730,9 +5719,9 @@ export const areas: NigeriaState[] = [
         "KAZURAWA",
         "MAIMAKAWA",
         "SHAGOGO",
-        "WUDILAWA",
+        "WUDILAWA"
       ],
-      GEZAWA: [
+      "GEZAWA": [
         "BABAWA",
         "GAWO",
         "GEZAWA",
@@ -5743,10 +5732,9 @@ export const areas: NigeriaState[] = [
         "TSAMIYA BABBA",
         "TUMBAU",
         "WANGARA",
-        "ZANGO",
+        "ZANGO"
       ],
-      GIGINYU: ["GIGINYU"],
-      "GURUN MALLAM": [
+      "GARUN MALAM": [
         "CHIROMAWA",
         "D/SALLAU",
         "FANKURUN",
@@ -5756,10 +5744,9 @@ export const areas: NigeriaState[] = [
         "KADAWA",
         "MAKWARO",
         "Y/YADAKWARI",
-        "YADAKWARI",
+        "YADAKWARI"
       ],
-      GWAGWARWA: ["GWAGWARWA"],
-      GWALE: [
+      "GWALE": [
         "DANDAGO",
         "DISO",
         "DORAYI",
@@ -5769,9 +5756,9 @@ export const areas: NigeriaState[] = [
         "GYARANYA",
         "KABUGA",
         "MANDAWARI",
-        "SANI MAINAGGE",
+        "SANI MAINAGGE"
       ],
-      GWARZO: [
+      "GWARZO": [
         "GETSO",
         "GWARZO",
         "JAMA'A",
@@ -5781,11 +5768,9 @@ export const areas: NigeriaState[] = [
         "MADADI",
         "MAINIKA",
         "SABON BIRNI",
-        "UNGUWAR TUDU",
+        "UNGUWAR TUDU"
       ],
-      "HOTORO NORTH": ["HOTORO NORTH"],
-      "HOTORO SOUTH": ["HOTORO SOUTH"],
-      KABO: [
+      "KABO": [
         "DUGABAU",
         "DURUN",
         "GAMMO",
@@ -5795,9 +5780,9 @@ export const areas: NigeriaState[] = [
         "HAUWADE",
         "KABO",
         "KANWA",
-        "MASANAWA",
+        "MASANAWA"
       ],
-      "KAN MUNICIPAL": [
+      "KANO MUNICIPAL": [
         "CHEDI",
         "DANAGUNDI",
         "GANDU",
@@ -5810,9 +5795,9 @@ export const areas: NigeriaState[] = [
         "TUDUN WAZIRCH",
         "YAKASAI",
         "ZAITAWA",
-        "ZANGO",
+        "ZANGO"
       ],
-      KARAYE: [
+      "KARAYE": [
         "DAURA",
         "KAFIN DAFGA",
         "KARAYE",
@@ -5822,11 +5807,9 @@ export const areas: NigeriaState[] = [
         "TURAWA",
         "UNGUWAR HAJI",
         "YAMMEDI",
-        "YOLA",
+        "YOLA"
       ],
-      "KAURA GOJE": ["KAURA GOJE"],
-      KAWAJI: ["KAWAJI"],
-      KIBIYA: [
+      "KIBIYA": [
         "DURBA",
         "FAMMAR",
         "FASSI",
@@ -5836,9 +5819,9 @@ export const areas: NigeriaState[] = [
         "KIBIYA II",
         "NARIYA",
         "TARAI",
-        "UNGUWAR GAI",
+        "UNGUWAR GAI"
       ],
-      KIRU: [
+      "KIRU": [
         "BA'AWA",
         "BADAFI",
         "BARGONI",
@@ -5853,9 +5836,9 @@ export const areas: NigeriaState[] = [
         "TSAUDAWA",
         "YAKO",
         "YALWA",
-        "ZUWO",
+        "ZUWO"
       ],
-      KUDU: [
+      "DAWAKIN KUDU": [
         "DABAR KWARI",
         "DANBAGINA",
         "DAWAKI",
@@ -5870,9 +5853,9 @@ export const areas: NigeriaState[] = [
         "YANBARAU",
         "YANKATSARI",
         "YARGAYA",
-        "ZOGARAWA",
+        "ZOGARAWA"
       ],
-      KUMBOTSO: [
+      "KUMBOTSO": [
         "CHALLAWA",
         "CHIRANCHI",
         "DANBARE",
@@ -5883,9 +5866,9 @@ export const areas: NigeriaState[] = [
         "MARIRI",
         "NAIBAWA",
         "PANSHEKARA",
-        "UNGUWAR RIMI",
+        "UNGUWAR RIMI"
       ],
-      KUNCHI: [
+      "KUNCHI": [
         "BUMAI",
         "GARIN SHEME",
         "GWARMAI",
@@ -5895,9 +5878,9 @@ export const areas: NigeriaState[] = [
         "RIDAWA",
         "SHAMAKAWA",
         "SHUWAKI",
-        "YANDADI",
+        "YANDADI"
       ],
-      KURA: [
+      "KURA": [
         "DALILI",
         "DAN HASSAN",
         "DUKAWA",
@@ -5907,9 +5890,9 @@ export const areas: NigeriaState[] = [
         "KURUNSUMAU",
         "RUGAR DUKA",
         "SARKIN KURA",
-        "TANAWA",
+        "TANAWA"
       ],
-      MADOBI: [
+      "MADOBI": [
         "BURJI",
         "CINKOSO",
         "GALINJA",
@@ -5921,9 +5904,9 @@ export const areas: NigeriaState[] = [
         "KWANKWASO",
         "MADOBI",
         "RIKADAWA",
-        "YAKUN",
+        "YAKUN"
       ],
-      MAKODA: [
+      "MAKODA": [
         "BABBAR RIGA",
         "DURMA",
         "JIBGA",
@@ -5934,9 +5917,9 @@ export const areas: NigeriaState[] = [
         "MAKODA",
         "SATAME",
         "TANGAJI",
-        "WAILARE",
+        "WAILARE"
       ],
-      MINIJIBIR: [
+      "MINJIBIR": [
         "AZURE",
         "GANDURWAWA",
         "KANTAMA",
@@ -5947,9 +5930,9 @@ export const areas: NigeriaState[] = [
         "SARBI",
         "TSAKIYA",
         "TSAKUWA",
-        "WASAI",
+        "WASAI"
       ],
-      RANO: [
+      "RANO": [
         "DAWAKI",
         "LAUSU",
         "MADACHI",
@@ -5959,9 +5942,9 @@ export const areas: NigeriaState[] = [
         "SAJI",
         "YALWA",
         "ZINYAU",
-        "ZURGU",
+        "ZURGU"
       ],
-      RIMIN: [
+      "RIMIN GADO": [
         "BUTU-BUTU",
         "DAWAKIN GULU",
         "DOKA-DAWA",
@@ -5973,9 +5956,9 @@ export const areas: NigeriaState[] = [
         "SAKARATSA",
         "TAMAWA",
         "YALWAN DANZIYAL",
-        "ZANGON DAN ABDU",
+        "ZANGON DAN ABDU"
       ],
-      ROGO: [
+      "ROGO": [
         "BELI",
         "FALGORE",
         "FULATAN",
@@ -5985,9 +5968,9 @@ export const areas: NigeriaState[] = [
         "ROGO SABON GARI",
         "RUWAN BAGO",
         "ZAREWA",
-        "ZOZA",
+        "ZOZA"
       ],
-      SHANN: [
+      "SHANONO": [
         "ALAJAWA",
         "DUTSEN BAKOSHI",
         "FARURUWA",
@@ -5997,9 +5980,9 @@ export const areas: NigeriaState[] = [
         "LENI",
         "SHAKOGI",
         "SHANN",
-        "TSAURE",
+        "TSAURE"
       ],
-      SUMAILA: [
+      "SUMAILA": [
         "GALA",
         "GANI",
         "GARFA",
@@ -6010,9 +5993,9 @@ export const areas: NigeriaState[] = [
         "RIMI",
         "RUMO",
         "SITTI",
-        "SUMAILA",
+        "SUMAILA"
       ],
-      TAKAI: [
+      "TAKAI": [
         "BAGWARO",
         "DURBUNDE",
         "FAJEWA",
@@ -6022,9 +6005,9 @@ export const areas: NigeriaState[] = [
         "KARFI",
         "KUKA",
         "TAKAI",
-        "ZUGA",
+        "ZUGA"
       ],
-      TARAUNI: [
+      "TARAUNI": [
         "BABBANGIJ",
         "DARMANAWA",
         "DAURAWA",
@@ -6034,9 +6017,9 @@ export const areas: NigeriaState[] = [
         "KAUYEN ALU",
         "TARAUNI",
         "UNGUWA UKU",
-        "UNGUWAR GAN",
+        "UNGUWAR GAN"
       ],
-      TOFA: [
+      "TOFA": [
         "DINDERE",
         "DOKA",
         "GAJIDA",
@@ -6051,9 +6034,9 @@ export const areas: NigeriaState[] = [
         "WANGARA",
         "YALWA KARAMA",
         "YANKO",
-        "YARIMAWA",
+        "YARIMAWA"
       ],
-      TSANYAWA: [
+      "TSANYAWA": [
         "DADDARAWA",
         "DUMBULUM",
         "GOZARKI",
@@ -6063,11 +6046,10 @@ export const areas: NigeriaState[] = [
         "TSANYAWA",
         "YANGANAU",
         "YANKAMAYE",
-        "ZAROGI",
+        "ZAROGI"
       ],
-      "TUDUN MURTALA": ["TUDUN MURTALA"],
-      "TUDUN WADA": ["TUDUN WADA"],
-      "TUNDUN WADA": [
+      "TUDUN WADA": [
+        "TUDUN WADA",
         "BABURI",
         "BURUM BURUM",
         "DALAWA",
@@ -6078,9 +6060,9 @@ export const areas: NigeriaState[] = [
         "SABON GARI",
         "SHUWAKI",
         "TSOHON GARI",
-        "YAR YASA",
+        "YAR YASA"
       ],
-      UNGOGO: [
+      "UNGOGO": [
         "BACHIRAWA",
         "GAYAWA",
         "KADAWA",
@@ -6091,9 +6073,9 @@ export const areas: NigeriaState[] = [
         "TUDUN NUFAWA",
         "UNGOGO",
         "YADAKUNYA",
-        "ZANGO",
+        "ZANGO"
       ],
-      WARAWA: [
+      "WARAWA": [
         "AMARAWA",
         "DANLASAN",
         "GARINDAU",
@@ -6108,9 +6090,9 @@ export const areas: NigeriaState[] = [
         "TANAGAR",
         "WARAWA",
         "YANDALLA",
-        "YANGIZO",
+        "YANGIZO"
       ],
-      WUDIL: [
+      "WUDIL": [
         "ACHIKA",
         "DAGUMAWA",
         "DAN KAZA",
@@ -6120,19 +6102,31 @@ export const areas: NigeriaState[] = [
         "LAJAWA",
         "SABON GARI",
         "UTAI",
-        "WUDIL",
+        "WUDIL"
       ],
-    },
+      "NASARAWA": [
+        "DAKATA",
+        "GAMA",
+        "GAWUNA",
+        "GIGINYU",
+        "GWAGWARWA",
+        "HOTORO NORTH",
+        "HOTORO SOUTH",
+        "KAURA GOJE",
+        "KAWAJI",
+        "TUDUN MURTALA"
+      ]
+    }
   },
   {
-    code: "KT",
-    name: "KATSINA",
-    lgas: [
+    "code": "KT",
+    "name": "KATSINA",
+    "lgas": [
       "BATAGARAWA",
-      "BATSASRI",
+      "BATSARI",
       "BAURE",
       "BINDAWA",
-      "BOKORI",
+      "BAKORI",
       "CHARANCHI",
       "DANDUME",
       "DANJA",
@@ -6141,12 +6135,12 @@ export const areas: NigeriaState[] = [
       "DUTSI",
       "DUTSINMA",
       "FASKARI",
-      "FUNYUA",
+      "FUNTUA",
       "INGAWA",
       "JIBIA",
       "KAFUR",
       "KAITA",
-      "KAKIA",
+      "KANKIA",
       "KANKARA",
       "KATSINA",
       "KURFI",
@@ -6158,13 +6152,13 @@ export const areas: NigeriaState[] = [
       "MATAZU",
       "MUSAWA",
       "RIMI",
-      "SABUA",
+      "SABUWA",
       "SAFANA",
       "SANDAMU",
-      "ZANGO",
+      "ZANGO"
     ],
-    subs: {
-      BATAGARAWA: [
+    "subs": {
+      "BATAGARAWA": [
         "AJIWA",
         "BAKIYAWA",
         "BARAWA",
@@ -6174,9 +6168,9 @@ export const areas: NigeriaState[] = [
         "JIN",
         "KAYAUKI",
         "TSANNI",
-        "YARGAMJI",
+        "YARGAMJI"
       ],
-      BATSASRI: [
+      "BATSARI": [
         "ABADAU/KAGARA",
         "BATSARI",
         "DANALHAJI/YANGAYYA",
@@ -6187,9 +6181,9 @@ export const areas: NigeriaState[] = [
         "MANAWA",
         "RUMA",
         "WAGIN",
-        "YAUYAU/MALLAMAWA",
+        "YAUYAU/MALLAMAWA"
       ],
-      BAURE: [
+      "BAURE": [
         "AGALA/DANKUM",
         "BABBAN MUTUM",
         "BAURE",
@@ -6201,9 +6195,9 @@ export const areas: NigeriaState[] = [
         "TARAMNAWA/BARE",
         "UNGUWAR RAI",
         "YANDUNA",
-        "YANMAULU",
+        "YANMAULU"
       ],
-      BINDAWA: [
+      "BINDAWA": [
         "BAURE",
         "BINDAWA",
         "DORO",
@@ -6214,9 +6208,9 @@ export const areas: NigeriaState[] = [
         "KAMRI",
         "SHIBDAWA",
         "TAMA/DAYE",
-        "YANGORA",
+        "YANGORA"
       ],
-      BOKORI: [
+      "BAKORI": [
         "BAKORI ‘A’",
         "BAKORI ‘B’",
         "BARDE/KWANTAKWARAN",
@@ -6227,9 +6221,9 @@ export const areas: NigeriaState[] = [
         "KAKUMI",
         "KANDARAWA",
         "KURAMI/YANKWANI",
-        "TSIGA",
+        "TSIGA"
       ],
-      CHARANCHI: [
+      "CHARANCHI": [
         "BANYE",
         "CHARANCHI",
         "DOKA",
@@ -6239,9 +6233,9 @@ export const areas: NigeriaState[] = [
         "M/WAYYA",
         "RADDA",
         "SAFANA",
-        "TSAKATSA",
+        "TSAKATSA"
       ],
-      DANDUME: [
+      "DANDUME": [
         "DANDUME ‘A’",
         "DANDUME ‘B’",
         "DANTANKARI",
@@ -6252,9 +6246,9 @@ export const areas: NigeriaState[] = [
         "MAHUTA ‘C’",
         "NASARAWA",
         "TUMBURKAI ‘A’",
-        "TUMBURKAI ‘B’",
+        "TUMBURKAI ‘B’"
       ],
-      DANJA: [
+      "DANJA": [
         "DABAI",
         "DANJA A",
         "DANJA B",
@@ -6264,9 +6258,9 @@ export const areas: NigeriaState[] = [
         "TANDAMA",
         "TSANGAMA WA",
         "YAKAJI  A",
-        "YAKAJI B",
+        "YAKAJI B"
       ],
-      DANMUSA: [
+      "DANMUSA": [
         "DAN - ALKIMA",
         "DAN ALI",
         "DAN MUSA B",
@@ -6277,9 +6271,9 @@ export const areas: NigeriaState[] = [
         "MAIDABIN B",
         "MARA",
         "YANTUMAKI A",
-        "YANTUMAKI B",
+        "YANTUMAKI B"
       ],
-      DAURA: [
+      "DAURA": [
         "KUSUGU",
         "MADOBI A",
         "MADOBI B",
@@ -6290,9 +6284,9 @@ export const areas: NigeriaState[] = [
         "SARKIN YARA B",
         "TUDUN WADA",
         "UBANDAWAKI A",
-        "UBANDAWAKI B",
+        "UBANDAWAKI B"
       ],
-      DUTSI: [
+      "DUTSI": [
         "DAN’AUNAI",
         "DUTSI ‘A’",
         "DUTSI ‘B’",
@@ -6302,9 +6296,9 @@ export const areas: NigeriaState[] = [
         "SIRIKA ‘A’",
         "SIRIKA ‘B’",
         "YAMEL ‘A’",
-        "YAMEL ‘B’",
+        "YAMEL ‘B’"
       ],
-      DUTSINMA: [
+      "DUTSINMA": [
         "BAGAGADI",
         "DABAWA",
         "DUTSINMA A",
@@ -6315,9 +6309,9 @@ export const areas: NigeriaState[] = [
         "KUKI  B",
         "KUTAWA",
         "MAKERA",
-        "SHEMA",
+        "SHEMA"
       ],
-      FASKARI: [
+      "FASKARI": [
         "DAUDAWA",
         "FASKARI",
         "MAIGORA",
@@ -6327,9 +6321,9 @@ export const areas: NigeriaState[] = [
         "SHEME",
         "TAFOKI",
         "YANKARA",
-        "YAR MALAMAI",
+        "YAR MALAMAI"
       ],
-      FUNYUA: [
+      "FUNTUA": [
         "DANDUTSE",
         "DIKKE",
         "GOYA",
@@ -6340,9 +6334,9 @@ export const areas: NigeriaState[] = [
         "TUDUN IYA",
         "UNG. IBRAHIM",
         "UNG. MUSA",
-        "UNG. RABIU",
+        "UNG. RABIU"
       ],
-      INGAWA: [
+      "INGAWA": [
         "AGAYAWA",
         "BARERUWA/RURUMA",
         "BIDORE/YAYA",
@@ -6353,9 +6347,9 @@ export const areas: NigeriaState[] = [
         "JOBE/KANDAWA",
         "KARFESI/YANKAURA",
         "MANMAWA",
-        "YANDOMA",
+        "YANDOMA"
       ],
-      JIBIA: [
+      "JIBIA": [
         "BUGAJE",
         "FARFARU",
         "FARU",
@@ -6366,9 +6360,9 @@ export const areas: NigeriaState[] = [
         "KUSA",
         "MAGAMA/MAZANYA",
         "RIKO",
-        "YANGAYYA",
+        "YANGAYYA"
       ],
-      KAFUR: [
+      "KAFUR": [
         "DANTUTURE",
         "DUTSEN-KURA/KANYA",
         "GAMZAGO",
@@ -6378,9 +6372,9 @@ export const areas: NigeriaState[] = [
         "MASARI",
         "RUGOJI/YARTALATA",
         "SABUWAR KASA",
-        "YARI-BORI",
+        "YARI-BORI"
       ],
-      KAITA: [
+      "KAITA": [
         "ABDALLAWA",
         "BA'AWA",
         "DANKABA",
@@ -6390,9 +6384,9 @@ export const areas: NigeriaState[] = [
         "KAITA",
         "MATSAI",
         "YANDAKI",
-        "YANHOHO",
+        "YANHOHO"
       ],
-      KAKIA: [
+      "KANKIA": [
         "FAKUWA/KAFINDANGI",
         "GACHI",
         "GALADIMAA",
@@ -6402,9 +6396,9 @@ export const areas: NigeriaState[] = [
         "RIMAYE",
         "SUKUNTUNI",
         "TAFASHIYA/NASARAWA",
-        "TSA/MAGAM",
+        "TSA/MAGAM"
       ],
-      KANKARA: [
+      "KANKARA": [
         "BURDUGAU",
         "DANMAIDAKI",
         "DANMURABU",
@@ -6415,9 +6409,9 @@ export const areas: NigeriaState[] = [
         "KUKASHEKA",
         "PAUWA A&B",
         "WAWARKAZA",
-        "ZANGO/ ZABARO",
+        "ZANGO/ ZABARO"
       ],
-      KATSINA: [
+      "KATSINA": [
         "KANGIWA",
         "SHINKAFI “A”",
         "SHINKAFI “B”",
@@ -6429,9 +6423,9 @@ export const areas: NigeriaState[] = [
         "WAKILIN KUDU II",
         "WAKILIN KUDU III",
         "WAKILIN YAMMA I",
-        "WAKILIN YAMMA II",
+        "WAKILIN YAMMA II"
       ],
-      KURFI: [
+      "KURFI": [
         "BARKIYA",
         "BIRCHI",
         "KURFI (A)",
@@ -6441,9 +6435,9 @@ export const areas: NigeriaState[] = [
         "TSAURI (A)",
         "TSAURI (B)",
         "WURMA (A)",
-        "WURMA (B)",
+        "WURMA (B)"
       ],
-      KUSADA: [
+      "KUSADA": [
         "BAURANYA’A",
         "BAURANYA’B",
         "BOKO",
@@ -6453,9 +6447,9 @@ export const areas: NigeriaState[] = [
         "KUSADA",
         "MAWASHI",
         "YASHE’A",
-        "YASHE’B",
+        "YASHE’B"
       ],
-      MAIADUA: [
+      "MAIADUA": [
         "BUMBUM 'A'",
         "BUMBUM 'B'",
         "DANYASHE",
@@ -6465,9 +6459,9 @@ export const areas: NigeriaState[] = [
         "MAIADUA 'A'",
         "MAIADUA 'C'",
         "MAIKONI 'A'",
-        "NATSALLE",
+        "NATSALLE"
       ],
-      MALUMFASHI: [
+      "MALUMFASHI": [
         "BORINDAWA",
         "DANSARAI",
         "DAYI",
@@ -6479,9 +6473,9 @@ export const areas: NigeriaState[] = [
         "NA – ALMA",
         "RUWANSANYI",
         "YABA",
-        "YAMMAMA",
+        "YAMMAMA"
       ],
-      MANI: [
+      "MANI": [
         "BAGIWA",
         "BUJAWA/GEWAYAU",
         "DUWAN/MAKAU",
@@ -6492,9 +6486,9 @@ export const areas: NigeriaState[] = [
         "MAGAMI",
         "MANI",
         "MUDURU",
-        "TSAGEM/TAKUSHEYI",
+        "TSAGEM/TAKUSHEYI"
       ],
-      MASHI: [
+      "MASHI": [
         "BAMBLE",
         "DOGURU A",
         "DOGURU B",
@@ -6505,9 +6499,9 @@ export const areas: NigeriaState[] = [
         "SABUWAR RIJIYA",
         "SONKAYA",
         "TAMILO A",
-        "TAMILO B",
+        "TAMILO B"
       ],
-      MATAZU: [
+      "MATAZU": [
         "DISSI",
         "GWARJO",
         "KAARADUWA",
@@ -6517,9 +6511,9 @@ export const areas: NigeriaState[] = [
         "MAZOJI 'A'",
         "MAZOJI 'B'",
         "RINJIN IDI",
-        "SAYAYA",
+        "SAYAYA"
       ],
-      MUSAWA: [
+      "MUSAWA": [
         "DANGANI",
         "DANJAKU KARACHI",
         "GARU",
@@ -6530,9 +6524,9 @@ export const areas: NigeriaState[] = [
         "KURKUJAN B",
         "MUSAWA",
         "TABANNI YARDAU",
-        "TUGE",
+        "TUGE"
       ],
-      RIMI: [
+      "RIMI": [
         "ABUKUR",
         "FARDAMI",
         "KADANDANI",
@@ -6542,9 +6536,9 @@ export const areas: NigeriaState[] = [
         "REMAWA IYATAWA",
         "RIMI",
         "SABON GARIN ALARAINI",
-        "TSAGERO",
+        "TSAGERO"
       ],
-      SABUA: [
+      "SABUWA": [
         "DAMARI",
         "DUGUN MUAZU",
         "GAMJI",
@@ -6554,9 +6548,9 @@ export const areas: NigeriaState[] = [
         "RAFIN IWA",
         "SABUA A",
         "SABUA B",
-        "SAYAU",
+        "SAYAU"
       ],
-      SAFANA: [
+      "SAFANA": [
         "BABBAN DUHU 'A'",
         "BABBAN DUHU 'B'",
         "BAURE 'A'",
@@ -6566,9 +6560,9 @@ export const areas: NigeriaState[] = [
         "SAFANA",
         "TSASKIYA",
         "ZAKKA 'A'",
-        "ZAKKA 'B'",
+        "ZAKKA 'B'"
       ],
-      SANDAMU: [
+      "SANDAMU": [
         "DANEJI 'A'",
         "DANEJI 'B'",
         "FAGO 'A'",
@@ -6579,9 +6573,9 @@ export const areas: NigeriaState[] = [
         "KWASARAWA",
         "RADE 'A'",
         "RADE 'B'",
-        "SANDAMU",
+        "SANDAMU"
       ],
-      ZANGO: [
+      "ZANGO": [
         "DARGAGE",
         "GARNI",
         "GWAMBA",
@@ -6591,14 +6585,14 @@ export const areas: NigeriaState[] = [
         "ROGOGO",
         "SARA",
         "YARDAJE",
-        "ZANGO",
-      ],
-    },
+        "ZANGO"
+      ]
+    }
   },
   {
-    code: "KE",
-    name: "KEBBI",
-    lgas: [
+    "code": "KE",
+    "name": "KEBBI",
+    "lgas": [
       "ALIERO",
       "AREWA",
       "ARGUNGU",
@@ -6619,10 +6613,10 @@ export const areas: NigeriaState[] = [
       "SURU",
       "WASAGU DANKO",
       "YAURI",
-      "ZURU",
+      "ZURU"
     ],
-    subs: {
-      ALIERO: [
+    "subs": {
+      "ALIERO": [
         "DANGALADIMA I",
         "DANGALADIMA II",
         "DANWARAI",
@@ -6632,9 +6626,9 @@ export const areas: NigeriaState[] = [
         "RAFIN BAUNA",
         "SABIYEL",
         "SHIYAR FADA I",
-        "SHIYAR FADA II",
+        "SHIYAR FADA II"
       ],
-      AREWA: [
+      "AREWA": [
         "BUI",
         "CHIBIKE",
         "DAURA/SAK/JARKUKA",
@@ -6645,9 +6639,9 @@ export const areas: NigeriaState[] = [
         "KANGIWA",
         "LAIMA/JANTULLU",
         "SARKA/DANTSOHO",
-        "YELDU",
+        "YELDU"
       ],
-      ARGUNGU: [
+      "ARGUNGU": [
         "ALWASA/GOTOMO",
         "DIKKO",
         "FELANDE",
@@ -6658,9 +6652,9 @@ export const areas: NigeriaState[] = [
         "KOKANI SOUTH",
         "LAILABA/NATSINI",
         "SAUWA/KAURA SANI",
-        "TUNGAR ZAZZAGAWA",
+        "TUNGAR ZAZZAGAWA"
       ],
-      AUGIE: [
+      "AUGIE": [
         "AUGIE NORTH",
         "AUGIE SOUTH",
         "BAGAYE/MERA",
@@ -6670,9 +6664,9 @@ export const areas: NigeriaState[] = [
         "BUBUCHE",
         "DUNDAYE/KWAIDO",
         "TIGGI/AWADE",
-        "YOLA",
+        "YOLA"
       ],
-      BAGUDO: [
+      "BAGUDO": [
         "BAGUDO/TUGA",
         "BAHINDI/B.DOMA",
         "BANI/TSAMIYA",
@@ -6683,7 +6677,7 @@ export const areas: NigeriaState[] = [
         "LOLO/GIRIS",
         "MATSINKAI/GEZA",
         "SHARABI/KWAN",
-        "ZAGGA/KWASARA",
+        "ZAGGA/KWASARA"
       ],
       "BIRNIN KEBBI": [
         "AMBURSA",
@@ -6700,9 +6694,9 @@ export const areas: NigeriaState[] = [
         "NASSARAWA I",
         "NASSARAWA II",
         "UJARIYO",
-        "ZAURO",
+        "ZAURO"
       ],
-      BUNZA: [
+      "BUNZA": [
         "BUNZA D/GALADIMA",
         "BUNZA MARAFA",
         "GWADE",
@@ -6712,9 +6706,9 @@ export const areas: NigeriaState[] = [
         "SALWAI",
         "TILLI/HILEMA",
         "TUNGA",
-        "ZOGIRMA",
+        "ZOGIRMA"
       ],
-      DANDI: [
+      "DANDI": [
         "BANIZUMBU",
         "BUMA",
         "DOLEKAINA",
@@ -6725,9 +6719,9 @@ export const areas: NigeriaState[] = [
         "KYANGAKWAI",
         "MAIGAWAZA",
         "MAIHAUSAWA",
-        "SHIKO",
+        "SHIKO"
       ],
-      FAKAI: [
+      "FAKAI": [
         "BAJIDA",
         "BANGU/GARIN ISAH",
         "BIRNIN TUDU",
@@ -6737,9 +6731,9 @@ export const areas: NigeriaState[] = [
         "KANGI",
         "MAHUTA",
         "MARAFA",
-        "PENNI PENNI",
+        "PENNI PENNI"
       ],
-      GWANDU: [
+      "GWANDU": [
         "CHEBERU/BADA",
         "DALIJAN",
         "DODORU",
@@ -6749,9 +6743,9 @@ export const areas: NigeriaState[] = [
         "KAMBAZA",
         "MALISA",
         "MARUDA",
-        "MASAMA/ KWASARA",
+        "MASAMA/ KWASARA"
       ],
-      JEGA: [
+      "JEGA": [
         "ALELU GEHURU",
         "DANGAMAJI",
         "DUMBEGU/BASAURA",
@@ -6762,9 +6756,9 @@ export const areas: NigeriaState[] = [
         "KIMBA",
         "KOKANI",
         "MAGAJI ‘A’",
-        "MAGAJI ‘B’",
+        "MAGAJI ‘B’"
       ],
-      KALGO: [
+      "KALGO": [
         "BADARIYA MAGARZA",
         "DANGOMA GAYI",
         "DIGGI",
@@ -6774,7 +6768,7 @@ export const areas: NigeriaState[] = [
         "MUTUBARE BANGANA",
         "NAYELWA",
         "WURO GAURI",
-        "ZUGURU",
+        "ZUGURU"
       ],
       "KOKO BESSE": [
         "BESSE",
@@ -6788,9 +6782,9 @@ export const areas: NigeriaState[] = [
         "MADACCI/ FIRINI",
         "MAIKWAR/DAMBA",
         "TAKWARE",
-        "ZARIA KALAKALA/AMIRU",
+        "ZARIA KALAKALA/AMIRU"
       ],
-      MAIYAMA: [
+      "MAIYAMA": [
         "ANDARAI/KURUNKUDU/ZUGUN LIBA",
         "GIWATAZO/ZARA",
         "GUBIN KURE/GAMJEJI",
@@ -6801,9 +6795,9 @@ export const areas: NigeriaState[] = [
         "MAIYAMA",
         "MUNGADI/BOTORO",
         "SAMBAWA/MAYALO",
-        "SARAN DOSA/GUBBA",
+        "SARAN DOSA/GUBBA"
       ],
-      NGASKI: [
+      "NGASKI": [
         "BIRNIN YAURI",
         "GAFARA MACHUPA",
         "GARIN BAKA MAKIRIN",
@@ -6813,9 +6807,9 @@ export const areas: NigeriaState[] = [
         "MAKAWA UKERA",
         "NGASKI",
         "UTON",
-        "WARRA",
+        "WARRA"
       ],
-      SAKABA: [
+      "SAKABA": [
         "ADAI",
         "DANKOLO",
         "DOKA/BERE",
@@ -6825,9 +6819,9 @@ export const areas: NigeriaState[] = [
         "MAKUKU",
         "MAZA-MAZA",
         "SAKABA",
-        "TUDUN KUKA",
+        "TUDUN KUKA"
       ],
-      SHANGA: [
+      "SHANGA": [
         "ATUWO",
         "BINUW/GEBBE/BUKUNJI",
         "DUGU TSOHO/DUGU RAHA",
@@ -6837,9 +6831,9 @@ export const areas: NigeriaState[] = [
         "SAWASHI",
         "SHANGA",
         "TAKWARE",
-        "YARBESSE",
+        "YARBESSE"
       ],
-      SURU: [
+      "SURU": [
         "ALJANNARE",
         "BAKUWAI",
         "BANDAN",
@@ -6850,7 +6844,7 @@ export const areas: NigeriaState[] = [
         "GINGA",
         "GIRO",
         "KWAIFA",
-        "SURU",
+        "SURU"
       ],
       "WASAGU DANKO": [
         "AYU",
@@ -6863,9 +6857,9 @@ export const areas: NigeriaState[] = [
         "RIBAH/MACHIKA",
         "WAJE",
         "WASAGU",
-        "YALMO/SHINDI",
+        "YALMO/SHINDI"
       ],
-      YAURI: [
+      "YAURI": [
         "CHULU/KOMA",
         "GUNGUN SARKI",
         "JIJIMA",
@@ -6875,9 +6869,9 @@ export const areas: NigeriaState[] = [
         "YELWA NORTH",
         "YELWA SOUTH",
         "YELWA WEST",
-        "ZAMARE",
+        "ZAMARE"
       ],
-      ZURU: [
+      "ZURU": [
         "BEDI",
         "CIROMAN DABAI",
         "ISGOGO/DAGO",
@@ -6887,14 +6881,14 @@ export const areas: NigeriaState[] = [
         "RUMU/DABE/SEME",
         "SENCHI",
         "TADURGA",
-        "ZODI",
-      ],
-    },
+        "ZODI"
+      ]
+    }
   },
   {
-    code: "KO",
-    name: "KOGI",
-    lgas: [
+    "code": "KO",
+    "name": "KOGI",
+    "lgas": [
       "ADAVI",
       "AJAOKUTA",
       "ANKPA",
@@ -6915,10 +6909,10 @@ export const areas: NigeriaState[] = [
       "OLAMABORO",
       "OMALA",
       "YAGBA EAST",
-      "YAGBA WEST",
+      "YAGBA WEST"
     ],
-    subs: {
-      ADAVI: [
+    "subs": {
+      "ADAVI": [
         "ADAVI – EBA",
         "EGE/IRUVECHINMI I",
         "IDANUHUA",
@@ -6928,9 +6922,9 @@ export const areas: NigeriaState[] = [
         "KUROKO II",
         "NAGAZI FARM CENTER",
         "OGAMINANA",
-        "OKUNCHI/OZURI/ONIEKA",
+        "OKUNCHI/OZURI/ONIEKA"
       ],
-      AJAOKUTA: [
+      "AJAOKUTA": [
         "ABODI/PATESI",
         "ACHAGANA",
         "ADOGO",
@@ -6944,9 +6938,9 @@ export const areas: NigeriaState[] = [
         "ODONU/UNSI",
         "OGIGIRI",
         "OLD AJAOKUTA",
-        "OMGBO",
+        "OMGBO"
       ],
-      ANKPA: [
+      "ANKPA": [
         "ANKPA I",
         "ANKPA II",
         "ANKPA SUBURB I",
@@ -6959,9 +6953,9 @@ export const areas: NigeriaState[] = [
         "OJOKU I",
         "OJOKU II",
         "OJOKU III",
-        "OJOKU IV",
+        "OJOKU IV"
       ],
-      BASSA: [
+      "BASSA": [
         "AKUBA I",
         "AKUBA II",
         "AYEDE/AKAKANA",
@@ -6971,9 +6965,9 @@ export const areas: NigeriaState[] = [
         "KPATA",
         "MOZUM",
         "OZONGOLO/KPANCHE",
-        "OZUGBE",
+        "OZUGBE"
       ],
-      DEKINA: [
+      "DEKINA": [
         "ABOCHO",
         "ADUMU EGUME",
         "ANYIGBA",
@@ -6985,9 +6979,9 @@ export const areas: NigeriaState[] = [
         "OGANE INIGU",
         "OGBABEDE",
         "OJIKPADALA",
-        "OKURA OLAFIA",
+        "OKURA OLAFIA"
       ],
-      IBAJI: [
+      "IBAJI": [
         "AKPANYO",
         "ANALO",
         "AYAH",
@@ -6997,9 +6991,9 @@ export const areas: NigeriaState[] = [
         "OJILA",
         "ONYEDEGA",
         "UJEH",
-        "UNALE",
+        "UNALE"
       ],
-      IDAH: [
+      "IDAH": [
         "EDE",
         "EGA",
         "ICHALA",
@@ -7009,7 +7003,7 @@ export const areas: NigeriaState[] = [
         "OWOLIAPA",
         "SABON GARI",
         "UGWODA",
-        "UKWAJA",
+        "UKWAJA"
       ],
       "IGALAMELA-ODOLU": [
         "AJAKA I",
@@ -7021,9 +7015,9 @@ export const areas: NigeriaState[] = [
         "OFORACHI I",
         "OFORACHI II",
         "OJI-AJI",
-        "UBELE",
+        "UBELE"
       ],
-      IJUMU: [
+      "IJUMU": [
         "AIYEGUNLE",
         "AIYEREH/ARIMAH",
         "AIYETORO I",
@@ -7038,7 +7032,7 @@ export const areas: NigeriaState[] = [
         "IYARA",
         "ODOKORO",
         "OGALE/ADUGE",
-        "OKORO/IGAH/OGIDI",
+        "OKORO/IGAH/OGIDI"
       ],
       "KABBA-BUNU": [
         "AIYETEJU",
@@ -7055,7 +7049,7 @@ export const areas: NigeriaState[] = [
         "OKEDAYO",
         "OKEKOKO",
         "OLLEOKE-OFIN",
-        "OTU",
+        "OTU"
       ],
       "KOGI KK": [
         "AKPASU",
@@ -7068,9 +7062,9 @@ export const areas: NigeriaState[] = [
         "KOTONKARFE",
         "ODAKI",
         "TAWARI",
-        "UKWO",
+        "UKWO"
       ],
-      LOKOJA: [
+      "LOKOJA": [
         "EGGAN",
         "KAKANDAN",
         "KUPA NORTH",
@@ -7080,7 +7074,7 @@ export const areas: NigeriaState[] = [
         "LOKOJA ‘C’",
         "LOKOJA ‘D’",
         "LOKOJA ‘E’",
-        "OWORO",
+        "OWORO"
       ],
       "MOPA MURO": [
         "AGBAGOUN",
@@ -7092,9 +7086,9 @@ export const areas: NigeriaState[] = [
         "ODOLE II",
         "OKEAGI/ILAI",
         "OROKERE",
-        "TAKETE/ODE/OTAFUN",
+        "TAKETE/ODE/OTAFUN"
       ],
-      OFU: [
+      "OFU": [
         "ALOJI",
         "ALOMA",
         "EJULE ALLAH",
@@ -7105,7 +7099,7 @@ export const areas: NigeriaState[] = [
         "OFOKE",
         "OGBONICHA",
         "UGWOLAWO 1",
-        "UGWOLAWO 2",
+        "UGWOLAWO 2"
       ],
       "OGORI MAGONGO": [
         "AIYEROMI",
@@ -7117,9 +7111,9 @@ export const areas: NigeriaState[] = [
         "OKIBO",
         "OSHOBANE",
         "OTURU OPOWUROYE",
-        "UGUGU",
+        "UGUGU"
       ],
-      OKEHI: [
+      "OKEHI": [
         "EIKA/OHIZENYI",
         "OBAIBA I",
         "OBAIBA II",
@@ -7130,9 +7124,9 @@ export const areas: NigeriaState[] = [
         "OHUEPE/OMAVI UBORO",
         "OHUETA",
         "OKAITO/USUNGWEN",
-        "OKUEHU",
+        "OKUEHU"
       ],
-      OKENE: [
+      "OKENE": [
         "ABUGA/OZUJA",
         "BARIKI",
         "IDOJI",
@@ -7143,9 +7137,9 @@ export const areas: NigeriaState[] = [
         "ONYUKOKO",
         "ORIETESU",
         "OTUTU",
-        "UPOGORO/ODENKU",
+        "UPOGORO/ODENKU"
       ],
-      OLAMABORO: [
+      "OLAMABORO": [
         "IMANE I",
         "IMANE II",
         "OGUGU I",
@@ -7155,9 +7149,9 @@ export const areas: NigeriaState[] = [
         "OLAMABORO II",
         "OLAMABORO III",
         "OLAMABORO IV",
-        "OLAMABORO V",
+        "OLAMABORO V"
       ],
-      OMALA: [
+      "OMALA": [
         "ABEJUKOLO I",
         "ABEJUKOLO II",
         "AKPACHA",
@@ -7168,7 +7162,7 @@ export const areas: NigeriaState[] = [
         "OJI-AJI",
         "OKPATALA",
         "OLLA`",
-        "OPODA/OFEJIJI",
+        "OPODA/OFEJIJI"
       ],
       "YAGBA EAST": [
         "ALU/IGBAGUN/ORANRE",
@@ -7180,7 +7174,7 @@ export const areas: NigeriaState[] = [
         "JEGE/OKEYAGI/OGBOM/ISHAN",
         "MAKUTU I",
         "MAKUTU II",
-        "PONYAN",
+        "PONYAN"
       ],
       "YAGBA WEST": [
         "EJIBA",
@@ -7196,19 +7190,19 @@ export const areas: NigeriaState[] = [
         "OKE EGBE I",
         "OKE EGBE II",
         "OKE EGBE III",
-        "OKE EGBE IV",
-      ],
-    },
+        "OKE EGBE IV"
+      ]
+    }
   },
   {
-    code: "KW",
-    name: "KWARA",
-    lgas: [
+    "code": "KW",
+    "name": "KWARA",
+    "lgas": [
       "ASA",
       "BARUTEN",
       "EDU",
       "EKITI",
-      "ERO",
+      "OKE ERO",
       "IFELODUN",
       "ILORIN EAST",
       "ILORIN SOUTH",
@@ -7219,10 +7213,10 @@ export const areas: NigeriaState[] = [
       "MORO",
       "OFFA",
       "OYUN",
-      "PATIGI",
+      "PATIGI"
     ],
-    subs: {
-      ASA: [
+    "subs": {
+      "ASA": [
         "ADIGBONGBO/AWE/ORIMARO",
         "AFON",
         "AGO-OJA/OSHIN/LADUBA",
@@ -7239,9 +7233,9 @@ export const areas: NigeriaState[] = [
         "ONIRE/ODEGIWA/ALAPA",
         "OWODE/GBOGUN",
         "YOWERE II/OKEWERU",
-        "YOWERE/SOSOKI",
+        "YOWERE/SOSOKI"
       ],
-      BARUTEN: [
+      "BARUTEN": [
         "BORIYA/SHIYA",
         "GBEREBERERU/BABANE",
         "GURE/GWASORO",
@@ -7252,9 +7246,9 @@ export const areas: NigeriaState[] = [
         "KPURA/YAKIRU",
         "OKUTA",
         "SHINAU/TUMBUYAN",
-        "YASHIKIRA",
+        "YASHIKIRA"
       ],
-      EDU: [
+      "EDU": [
         "LAFIAGI I",
         "LAFIAGI II",
         "LAFIAGI III",
@@ -7264,9 +7258,9 @@ export const areas: NigeriaState[] = [
         "TSARAGI III",
         "TSONGA I",
         "TSONGA II",
-        "TSONGA III",
+        "TSONGA III"
       ],
-      EKITI: [
+      "EKITI": [
         "ERUKU",
         "ISAPA",
         "KORO",
@@ -7276,9 +7270,9 @@ export const areas: NigeriaState[] = [
         "OKE-OPIN/ETAN",
         "OPIN",
         "OSI    I",
-        "OSI   II",
+        "OSI   II"
       ],
-      ERO: [
+      "OKE ERO": [
         "AYEDUN",
         "EKAN",
         "IDOFIN IGBANA I",
@@ -7288,9 +7282,9 @@ export const areas: NigeriaState[] = [
         "IMODE/EGOSI",
         "IMOJI/ILALE/ERINMOPE",
         "ODO OWA I",
-        "ODO OWA II",
+        "ODO OWA II"
       ],
-      IFELODUN: [
+      "IFELODUN": [
         "AGUNJIN",
         "IDOFIAN I",
         "IDOFIAN II",
@@ -7308,7 +7302,7 @@ export const areas: NigeriaState[] = [
         "SHARE II",
         "SHARE III",
         "SHARE IV",
-        "SHARE V",
+        "SHARE V"
       ],
       "ILORIN EAST": [
         "AGBEYANGI",
@@ -7322,7 +7316,7 @@ export const areas: NigeriaState[] = [
         "MARAFA/PEPELE",
         "MAYA/ILE APA",
         "OKE OYI/ OKE OSE/OSIN",
-        "ZANGO",
+        "ZANGO"
       ],
       "ILORIN SOUTH": [
         "AKANBI I",
@@ -7335,7 +7329,7 @@ export const areas: NigeriaState[] = [
         "BALOGUN FULANI III",
         "OKAKA I",
         "OKAKA II",
-        "OKE-OGUN",
+        "OKE-OGUN"
       ],
       "ILORIN WEST": [
         "ADEWOLE",
@@ -7349,9 +7343,9 @@ export const areas: NigeriaState[] = [
         "OKO ERIN",
         "OLOJE",
         "UBANDANWAKI",
-        "WARAH/OSHIN/EGBEJILA",
+        "WARAH/OSHIN/EGBEJILA"
       ],
-      IREPODUN: [
+      "IREPODUN": [
         "AJASE IPO I",
         "AJASE IPO II",
         "ARANDUN",
@@ -7362,9 +7356,9 @@ export const areas: NigeriaState[] = [
         "OMU ARAN II",
         "OMU ARAN III",
         "ORO I",
-        "ORO II",
+        "ORO II"
       ],
-      ISIN: [
+      "ISIN": [
         "ALLA",
         "EDIDI",
         "IJARA",
@@ -7375,9 +7369,9 @@ export const areas: NigeriaState[] = [
         "OKE-ONIGBIN",
         "OLLA",
         "OWU-ISIN",
-        "SAGBAJA/PAMO",
+        "SAGBAJA/PAMO"
       ],
-      KAIAMA: [
+      "KAIAMA": [
         "ADENA",
         "BANI",
         "GWANABE I",
@@ -7387,9 +7381,9 @@ export const areas: NigeriaState[] = [
         "KAIAMA II",
         "KAIAMA III",
         "KEMANJI",
-        "WAJIBE",
+        "WAJIBE"
       ],
-      MORO: [
+      "MORO": [
         "ABATI/ALARA",
         "AJANAKU",
         "AROBADI",
@@ -7406,9 +7400,9 @@ export const areas: NigeriaState[] = [
         "OLOORU",
         "PAKUNMO",
         "SHAO",
-        "WOMI/AYAKI",
+        "WOMI/AYAKI"
       ],
-      OFFA: [
+      "OFFA": [
         "BALOGUN",
         "ESSA 'A'",
         "ESSA 'B'",
@@ -7420,9 +7414,9 @@ export const areas: NigeriaState[] = [
         "OJOMU SOUTH/EAST",
         "SHAWO CENTRE",
         "SHAWO SOUTH WEST",
-        "SHAWO SOUTH/EAST",
+        "SHAWO SOUTH/EAST"
       ],
-      OYUN: [
+      "OYUN": [
         "ERIN NORTH",
         "ERIN SOUTH",
         "IGBONNA",
@@ -7433,9 +7427,9 @@ export const areas: NigeriaState[] = [
         "INNAJA/AHOGBADA",
         "IPEE",
         "IRRA",
-        "OJOKU",
+        "OJOKU"
       ],
-      PATIGI: [
+      "PATIGI": [
         "KPADA I",
         "KPADA II",
         "KPADA III",
@@ -7445,24 +7439,24 @@ export const areas: NigeriaState[] = [
         "PATIGI I",
         "PATIGI II",
         "PATIGI III",
-        "PATIGI IV",
-      ],
-    },
+        "PATIGI IV"
+      ]
+    }
   },
   {
-    code: "LA",
-    name: "LAGOS",
-    lgas: [
+    "code": "LA",
+    "name": "LAGOS",
+    "lgas": [
       "AGEGE",
-      "AJEROMI IFELODUN",
+      "AJEROMI-IFELODUN",
       "ALIMOSHO",
-      "AMUWO ODOFIN",
+      "AMUWO-ODOFIN",
       "APAPA",
       "BADAGRY",
       "EPE",
-      "ETI OSA",
-      "IBEJU LEKKI",
-      "IFAKO IJAYE",
+      "ETI-OSA",
+      "IBEJU-LEKKI",
+      "IFAKO-IJAIYE",
       "IKEJA",
       "IKORODU",
       "KOSOFE",
@@ -7470,12 +7464,12 @@ export const areas: NigeriaState[] = [
       "LAGOS MAINLAND",
       "MUSHIN",
       "OJO",
-      "OSHODI ISOLO",
-      "SOMOLU",
-      "SURULERE",
+      "OSHODI-ISOLO",
+      "SHOMOLU",
+      "SURULERE"
     ],
-    subs: {
-      AGEGE: [
+    "subs": {
+      "AGEGE": [
         "AGBOTIKUYO/DOPEMU",
         "DAROCHA",
         "ILORO/ONIPETESI",
@@ -7486,9 +7480,9 @@ export const areas: NigeriaState[] = [
         "ONIWAYA/PAPA-UKU",
         "ORILE AGEGE/OKO OBA",
         "OYEWOLE/PAPA ASHAFA",
-        "TABON TABON/OKO OBA",
+        "TABON TABON/OKO OBA"
       ],
-      "AJEROMI IFELODUN": [
+      "AJEROMI-IFELODUN": [
         "AGO-HAUSA",
         "ALABA ORO",
         "AWODI-ORA",
@@ -7499,9 +7493,9 @@ export const areas: NigeriaState[] = [
         "TEMIDIRE I",
         "TEMIDIRE II",
         "TOLU",
-        "WILMER",
+        "WILMER"
       ],
-      ALIMOSHO: [
+      "ALIMOSHO": [
         "ABULE-EGBA, ABORU, MEIRAN, ALAGBADO",
         "AYOBO/IJON",
         "EGBE/AGODO",
@@ -7512,9 +7506,9 @@ export const areas: NigeriaState[] = [
         "IPAJA NORTH",
         "IPAJA SOUTH",
         "PLEASURE/OKE-ODO",
-        "SHASHA/AKOWONJO",
+        "SHASHA/AKOWONJO"
       ],
-      "AMUWO ODOFIN": [
+      "AMUWO-ODOFIN": [
         "AMUWO",
         "FESTAC I",
         "FESTAC II",
@@ -7525,9 +7519,9 @@ export const areas: NigeriaState[] = [
         "IJEGUN",
         "IREDE",
         "KIRIKIRI",
-        "SATELLITE",
+        "SATELLITE"
       ],
-      APAPA: [
+      "APAPA": [
         "AFOLABI ALASIA & ENVIRONS",
         "APAPA I ( MARINE ROAD & ENVIRONS)",
         "APAPA II (LIVERPOOL ROAD & ENVIRONS)",
@@ -7537,9 +7531,9 @@ export const areas: NigeriaState[] = [
         "IJORA OLOYE & ENVIRONS",
         "MALU ROAD & ENVIRONS",
         "OLODAN/OLOJOWON & ENVIRONS",
-        "SARI & ENVIRONS",
+        "SARI & ENVIRONS"
       ],
-      BADAGRY: [
+      "BADAGRY": [
         "AJARA",
         "AJIDO",
         "APA",
@@ -7550,9 +7544,9 @@ export const areas: NigeriaState[] = [
         "IWORO/GBANKO",
         "IYAFIN",
         "KETA-EAST",
-        "POSUKOH",
+        "POSUKOH"
       ],
-      EPE: [
+      "EPE": [
         "ABOMITI",
         "AGBOWA",
         "AGBOWA \\IKOSI",
@@ -7571,9 +7565,9 @@ export const areas: NigeriaState[] = [
         "ORIBA/LADABA",
         "ORUGBO",
         "POKA",
-        "POPO-OBA",
+        "POPO-OBA"
       ],
-      "ETI OSA": [
+      "ETI-OSA": [
         "ADDO/LANGBASA/BADORE",
         "AJAH/SANGOTEDO",
         "IKOYI I",
@@ -7583,9 +7577,9 @@ export const areas: NigeriaState[] = [
         "LEKKI IKATE AND ENVIRONS",
         "OBALENDE",
         "VICTORIA ISLAND I",
-        "VICTORIA ISLAND II",
+        "VICTORIA ISLAND II"
       ],
-      "IBEJU LEKKI": [
+      "IBEJU-LEKKI": [
         "IBEJI I",
         "IBEJU II",
         "IWEREKUN I",
@@ -7596,9 +7590,9 @@ export const areas: NigeriaState[] = [
         "ORIMEDU II",
         "ORIMEDU III",
         "SIRIWON/IGBEKODO I",
-        "SIRIWON/IGBEKODO II",
+        "SIRIWON/IGBEKODO II"
       ],
-      "IFAKO IJAYE": [
+      "IFAKO-IJAIYE": [
         "AJEGUNLE/AKINDE/ ANIMASHAUN",
         "ALAKUKO/KOLLINTON",
         "FAGBA/AKUTE",
@@ -7609,9 +7603,9 @@ export const areas: NigeriaState[] = [
         "IJU OBAWOLE",
         "NEW IFAKO/OYEMEKUN",
         "OLD IFAKO/KARAOLE",
-        "PANADA/ABULE EGBA",
+        "PANADA/ABULE EGBA"
       ],
-      IKEJA: [
+      "IKEJA": [
         "ADEKUNLE VILL./ADENIYI JONES/OGBA",
         "AIRPORT/ONIPETESI/ONILEKERE",
         "ALAUSA/OREGUN/OLUSOSUN",
@@ -7621,9 +7615,9 @@ export const areas: NigeriaState[] = [
         "OJODU/AGIDINGBI/OMOLE",
         "OKE-IRA/AGUDA",
         "ONIGBONGBO/MILITARY CANTONEMENT",
-        "WASIMI/OPEBI/ALLEN",
+        "WASIMI/OPEBI/ALLEN"
       ],
-      IKORODU: [
+      "IKORODU": [
         "AGA/IJOMU",
         "AGBALA",
         "AGURA IPONMI",
@@ -7642,9 +7636,9 @@ export const areas: NigeriaState[] = [
         "ISELE III",
         "ISIU",
         "ODOGUNYAN",
-        "OLORUNDA IGBAGA",
+        "OLORUNDA IGBAGA"
       ],
-      KOSOFE: [
+      "KOSOFE": [
         "AGBOYI I",
         "AGBOYI II",
         "ANTHONY/MARYLAND",
@@ -7654,7 +7648,7 @@ export const areas: NigeriaState[] = [
         "KETU/IKOSI",
         "OJOTA/OGUDU",
         "OWODE/AJEGUNLE",
-        "OWORONSHOKI",
+        "OWORONSHOKI"
       ],
       "LAGOS ISLAND": [
         "AGARAWU/OBADINA",
@@ -7675,7 +7669,7 @@ export const areas: NigeriaState[] = [
         "OLUWOLE",
         "ONIKAN",
         "POPO-AGUDA",
-        "SANDGROUSE",
+        "SANDGROUSE"
       ],
       "LAGOS MAINLAND": [
         "ALAGOMEJI",
@@ -7688,9 +7682,9 @@ export const areas: NigeriaState[] = [
         "OTTO/IDDO",
         "OYADIRAN ESTATE/ABULE‐OJA",
         "OYINGBO MARKET/EBUTE METTA",
-        "YABA/IGBOBI",
+        "YABA/IGBOBI"
       ],
-      MUSHIN: [
+      "MUSHIN": [
         "ALAKARA",
         "BABALOSA",
         "BABALOSA/IDI ARABA",
@@ -7704,9 +7698,9 @@ export const areas: NigeriaState[] = [
         "MUSHIN ATEWOLARA",
         "OJUWOYE",
         "OLATEJU",
-        "PAPA AJAO",
+        "PAPA AJAO"
       ],
-      OJO: [
+      "OJO": [
         "AJANGBADI",
         "ETEGBIN",
         "IBA",
@@ -7717,9 +7711,9 @@ export const areas: NigeriaState[] = [
         "OJO- TOWN",
         "OKOKOMAIKO",
         "SABO- ONIBA",
-        "TAFFI",
+        "TAFFI"
       ],
-      "OSHODI ISOLO": [
+      "OSHODI-ISOLO": [
         "AJAO",
         "EJIGBO",
         "ILASAMAJA",
@@ -7730,9 +7724,9 @@ export const areas: NigeriaState[] = [
         "OSHODI/ BOLADE",
         "SHAGATEDO",
         "SHOGUNLE",
-        "SHOGUNLE/ ALASIA",
+        "SHOGUNLE/ ALASIA"
       ],
-      SOMOLU: [
+      "SHOMOLU": [
         "ABULE OKUTA",
         "ALADE",
         "BAJULAIYE",
@@ -7744,9 +7738,9 @@ export const areas: NigeriaState[] = [
         "LADI-LAK",
         "MAFOWOKU",
         "ONIPANU",
-        "PALMGROVE",
+        "PALMGROVE"
       ],
-      SURULERE: [
+      "SURULERE": [
         "ADENIRAN OGUNSANYA",
         "AGUDA",
         "AKINHANMI/COLE",
@@ -7758,14 +7752,14 @@ export const areas: NigeriaState[] = [
         "ITIRE",
         "ORILE",
         "SHITTA/OGUNLANA",
-        "YABA/OJUELEGBA",
-      ],
-    },
+        "YABA/OJUELEGBA"
+      ]
+    }
   },
   {
-    code: "NA",
-    name: "NASARAWA",
-    lgas: [
+    "code": "NA",
+    "name": "NASARAWA",
+    "lgas": [
       "AKWANGA",
       "AWE",
       "DOMA",
@@ -7778,10 +7772,10 @@ export const areas: NigeriaState[] = [
       "NASARAWA EGGON",
       "OBI",
       "TOTO",
-      "WAMBA",
+      "WAMBA"
     ],
-    subs: {
-      AKWANGA: [
+    "subs": {
+      "AKWANGA": [
         "AGYAGA",
         "AKWANGA EAST",
         "AKWANGA WEST",
@@ -7792,9 +7786,9 @@ export const areas: NigeriaState[] = [
         "GWANJE",
         "MOROA",
         "NINGO/BOHAR",
-        "NUNKU",
+        "NUNKU"
       ],
-      AWE: [
+      "AWE": [
         "AKIRI",
         "AZARA",
         "GALADIMA",
@@ -7804,9 +7798,9 @@ export const areas: NigeriaState[] = [
         "MAKWANGIJI",
         "RIBI",
         "TUNGA",
-        "WUSE",
+        "WUSE"
       ],
-      DOMA: [
+      "DOMA": [
         "AGBASHI",
         "AKPANAJA",
         "ALAGYE",
@@ -7816,9 +7810,9 @@ export const areas: NigeriaState[] = [
         "MADAUCHI",
         "RUKUBI",
         "SABON GARI",
-        "SARKI DAWAKI",
+        "SARKI DAWAKI"
       ],
-      KARU: [
+      "KARU": [
         "AGADA/BAGAJI",
         "ASO/KODAPE",
         "GITATA",
@@ -7829,9 +7823,9 @@ export const areas: NigeriaState[] = [
         "KEFFIN SHANU/BETTI",
         "PANDA/KARE",
         "TATTARA/KONDORO",
-        "UKE",
+        "UKE"
       ],
-      KEANA: [
+      "KEANA": [
         "AGAZA",
         "ALOSHI",
         "AMIRI",
@@ -7841,9 +7835,9 @@ export const areas: NigeriaState[] = [
         "KWARA",
         "MADAKI",
         "OBENE",
-        "OKI",
+        "OKI"
       ],
-      KEFFI: [
+      "KEFFI": [
         "ANG. RIMI",
         "ANGWAN IYA I",
         "ANGWAN IYA II",
@@ -7853,9 +7847,9 @@ export const areas: NigeriaState[] = [
         "LIMAN ABAJI",
         "SABON GARI",
         "TUDUN KOFAR",
-        "YARA",
+        "YARA"
       ],
-      KOKONA: [
+      "KOKONA": [
         "AGWADA",
         "AMBA",
         "BASSA",
@@ -7866,9 +7860,9 @@ export const areas: NigeriaState[] = [
         "KOKONA",
         "KOYA/KANA",
         "NINKORO",
-        "YELWA",
+        "YELWA"
       ],
-      LAFIA: [
+      "LAFIA": [
         "ADOGI",
         "AGYARAGUN TOFA",
         "ARIKYA",
@@ -7881,9 +7875,9 @@ export const areas: NigeriaState[] = [
         "MAKAMA",
         "SHABU/KWANDERE",
         "WAKWA",
-        "ZANWA",
+        "ZANWA"
       ],
-      NASARAWA: [
+      "NASARAWA": [
         "AKUM",
         "ARA I",
         "ARA II",
@@ -7898,7 +7892,7 @@ export const areas: NigeriaState[] = [
         "ODU",
         "TUNGA/BAKONO",
         "UDENIN GIDA",
-        "UDENIN MAGAJI",
+        "UDENIN MAGAJI"
       ],
       "NASARAWA EGGON": [
         "AGUNJI",
@@ -7914,9 +7908,9 @@ export const areas: NigeriaState[] = [
         "NASARAWA EGGON",
         "UBBE",
         "UMME",
-        "WAKAMA",
+        "WAKAMA"
       ],
-      OBI: [
+      "OBI": [
         "ADUDU",
         "AGWATASHI",
         "DEDDERE/RIRI",
@@ -7926,9 +7920,9 @@ export const areas: NigeriaState[] = [
         "GWADANYE",
         "KYAKALE",
         "OBI",
-        "TUDUN ADABU",
+        "TUDUN ADABU"
       ],
-      TOTO: [
+      "TOTO": [
         "BUGA KARMO",
         "DAUSU",
         "GADAGBA",
@@ -7940,9 +7934,9 @@ export const areas: NigeriaState[] = [
         "SHEGE",
         "TOTO",
         "UGYA",
-        "UMAISHA",
+        "UMAISHA"
       ],
-      WAMBA: [
+      "WAMBA": [
         "ARUM",
         "GITTA",
         "JIMIYA",
@@ -7952,14 +7946,14 @@ export const areas: NigeriaState[] = [
         "NAKERE",
         "WAMBA EAST",
         "WAMBA WEST",
-        "WAYO",
-      ],
-    },
+        "WAYO"
+      ]
+    }
   },
   {
-    code: "NI",
-    name: "NIGER",
-    lgas: [
+    "code": "NI",
+    "name": "NIGER",
+    "lgas": [
       "AGAIE",
       "AGWARA",
       "BIDA",
@@ -7984,10 +7978,10 @@ export const areas: NigeriaState[] = [
       "SHIRORO",
       "SULEJA",
       "TAFA",
-      "WUSHISHI",
+      "WUSHISHI"
     ],
-    subs: {
-      AGAIE: [
+    "subs": {
+      "AGAIE": [
         "BARO",
         "BOKU",
         "DAUACI",
@@ -7998,9 +7992,9 @@ export const areas: NigeriaState[] = [
         "ETSUGAIE",
         "KUTIRKO",
         "MAGAJI",
-        "TAGAGI",
+        "TAGAGI"
       ],
-      AGWARA: [
+      "AGWARA": [
         "ADEHE",
         "AGWATA",
         "BUSURU",
@@ -8010,9 +8004,9 @@ export const areas: NigeriaState[] = [
         "MAGO",
         "PAPIRI",
         "ROFIA",
-        "SUTEKU",
+        "SUTEKU"
       ],
-      BIDA: [
+      "BIDA": [
         "BARIKI",
         "CENIYAN",
         "DOKODZA",
@@ -8026,9 +8020,9 @@ export const areas: NigeriaState[] = [
         "NASSARAFU",
         "UMARU MAJIGI  I",
         "UMARU MAJIGI  II",
-        "WADATA",
+        "WADATA"
       ],
-      BORGU: [
+      "BORGU": [
         "BABANNA",
         "DUGGA",
         "KABE/PISSA",
@@ -8038,9 +8032,9 @@ export const areas: NigeriaState[] = [
         "NEW BUSSA",
         "RIVERINE",
         "SHAGUNU",
-        "WAWA",
+        "WAWA"
       ],
-      BOSSO: [
+      "BOSSO": [
         "BEJI",
         "BOSSO CENTRAL  I",
         "BOSSO CENTRAL  II",
@@ -8050,9 +8044,9 @@ export const areas: NigeriaState[] = [
         "KODO",
         "MAIKUNKELE",
         "MAITUMBI",
-        "SHATA",
+        "SHATA"
       ],
-      CHANCHAGA: [
+      "CHANCHAGA": [
         "LIMAWA 'A'",
         "LIMAWA 'B'",
         "MAKERA",
@@ -8063,9 +8057,9 @@ export const areas: NigeriaState[] = [
         "NASSARAWA 'C'",
         "SABONGARI",
         "TUDUN WADA NORTH",
-        "TUDUN WADA SOUTH",
+        "TUDUN WADA SOUTH"
       ],
-      EDATTI: [
+      "EDATTI": [
         "ENAGI",
         "ETSU TASHA",
         "FAZHI",
@@ -8075,9 +8069,9 @@ export const areas: NigeriaState[] = [
         "GONAGI",
         "GUZAN",
         "ROKOTA",
-        "SAKPE",
+        "SAKPE"
       ],
-      GBAKO: [
+      "GBAKO": [
         "BATAGI",
         "BATAKO",
         "EDOKOTA",
@@ -8087,9 +8081,9 @@ export const areas: NigeriaState[] = [
         "GOGATA",
         "LEMU",
         "NUWANKOTA",
-        "SAMMAJIKO",
+        "SAMMAJIKO"
       ],
-      GURARA: [
+      "GURARA": [
         "BONU",
         "DIKO",
         "GAWU",
@@ -8099,9 +8093,9 @@ export const areas: NigeriaState[] = [
         "LAMBATA",
         "LEFU",
         "SHAKO",
-        "TUFA",
+        "TUFA"
       ],
-      KATCHA: [
+      "KATCHA": [
         "BADEGGI",
         "BAKEKO",
         "BISANTI",
@@ -8111,9 +8105,9 @@ export const areas: NigeriaState[] = [
         "GBAKOGI",
         "KATCHA",
         "KATEREGI",
-        "SIDI SABA",
+        "SIDI SABA"
       ],
-      KONTAGORA: [
+      "KONTAGORA": [
         "AREWA",
         "CENTRAL",
         "GABAS",
@@ -8126,9 +8120,9 @@ export const areas: NigeriaState[] = [
         "TUNGAN KAWO",
         "TUNGAN WAWA",
         "USALLE",
-        "YAMMA",
+        "YAMMA"
       ],
-      LAPAI: [
+      "LAPAI": [
         "AREWA/YAMMA",
         "BIRNIN MAZA/TASHIBO",
         "EBBO/GBACINKU",
@@ -8138,9 +8132,9 @@ export const areas: NigeriaState[] = [
         "GURDI/ZAGO",
         "KUDU/GABAS",
         "MUYE/EGBA",
-        "TAKUTI/SHAKU",
+        "TAKUTI/SHAKU"
       ],
-      LAVUN: [
+      "LAVUN": [
         "BATATI",
         "BUSU/KUCHI",
         "DABBAN",
@@ -8152,9 +8146,9 @@ export const areas: NigeriaState[] = [
         "KUSOTACHI",
         "KUTIGI",
         "LAGUN",
-        "MAMBE",
+        "MAMBE"
       ],
-      MAGAMA: [
+      "MAGAMA": [
         "AUNA CENTRAL",
         "AUNA EAST",
         "AUNA EAST CENTRAL",
@@ -8165,9 +8159,9 @@ export const areas: NigeriaState[] = [
         "IBELU NORTH",
         "IBELU WEST",
         "NASKO",
-        "NASSARAWA",
+        "NASSARAWA"
       ],
-      MARIGA: [
+      "MARIGA": [
         "BANGI",
         "BERI",
         "BOBI",
@@ -8178,9 +8172,9 @@ export const areas: NigeriaState[] = [
         "KAKIHUM",
         "KOTONKORO",
         "KUMBASHI",
-        "MABURYA",
+        "MABURYA"
       ],
-      MASHEGU: [
+      "MASHEGU": [
         "BABBAN RAMI",
         "DAPANGI/MAKERA",
         "IBBI",
@@ -8190,9 +8184,9 @@ export const areas: NigeriaState[] = [
         "KWATACHI",
         "MASHEGU",
         "MAZAKUKA/LIKORO",
-        "SAHO - RAMI",
+        "SAHO - RAMI"
       ],
-      MOKWA: [
+      "MOKWA": [
         "BOKANI",
         "GBAJIBO/MUWO",
         "GBARA",
@@ -8203,9 +8197,9 @@ export const areas: NigeriaState[] = [
         "LABOZHI",
         "MOKWA",
         "MUREGI",
-        "RABBA/NDAYAKO",
+        "RABBA/NDAYAKO"
       ],
-      MUNYA: [
+      "MUNYA": [
         "BENI",
         "DANDAUDU",
         "DANGUNU",
@@ -8216,9 +8210,9 @@ export const areas: NigeriaState[] = [
         "KABULA",
         "KAZAI",
         "KUCHI",
-        "SARKIN PAWA",
+        "SARKIN PAWA"
       ],
-      PAIKORO: [
+      "PAIKORO": [
         "ADUNU",
         "CHIMBI",
         "GWAM",
@@ -8229,9 +8223,9 @@ export const areas: NigeriaState[] = [
         "KWAKUTI",
         "NIKUCHI T/MALLAM",
         "PAIKO CENTRAL",
-        "TUTUNGO JEDNA",
+        "TUTUNGO JEDNA"
       ],
-      RAFI: [
+      "RAFI": [
         "KAGARA GARI",
         "KAKURI",
         "KONGOMA CENTRAL",
@@ -8242,9 +8236,9 @@ export const areas: NigeriaState[] = [
         "SABON GARI",
         "TEGINA GARI",
         "TEGINA WEST",
-        "YAKILA",
+        "YAKILA"
       ],
-      RIJAU: [
+      "RIJAU": [
         "DANRANGI",
         "DUGGE",
         "DUKKU",
@@ -8255,9 +8249,9 @@ export const areas: NigeriaState[] = [
         "T/BUNU",
         "T/MAGAJIYA",
         "USHE",
-        "WARARI",
+        "WARARI"
       ],
-      SHIRORO: [
+      "SHIRORO": [
         "ALLAWA",
         "BANGAJIYA",
         "BASSA/KUKOKI",
@@ -8272,9 +8266,9 @@ export const areas: NigeriaState[] = [
         "MANTA",
         "PINA",
         "SHE",
-        "UBANDOMA",
+        "UBANDOMA"
       ],
-      SULEJA: [
+      "SULEJA": [
         "BAGAMA 'A'",
         "BAGAMA 'B'",
         "HASHIMI  'A'",
@@ -8284,9 +8278,9 @@ export const areas: NigeriaState[] = [
         "KURMIN SARKI",
         "MAGAJIYA",
         "MAJE NORTH",
-        "WAMBAI",
+        "WAMBAI"
       ],
-      TAFA: [
+      "TAFA": [
         "DOGON KURMI",
         "GARAM",
         "IJA GWARI",
@@ -8296,9 +8290,9 @@ export const areas: NigeriaState[] = [
         "WUSE EAST",
         "WUSE WEST",
         "ZUMA EAST",
-        "ZUMA WEST",
+        "ZUMA WEST"
       ],
-      WUSHISHI: [
+      "WUSHISHI": [
         "AKARE",
         "BARWA",
         "GWARJIKO",
@@ -8309,14 +8303,14 @@ export const areas: NigeriaState[] = [
         "MAITO",
         "SABON GARI",
         "TUKUNJI/YEMIGI",
-        "ZUNGERU",
-      ],
-    },
+        "ZUNGERU"
+      ]
+    }
   },
   {
-    code: "OG",
-    name: "OGUN",
-    lgas: [
+    "code": "OG",
+    "name": "OGUN",
+    "lgas": [
       "ABEOKUTA NORTH",
       "ABEOKUTA SOUTH",
       "ADO ODO OTA",
@@ -8336,9 +8330,9 @@ export const areas: NigeriaState[] = [
       "ODOGBOLU",
       "OGUN WATERSIDE",
       "REMO NORTH",
-      "SAGAMU",
+      "SAGAMU"
     ],
-    subs: {
+    "subs": {
       "ABEOKUTA NORTH": [
         "AGO OKO",
         "ELEGA",
@@ -8355,7 +8349,7 @@ export const areas: NigeriaState[] = [
         "OKE AGO OWU",
         "OLORUNDA / IJALE",
         "SABO",
-        "TOTORO / SOKORI",
+        "TOTORO / SOKORI"
       ],
       "ABEOKUTA SOUTH": [
         "AGO EGUN/IJESA",
@@ -8372,7 +8366,7 @@ export const areas: NigeriaState[] = [
         "ITOKO",
         "KEESI/EMERE",
         "SODEKE/ISALE IJEUN I",
-        "SODEKE/ISALE IJEUN II",
+        "SODEKE/ISALE IJEUN II"
       ],
       "ADO ODO OTA": [
         "ADO I",
@@ -8390,7 +8384,7 @@ export const areas: NigeriaState[] = [
         "OTA I",
         "OTA II",
         "OTA III",
-        "SANGO",
+        "SANGO"
       ],
       "EGBADO NORTH": [
         "AYETORO I",
@@ -8403,7 +8397,7 @@ export const areas: NigeriaState[] = [
         "IJOUN",
         "IMASAI",
         "OHUNBE",
-        "SUNWA",
+        "SUNWA"
       ],
       "EGBADO SOUTH": [
         "AJILETE",
@@ -8415,21 +8409,21 @@ export const areas: NigeriaState[] = [
         "IWOYE",
         "OKE-ODAN",
         "OWODE I",
-        "OWODE II",
+        "OWODE II"
       ],
-      EWEKORO: [
-        '"ARIGBAJO "',
-        '"ASA/YOBO "',
-        '"ELERE/ONIGBEDU "',
-        '"ITORI "',
-        '"MOSAN "',
-        '"PAPALANTO "',
-        '"WASIMI "',
+      "EWEKORO": [
+        "\"ARIGBAJO \"",
+        "\"ASA/YOBO \"",
+        "\"ELERE/ONIGBEDU \"",
+        "\"ITORI \"",
+        "\"MOSAN \"",
+        "\"PAPALANTO \"",
+        "\"WASIMI \"",
         "ABALABI",
         "OBADA-OKO",
-        "OWOWO",
+        "OWOWO"
       ],
-      IFO: [
+      "IFO": [
         "AGBADO",
         "AJUWON /AKUTE",
         "COKER",
@@ -8440,7 +8434,7 @@ export const areas: NigeriaState[] = [
         "ISERI/OJODU",
         "OKE ARO /IBARAGUN",
         "OSOSUN",
-        "SUNREN",
+        "SUNREN"
       ],
       "IJEBU EAST": [
         "AJEBANDELE",
@@ -8452,7 +8446,7 @@ export const areas: NigeriaState[] = [
         "IMOBI II",
         "ITELE",
         "OGBERE",
-        "OWU",
+        "OWU"
       ],
       "IJEBU NORTH": [
         "AGO-IWOYE I",
@@ -8465,7 +8459,7 @@ export const areas: NigeriaState[] = [
         "OKE-SOPEN",
         "OMEN",
         "ORU-AWA/ILAPORU",
-        "OSUN",
+        "OSUN"
       ],
       "IJEBU NORTH EAST": [
         "ATAN/ IMUKU",
@@ -8477,7 +8471,7 @@ export const areas: NigeriaState[] = [
         "ODOSENLU",
         "ODOSIMADEGUN/ ODOSENBORA",
         "OJU ONA",
-        "OKE ERI/ OGBOGBO",
+        "OKE ERI/ OGBOGBO"
       ],
       "IJEBU ODE": [
         "IJADA-IMEPE I",
@@ -8490,9 +8484,9 @@ export const areas: NigeriaState[] = [
         "ODO-EGBO OLIWORO",
         "ODO-ESA",
         "POROGUN I",
-        "POROGUN II",
+        "POROGUN II"
       ],
-      IKENNE: [
+      "IKENNE": [
         "IKENNE I",
         "IKENNE II",
         "ILISAN I",
@@ -8502,7 +8496,7 @@ export const areas: NigeriaState[] = [
         "IPERU II",
         "IPERU III",
         "OGERE I",
-        "OGERE II",
+        "OGERE II"
       ],
       "IMEKO AFON": [
         "AFON",
@@ -8514,9 +8508,9 @@ export const areas: NigeriaState[] = [
         "IWOYE/JABATA",
         "KAJOLA/AGBERIODO",
         "OKE AGBEDE",
-        "OWODE/IDIAYIN",
+        "OWODE/IDIAYIN"
       ],
-      IPOKIA: [
+      "IPOKIA": [
         "AGADA",
         "AGOSASA",
         "AJEGUNLE",
@@ -8528,7 +8522,7 @@ export const areas: NigeriaState[] = [
         "IPOKIA  II",
         "MAUN  I",
         "MAUN  II",
-        "TUBE",
+        "TUBE"
       ],
       "OBAFEMI OWODE": [
         "AJEBO",
@@ -8542,9 +8536,9 @@ export const areas: NigeriaState[] = [
         "OBAFEMI",
         "OFADA",
         "ONIDUNDU",
-        "OWODE",
+        "OWODE"
       ],
-      ODEDA: [
+      "ODEDA": [
         "ALABATA",
         "ALAGBAGBA",
         "BALOGUN ITESI",
@@ -8554,9 +8548,9 @@ export const areas: NigeriaState[] = [
         "ODEDA",
         "OLODO",
         "OPEJI",
-        "OSIELE",
+        "OSIELE"
       ],
-      ODOGBOLU: [
+      "ODOGBOLU": [
         "AIYEPE",
         "ALA",
         "IBEFUN",
@@ -8571,7 +8565,7 @@ export const areas: NigeriaState[] = [
         "OGBO MORAIKA ITA EPO I",
         "OKUN- OWA",
         "OMU",
-        "OSOSA",
+        "OSOSA"
       ],
       "OGUN WATERSIDE": [
         "ABIGI",
@@ -8583,7 +8577,7 @@ export const areas: NigeriaState[] = [
         "LUKOGBE/ILUSHIN",
         "MAKUN/IROKUN",
         "ODE OMI",
-        "ONI",
+        "ONI"
       ],
       "REMO NORTH": [
         "AIYEGBAMI",
@@ -8595,9 +8589,9 @@ export const areas: NigeriaState[] = [
         "ODE I",
         "ODE II",
         "ODOFIN/IMAGBON/PETEKU/ DAWA",
-        "ORILE-OKO",
+        "ORILE-OKO"
       ],
-      SAGAMU: [
+      "SAGAMU": [
         "AGBOWA",
         "AYEGBAMI / IJOKUN",
         "IBIDO /ITUNLA / ALARA",
@@ -8612,14 +8606,14 @@ export const areas: NigeriaState[] = [
         "SABO  I",
         "SABO  II",
         "SIMAWA / IWELEPE",
-        "SURULERE",
-      ],
-    },
+        "SURULERE"
+      ]
+    }
   },
   {
-    code: "ON",
-    name: "ONDO",
-    lgas: [
+    "code": "ON",
+    "name": "ONDO",
+    "lgas": [
       "AKOKO NORTH EAST",
       "AKOKO NORTH WEST",
       "AKOKO SOUTH EAST",
@@ -8637,9 +8631,9 @@ export const areas: NigeriaState[] = [
       "ONDO EAST",
       "ONDO WEST",
       "OSE",
-      "OWO",
+      "OWO"
     ],
-    subs: {
+    "subs": {
       "AKOKO NORTH EAST": [
         "EDO",
         "EKAN",
@@ -8653,7 +8647,7 @@ export const areas: NigeriaState[] = [
         "IYOMETA II",
         "OORUN I",
         "OORUN II",
-        "OYINMO",
+        "OYINMO"
       ],
       "AKOKO NORTH WEST": [
         "AJOWA",
@@ -8665,7 +8659,7 @@ export const areas: NigeriaState[] = [
         "OGBAGI",
         "OKE IRUN",
         "OKEAGBE",
-        "OYIN/OGE",
+        "OYIN/OGE"
       ],
       "AKOKO SOUTH EAST": [
         "EPINMI I",
@@ -8678,7 +8672,7 @@ export const areas: NigeriaState[] = [
         "ISUA II",
         "ISUA III",
         "ISUA IV",
-        "SOSAN",
+        "SOSAN"
       ],
       "AKOKO SOUTH WEST": [
         "AKUNGBA I",
@@ -8695,7 +8689,7 @@ export const areas: NigeriaState[] = [
         "OKA VA OWALUSI",
         "OKA VB OKA ODO",
         "SUPARE I",
-        "SUPARE II",
+        "SUPARE II"
       ],
       "AKURE NORTH": [
         "AGAMO /OKE OORE",
@@ -8709,7 +8703,7 @@ export const areas: NigeriaState[] = [
         "OBA -ILE",
         "ODO -OJA/IJIGBO",
         "OKE AFA/OWODE",
-        "OKE IJU",
+        "OKE IJU"
       ],
       "AKURE SOUTH": [
         "APONMU",
@@ -8722,7 +8716,7 @@ export const areas: NigeriaState[] = [
         "OKE ARO / URO I",
         "OKE ARO / URO II",
         "OSHODI / ISOLO",
-        "OWODE / IMUAGUN",
+        "OWODE / IMUAGUN"
       ],
       "ESE ODO": [
         "APOI I",
@@ -8734,9 +8728,9 @@ export const areas: NigeriaState[] = [
         "AROGBO II",
         "AROGBO III",
         "UKPARAMA I",
-        "UKPARAMA II",
+        "UKPARAMA II"
       ],
-      IDANRE: [
+      "IDANRE": [
         "ALA ELEFOSAN",
         "ALADE ATOSIN",
         "IDALE LEMIKAN",
@@ -8746,9 +8740,9 @@ export const areas: NigeriaState[] = [
         "ISALU EHINPETI",
         "ISALU JIGBOKIN",
         "OFOSU/ONISERE",
-        "OWENA/APONMULONA",
+        "OWENA/APONMULONA"
       ],
-      IFEDORE: [
+      "IFEDORE": [
         "ERO/IBOJI/MARIWO",
         "IGBARAOKE I",
         "IGBARAOKE II",
@@ -8758,9 +8752,9 @@ export const areas: NigeriaState[] = [
         "ILARA II",
         "IPOGUN/IBULE",
         "ISARUN/ERIGI",
-        "OBO/IKOTA/OLO-GBO",
+        "OBO/IKOTA/OLO-GBO"
       ],
-      ILAJE: [
+      "ILAJE": [
         "AHERI",
         "ETIKAN",
         "MAHIN 1V",
@@ -8772,7 +8766,7 @@ export const areas: NigeriaState[] = [
         "UGBO III",
         "UGBO IV",
         "UGBO V",
-        "UGBO V1",
+        "UGBO V1"
       ],
       "ILEOLUJI/OKEIGBO": [
         "ILEOLUJI I",
@@ -8784,9 +8778,9 @@ export const areas: NigeriaState[] = [
         "OKE-IGBO III",
         "OKE-IGBOIV",
         "OKEIGBO I",
-        "OKEIGBO II",
+        "OKEIGBO II"
       ],
-      IRELE: [
+      "IRELE": [
         "AJAGBA I",
         "AJAGBA II",
         "AKOTOGBO I",
@@ -8796,9 +8790,9 @@ export const areas: NigeriaState[] = [
         "IRELE III",
         "IRELE IV",
         "IRELE V",
-        "IYANSAN/OMI",
+        "IYANSAN/OMI"
       ],
-      ODIGBO: [
+      "ODIGBO": [
         "AGBABU",
         "AGO ALAYE",
         "AJUE",
@@ -8809,9 +8803,9 @@ export const areas: NigeriaState[] = [
         "ODIGBO",
         "ONIPARAGA",
         "ORE I",
-        "ORE II",
+        "ORE II"
       ],
-      OKITIPUPA: [
+      "OKITIPUPA": [
         "AYEKA/IGBODIGO",
         "ERINJE",
         "IGBOTAKO  I",
@@ -8824,7 +8818,7 @@ export const areas: NigeriaState[] = [
         "ODE AYE  I",
         "ODE AYE  II",
         "OKITIPUPA  I",
-        "OKITIPUPA  II",
+        "OKITIPUPA  II"
       ],
       "ONDO EAST": [
         "ASANTAN OJA",
@@ -8836,7 +8830,7 @@ export const areas: NigeriaState[] = [
         "OBOTO",
         "ORISUMIBARE",
         "OWENA",
-        "TEPO",
+        "TEPO"
       ],
       "ONDO WEST": [
         "ENU OWA/OBALALU",
@@ -8850,9 +8844,9 @@ export const areas: NigeriaState[] = [
         "OKE AGUNLA/OKEROWO/ OKEKUTA",
         "OKE OTUNBA/OKEDIBO/ SOKOTI",
         "OKELISA/OKEDIBO/OGBODU",
-        "ORISUNMIBARE/ARAROMI",
+        "ORISUNMIBARE/ARAROMI"
       ],
-      OSE: [
+      "OSE": [
         "AFO",
         "IDOANI I",
         "IDOANI II",
@@ -8864,9 +8858,9 @@ export const areas: NigeriaState[] = [
         "IMERI",
         "IMORU ARIMOGIJA",
         "OKELUSE",
-        "UTE",
+        "UTE"
       ],
-      OWO: [
+      "OWO": [
         "EHINGBE",
         "IGBOROKO I",
         "IGBOROKO II",
@@ -8877,14 +8871,14 @@ export const areas: NigeriaState[] = [
         "ISAIPEN",
         "ISUADA",
         "IYERE",
-        "USO/EMURE",
-      ],
-    },
+        "USO/EMURE"
+      ]
+    }
   },
   {
-    code: "OS",
-    name: "OSUN",
-    lgas: [
+    "code": "OS",
+    "name": "OSUN",
+    "lgas": [
       "ATAKUMOSA EAST",
       "ATAKUMOSA WEST",
       "AYEDAADE",
@@ -8914,9 +8908,9 @@ export const areas: NigeriaState[] = [
       "OLORUNDA",
       "ORIADE",
       "OROLU",
-      "OSOGBO",
+      "OSOGBO"
     ],
-    subs: {
+    "subs": {
       "ATAKUMOSA EAST": [
         "AJEBANDELE",
         "AYEGUNLE",
@@ -8927,7 +8921,7 @@ export const areas: NigeriaState[] = [
         "IGANGAN",
         "IPERINDO",
         "IPOLE",
-        "IWARA",
+        "IWARA"
       ],
       "ATAKUMOSA WEST": [
         "IBODI",
@@ -8940,9 +8934,9 @@ export const areas: NigeriaState[] = [
         "OKE-BODE",
         "OSU I",
         "OSU II",
-        "OSU III",
+        "OSU III"
       ],
-      AYEDAADE: [
+      "AYEDAADE": [
         "ANLUGBUA",
         "ARAROMI OWU",
         "BALOGUN",
@@ -8953,9 +8947,9 @@ export const areas: NigeriaState[] = [
         "ODEOMU RURAL",
         "OLUFI",
         "OTUN BALOGUN",
-        "OTUN OLUFI",
+        "OTUN OLUFI"
       ],
-      AYEDIRE: [
+      "AYEDIRE": [
         "ILEOGBO 1",
         "ILEOGBO II",
         "ILEOGBO III",
@@ -8965,9 +8959,9 @@ export const areas: NigeriaState[] = [
         "OKE OSUN",
         "OLUPONNA I",
         "OLUPONNA II",
-        "OLUPONNA III",
+        "OLUPONNA III"
       ],
-      BOLUWADURO: [
+      "BOLUWADURO": [
         "ERIPA",
         "GBELERU OBAALA I",
         "GBELERU OBAALA II",
@@ -8977,9 +8971,9 @@ export const areas: NigeriaState[] = [
         "OKE IRUN",
         "OKE ODE OTAN",
         "OKE OMI OTAN",
-        "OKE OTAN",
+        "OKE OTAN"
       ],
-      BORIPE: [
+      "BORIPE": [
         "AAGBA",
         "ADA I",
         "ADA II",
@@ -8990,7 +8984,7 @@ export const areas: NigeriaState[] = [
         "OKE AAREE",
         "OKE ESA/OKE OGI",
         "OLOTI",
-        "ORORUWO",
+        "ORORUWO"
       ],
       "EDE NORTH": [
         "ABOGUNDE/SAGBA",
@@ -9003,7 +8997,7 @@ export const areas: NigeriaState[] = [
         "OLOGUN/AGBAAKIN",
         "OLUSOKUN",
         "SABO/AGBONGBE I",
-        "SABO/AGBONGBE II",
+        "SABO/AGBONGBE II"
       ],
       "EDE SOUTH": [
         "ALAJUE I",
@@ -9015,9 +9009,9 @@ export const areas: NigeriaState[] = [
         "LOOGUN",
         "OLODAN",
         "OLOKI AKODA",
-        "SEKONA",
+        "SEKONA"
       ],
-      EGBEDORE: [
+      "EGBEDORE": [
         "ARA I",
         "ARA II",
         "AWO/ABUDO",
@@ -9027,20 +9021,20 @@ export const areas: NigeriaState[] = [
         "IRAGBERI II",
         "IWOYE /IDOO/ ORIGBO",
         "OJO /ARO",
-        "OKINNI/OFATEDO/ OLORUNSOGO",
+        "OKINNI/OFATEDO/ OLORUNSOGO"
       ],
-      EJIGBO: [
-        'ELEJIGBO "A"',
-        'ELEJIGBO "B"/OSOLO',
-        'ELEJIGBO "C"/MAPO',
-        'ELEJIGBO "D"',
+      "EJIGBO": [
+        "ELEJIGBO \"A\"",
+        "ELEJIGBO \"B\"/OSOLO",
+        "ELEJIGBO \"C\"/MAPO",
+        "ELEJIGBO \"D\"",
         "ELEJIGBO/AYEGBOGBO",
-        'IFE ODAN "A"/,OWU ILE',
-        'IFE ODAN "B"/MASIFA',
+        "IFE ODAN \"A\"/,OWU ILE",
+        "IFE ODAN \"B\"/MASIFA",
         "ILAWO/ISOKO/ISUNDUNRIN",
         "INISA I/AATO/IGBON",
         "INISA II/AFAAKE/AYEGUNLE",
-        "OLA/AAYE/AGURODO",
+        "OLA/AAYE/AGURODO"
       ],
       "IFE CENTRAL": [
         "AKARABATA",
@@ -9053,7 +9047,7 @@ export const areas: NigeriaState[] = [
         "IREMO III",
         "IREMO IV",
         "IREMO V",
-        "MOORE/OJAJA",
+        "MOORE/OJAJA"
       ],
       "IFE EAST": [
         "ILODE I",
@@ -9065,7 +9059,7 @@ export const areas: NigeriaState[] = [
         "OKEREWE I",
         "OKEREWE II",
         "OKEREWE III",
-        "YEKEMI",
+        "YEKEMI"
       ],
       "IFE NORTH": [
         "ASIPA/AKINLALU",
@@ -9077,7 +9071,7 @@ export const areas: NigeriaState[] = [
         "MORO",
         "OYERE I",
         "OYERE II",
-        "YAKOOYO",
+        "YAKOOYO"
       ],
       "IFE SOUTH": [
         "AARE",
@@ -9090,9 +9084,9 @@ export const areas: NigeriaState[] = [
         "MEFOWORADE",
         "OKE OWENA",
         "OLODE",
-        "OSI",
+        "OSI"
       ],
-      IFEDAYO: [
+      "IFEDAYO": [
         "AKESIN",
         "ASAONI",
         "AWORO/ OKE ILA RURAL",
@@ -9102,9 +9096,9 @@ export const areas: NigeriaState[] = [
         "ISINMI OLOOTU",
         "OBAALE",
         "OYI",
-        "TEMIDIRE",
+        "TEMIDIRE"
       ],
-      IFELODUN: [
+      "IFELODUN": [
         "AMOLA IKIRUN",
         "EESA IKIRUN",
         "EKO ENDE/EKO AJALA",
@@ -9116,9 +9110,9 @@ export const areas: NigeriaState[] = [
         "OKEBA IKIRUN",
         "OLONDE IKIRUN",
         "OWODE IKIRUN",
-        "STATION RD, IKIRUN",
+        "STATION RD, IKIRUN"
       ],
-      ILA: [
+      "ILA": [
         "AJABA/EDEMOSI/ABA ORANGUN",
         "EJIGBO I",
         "EJIGBO II",
@@ -9129,7 +9123,7 @@ export const areas: NigeriaState[] = [
         "ISEDO I",
         "ISEDO II",
         "OKE OLA",
-        "OKE-EDE",
+        "OKE-EDE"
       ],
       "ILESHA EAST": [
         "BILADU",
@@ -9142,7 +9136,7 @@ export const areas: NigeriaState[] = [
         "ISARE",
         "ITISIN",
         "OKESA",
-        "UPPER &LOWER IJOKA",
+        "UPPER &LOWER IJOKA"
       ],
       "ILESHA WEST": [
         "AYESO",
@@ -9154,9 +9148,9 @@ export const areas: NigeriaState[] = [
         "ITAKOGUN/UPPER EGBE-IDI",
         "LOWER EGBE-IDI",
         "OMOFE/IDASA",
-        "UPPER/LOWER IGBOGI",
+        "UPPER/LOWER IGBOGI"
       ],
-      IREPODUN: [
+      "IREPODUN": [
         "BARA 'A'",
         "BARA 'B'",
         "ELERIN 'A'",
@@ -9167,9 +9161,9 @@ export const areas: NigeriaState[] = [
         "OLOBU 'A'",
         "OLOBU 'B'",
         "OLOBU 'C'",
-        "OLOBU 'D'",
+        "OLOBU 'D'"
       ],
-      IREWOLE: [
+      "IREWOLE": [
         "IKIRE 'A'",
         "IKIRE 'B'",
         "IKIRE 'C'",
@@ -9180,9 +9174,9 @@ export const areas: NigeriaState[] = [
         "IKIRE 'H'",
         "IKIRE 'I'",
         "IKIRE 'J'",
-        "IKIRE 'K'",
+        "IKIRE 'K'"
       ],
-      ISOKAN: [
+      "ISOKAN": [
         "ALAPOMU I",
         "ALAPOMU II",
         "ASALU IKOYI",
@@ -9193,9 +9187,9 @@ export const areas: NigeriaState[] = [
         "OLUKOYI (OJA-OSUN)",
         "OOSA ADIFA",
         "OOSA IKOYI",
-        "ORANRAN",
+        "ORANRAN"
       ],
-      IWO: [
+      "IWO": [
         "GIDIGBO I",
         "GIDIGBO II",
         "GIDIGBO III",
@@ -9210,9 +9204,9 @@ export const areas: NigeriaState[] = [
         "OKE ADAN II",
         "OKE ADAN III",
         "OKE OBA I",
-        "OKE OBA II",
+        "OKE OBA II"
       ],
-      OBOKUN: [
+      "OBOKUN": [
         "EESUN / IDOOKO",
         "ESA-ODO",
         "ESA-OKE",
@@ -9222,7 +9216,7 @@ export const areas: NigeriaState[] = [
         "ILASE / IDOMINASI",
         "IMESI-ILE",
         "IPETU/ADA OWODE",
-        "OTAN-ILE",
+        "OTAN-ILE"
       ],
       "ODO OTIN": [
         "ASI/ASABA",
@@ -9239,7 +9233,7 @@ export const areas: NigeriaState[] = [
         "OLUKOTUN",
         "OLUNISA",
         "OORE/AGBEYE",
-        "OSOLO/OPARINOLA",
+        "OSOLO/OPARINOLA"
       ],
       "OLA OLUWA": [
         "AJAGBA /IWO-OKE",
@@ -9251,9 +9245,9 @@ export const areas: NigeriaState[] = [
         "OBAMORO /ILE-OGBO",
         "OGBAAGBA I",
         "OGBAAGBA II",
-        "TELEMU",
+        "TELEMU"
       ],
-      OLORUNDA: [
+      "OLORUNDA": [
         "AGOWANDE",
         "AKOGUN",
         "ATELEWO",
@@ -9264,9 +9258,9 @@ export const areas: NigeriaState[] = [
         "OBA-ILE",
         "OWODE I",
         "OWODE II",
-        "OWOOPE",
+        "OWOOPE"
       ],
-      ORIADE: [
+      "ORIADE": [
         "APOTI/DAGBAJA",
         "ERIN-JESA",
         "ERIN-OKE",
@@ -9278,9 +9272,9 @@ export const areas: NigeriaState[] = [
         "IPETU-IJESA I",
         "IPETU-IJESA II",
         "IRA",
-        "IWOYE-IJESA",
+        "IWOYE-IJESA"
       ],
-      OROLU: [
+      "OROLU": [
         "OLUFON 'A'",
         "OLUFON 'B'",
         "OLUFON 'C'",
@@ -9290,9 +9284,9 @@ export const areas: NigeriaState[] = [
         "OLUFON 'G'",
         "OLUFON 'H'",
         "OLUFON 'I'",
-        "OLUFON 'J'",
+        "OLUFON 'J'"
       ],
-      OSOGBO: [
+      "OSOGBO": [
         "ALAGBAA",
         "ARE AGO",
         "ATAOJA 'A'",
@@ -9307,14 +9301,14 @@ export const areas: NigeriaState[] = [
         "JAGUN 'B'",
         "OTUN BALOGUN 'A'",
         "OTUN JAGUN 'A'",
-        "OTUN JAGUN 'B'",
-      ],
-    },
+        "OTUN JAGUN 'B'"
+      ]
+    }
   },
   {
-    code: "OY",
-    name: "OYO",
-    lgas: [
+    "code": "OY",
+    "name": "OYO",
+    "lgas": [
       "AFIJIO",
       "AKINYELE",
       "ATIBA",
@@ -9347,10 +9341,10 @@ export const areas: NigeriaState[] = [
       "OYO WEST",
       "SAKI EAST",
       "SAKI WEST",
-      "SURULERE",
+      "SURULERE"
     ],
-    subs: {
-      AFIJIO: [
+    "subs": {
+      "AFIJIO": [
         "AKINMORIN/JOBELE",
         "AWE I",
         "AWE II",
@@ -9360,9 +9354,9 @@ export const areas: NigeriaState[] = [
         "ILORAL II",
         "ILORAL III",
         "IMINI",
-        "IWARE",
+        "IWARE"
       ],
-      AKINYELE: [
+      "AKINYELE": [
         "AJIBADE/ALABATA/ELEKURU",
         "AKINYELE/ISABIYI/IREPODUN",
         "ARULOGUN/ENIOSA/ARORO",
@@ -9374,9 +9368,9 @@ export const areas: NigeriaState[] = [
         "OJOO/AJIBODE/LANIBA",
         "OLANLA/OBODA/LABODE",
         "OLODE/AMOSUN/ONIDUNDU",
-        "OLORISA-OKO/OKEGBEMI/ MELE",
+        "OLORISA-OKO/OKEGBEMI/ MELE"
       ],
-      ATIBA: [
+      "ATIBA": [
         "AGUNPOPO I",
         "AGUNPOPO II",
         "AGUNPOPO III",
@@ -9386,9 +9380,9 @@ export const areas: NigeriaState[] = [
         "ASHIPA III",
         "BASHORUN",
         "OKE-AFIN I",
-        "OKE-AFIN II",
+        "OKE-AFIN II"
       ],
-      ATISBO: [
+      "ATISBO": [
         "AGO-ARE I",
         "AGO-ARE II",
         "ALAGA",
@@ -9398,9 +9392,9 @@ export const areas: NigeriaState[] = [
         "OFIKI",
         "OWO/AGUNREGE/SABE",
         "TEDE I",
-        "TEDE II",
+        "TEDE II"
       ],
-      EGBEDA: [
+      "EGBEDA": [
         "AYEDE/ALUGBO KOLOKO",
         "EGBEDA",
         "ERUNMU",
@@ -9411,7 +9405,7 @@ export const areas: NigeriaState[] = [
         "OLODO/KUMAPAYI I",
         "OLUBADAN ESTATE",
         "OSEGERE/AWAYE",
-        "OWOBAALE/KASUMU",
+        "OWOBAALE/KASUMU"
       ],
       "IBADAN NORTH": [
         "WARD 1 N2",
@@ -9425,7 +9419,7 @@ export const areas: NigeriaState[] = [
         "WARD VIII, N6A PARTY III",
         "WARD X, N6B PARTY II",
         "WARD XI, NW8",
-        "WARD XII, NW8",
+        "WARD XII, NW8"
       ],
       "IBADAN NORTH EAST": [
         "WARD 1 EI",
@@ -9439,7 +9433,7 @@ export const areas: NigeriaState[] = [
         "WARD VIII, E71",
         "WARD X,  E8",
         "WARD XI, E9I",
-        "WARD XII, E9II",
+        "WARD XII, E9II"
       ],
       "IBADAN NORTH WEST": [
         "WARD 02 N1(PART 2)",
@@ -9452,7 +9446,7 @@ export const areas: NigeriaState[] = [
         "WARD 09 NW6",
         "WARD 1 N1(PART1)",
         "WARD 10 NW7",
-        "WARD 11 NW7",
+        "WARD 11 NW7"
       ],
       "IBADAN SOUTH EAST": [
         "C1",
@@ -9466,7 +9460,7 @@ export const areas: NigeriaState[] = [
         "S6A",
         "S6B",
         "S7A",
-        "S7B",
+        "S7B"
       ],
       "IBADAN SOUTH WEST": [
         "WARD 01 C1",
@@ -9480,7 +9474,7 @@ export const areas: NigeriaState[] = [
         "WARD 09 SW8 (I)",
         "WARD 10 SW8 (II)",
         "WARD 11 SW9 (I)",
-        "WARD 12 SW9 (II)",
+        "WARD 12 SW9 (II)"
       ],
       "IBARAPA CENTRAL": [
         "IBEREKODO (AGBOORO/ITA BAA)",
@@ -9492,7 +9486,7 @@ export const areas: NigeriaState[] = [
         "IGBOLE/PAKO",
         "ISALE OBA",
         "OKESERIN I & II",
-        "OKO ODO",
+        "OKO ODO"
       ],
       "IBARAPA EAST": [
         "ABORERIN",
@@ -9504,7 +9498,7 @@ export const areas: NigeriaState[] = [
         "OKE OBA",
         "OKE OTUN",
         "OKE-IMALE",
-        "SANGO",
+        "SANGO"
       ],
       "IBARAPA NORTH": [
         "AYETE I",
@@ -9516,9 +9510,9 @@ export const areas: NigeriaState[] = [
         "OFIKI I",
         "OFIKI II",
         "TAPA I",
-        "TAPA II",
+        "TAPA II"
       ],
-      IDO: [
+      "IDO": [
         "ABA EMO /ILAJU /ALAKO",
         "AKINWARE/AKINDELE",
         "AKUFO/IDIGBA/ARAROMI",
@@ -9528,9 +9522,9 @@ export const areas: NigeriaState[] = [
         "FENWA/OGANLA/ELENUSONSO",
         "IDO/ONIKEDE/OKUNA-AWO",
         "OGUNDELE/ALAHO/SIBA/IDI- AHUN",
-        "OMI-ADIO/OMIONIGBAGBO/ BAKATARI",
+        "OMI-ADIO/OMIONIGBAGBO/ BAKATARI"
       ],
-      IREPO: [
+      "IREPO": [
         "AGORO",
         "AJAGUNNA",
         "ATIPA",
@@ -9540,9 +9534,9 @@ export const areas: NigeriaState[] = [
         "IBA IV",
         "IBA V",
         "IKOLABA",
-        "LAHA/AJANA",
+        "LAHA/AJANA"
       ],
-      ISEYIN: [
+      "ISEYIN": [
         "ADO AWAYE",
         "AKINWUMI/OSOOGO",
         "EKUNLE I",
@@ -9553,9 +9547,9 @@ export const areas: NigeriaState[] = [
         "ISALU II",
         "KOSO I",
         "KOSO II",
-        "LADOGAN",
+        "LADOGAN"
       ],
-      ITESIWAJU: [
+      "ITESIWAJU": [
         "BABA ODE",
         "IGBOJAIYE",
         "IPAPO",
@@ -9565,9 +9559,9 @@ export const areas: NigeriaState[] = [
         "OKE AMU",
         "OTU I",
         "OTU II",
-        "OWODE/IPAPO",
+        "OWODE/IPAPO"
       ],
-      IWAJOWA: [
+      "IWAJOWA": [
         "AGBAAKIN I",
         "AGBAAKIN II",
         "IWERE-ILE  I",
@@ -9577,9 +9571,9 @@ export const areas: NigeriaState[] = [
         "SABI-GANA I",
         "SABI-GANA II",
         "SABI-GANA III",
-        "SABI-GANA IV",
+        "SABI-GANA IV"
       ],
-      KAJOLA: [
+      "KAJOLA": [
         "AYETORO-OKE",
         "ELERO",
         "GBELEKALE I&II",
@@ -9590,9 +9584,9 @@ export const areas: NigeriaState[] = [
         "ISEMI-ILE/IMIA/ILUA",
         "ISIA",
         "KAJOLA",
-        "OLELE",
+        "OLELE"
       ],
-      LAGELU: [
+      "LAGELU": [
         "AYETE I",
         "AYETE II",
         "IGANGAN I",
@@ -9606,7 +9600,7 @@ export const areas: NigeriaState[] = [
         "SAGBE/PABIEKUN",
         "TAPA I",
         "TAPA II",
-        "UNITED NATION PRY SCH. OGUNREMI",
+        "UNITED NATION PRY SCH. OGUNREMI"
       ],
       "OGBOMOSHO NIORTH": [
         "AAJE/ABOGUNDE",
@@ -9618,7 +9612,7 @@ export const areas: NigeriaState[] = [
         "JAGUN",
         "OKE ELERIN",
         "OSUPA",
-        "SABO/TARA",
+        "SABO/TARA"
       ],
       "OGBOMOSHO SOUTH": [
         "AKATA",
@@ -9630,7 +9624,7 @@ export const areas: NigeriaState[] = [
         "ILOGBO",
         "ISOKO",
         "LAGBEDU",
-        "OKE OLA/FARM SETTLEMENT",
+        "OKE OLA/FARM SETTLEMENT"
       ],
       "OGO OLUWA": [
         "AJAAWA I",
@@ -9642,9 +9636,9 @@ export const areas: NigeriaState[] = [
         "MOWOLOWO/IWO-ATE",
         "ODO-OBA",
         "OPETE",
-        "OTAMOKUN",
+        "OTAMOKUN"
       ],
-      OLORUNSOGO: [
+      "OLORUNSOGO": [
         "ABOKE (ABOYUNOGUN)",
         "ELERUGBA/ELEHINKE/SAGBON (APERU)",
         "IKOLABA/OBADIMO",
@@ -9654,9 +9648,9 @@ export const areas: NigeriaState[] = [
         "OPA/OGUNNIYI",
         "SERIKI I & ABOSIN (OKIN)",
         "SERIKI II (AGBELE)",
-        "WARO /APATA-ALAJE",
+        "WARO /APATA-ALAJE"
       ],
-      OLUYOLE: [
+      "OLUYOLE": [
         "ABANLA/OLUNDE",
         "AYEGUN",
         "IDI-IROKO/IKEREKU",
@@ -9666,7 +9660,7 @@ export const areas: NigeriaState[] = [
         "OKANHINDE/LATUNDE",
         "OLOMI/OLURINDE",
         "ONIPE",
-        "ORISUNBARE/OJO-EKUN",
+        "ORISUNBARE/OJO-EKUN"
       ],
       "ONA ARA": [
         "AKANRAN/OLORUNDA",
@@ -9679,9 +9673,9 @@ export const areas: NigeriaState[] = [
         "OJOKU/AJIA",
         "OLODE/GBEDUN/OJEBODE",
         "OLORUNSOGO",
-        "OREMEJI/AGUGU",
+        "OREMEJI/AGUGU"
       ],
-      OORELOPE: [
+      "OORELOPE": [
         "AARE",
         "ALEPATA",
         "BONNI",
@@ -9691,9 +9685,9 @@ export const areas: NigeriaState[] = [
         "ONIBODE I",
         "ONIBODE II",
         "ONIBODE III",
-        "ONIGBOHO/ALOMO/OKERE",
+        "ONIGBOHO/ALOMO/OKERE"
       ],
-      ORIIRE: [
+      "ORIIRE": [
         "ORIIRE I",
         "ORIIRE II",
         "ORIIRE III",
@@ -9703,7 +9697,7 @@ export const areas: NigeriaState[] = [
         "ORIIRE VI",
         "ORIIRE VII",
         "ORIIRE VIII",
-        "ORIIRE X",
+        "ORIIRE X"
       ],
       "OYO EAST": [
         "AGBOYE/MOLETE",
@@ -9715,7 +9709,7 @@ export const areas: NigeriaState[] = [
         "JABATA",
         "OKE APO",
         "OLU AJO",
-        "OWODE/ARAROMI",
+        "OWODE/ARAROMI"
       ],
       "OYO WEST": [
         "AJOKIDERU",
@@ -9727,7 +9721,7 @@ export const areas: NigeriaState[] = [
         "IYAJI",
         "OPAPA",
         "OWODE",
-        "PAKOYI / IDODE",
+        "PAKOYI / IDODE"
       ],
       "SAKI EAST": [
         "AGBONLE",
@@ -9740,7 +9734,7 @@ export const areas: NigeriaState[] = [
         "SEPETERI I",
         "SEPETERI II",
         "SEPETERI III",
-        "SEPETERI IV",
+        "SEPETERI IV"
       ],
       "SAKI WEST": [
         "AGANMU/KOOKO",
@@ -9753,9 +9747,9 @@ export const areas: NigeriaState[] = [
         "OKERE I",
         "OKERE II",
         "SANGOTE/BOODA/BAABO/ ILUA",
-        "SEPETERI/BAPON",
+        "SEPETERI/BAPON"
       ],
-      SURULERE: [
+      "SURULERE": [
         "AROLU",
         "BAYAOJE",
         "IGBON/GAMBARI",
@@ -9765,15 +9759,15 @@ export const areas: NigeriaState[] = [
         "IRESAAPA",
         "IWOFIN",
         "MAYIN",
-        "OKO",
-      ],
-    },
+        "OKO"
+      ]
+    }
   },
   {
-    code: "PL",
-    name: "PLATEAU",
-    lgas: [
-      "BARKINLADI",
+    "code": "PL",
+    "name": "PLATEAU",
+    "lgas": [
+      "BARKIN LADI",
       "BASSA",
       "BOKKOS",
       "JOS EAST",
@@ -9781,18 +9775,18 @@ export const areas: NigeriaState[] = [
       "JOS SOUTH",
       "KANAM",
       "KANKE",
-      "LANTANG NORTH",
-      "LANTANG SOUTH",
+      "LANGTANG NORTH",
+      "LANGTANG SOUTH",
       "MANGU",
       "MIKANG",
       "PANKSHIN",
-      "QUAANPAN",
-      "RIYON",
+      "QUAAN PAN",
+      "RIYOM",
       "SHENDAM",
-      "WASE",
+      "WASE"
     ],
-    subs: {
-      BARKINLADI: [
+    "subs": {
+      "BARKIN LADI": [
         "BARKIN LADI",
         "GASSA/SHO",
         "GINDIN AKWATI",
@@ -9803,9 +9797,9 @@ export const areas: NigeriaState[] = [
         "MARIT/MAZAT",
         "RAFAN",
         "TAFAN",
-        "ZABOT",
+        "ZABOT"
       ],
-      BASSA: [
+      "BASSA": [
         "BUHIT",
         "BUJI",
         "GABIA",
@@ -9821,9 +9815,9 @@ export const areas: NigeriaState[] = [
         "TA'AGBE",
         "TAHU",
         "ZABOLO",
-        "ZOBWO",
+        "ZOBWO"
       ],
-      BOKKOS: [
+      "BOKKOS": [
         "BOKKOS",
         "BUTURA",
         "DAFFO",
@@ -9837,7 +9831,7 @@ export const areas: NigeriaState[] = [
         "RICHA",
         "SHA",
         "TANGUR",
-        "TOFF",
+        "TOFF"
       ],
       "JOS EAST": [
         "FEDERE",
@@ -9849,7 +9843,7 @@ export const areas: NigeriaState[] = [
         "MAI JUJU",
         "SHERE EAST",
         "SHERE WEST",
-        "ZANDI",
+        "ZANDI"
       ],
       "JOS NORTH": [
         "ABBA NA SHEHU",
@@ -9865,7 +9859,7 @@ export const areas: NigeriaState[] = [
         "SARKIN ARAB",
         "TAFAWA BALEWA",
         "TUDUN WADA KABONG",
-        "VANDERPUYE",
+        "VANDERPUYE"
       ],
       "JOS SOUTH": [
         "BUKURU",
@@ -9879,9 +9873,9 @@ export const areas: NigeriaState[] = [
         "TURU",
         "VWANG",
         "ZAWAN 'A",
-        "ZAWAN 'B'",
+        "ZAWAN 'B'"
       ],
-      KANAM: [
+      "KANAM": [
         "BIRBYANG",
         "DENGI",
         "DUGUB",
@@ -9895,9 +9889,9 @@ export const areas: NigeriaState[] = [
         "KANTANA",
         "KUNKYAM",
         "MUNBUTBO",
-        "NAMARAN",
+        "NAMARAN"
       ],
-      KANKE: [
+      "KANKE": [
         "AMPANG EAST",
         "AMPER CHIKA 'A'",
         "AMPER CHIKA 'B'",
@@ -9907,9 +9901,9 @@ export const areas: NigeriaState[] = [
         "KABWIR GYANGYANG",
         "KABWIR PADA",
         "LANGSHI",
-        "NEMEL",
+        "NEMEL"
       ],
-      "LANTANG NORTH": [
+      "LANGTANG NORTH": [
         "FUNYALANG",
         "JAT",
         "KELLER",
@@ -9923,9 +9917,9 @@ export const areas: NigeriaState[] = [
         "PILGANI",
         "PISHE/YASHI",
         "REAK",
-        "WAROH”",
+        "WAROH”"
       ],
-      "LANTANG SOUTH": [
+      "LANGTANG SOUTH": [
         "DADIN KOWA",
         "FAJUL",
         "GAMAKAI",
@@ -9935,9 +9929,9 @@ export const areas: NigeriaState[] = [
         "SABON GIDA",
         "TALGWANG",
         "TIMBOL",
-        "TURAKI",
+        "TURAKI"
       ],
-      MANGU: [
+      "MANGU": [
         "AMPANG WEST",
         "CHANSO",
         "GINDIRI I",
@@ -9953,9 +9947,9 @@ export const areas: NigeriaState[] = [
         "MANGU II",
         "MANGUN",
         "PANYAM",
-        "PUSHIT",
+        "PUSHIT"
       ],
-      MIKANG: [
+      "MIKANG": [
         "BALTEP",
         "GARKAWA CENTRAL",
         "GARKAWA NORTH",
@@ -9965,9 +9959,9 @@ export const areas: NigeriaState[] = [
         "LALIN",
         "PIAPUNG 'A'",
         "PIAPUNG 'B'",
-        "TUNKUS",
+        "TUNKUS"
       ],
-      PANKSHIN: [
+      "PANKSHIN": [
         "BELNING",
         "CHIGWONG",
         "CHIP",
@@ -9979,9 +9973,9 @@ export const areas: NigeriaState[] = [
         "LANKAN",
         "PANKSHIN CENTRAL",
         "TAL",
-        "WOKKOS",
+        "WOKKOS"
       ],
-      QUAANPAN: [
+      "QUAAN PAN": [
         "BWALL",
         "DOEMAK GOECHIM",
         "DOEMAK KOPLONG",
@@ -9992,9 +9986,9 @@ export const areas: NigeriaState[] = [
         "KWALLA YILA'AR",
         "KWANDE",
         "KWANG",
-        "NAMU",
+        "NAMU"
       ],
-      RIYON: [
+      "RIYOM": [
         "ATTAKAR",
         "BUM",
         "DANTO",
@@ -10004,9 +9998,9 @@ export const areas: NigeriaState[] = [
         "RIYOM",
         "SARUBUTU",
         "SOPP",
-        "TAHOSS",
+        "TAHOSS"
       ],
-      SHENDAM: [
+      "SHENDAM": [
         "DERTENG",
         "KALONG",
         "KURUNGBOU A",
@@ -10017,9 +10011,9 @@ export const areas: NigeriaState[] = [
         "SHENDAM A",
         "SHENDAM B",
         "SHIMANKAR",
-        "YELWA",
+        "YELWA"
       ],
-      WASE: [
+      "WASE": [
         "BASHAR",
         "DANBIRAM",
         "GUDUS",
@@ -10031,20 +10025,20 @@ export const areas: NigeriaState[] = [
         "NYALUM/ KAMPANI",
         "SALUWE",
         "WASE TOFA",
-        "YOLA WAKAT",
-      ],
-    },
+        "YOLA WAKAT"
+      ]
+    }
   },
   {
-    code: "RI",
-    name: "RIVERS",
-    lgas: [
+    "code": "RI",
+    "name": "RIVERS",
+    "lgas": [
       "ABUA/ODUAL",
       "AHOADA EAST",
       "AHOADA WEST",
-      "AKUKU TORU",
+      "AKUKU-TORU",
       "ANDONI",
-      "ASARI TORU",
+      "ASARI-TORU",
       "BONNY",
       "DEGEMA",
       "ELEME",
@@ -10053,17 +10047,17 @@ export const areas: NigeriaState[] = [
       "GOKANA",
       "IKWERRE",
       "KHANA",
-      "OBIO AKPOR",
-      "OGBA EGBEMA NDONI",
-      "OGU BOLO",
-      "OKIRIKA",
+      "OBIO/AKPOR",
+      "OGBA/EGBEMA/NDONI",
+      "OGU/BOLO",
+      "OKRIKA",
       "OMUMA",
-      "OPOBO NKORO",
+      "OPOBO/NKORO",
       "OYIGBO",
       "PORT HARCOURT",
-      "TAI",
+      "TAI"
     ],
-    subs: {
+    "subs": {
       "ABUA/ODUAL": [
         "ABUA I",
         "ABUA II",
@@ -10077,7 +10071,7 @@ export const areas: NigeriaState[] = [
         "EMUGHAM I",
         "EMUGHAM II",
         "OKPEDEN",
-        "OTAPHA",
+        "OTAPHA"
       ],
       "AHOADA EAST": [
         "AHOADA I",
@@ -10092,7 +10086,7 @@ export const areas: NigeriaState[] = [
         "UPPATA III",
         "UPPATA IV",
         "UPPATA V",
-        "UPPATA VI",
+        "UPPATA VI"
       ],
       "AHOADA WEST": [
         "EDIRO I",
@@ -10106,9 +10100,9 @@ export const areas: NigeriaState[] = [
         "UBIE I",
         "UBIE II",
         "UBIE III",
-        "UBIE IV",
+        "UBIE IV"
       ],
-      "AKUKU TORU": [
+      "AKUKU-TORU": [
         "ALISE GROUP",
         "BRIGGS I",
         "BRIGGS II",
@@ -10125,9 +10119,9 @@ export const areas: NigeriaState[] = [
         "KULA I",
         "KULA II",
         "NORTH/SOUTH GROUP",
-        "OBONMA",
+        "OBONMA"
       ],
-      ANDONI: [
+      "ANDONI": [
         "AGWUT OBOLO",
         "ASARAMA",
         "ATABA I",
@@ -10137,9 +10131,9 @@ export const areas: NigeriaState[] = [
         "SAMANGA",
         "UNYEADA I",
         "UNYEADA II",
-        "UNYENGALA",
+        "UNYENGALA"
       ],
-      "ASARI TORU": [
+      "ASARI-TORU": [
         "BUGUMA EAST I",
         "BUGUMA EAST II",
         "BUGUMA EAST WEST",
@@ -10152,9 +10146,9 @@ export const areas: NigeriaState[] = [
         "BUGUMA WEST",
         "ISIA GROUP I",
         "ISIA GROUP II",
-        "WEST CENTRAL GROUP",
+        "WEST CENTRAL GROUP"
       ],
-      BONNY: [
+      "BONNY": [
         "ABALAMABIE",
         "COURT/ADA ALLISON",
         "DAN JUMBO/BERESIRI",
@@ -10166,9 +10160,9 @@ export const areas: NigeriaState[] = [
         "OLOMA/AYAMINIMA",
         "ORO-IGWE",
         "OROSIRIRI",
-        "PETERSIDE",
+        "PETERSIDE"
       ],
-      DEGEMA: [
+      "DEGEMA": [
         "BAKANA I",
         "BAKANA II",
         "BAKANA III",
@@ -10185,9 +10179,9 @@ export const areas: NigeriaState[] = [
         "TOMBIA I",
         "TOMBIA II",
         "TOMBIA III",
-        "TOMBIA IV",
+        "TOMBIA IV"
       ],
-      ELEME: [
+      "ELEME": [
         "AGBONCHIA",
         "AKPAJO",
         "ALESA",
@@ -10197,9 +10191,9 @@ export const areas: NigeriaState[] = [
         "EKPORO",
         "ETEO",
         "OGALE",
-        "ONNE",
+        "ONNE"
       ],
-      EMOHUA: [
+      "EMOHUA": [
         "EGBEDA",
         "ELELE - ALIMINI",
         "EMOHUA I",
@@ -10213,9 +10207,9 @@ export const areas: NigeriaState[] = [
         "OMUDIOGA/AKPAABU/ITU",
         "RUMUEKPE",
         "RUNDELE",
-        "UBIMINI",
+        "UBIMINI"
       ],
-      ETCHE: [
+      "ETCHE": [
         "AFARA",
         "AKPOKU/UMUOYE OKEHI",
         "AKWA/ODAGWA",
@@ -10234,9 +10228,9 @@ export const areas: NigeriaState[] = [
         "OKEHI",
         "ORWU",
         "OZUZU",
-        "ULAKWO",
+        "ULAKWO"
       ],
-      GOKANA: [
+      "GOKANA": [
         "B-DERE",
         "BERA",
         "BIARA  II",
@@ -10253,9 +10247,9 @@ export const areas: NigeriaState[] = [
         "MOGHO",
         "NWEOL/GIOKO/BARAKO",
         "YEGHE I",
-        "YEGHE II",
+        "YEGHE II"
       ],
-      IKWERRE: [
+      "IKWERRE": [
         "ALUU",
         "APANI",
         "ELELE  I",
@@ -10268,9 +10262,9 @@ export const areas: NigeriaState[] = [
         "OMEDEMI/IPO",
         "OMERELU",
         "OZUAHA",
-        "UMUANWA",
+        "UMUANWA"
       ],
-      KHANA: [
+      "KHANA": [
         "BAEN/KPEAN/ DUBORO",
         "BANE",
         "BANGHA",
@@ -10289,9 +10283,9 @@ export const areas: NigeriaState[] = [
         "TAABAA",
         "UEGWERE",
         "WIIYAKARA",
-        "ZAAKPON",
+        "ZAAKPON"
       ],
-      "OBIO AKPOR": [
+      "OBIO/AKPOR": [
         "CHOBA",
         "ELELENWO",
         "ORO-IGWE",
@@ -10308,9 +10302,9 @@ export const areas: NigeriaState[] = [
         "RUMUOKWUTA",
         "RUMUOLUMENI",
         "RUMUOMASI",
-        "WOJI",
+        "WOJI"
       ],
-      "OGBA EGBEMA NDONI": [
+      "OGBA/EGBEMA/NDONI": [
         "EGBEMA I",
         "EGBEMA II",
         "EGI",
@@ -10326,9 +10320,9 @@ export const areas: NigeriaState[] = [
         "OMOKU I (OBOSI)",
         "OMOKU II (OBAKATA)",
         "OMOKU III (OBOSI)",
-        "OMOKU IV (OBAKATA)",
+        "OMOKU IV (OBAKATA)"
       ],
-      "OGU BOLO": [
+      "OGU/BOLO": [
         "BOLO I",
         "BOLO II",
         "BOLO III",
@@ -10340,9 +10334,9 @@ export const areas: NigeriaState[] = [
         "OGU IV",
         "OGU V",
         "OGU VI",
-        "WAKAMA",
+        "WAKAMA"
       ],
-      OKIRIKA: [
+      "OKRIKA": [
         "KALIO",
         "OGAN",
         "OGOLOMA I",
@@ -10353,9 +10347,9 @@ export const areas: NigeriaState[] = [
         "OKRIKA II",
         "OKRIKA III",
         "OKRIKA IV",
-        "OKRIKA V",
+        "OKRIKA V"
       ],
-      OMUMA: [
+      "OMUMA": [
         "ARIRANIIRI/OWU-AHIA COMMUNITY",
         "EBERI-DIKEOMUUO COMMUNITY",
         "OBIBI/AJULOKE COMMUNITY",
@@ -10365,9 +10359,9 @@ export const areas: NigeriaState[] = [
         "OYORO",
         "UMUAJULOKE COMMUNITY",
         "UMUOGBA I COMMUNITY",
-        "UMUOGBA II COMMUNITY",
+        "UMUOGBA II COMMUNITY"
       ],
-      "OPOBO NKORO": [
+      "OPOBO/NKORO": [
         "DAPPAYE AMA-KIRI I",
         "DAPPAYE AMA-KIRI II",
         "DIEPIRI",
@@ -10378,9 +10372,9 @@ export const areas: NigeriaState[] = [
         "NKORO II",
         "NKORO III",
         "QUEEN'S TOWN, KAIAMA",
-        "UKONU",
+        "UKONU"
       ],
-      OYIGBO: [
+      "OYIGBO": [
         "WARD 1",
         "WARD 10",
         "WARD 2",
@@ -10390,7 +10384,7 @@ export const areas: NigeriaState[] = [
         "WARD 6",
         "WARD 7",
         "WARD 8",
-        "WARD 9",
+        "WARD 9"
       ],
       "PORT HARCOURT": [
         "ABULOMA/AMADI-AMA",
@@ -10411,9 +10405,9 @@ export const areas: NigeriaState[] = [
         "RUMUOIBEKWE",
         "RUMUWOJI (ONE)",
         "RUMUWOJI (THREE)",
-        "RUMUWOJI (TWO)",
+        "RUMUWOJI (TWO)"
       ],
-      TAI: [
+      "TAI": [
         "BAN-OGOI",
         "BOTEM/GBENEO",
         "BUBU/BARA/KANI",
@@ -10423,14 +10417,14 @@ export const areas: NigeriaState[] = [
         "KOROMA/HORO",
         "KPITE",
         "NNWA",
-        "OYIGBO WEST",
-      ],
-    },
+        "OYIGBO WEST"
+      ]
+    }
   },
   {
-    code: "SO",
-    name: "SOKOTO",
-    lgas: [
+    "code": "SO",
+    "name": "SOKOTO",
+    "lgas": [
       "BINJI",
       "BODINGA",
       "DANGE SHUNNI",
@@ -10453,10 +10447,10 @@ export const areas: NigeriaState[] = [
       "TURETA",
       "WAMAKKO",
       "WURNO",
-      "YABO",
+      "YABO"
     ],
-    subs: {
-      BINJI: [
+    "subs": {
+      "BINJI": [
         "BINJI",
         "BUNKARI",
         "GAWAZZAI",
@@ -10466,9 +10460,9 @@ export const areas: NigeriaState[] = [
         "SAMAMA",
         "SORON GABAS",
         "SORON YAMMA",
-        "TUDUN KOSE",
+        "TUDUN KOSE"
       ],
-      BODINGA: [
+      "BODINGA": [
         "BADAU/DARHELA",
         "BAGARAWA",
         "BANGI/ DABAGA",
@@ -10479,7 +10473,7 @@ export const areas: NigeriaState[] = [
         "MAZAN GARI/ KAURAN MIYO",
         "SIFAWA/LUKUYAWA",
         "TAKATUKU/MADORAWA",
-        "TUUWA/KULLAFASA",
+        "TUUWA/KULLAFASA"
       ],
       "DANGE SHUNNI": [
         "BODAI/JURGA",
@@ -10492,9 +10486,9 @@ export const areas: NigeriaState[] = [
         "SHUNI",
         "TSAFANADE",
         "TUNTUBE/TSEHE",
-        "WABABE/SALALU",
+        "WABABE/SALALU"
       ],
-      GADA: [
+      "GADA": [
         "DUKAMAJE/ILLAH",
         "GADA",
         "GILBADI",
@@ -10505,9 +10499,9 @@ export const areas: NigeriaState[] = [
         "KIRI",
         "KWARMA",
         "KYADAWA/HOLAI",
-        "TSITSE",
+        "TSITSE"
       ],
-      GORONYO: [
+      "GORONYO": [
         "BIRJINGO",
         "BOYEKAI",
         "GIYAWA",
@@ -10518,9 +10512,9 @@ export const areas: NigeriaState[] = [
         "RIMAWA",
         "SABON G/DOLEDAN/TASAKKO",
         "SHINAKA",
-        "TAKAKUME",
+        "TAKAKUME"
       ],
-      GUDU: [
+      "GUDU": [
         "AWULKITI",
         "BACHAKA",
         "BALLE",
@@ -10530,9 +10524,9 @@ export const areas: NigeriaState[] = [
         "KARFEN SARKI",
         "KURDULA",
         "MARAKEN BORI",
-        "TULLUN DOYA",
+        "TULLUN DOYA"
       ],
-      GWADABAWA: [
+      "GWADABAWA": [
         "ASARA AREWA",
         "ASARA KUDU",
         "ATAKWANYO",
@@ -10543,9 +10537,9 @@ export const areas: NigeriaState[] = [
         "GWADABAWA",
         "HUCHI",
         "MANMANDE",
-        "SALAME",
+        "SALAME"
       ],
-      ILLELA: [
+      "ILLELA": [
         "ARABA",
         "DAMBA",
         "DARNA SABON GARI",
@@ -10556,9 +10550,9 @@ export const areas: NigeriaState[] = [
         "ILLELA",
         "KALMALO",
         "RUNGUMAWAR GATTI",
-        "TOZAI",
+        "TOZAI"
       ],
-      ISA: [
+      "ISA": [
         "BARGAJA",
         "GEBE A",
         "GEBE B",
@@ -10568,9 +10562,9 @@ export const areas: NigeriaState[] = [
         "TOZAI",
         "TSABREN S DARAI",
         "TURBA",
-        "YARFAKO",
+        "YARFAKO"
       ],
-      KEBBE: [
+      "KEBBE": [
         "FAKKU",
         "GIRKAU",
         "KEBBE EAST",
@@ -10580,9 +10574,9 @@ export const areas: NigeriaState[] = [
         "MARGAI B",
         "NASAGUDU",
         "SANGI",
-        "UNGUSHI",
+        "UNGUSHI"
       ],
-      KWARE: [
+      "KWARE": [
         "BANKANU",
         "BASANSAN",
         "DURBAWA",
@@ -10592,9 +10586,9 @@ export const areas: NigeriaState[] = [
         "KABANGA",
         "KWARE",
         "S/BIRNI G. KARMA",
-        "TUNGA MALLAMAWA",
+        "TUNGA MALLAMAWA"
       ],
-      RABAH: [
+      "RABAH": [
         "GANDI A",
         "GANDI B",
         "GAWAKUKE TOFA",
@@ -10605,7 +10599,7 @@ export const areas: NigeriaState[] = [
         "RIJI MAIKUJERA",
         "TSAMIYA",
         "TURSA",
-        "YARTSAKUWA",
+        "YARTSAKUWA"
       ],
       "SABON BIRNI": [
         "GANGARA",
@@ -10618,9 +10612,9 @@ export const areas: NigeriaState[] = [
         "S/BIRNI WEST",
         "TARA",
         "TSAMAYE",
-        "UNGUWAR LALLE",
+        "UNGUWAR LALLE"
       ],
-      SHAGARI: [
+      "SHAGARI": [
         "DANDIN MAHE",
         "GAMGAM",
         "HORO BIRNI",
@@ -10630,9 +10624,9 @@ export const areas: NigeriaState[] = [
         "LAMBARA",
         "MANDERA",
         "SANYINNAWAL",
-        "SHAGARI",
+        "SHAGARI"
       ],
-      SILAME: [
+      "SILAME": [
         "GANDE EAST",
         "GANDE WEST",
         "KATAMI NORTH",
@@ -10642,7 +10636,7 @@ export const areas: NigeriaState[] = [
         "LABANI",
         "MARAFA EAST",
         "MARAFA WEST",
-        "SILAME",
+        "SILAME"
       ],
       "SOKOTO NORTH": [
         "M/RAFI ‘A’",
@@ -10655,7 +10649,7 @@ export const areas: NigeriaState[] = [
         "S/MUSULMI ‘B’",
         "WAZIRI ‘A’",
         "WAZIRI ‘B’",
-        "WAZIRI ‘C’",
+        "WAZIRI ‘C’"
       ],
       "SOKOTO SOUTH": [
         "GAGI 'A'",
@@ -10668,9 +10662,9 @@ export const areas: NigeriaState[] = [
         "SARKIN ZANFARA 'A'",
         "SARKIN ZANFARA'B'",
         "TUDUN WADA 'A'",
-        "TUDUN WADA'B'",
+        "TUDUN WADA'B'"
       ],
-      TAMBUWAL: [
+      "TAMBUWAL": [
         "BAGIDA LUKINGO",
         "BAKAYA SABON BIRNI",
         "BARKEJI NABAGUDA",
@@ -10681,9 +10675,9 @@ export const areas: NigeriaState[] = [
         "ROMON/SARKI",
         "SAIDA GOSHE",
         "SANYINNA",
-        "TAMBUWAL SHINFIRI",
+        "TAMBUWAL SHINFIRI"
       ],
-      TANGAZA: [
+      "TANGAZA": [
         "GIDAN MADI",
         "KALANJENI",
         "KWACCEJURU",
@@ -10693,9 +10687,9 @@ export const areas: NigeriaState[] = [
         "SAKKWAI",
         "SALEWA",
         "SUTTI",
-        "TANGAZA",
+        "TANGAZA"
       ],
-      TURETA: [
+      "TURETA": [
         "BARAYAR GIWA",
         "BIMASA G/KARE",
         "DUMA",
@@ -10705,9 +10699,9 @@ export const areas: NigeriaState[] = [
         "LAMBA TURETA",
         "LOFA",
         "TSAMIYA",
-        "TURETA GARI",
+        "TURETA GARI"
       ],
-      WAMAKKO: [
+      "WAMAKKO": [
         "ARKILLA",
         "BADO/KASARAWA",
         "DUNDAYE/GUMBURAWA",
@@ -10718,9 +10712,9 @@ export const areas: NigeriaState[] = [
         "KALAMBAINA/GIRABSHI",
         "KAMMATA",
         "KAURAR KIMBA GEDAWA",
-        "WAMAKKO",
+        "WAMAKKO"
       ],
-      WURNO: [
+      "WURNO": [
         "ACHIDA",
         "ALKAMMU/GYALGYAL",
         "CHACHO/MARNNA",
@@ -10731,9 +10725,9 @@ export const areas: NigeriaState[] = [
         "KWASARE/SISAWA",
         "LAHODU/GIDAN BANGO",
         "MAGARYA",
-        "MARAFA",
+        "MARAFA"
       ],
-      YABO: [
+      "YABO": [
         "__",
         "B/RUWA",
         "BENGAJE",
@@ -10743,14 +10737,14 @@ export const areas: NigeriaState[] = [
         "RUGGAR IYA",
         "TORANKAWA",
         "YABO 'A'",
-        "YABO 'B'",
-      ],
-    },
+        "YABO 'B'"
+      ]
+    }
   },
   {
-    code: "TA",
-    name: "TARABA",
-    lgas: [
+    "code": "TA",
+    "name": "TARABA",
+    "lgas": [
       "ARDO KOLA",
       "BALI",
       "DONGA",
@@ -10766,9 +10760,9 @@ export const areas: NigeriaState[] = [
       "USSA",
       "WUKARI",
       "YORRO",
-      "ZING",
+      "ZING"
     ],
-    subs: {
+    "subs": {
       "ARDO KOLA": [
         "ALIM GORA",
         "ARDO KOLA",
@@ -10779,9 +10773,9 @@ export const areas: NigeriaState[] = [
         "SARKIN DUTSE",
         "SUNKANI",
         "TAU",
-        "ZANGON KOMBI",
+        "ZANGON KOMBI"
       ],
-      BALI: [
+      "BALI": [
         "BADAKOSHI",
         "BALI ' A'",
         "BALI 'B'",
@@ -10792,9 +10786,9 @@ export const areas: NigeriaState[] = [
         "KAIGAMA",
         "MAIHULA",
         "SUNTAI",
-        "TAKALAFIYA",
+        "TAKALAFIYA"
       ],
-      DONGA: [
+      "DONGA": [
         "AKATE",
         "ASIBITI",
         "BIKADARKO",
@@ -10804,9 +10798,9 @@ export const areas: NigeriaState[] = [
         "GYATTA AURE",
         "MARARABA",
         "NYITA",
-        "SUNTAI",
+        "SUNTAI"
       ],
-      GASHAKA: [
+      "GASHAKA": [
         "GALUMJINA",
         "GANGUMI",
         "GARBABI",
@@ -10816,9 +10810,9 @@ export const areas: NigeriaState[] = [
         "MAI-IDANU",
         "MAYO SELBE",
         "SERTI 'A'",
-        "SERTI 'B'",
+        "SERTI 'B'"
       ],
-      GASSOL: [
+      "GASSOL": [
         "GASSOL",
         "GUNDUMA",
         "MUTUM BIYU I",
@@ -10830,9 +10824,9 @@ export const areas: NigeriaState[] = [
         "TUTARE",
         "WUROJAM",
         "WURYO",
-        "YARIMA",
+        "YARIMA"
       ],
-      IBI: [
+      "IBI": [
         "DAMPAR I",
         "DAMPAR II",
         "DAMPAR III",
@@ -10842,9 +10836,9 @@ export const areas: NigeriaState[] = [
         "RIMI UKU II",
         "SARKIN KUDU I",
         "SARKIN KUDU II",
-        "SARKIN KUDU III",
+        "SARKIN KUDU III"
       ],
-      JALINGO: [
+      "JALINGO": [
         "ABBARE YELWA",
         "BARADE",
         "KACHALLA SEMBE",
@@ -10854,7 +10848,7 @@ export const areas: NigeriaState[] = [
         "SARKIN DAWAKI",
         "SINTALI",
         "TURAKI 'A'",
-        "TURAKI 'B'",
+        "TURAKI 'B'"
       ],
       "KARIM LAMIDO": [
         "AMAR",
@@ -10867,9 +10861,9 @@ export const areas: NigeriaState[] = [
         "JEN KAIGAMA",
         "KARIM A",
         "KARIM B",
-        "KWANCHI",
+        "KWANCHI"
       ],
-      KURMI: [
+      "KURMI": [
         "ABONG",
         "AKWENTO/BOKO",
         "ASHUKU/ENEME",
@@ -10879,9 +10873,9 @@ export const areas: NigeriaState[] = [
         "DIDAN",
         "NDAFORO/GENDA",
         "NJUWANDE",
-        "NYIDO/TOSSO",
+        "NYIDO/TOSSO"
       ],
-      LAU: [
+      "LAU": [
         "ABBARE I",
         "ABBARE II",
         "DONADDA",
@@ -10891,9 +10885,9 @@ export const areas: NigeriaState[] = [
         "KUNINI",
         "LAU I",
         "LAU II",
-        "MAYO LOPE",
+        "MAYO LOPE"
       ],
-      SARDAUNA: [
+      "SARDAUNA": [
         "GEMBU A",
         "GEMBU B",
         "KABRI",
@@ -10904,9 +10898,9 @@ export const areas: NigeriaState[] = [
         "NDUMI-YAJI",
         "NGUROJE",
         "TITONG",
-        "WARWAR",
+        "WARWAR"
       ],
-      TAKUM: [
+      "TAKUM": [
         "BETE",
         "BIKASHIMBILA",
         "CHACHANJI",
@@ -10917,9 +10911,9 @@ export const areas: NigeriaState[] = [
         "ROGO",
         "SHIBONG",
         "TIKARI",
-        "YUKUBEN",
+        "YUKUBEN"
       ],
-      USSA: [
+      "USSA": [
         "BIKA",
         "FIKYU",
         "JENUWA GIDA",
@@ -10930,9 +10924,9 @@ export const areas: NigeriaState[] = [
         "LISSAM I",
         "LISSAM II",
         "LUMBU",
-        "RUFU",
+        "RUFU"
       ],
-      WUKARI: [
+      "WUKARI": [
         "AKWANA",
         "AVYI",
         "BANTAJE",
@@ -10942,9 +10936,9 @@ export const areas: NigeriaState[] = [
         "KENTE",
         "PUJE",
         "RAFIN KADA",
-        "TSOKUNBI",
+        "TSOKUNBI"
       ],
-      YORRO: [
+      "YORRO": [
         "BIKASSA I",
         "BIKASSA II",
         "NYAJA I",
@@ -10955,9 +10949,9 @@ export const areas: NigeriaState[] = [
         "PUPULE II",
         "PUPULE III",
         "SUMBU I",
-        "SUMBU II",
+        "SUMBU II"
       ],
-      ZING: [
+      "ZING": [
         "BITAKO",
         "BUBONG",
         "DINDING",
@@ -10967,14 +10961,14 @@ export const areas: NigeriaState[] = [
         "YAKOKO",
         "ZING (AI)",
         "ZING (AII)",
-        "ZING B",
-      ],
-    },
+        "ZING B"
+      ]
+    }
   },
   {
-    code: "YO",
-    name: "YOBE",
-    lgas: [
+    "code": "YO",
+    "name": "YOBE",
+    "lgas": [
       "BADE",
       "BURSARI",
       "DAMATURU",
@@ -10991,10 +10985,10 @@ export const areas: NigeriaState[] = [
       "POTISKUM",
       "TARMUWA",
       "YUNUSARI",
-      "YUSUFARI",
+      "YUSUFARI"
     ],
-    subs: {
-      BADE: [
+    "subs": {
+      "BADE": [
         "DAGONA",
         "GWIO KURA",
         "KATUZU",
@@ -11004,9 +10998,9 @@ export const areas: NigeriaState[] = [
         "SARKIN HAUSAWA",
         "SUGUM/TAGALI",
         "USUR DAWAYO",
-        "ZANGO",
+        "ZANGO"
       ],
-      BURSARI: [
+      "BURSARI": [
         "BAYAMARI",
         "DAMNAWA/JULURI",
         "DANANI",
@@ -11016,9 +11010,9 @@ export const areas: NigeriaState[] = [
         "GUJI METALARI",
         "KALIYARI",
         "KURNAWA",
-        "MASABA",
+        "MASABA"
       ],
-      DAMATURU: [
+      "DAMATURU": [
         "BINDIGARI/FAWARI",
         "DAMAKASU",
         "DAMATURU CENTRAL",
@@ -11029,9 +11023,9 @@ export const areas: NigeriaState[] = [
         "MURFA KALAM",
         "NAYINAWA",
         "NJIWAJI/GWANGE",
-        "SASAWA/KABARU",
+        "SASAWA/KABARU"
       ],
-      FIKA: [
+      "FIKA": [
         "DAYA/CHANA",
         "FIKA/ANZE",
         "GAKADAISHEMBIRE",
@@ -11041,9 +11035,9 @@ export const areas: NigeriaState[] = [
         "NGALDA/DUMBULWA",
         "SHOYE/GARINABA",
         "TURMI/MALURI",
-        "ZANGAYA/MAZAWUN",
+        "ZANGAYA/MAZAWUN"
       ],
-      FUNE: [
+      "FUNE": [
         "ABAKIRE",
         "ALAGARN",
         "BORN KIJI",
@@ -11056,9 +11050,9 @@ export const areas: NigeriaState[] = [
         "JAJERE",
         "KAYERI",
         "KOLLERE",
-        "MASHIO",
+        "MASHIO"
       ],
-      GEIDAM: [
+      "GEIDAM": [
         "ASHEIKRI",
         "BALLE/GALLABA/MELERI",
         "DAMAKARWA/KUSUR",
@@ -11069,9 +11063,9 @@ export const areas: NigeriaState[] = [
         "KAWURI",
         "MAANA/DAGAMBI",
         "SHAME KURA/DILAWA",
-        "ZURGU NGILIWA/BORKO",
+        "ZURGU NGILIWA/BORKO"
       ],
-      GUJBA: [
+      "GUJBA": [
         "BUNI GARI/LAWANTI",
         "BUNI YADI NORTH AND SOUTH",
         "DADINGEL",
@@ -11081,9 +11075,9 @@ export const areas: NigeriaState[] = [
         "MANDUNARI",
         "MUTAI",
         "NGURBUWA",
-        "WAGIR",
+        "WAGIR"
       ],
-      GULANI: [
+      "GULANI": [
         "BARA",
         "BORN KIJI TETTEBA",
         "BULARAFA",
@@ -11095,9 +11089,9 @@ export const areas: NigeriaState[] = [
         "GULANI",
         "KUSHIMAGA",
         "NJIBILWA",
-        "RUHU",
+        "RUHU"
       ],
-      JAKUSKO: [
+      "JAKUSKO": [
         "BUDUWA/SAMINAKA",
         "DUMBARI",
         "GIDGID/BAYAM",
@@ -11107,9 +11101,9 @@ export const areas: NigeriaState[] = [
         "JAWUR/KATAMA",
         "LAFIYA LOILOI",
         "MUGURAM",
-        "ZABUDUM DACHIA",
+        "ZABUDUM DACHIA"
       ],
-      KARASUWA: [
+      "KARASUWA": [
         "BUKARTI",
         "FAJIGANARI",
         "GARIN GAWO",
@@ -11119,9 +11113,9 @@ export const areas: NigeriaState[] = [
         "KARASUWA GARU GUNA",
         "WACHAKAL",
         "WARO",
-        "YAJERI",
+        "YAJERI"
       ],
-      MACHINA: [
+      "MACHINA": [
         "BOGO",
         "DAMAI",
         "DONE",
@@ -11131,9 +11125,9 @@ export const areas: NigeriaState[] = [
         "LAMISU",
         "MACHINA",
         "MASKAWIDARE",
-        "TAGANAMA",
+        "TAGANAMA"
       ],
-      NANGERE: [
+      "NANGERE": [
         "CHILLARIYE",
         "DADISO/CHIKURIWA",
         "DAWASA/G.BABA",
@@ -11144,9 +11138,9 @@ export const areas: NigeriaState[] = [
         "NANGERE",
         "PAKARAU",
         "TIKAU",
-        "WATINANI",
+        "WATINANI"
       ],
-      NGURU: [
+      "NGURU": [
         "BULABULIN",
         "BULANGUWA",
         "DABULE",
@@ -11156,9 +11150,9 @@ export const areas: NigeriaState[] = [
         "KANURI",
         "MAJAKURA",
         "MIRWA/KABIR SAGIR",
-        "NGILEWA",
+        "NGILEWA"
       ],
-      POTISKUM: [
+      "POTISKUM": [
         "ARIKIME PRI. SCH.",
         "ARMY BARRACKS PRI. SCH.",
         "DAMBOA PRI. SCH.",
@@ -11168,9 +11162,9 @@ export const areas: NigeriaState[] = [
         "KARA PRI. SCH.",
         "KWATA PRI. SCH.",
         "MAMUDO PRI. SCH.",
-        "NGOJIN PRI. SCH.",
+        "NGOJIN PRI. SCH."
       ],
-      TARMUWA: [
+      "TARMUWA": [
         "BABBANGIDA",
         "BARKAMI/BULTURI",
         "BIRIRI/CHIROKUSKO",
@@ -11180,9 +11174,9 @@ export const areas: NigeriaState[] = [
         "LANTEWA",
         "MAFA",
         "MANDADAWA",
-        "SHEKAU",
+        "SHEKAU"
       ],
-      YUNUSARI: [
+      "YUNUSARI": [
         "BULTUWA MAR YARO",
         "DARA TOSHIA",
         "DEGELTURA NGAMAZAI",
@@ -11192,9 +11186,9 @@ export const areas: NigeriaState[] = [
         "MOZOGUN KUJARI",
         "NGIRABO",
         "SWADI KAFIYA",
-        "ZAJIBIRIRI DUMBOL",
+        "ZAJIBIRIRI DUMBOL"
       ],
-      YUSUFARI: [
+      "YUSUFARI": [
         "ALANJIRORI",
         "GUMSHI",
         "GUYA",
@@ -11204,14 +11198,14 @@ export const areas: NigeriaState[] = [
         "KUMAGANNAM",
         "MAIMALARI",
         "MAYORI",
-        "YUSUFARI",
-      ],
-    },
+        "YUSUFARI"
+      ]
+    }
   },
   {
-    code: "ZA",
-    name: "ZAMFARA",
-    lgas: [
+    "code": "ZA",
+    "name": "ZAMFARA",
+    "lgas": [
       "ANKA",
       "BAKURA",
       "BIRNIN MAGAJI",
@@ -11225,10 +11219,10 @@ export const areas: NigeriaState[] = [
       "SHINKAFI",
       "TALATA MAFARA",
       "TSAFE",
-      "ZURMI",
+      "ZURMI"
     ],
-    subs: {
-      ANKA: [
+    "subs": {
+      "ANKA": [
         "BAGEGA",
         "BARAYAR ZAKI",
         "DAN GALADIMA",
@@ -11238,9 +11232,9 @@ export const areas: NigeriaState[] = [
         "SABON BIRNI",
         "WARAMU",
         "WUYA",
-        "YAR SABAYA",
+        "YAR SABAYA"
       ],
-      BAKURA: [
+      "BAKURA": [
         "BAKURA",
         "BIRNIN TUDU",
         "DAKKO",
@@ -11250,7 +11244,7 @@ export const areas: NigeriaState[] = [
         "NASARAWA",
         "RINI",
         "YAR GEDA",
-        "YAR KUFUJI",
+        "YAR KUFUJI"
       ],
       "BIRNIN MAGAJI": [
         "B/MAGAJI",
@@ -11262,9 +11256,9 @@ export const areas: NigeriaState[] = [
         "MADOMAWA EAST",
         "MODOMAWA WEST",
         "NASARAWA GODEL EAST",
-        "NASARAWA GODEL WEST",
+        "NASARAWA GODEL WEST"
       ],
-      BUKKUYUM: [
+      "BUKKUYUM": [
         "ADABKA",
         "BUKKUYUM",
         "GWASHI",
@@ -11274,9 +11268,9 @@ export const areas: NigeriaState[] = [
         "RUWAN JEMA",
         "YASHI",
         "ZARUMMAI",
-        "ZAUMA",
+        "ZAUMA"
       ],
-      BUNGUDU: [
+      "BUNGUDU": [
         "BINGI NORTH",
         "BINGI SOUTH",
         "BUNGUDU",
@@ -11287,9 +11281,9 @@ export const areas: NigeriaState[] = [
         "RAWAYYA/BELA",
         "SAMAWA",
         "SANKALAWA",
-        "TOFA",
+        "TOFA"
       ],
-      GUMMI: [
+      "GUMMI": [
         "B/MAGAJI",
         "B/TUDU",
         "BARDOKI",
@@ -11300,9 +11294,9 @@ export const areas: NigeriaState[] = [
         "ILLELARAWAL",
         "MAGAJI GARI",
         "SHIYAR RAFI",
-        "UBANDAWAKI",
+        "UBANDAWAKI"
       ],
-      GUSAU: [
+      "GUSAU": [
         "GALADIMA",
         "MADA",
         "MADAWAKI",
@@ -11313,7 +11307,7 @@ export const areas: NigeriaState[] = [
         "SABON GARI",
         "TUDUN WADA",
         "WANKE",
-        "WONAKA",
+        "WONAKA"
       ],
       "KAURA NAMODA": [
         "BANGA",
@@ -11326,9 +11320,9 @@ export const areas: NigeriaState[] = [
         "KYAMBARAWA",
         "S/BAURAS/MAFARA",
         "SAKAJIKI",
-        "YANKABA",
+        "YANKABA"
       ],
-      MARADUN: [
+      "MARADUN": [
         "BIRNIN KAYA DOSARA",
         "DAMAGA/ GAMAGIWA",
         "FARU MAGAMI",
@@ -11338,9 +11332,9 @@ export const areas: NigeriaState[] = [
         "KAYA",
         "MARADUN NORTH",
         "MARADUN SOUTH",
-        "TSIBIRL",
+        "TSIBIRL"
       ],
-      MARU: [
+      "MARU": [
         "BINDIN",
         "BINGI",
         "DANGULBI",
@@ -11350,9 +11344,9 @@ export const areas: NigeriaState[] = [
         "KUYAN BANA",
         "MARU",
         "MAYANCI",
-        "RUWAN DORAWA",
+        "RUWAN DORAWA"
       ],
-      SHINKAFI: [
+      "SHINKAFI": [
         "BADARAWA",
         "CHIKI",
         "GALADI",
@@ -11362,7 +11356,7 @@ export const areas: NigeriaState[] = [
         "KWARE",
         "SHANAWA",
         "SHINKAFI NRHT",
-        "SHINKAFI SOUTH",
+        "SHINKAFI SOUTH"
       ],
       "TALATA MAFARA": [
         "GARBADU",
@@ -11375,9 +11369,9 @@ export const areas: NigeriaState[] = [
         "S/KAYAYE MATUGI",
         "SAUNA R/GORA",
         "SHIYAR GALADIMA",
-        "T/TSABA MAKERA",
+        "T/TSABA MAKERA"
       ],
-      TSAFE: [
+      "TSAFE": [
         "BILBIS",
         "CHEDIYA",
         "DANJIBGA",
@@ -11388,9 +11382,9 @@ export const areas: NigeriaState[] = [
         "YANDOTO DAJI",
         "YANKUZO “A”",
         "YANKUZO “B”",
-        "YANWAREN DAJI",
+        "YANWAREN DAJI"
       ],
-      ZURMI: [
+      "ZURMI": [
         "BOKO",
         "DAURAN B/TSABA",
         "DOLE",
@@ -11401,8 +11395,8 @@ export const areas: NigeriaState[] = [
         "MAYASA/KUTURU",
         "RUKUDAWA",
         "YANBUKI/DUTSI",
-        "ZURMI",
-      ],
-    },
-  },
+        "ZURMI"
+      ]
+    }
+  }
 ];
