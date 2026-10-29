@@ -57,20 +57,28 @@ The **geo-ng** package provides the following API:
 - **getLGAs(stateCode: string)**: Returns the Local Government Areas (LGAs) of a specified state.
 - **getLgaSubAreas(stateCode: string, lga: string)**: Returns the areas/sub-areas of a specified LGA.
 
+## Data accuracy
+
+This package targets the constitutional set of **36 states + FCT**, **768 LGAs + 6 FCT area councils (774 total)**, and INEC-style wards/sub-areas.
+
+Corrections in this release:
+
+- Removed misplaced LGAs (`CHIBOK` from Cross River, `OBUDU` from Delta)
+- Fixed Kano to the official **44** LGAs (wards that were listed as LGAs were folded into `NASARAWA`)
+- Corrected truncated/misspelled LGA names across several states
+- Aligned published JS with the TypeScript source
+
+Ward/sub-area lists may still be incomplete for some LGAs.
+
+## Sources
+
+- [1999 Constitution of Nigeria, s.3(6) / First Schedule](https://sccr.gov.ng/chapter-1-part-1/) — 36 states, 768 LGAs, 6 FCT area councils
+- [INEC state offices & LGA directory](https://www.inecnigeria.org/about/state-offices/) — LGA counts per state (incl. FCT)
+- [INEC Cross River LGA list (PDF)](https://wp1.inecnigeria.org/wp-content/uploads/2024/04/CROSS-RIVER-STATE.pdf)
+- [Kano State Government — 44 LGAs](https://kanostate.gov.ng/lgas/)
+- [OpenAdmin Nigeria admin divisions](https://openadmindata.org/ng/) — 37 states/territories, 774 LGAs, ~8,799 wards
+- Original ward scrape: [govote.ng](https://govote.ng/)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [**GitHub repository**](https://github.com/Ayobamiu/geo-ng).
-
-## Attribution
-
-The states, local government areas (LGAs), and sub-areas data in this package are sourced from https://govote.ng/, a website providing information related to geographic locations in Nigeria. This data was used to update and enhance the geographic data in the `geo-ng` package. Visit https://govote.ng/ for more details.
-
-<!-- ## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-```shell
-
-Please make sure to replace `'your-username'` in the GitHub repository URL with your actual GitHub username and update the `LICENSE` file link accordingly. Feel free to customize the content and formatting of the README to suit your preferences and provide more information about your `geo-ng` package.
-
-``` -->

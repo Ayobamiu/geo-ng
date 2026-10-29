@@ -3,28 +3,28 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.areas = void 0;
 exports.areas = [
     {
-        code: "AB",
-        name: "ABIA",
-        lgas: [
+        "code": "AB",
+        "name": "ABIA",
+        "lgas": [
             "ABA NORTH",
             "ABA SOUTH",
             "AROCHUKWU",
             "BENDE",
-            "IKWUAN",
-            "ISIALA NGWA",
+            "IKWUANO",
+            "ISIALA NGWA NORTH",
             "ISIALA NGWA SOUTH",
             "ISUIKWUATO",
-            "OBINGWA",
+            "OBI NGWA",
             "OHAFIA",
-            "OSISIOMA",
-            "UGWUNABO",
+            "OSISIOMA NGWA",
+            "UGWUNAGBO",
             "UKWA EAST",
             "UKWA WEST",
             "UMU NNEOCHI",
             "UMUAHIA NORTH",
-            "UMUAHIA SOUTH",
+            "UMUAHIA SOUTH"
         ],
-        subs: {
+        "subs": {
             "ABA NORTH": [
                 "ARIARIA MARKET",
                 "EZIAMA",
@@ -37,7 +37,7 @@ exports.areas = [
                 "ST. EUGENE",
                 "UMUOGOR",
                 "UMUOLA",
-                "URATTA",
+                "URATTA"
             ],
             "ABA SOUTH": [
                 "ABA RIVER",
@@ -51,9 +51,9 @@ exports.areas = [
                 "MOSQUE",
                 "NGWA",
                 "OHAZU I",
-                "OHAZU II",
+                "OHAZU II"
             ],
-            AROCHUKWU: [
+            "AROCHUKWU": [
                 "AROCHUKWU I",
                 "AROCHUKWU II",
                 "AROCHUKWU III",
@@ -64,9 +64,9 @@ exports.areas = [
                 "OHAFOR I",
                 "OHAFOR II",
                 "OVUKWU",
-                "UTUTU",
+                "UTUTU"
             ],
-            BENDE: [
+            "BENDE": [
                 "AMANKALU/ AKOLIOFU",
                 "BENDE",
                 "IGBERE ' A'",
@@ -79,9 +79,9 @@ exports.areas = [
                 "UGWUEKE/EZEUKWU",
                 "UMUHU/EZECHI",
                 "UMUIMENYI/NKPA",
-                "UZUAKOLI",
+                "UZUAKOLI"
             ],
-            IKWUAN: [
+            "IKWUANO": [
                 "ARIAM",
                 "IBERE I",
                 "IBERE II",
@@ -91,9 +91,9 @@ exports.areas = [
                 "OBORO IV",
                 "OLOKO I",
                 "OLOKO II",
-                "USAKA",
+                "USAKA"
             ],
-            "ISIALA NGWA": [
+            "ISIALA NGWA NORTH": [
                 "AMA SA NTIGHA",
                 "AMAPU NTIGHA",
                 "AMASA NSULU",
@@ -103,7 +103,7 @@ exports.areas = [
                 "NGWA UKWU  II",
                 "NGWA UKWU I",
                 "UMUNNA NSULU",
-                "UMUOHA",
+                "UMUOHA"
             ],
             "ISIALA NGWA SOUTH": [
                 "AKU NA EKPU, EZIAMA NA OBU",
@@ -115,9 +115,9 @@ exports.areas = [
                 "OKPORO AHABA",
                 "OMOBA",
                 "OVUNGWU",
-                "OVUOKWU",
+                "OVUOKWU"
             ],
-            ISUIKWUATO: [
+            "ISUIKWUATO": [
                 "ACHARA/ MBUGWU",
                 "EZERE",
                 "IKEAGHA  II",
@@ -127,9 +127,9 @@ exports.areas = [
                 "ISU AMAWU",
                 "OGUNDUASA",
                 "UMUANYI/ ABSU",
-                "UMUNNEKWU",
+                "UMUNNEKWU"
             ],
-            OBINGWA: [
+            "OBI NGWA": [
                 "ABAYI  II",
                 "ABAYI I",
                 "AHIABA",
@@ -140,9 +140,9 @@ exports.areas = [
                 "MGBOKO NTUNGWA",
                 "MGBOKO- UMUANUNU",
                 "NDIAKATA/AMAIRINABUO",
-                "NTIGHAUZO AMAIRI",
+                "NTIGHAUZO AMAIRI"
             ],
-            OHAFIA: [
+            "OHAFIA": [
                 "AGBORJI ABIRIBA",
                 "AMEKE",
                 "AMOGUDU ABIRIBA",
@@ -153,9 +153,9 @@ exports.areas = [
                 "NDI ELU",
                 "NDI ETITI  NKPORO",
                 "OHAFOR",
-                "OKAMU",
+                "OKAMU"
             ],
-            OSISIOMA: [
+            "OSISIOMA NGWA": [
                 "AMA-ASAA",
                 "AMAFOR",
                 "AMASATOR",
@@ -165,9 +165,9 @@ exports.areas = [
                 "OSO-OKWA",
                 "UKPU- UMUOBO",
                 "UMUNNEISE",
-                "URATTA",
+                "URATTA"
             ],
-            UGWUNABO: [
+            "UGWUNAGBO": [
                 "EIGHT",
                 "FIV E",
                 "FOUR",
@@ -177,7 +177,7 @@ exports.areas = [
                 "SIX",
                 "TEN",
                 "THREE",
-                "TWO",
+                "TWO"
             ],
             "UKWA EAST": [
                 "AKWETE",
@@ -189,7 +189,7 @@ exports.areas = [
                 "IKWURIATOR WEST",
                 "NKPOROBE/OHURU",
                 "OBOHIA",
-                "UMUIEGUBE/ACHARA",
+                "UMUIEGUBE/ACHARA"
             ],
             "UKWA WEST": [
                 "ASA NORTH",
@@ -200,7 +200,7 @@ exports.areas = [
                 "OBUZOR",
                 "OGWE",
                 "OZAA UKWU",
-                "OZAA WEST",
+                "OZAA WEST"
             ],
             "UMU NNEOCHI": [
                 "AMUDA",
@@ -214,7 +214,7 @@ exports.areas = [
                 "UMUAKU",
                 "UMUCHIEZE I",
                 "UMUCHIEZE II",
-                "UMUCHIEZE III",
+                "UMUCHIEZE III"
             ],
             "UMUAHIA NORTH": [
                 "AFUGIRI",
@@ -228,7 +228,7 @@ exports.areas = [
                 "UMUHU",
                 "UR BAN II",
                 "URBAN I",
-                "URBAN III",
+                "URBAN III"
             ],
             "UMUAHIA SOUTH": [
                 "AHIAUKWU I",
@@ -240,14 +240,14 @@ exports.areas = [
                 "OLD UMUAHIA",
                 "OMAEGWU",
                 "UBAKALA  'A'",
-                "UBAKALA  'B'",
-            ],
-        },
+                "UBAKALA  'B'"
+            ]
+        }
     },
     {
-        code: "AD",
-        name: "ADAMAWA",
-        lgas: [
+        "code": "AD",
+        "name": "ADAMAWA",
+        "lgas": [
             "DEMSA",
             "FUFORE",
             "GANYE",
@@ -264,14 +264,14 @@ exports.areas = [
             "MUBI NORTH",
             "MUBI SOUTH",
             "NUMAN",
-            "SHELLENGE",
+            "SHELLENG",
             "SONG",
             "TOUNGO",
             "YOLA NORTH",
-            "YOLA SOUTH",
+            "YOLA SOUTH"
         ],
-        subs: {
-            DEMSA: [
+        "subs": {
+            "DEMSA": [
                 "BILLE",
                 "BORRONG",
                 "DEMSA",
@@ -281,9 +281,9 @@ exports.areas = [
                 "GWAMBA",
                 "KPASHAM",
                 "MBULA KULI",
-                "NASSARAWO DEMSA",
+                "NASSARAWO DEMSA"
             ],
-            FUFORE: [
+            "FUFORE": [
                 "BETI",
                 "FARANG",
                 "FUFORE",
@@ -294,9 +294,9 @@ exports.areas = [
                 "RIBADU",
                 "UKI-TUKI",
                 "WURO- BOKKI",
-                "YADIM",
+                "YADIM"
             ],
-            GANYE: [
+            "GANYE": [
                 "BAKARI GUSO",
                 "GAMU",
                 "GANYE  I",
@@ -306,9 +306,9 @@ exports.areas = [
                 "SANGASSUMI",
                 "SUGU",
                 "TIMDORE",
-                "YEBBI",
+                "YEBBI"
             ],
-            GIREI: [
+            "GIREI": [
                 "DAKRI",
                 "DAMARE",
                 "GERENG",
@@ -318,9 +318,9 @@ exports.areas = [
                 "JERA BONYO",
                 "MODIRE VINIKILANG",
                 "TAMBO",
-                "WURO DOLE",
+                "WURO DOLE"
             ],
-            GOMBI: [
+            "GOMBI": [
                 "BOGA/DINGAI",
                 "DUWA",
                 "GA'ANDA",
@@ -330,9 +330,9 @@ exports.areas = [
                 "GOMBI SOUTH",
                 "GUYAKU",
                 "TAWA",
-                "YANG",
+                "YANG"
             ],
-            GUYUK: [
+            "GUYUK": [
                 "BANJIRAM",
                 "BOBINI",
                 "BODEN",
@@ -342,9 +342,9 @@ exports.areas = [
                 "GUYUK",
                 "KOLA",
                 "LOKORO",
-                "PUROKAYO",
+                "PUROKAYO"
             ],
-            HONG: [
+            "HONG": [
                 "BANGSHIKA",
                 "DAKSIRI",
                 "GARAHA",
@@ -356,9 +356,9 @@ exports.areas = [
                 "MAYO LOPE",
                 "SHANGUI",
                 "THILBANG",
-                "UBA",
+                "UBA"
             ],
-            JADA: [
+            "JADA": [
                 "DANABA",
                 "JADA I",
                 "JADA II",
@@ -369,9 +369,9 @@ exports.areas = [
                 "MAYO-KALAYE",
                 "MBULO",
                 "NYIBANGO",
-                "YELLI",
+                "YELLI"
             ],
-            LAMURDE: [
+            "LAMURDE": [
                 "DUBWAGUN",
                 "GYAWANA",
                 "LAFIYA",
@@ -381,9 +381,9 @@ exports.areas = [
                 "OPALO",
                 "RIGANGE",
                 "SUWA",
-                "WADUKU",
+                "WADUKU"
             ],
-            MADAGALI: [
+            "MADAGALI": [
                 "BABEL",
                 "DUHU/SHUWA",
                 "GULAK",
@@ -393,9 +393,9 @@ exports.areas = [
                 "PALLAM",
                 "S/S/VAPURA",
                 "WAGGA",
-                "WULA",
+                "WULA"
             ],
-            MAIHA: [
+            "MAIHA": [
                 "BELEL",
                 "HUMBUTUDI",
                 "KONKOL",
@@ -405,7 +405,7 @@ exports.areas = [
                 "PAKKA",
                 "SORAU A",
                 "SORAU B",
-                "TAMBAJAM",
+                "TAMBAJAM"
             ],
             "MAYO BELWA": [
                 "BAJAMA",
@@ -419,9 +419,9 @@ exports.areas = [
                 "NDIKONG",
                 "RIBADU",
                 "TOLA",
-                "YOFFO",
+                "YOFFO"
             ],
-            MICHIKA: [
+            "MICHIKA": [
                 "BAZZA/MARGI",
                 "FUTUDOU/FUTULESS",
                 "GARTA/GUNCHI",
@@ -437,7 +437,7 @@ exports.areas = [
                 "THUKUDOU/SUFUKU/ZAH",
                 "TUMBARA/NGABILI",
                 "VI/BOKA",
-                "WAMBILIMI/TILLI",
+                "WAMBILIMI/TILLI"
             ],
             "MUBI NORTH": [
                 "BAHULI",
@@ -450,7 +450,7 @@ exports.areas = [
                 "MUCHALLA",
                 "SABON LAYI",
                 "VIMTIM",
-                "YELWA",
+                "YELWA"
             ],
             "MUBI SOUTH": [
                 "DIRBISHI",
@@ -462,9 +462,9 @@ exports.areas = [
                 "MUGULBU",
                 "MUJARA",
                 "NASSARAWO",
-                "NDUKU",
+                "NDUKU"
             ],
-            NUMAN: [
+            "NUMAN": [
                 "BARE",
                 "BOLKI",
                 "GAMADIO",
@@ -474,9 +474,9 @@ exports.areas = [
                 "NUMAN II",
                 "NUMAN III",
                 "SABON PEGI",
-                "VULPI",
+                "VULPI"
             ],
-            SHELLENGE: [
+            "SHELLENG": [
                 "BAKTA",
                 "BODWAI",
                 "GUNDO",
@@ -486,9 +486,9 @@ exports.areas = [
                 "KIRI",
                 "LIBBO",
                 "SHELLENG",
-                "TALLUM",
+                "TALLUM"
             ],
-            SONG: [
+            "SONG": [
                 "DIRMA",
                 "DUMNE",
                 "GUDUMBOI",
@@ -499,9 +499,9 @@ exports.areas = [
                 "SONG WAJE",
                 "SUKTU",
                 "WALTANDI",
-                "ZUMO",
+                "ZUMO"
             ],
-            TOUNGO: [
+            "TOUNGO": [
                 "DAWO I",
                 "DAWO II",
                 "GUMTI",
@@ -511,7 +511,7 @@ exports.areas = [
                 "KOGIN BABA II",
                 "TOUNGO I",
                 "TOUNGO II",
-                "TOUNGO III",
+                "TOUNGO III"
             ],
             "YOLA NORTH": [
                 "AJIYA",
@@ -524,7 +524,7 @@ exports.areas = [
                 "LUGGERE",
                 "NASSARAWO",
                 "RUMDE",
-                "YELWA",
+                "YELWA"
             ],
             "YOLA SOUTH": [
                 "ADARAWO",
@@ -537,14 +537,14 @@ exports.areas = [
                 "NAMTARI",
                 "NGURORE",
                 "TOUNGO",
-                "YOLDE KOHI",
-            ],
-        },
+                "YOLDE KOHI"
+            ]
+        }
     },
     {
-        code: "AK",
-        name: "AKWA IBOM",
-        lgas: [
+        "code": "AK",
+        "name": "AKWA IBOM",
+        "lgas": [
             "ABAK",
             "EASTERN OBOLO",
             "EKET",
@@ -553,10 +553,10 @@ exports.areas = [
             "ETIM EKPO",
             "ETINAN",
             "IBESIKPO ASUTAN",
-            "IBION",
-            "IBION IBOM",
+            "IBENO",
+            "IBIONO IBOM",
             "IKA",
-            "IKON",
+            "IKONO",
             "IKOT ABASI",
             "IKOT EKPENE",
             "INI",
@@ -573,12 +573,12 @@ exports.areas = [
             "ORUK ANAM",
             "UDUNG UKO",
             "UKANAFUN",
-            "URE OFFONG/ORUKO",
+            "URUE OFFONG/ORUKO",
             "URUAN",
-            "UYO",
+            "UYO"
         ],
-        subs: {
-            ABAK: [
+        "subs": {
+            "ABAK": [
                 "ABAK URBAN I",
                 "ABAK URBAN II",
                 "ABAK URBAN III",
@@ -589,7 +589,7 @@ exports.areas = [
                 "MIDIM II",
                 "OTORO I",
                 "OTORO II",
-                "OTORO III",
+                "OTORO III"
             ],
             "EASTERN OBOLO": [
                 "EASTERN OBOLO I",
@@ -601,9 +601,9 @@ exports.areas = [
                 "EASTERN OBOLO VI",
                 "EASTERN OBOLO VII",
                 "EASTERN OBOLO VIII",
-                "EASTERN OBOLO X",
+                "EASTERN OBOLO X"
             ],
-            EKET: [
+            "EKET": [
                 "EKET CENTRAL I",
                 "EKET CENTRAL II",
                 "EKET CENTRAL III",
@@ -614,7 +614,7 @@ exports.areas = [
                 "EKET URBAN III",
                 "EKET URBAN IV",
                 "OKON I",
-                "OKON II",
+                "OKON II"
             ],
             "ESIT EKET": [
                 "AKPAUTONG",
@@ -626,7 +626,7 @@ exports.areas = [
                 "ETEBI IDUNG ASSAN",
                 "IKPA",
                 "NTAK INYANG",
-                "UQUO",
+                "UQUO"
             ],
             "ESSIEN UDIM": [
                 "ADIASIM",
@@ -639,7 +639,7 @@ exports.areas = [
                 "OKON",
                 "UKANA EAST",
                 "UKANA WEST I",
-                "UKANA WEST II",
+                "UKANA WEST II"
             ],
             "ETIM EKPO": [
                 "ETIM EKPO I",
@@ -651,9 +651,9 @@ exports.areas = [
                 "ETIM EKPO VI",
                 "ETIM EKPO VII",
                 "ETIM EKPO VIII",
-                "ETIM EKPO X",
+                "ETIM EKPO X"
             ],
-            ETINAN: [
+            "ETINAN": [
                 "ETINAN URBAN I",
                 "ETINAN URBAN II",
                 "ETINAN URBAN III",
@@ -664,7 +664,7 @@ exports.areas = [
                 "SOUTHERN IMAN I",
                 "SOUTHERN IMAN II",
                 "SOUTHERN IMAN III",
-                "SOUTHERN IMAN IV",
+                "SOUTHERN IMAN IV"
             ],
             "IBESIKPO ASUTAN": [
                 "ASUTAN I",
@@ -676,9 +676,9 @@ exports.areas = [
                 "IBESIKPO II",
                 "IBESIKPO III",
                 "IBESIKPO IV",
-                "IBESIKPO V",
+                "IBESIKPO V"
             ],
-            IBION: [
+            "IBENO": [
                 "IBEN I",
                 "IBEN II",
                 "IBEN III",
@@ -688,9 +688,9 @@ exports.areas = [
                 "IBEN VI",
                 "IBEN VII",
                 "IBEN VIII",
-                "IBEN X",
+                "IBEN X"
             ],
-            "IBION IBOM": [
+            "IBIONO IBOM": [
                 "IBION CENTRAL I",
                 "IBION CENTRAL II",
                 "IBION EASTERN I",
@@ -701,9 +701,9 @@ exports.areas = [
                 "IBION SOUTHERN II",
                 "IBION WESTERN I",
                 "IBION WESTERN II",
-                "IKPANYA CLAN",
+                "IKPANYA CLAN"
             ],
-            IKA: [
+            "IKA": [
                 "ACHAN I",
                 "ACHAN II",
                 "ACHAN III",
@@ -713,9 +713,9 @@ exports.areas = [
                 "ODORO I",
                 "ODORO II",
                 "URBAN I",
-                "URBAN II",
+                "URBAN II"
             ],
-            IKON: [
+            "IKONO": [
                 "EDIENE I",
                 "EDIENE II",
                 "IKON MIDDLE I",
@@ -726,7 +726,7 @@ exports.areas = [
                 "ITAK",
                 "NDIYA/IKOT IDAHA",
                 "NKWOT I",
-                "NKWOT II",
+                "NKWOT II"
             ],
             "IKOT ABASI": [
                 "EDEMAYA I",
@@ -738,7 +738,7 @@ exports.areas = [
                 "IKPA NUNG ASANG II",
                 "UKPUM ETE I",
                 "UKPUM ETE II",
-                "UKPUM OKON",
+                "UKPUM OKON"
             ],
             "IKOT EKPENE": [
                 "IKOT EKPENE I",
@@ -751,9 +751,9 @@ exports.areas = [
                 "IKOT EKPENE VII",
                 "IKOT EKPENE VIII",
                 "IKOT EKPENE X",
-                "IKOT EKPENE XI",
+                "IKOT EKPENE XI"
             ],
-            INI: [
+            "INI": [
                 "IKON NORTH I",
                 "IKON NORTH II",
                 "IKON NORTH III",
@@ -763,9 +763,9 @@ exports.areas = [
                 "IWERRE",
                 "NKARI",
                 "ODORO UKWOK",
-                "USUK UKWOK",
+                "USUK UKWOK"
             ],
-            ITU: [
+            "ITU": [
                 "EAST ITAM I",
                 "EAST ITAM II",
                 "EAST ITAM III",
@@ -775,9 +775,9 @@ exports.areas = [
                 "OKU IBOKU",
                 "WEST ITAM I",
                 "WEST ITAM II",
-                "WEST ITAM III",
+                "WEST ITAM III"
             ],
-            MBO: [
+            "MBO": [
                 "EBUGHU I",
                 "EBUGHU II",
                 "EFIAT I",
@@ -786,7 +786,7 @@ exports.areas = [
                 "IBAKA",
                 "UDA I",
                 "UDA II",
-                "UDESI",
+                "UDESI"
             ],
             "MKPAT ENIN": [
                 "IBIAKU I",
@@ -802,7 +802,7 @@ exports.areas = [
                 "UKPUM MINYA I",
                 "UKPUM MINYA II",
                 "UKPUM MINYA III",
-                "UKPUM MINYA IV",
+                "UKPUM MINYA IV"
             ],
             "NSIT ATAI": [
                 "EASTERN NSIT I",
@@ -814,7 +814,7 @@ exports.areas = [
                 "EASTERN NSIT VI",
                 "EASTERN NSIT VII",
                 "EASTERN NSIT VIII",
-                "EASTERN NSIT X",
+                "EASTERN NSIT X"
             ],
             "NSIT IBOM": [
                 "ASANG I",
@@ -826,7 +826,7 @@ exports.areas = [
                 "MBIASO II",
                 "MBIASO III",
                 "MBIASO IV",
-                "MBIASO V",
+                "MBIASO V"
             ],
             "NSIT UBIUM": [
                 "IBIAKAN OBOTIM II",
@@ -838,7 +838,7 @@ exports.areas = [
                 "UBIUM NORTH III",
                 "UBIUM SOUTH I",
                 "UBIUM SOUTH II",
-                "UBIUM SOUTH III",
+                "UBIUM SOUTH III"
             ],
             "OBOT AKARA": [
                 "IKOT ABIA I",
@@ -850,9 +850,9 @@ exports.areas = [
                 "NTO EDIN IV",
                 "OBOT AKARA I",
                 "OBOT AKARA II",
-                "OBOT AKARA III",
+                "OBOT AKARA III"
             ],
-            OKOBO: [
+            "OKOBO": [
                 "AKAI/MBUKPU/UDUNG",
                 "EKEYA",
                 "EWEME II",
@@ -862,9 +862,9 @@ exports.areas = [
                 "OFFI I",
                 "OFFI II",
                 "OKOPEDI I",
-                "OKOPEDI II",
+                "OKOPEDI II"
             ],
-            ONNA: [
+            "ONNA": [
                 "AWA I",
                 "AWA II",
                 "AWA III",
@@ -876,9 +876,9 @@ exports.areas = [
                 "ONIONG EAST III",
                 "ONIONG WEST I",
                 "ONIONG WEST II",
-                "ONIONG WEST III",
+                "ONIONG WEST III"
             ],
-            ORON: [
+            "ORON": [
                 "ORON URBAN I",
                 "ORON URBAN II",
                 "ORON URBAN III",
@@ -888,7 +888,7 @@ exports.areas = [
                 "ORON URBAN VI",
                 "ORON URBAN VII",
                 "ORON URBAN VIII",
-                "ORON URBAN X",
+                "ORON URBAN X"
             ],
             "ORUK ANAM": [
                 "ABAK /MIDIM I",
@@ -903,7 +903,7 @@ exports.areas = [
                 "IKOT IBRITAM II",
                 "NDOT/ IKOT OKORO II",
                 "NDOT/ IKOT OKORO III",
-                "NDOT/IKOT OKORO I",
+                "NDOT/IKOT OKORO I"
             ],
             "UDUNG UKO": [
                 "UDUNG UKO I",
@@ -915,9 +915,9 @@ exports.areas = [
                 "UDUNG UKO VI",
                 "UDUNG UKO VII",
                 "UDUNG UKO VIII",
-                "UDUNG UKO X",
+                "UDUNG UKO X"
             ],
-            UKANAFUN: [
+            "UKANAFUN": [
                 "NORTHERN AFAHA I",
                 "NORTHERN AFAHA II",
                 "NORTHERN UKANAFUN I",
@@ -928,9 +928,9 @@ exports.areas = [
                 "SOUTHERN AFAHA/ ADAT IFANG IV",
                 "SOUTHERN UKANAFUN I",
                 "SOUTHERN UKANAFUN II",
-                "UKANAFUN URBAN",
+                "UKANAFUN URBAN"
             ],
-            "URE OFFONG/ORUKO": [
+            "URUE OFFONG/ORUKO": [
                 "ORUKO I",
                 "ORUKO II",
                 "ORUKO III",
@@ -940,9 +940,9 @@ exports.areas = [
                 "URUE OFFONG II",
                 "URUE OFFONG III",
                 "URUE OFFONG IV",
-                "URUE OFFONG V",
+                "URUE OFFONG V"
             ],
-            URUAN: [
+            "URUAN": [
                 "CENTRAL URUAN I",
                 "CENTRAL URUAN II",
                 "CENTRAL URUAN III",
@@ -953,9 +953,9 @@ exports.areas = [
                 "SOUTHERN URUAN III",
                 "SOUTHERN URUAN IV",
                 "SOUTHERN URUAN V",
-                "SOUTHERN URUAN VI",
+                "SOUTHERN URUAN VI"
             ],
-            UYO: [
+            "UYO": [
                 "ETOI I",
                 "ETOI II",
                 "IKON I",
@@ -966,14 +966,14 @@ exports.areas = [
                 "OKU II",
                 "UYO URBAN I",
                 "UYO URBAN II",
-                "UYO URBAN III",
-            ],
-        },
+                "UYO URBAN III"
+            ]
+        }
     },
     {
-        code: "AN",
-        name: "ANAMBRA",
-        lgas: [
+        "code": "AN",
+        "name": "ANAMBRA",
+        "lgas": [
             "AGUATA",
             "ANAMBRA EAST",
             "ANAMBRA WEST",
@@ -994,10 +994,10 @@ exports.areas = [
             "ONITSHA SOUTH",
             "ORUMBA NORTH",
             "ORUMBA SOUTH",
-            "OYI",
+            "OYI"
         ],
-        subs: {
-            AGUATA: [
+        "subs": {
+            "AGUATA": [
                 "ACHINA I",
                 "ACHINA II",
                 "AGULUEZECHUKWU",
@@ -1017,7 +1017,7 @@ exports.areas = [
                 "UGA II",
                 "UMUCHU I",
                 "UMUCHU II",
-                "UMUONA",
+                "UMUONA"
             ],
             "ANAMBRA EAST": [
                 "AGULERI I",
@@ -1034,7 +1034,7 @@ exports.areas = [
                 "OTUOCHA II",
                 "UMULERI I",
                 "UMULERI II",
-                "UMUOBA ANAM",
+                "UMUOBA ANAM"
             ],
             "ANAMBRA WEST": [
                 "EZI ANAM",
@@ -1046,9 +1046,9 @@ exports.areas = [
                 "UMUENWELUM ANAM",
                 "UMUEZE ANAM I",
                 "UMUEZE ANAM II",
-                "UMUOBA ANAM",
+                "UMUOBA ANAM"
             ],
-            ANAOCHA: [
+            "ANAOCHA": [
                 "ADAZI-ANI I",
                 "ADAZI-ANI II",
                 "ADAZI-ENU I",
@@ -1067,7 +1067,7 @@ exports.areas = [
                 "NENI II",
                 "NRI I",
                 "NRI II",
-                "OBELEDU",
+                "OBELEDU"
             ],
             "AWKA NORTH": [
                 "ACHALLA I",
@@ -1083,7 +1083,7 @@ exports.areas = [
                 "MGBAKWU",
                 "UGBENE",
                 "UGBENU",
-                "URUM",
+                "URUM"
             ],
             "AWKA SOUTH": [
                 "AGU OKA",
@@ -1105,9 +1105,9 @@ exports.areas = [
                 "NISE I",
                 "NISE II",
                 "OKPUN",
-                "UMUAWULU",
+                "UMUAWULU"
             ],
-            AYAMELUM: [
+            "AYAMELUM": [
                 "ANAKU",
                 "IFITE OGWARI I",
                 "IFITE OGWARI II",
@@ -1118,9 +1118,9 @@ exports.areas = [
                 "OMOR III",
                 "UMUEJE",
                 "UMUELUM",
-                "UMUMBO",
+                "UMUMBO"
             ],
-            DUNUKOFIA: [
+            "DUNUKOFIA": [
                 "AKWA",
                 "IFITEDUNU II",
                 "NAWGU I",
@@ -1133,9 +1133,9 @@ exports.areas = [
                 "UMUDIOKA I",
                 "UMUDIOKA II",
                 "UMUNACHI I",
-                "UMUNACHI II",
+                "UMUNACHI II"
             ],
-            EKWUSIGO: [
+            "EKWUSIGO": [
                 "AMAKWA II",
                 "ICHI",
                 "IHEMBOSI/ ANABUDU",
@@ -1147,7 +1147,7 @@ exports.areas = [
                 "OZUBULU II",
                 "OZUBULU III",
                 "OZUBULU IV",
-                "OZUBULU V",
+                "OZUBULU V"
             ],
             "IDEMILI NORTH": [
                 "ABACHA",
@@ -1161,7 +1161,7 @@ exports.areas = [
                 "OGIDI II",
                 "ORAUKWU",
                 "UKE",
-                "UMUOJI",
+                "UMUOJI"
             ],
             "IDEMILI SOUTH": [
                 "AKWUKWU",
@@ -1175,9 +1175,9 @@ exports.areas = [
                 "NNKWA",
                 "OBA I",
                 "OBA II",
-                "OJOTO",
+                "OJOTO"
             ],
-            IHIALA: [
+            "IHIALA": [
                 "AMAMU I",
                 "AMAMU II",
                 "AMORKA",
@@ -1197,9 +1197,9 @@ exports.areas = [
                 "ULI I",
                 "ULI II",
                 "ULI III",
-                "UZOAKWA",
+                "UZOAKWA"
             ],
-            NJIKOKA: [
+            "NJIKOKA": [
                 "ABAGANA I",
                 "ABAGANA II",
                 "ABAGANA III",
@@ -1217,7 +1217,7 @@ exports.areas = [
                 "NIMO I",
                 "NIMO II",
                 "NIMO III",
-                "NIMO IV",
+                "NIMO IV"
             ],
             "NNEWI NORTH": [
                 "NNEWI-ICHI I",
@@ -1229,7 +1229,7 @@ exports.areas = [
                 "UMUDIM II",
                 "URUAGU I",
                 "URUAGU II",
-                "URUAGU III",
+                "URUAGU III"
             ],
             "NNEWI SOUTH": [
                 "AKWA-IHEDI",
@@ -1251,9 +1251,9 @@ exports.areas = [
                 "UKPOR V",
                 "UKPOR VI",
                 "UNUBI",
-                "UTUH",
+                "UTUH"
             ],
-            OGBARU: [
+            "OGBARU": [
                 "AKILI-OZIZOR",
                 "AKILIOGIDI/OBEAGWE",
                 "ATANI I",
@@ -1269,7 +1269,7 @@ exports.areas = [
                 "OKPOKO V",
                 "OKPOKO VI",
                 "OSSOMALA",
-                "UMUNANKWO/MPUTU",
+                "UMUNANKWO/MPUTU"
             ],
             "ONITSHA NORTH": [
                 "AMERICAN QUARTERS",
@@ -1286,7 +1286,7 @@ exports.areas = [
                 "TRANS NKISI",
                 "WATER SIDE CENTRAL I",
                 "WATER SIDE CENTRAL II",
-                "WOLIWO LAYOUT",
+                "WOLIWO LAYOUT"
             ],
             "ONITSHA SOUTH": [
                 "BRIDGE HEAD I",
@@ -1305,7 +1305,7 @@ exports.areas = [
                 "ODOAKPU IV",
                 "ODOAKPU V",
                 "ODOAKPU VI",
-                "ODOAKPU VII",
+                "ODOAKPU VII"
             ],
             "ORUMBA NORTH": [
                 "AJALLI I",
@@ -1325,7 +1325,7 @@ exports.areas = [
                 "OKO I",
                 "OKO II",
                 "UFUMA I",
-                "UFUMA II",
+                "UFUMA II"
             ],
             "ORUMBA SOUTH": [
                 "AGBUDU",
@@ -1345,9 +1345,9 @@ exports.areas = [
                 "UMUNZE 11",
                 "UMUNZE 111",
                 "UMUNZE1",
-                "UMUOMAKU",
+                "UMUOMAKU"
             ],
-            OYI: [
+            "OYI": [
                 "AWKUZUZ I",
                 "AWKUZUZ II",
                 "AWKUZUZ III",
@@ -1362,14 +1362,14 @@ exports.areas = [
                 "OGBUNIKE I",
                 "OGBUNIKE II",
                 "UMUNYA I",
-                "UMUNYA II",
-            ],
-        },
+                "UMUNYA II"
+            ]
+        }
     },
     {
-        code: "BA",
-        name: "BAUCHI",
-        lgas: [
+        "code": "BA",
+        "name": "BAUCHI",
+        "lgas": [
             "ALKALERI",
             "BAUCHI",
             "BOGORO",
@@ -1389,10 +1389,10 @@ exports.areas = [
             "T/BALEWA",
             "TORO",
             "WARJI",
-            "ZAKI",
+            "ZAKI"
         ],
-        subs: {
-            ALKALERI: [
+        "subs": {
+            "ALKALERI": [
                 "ALKALERI",
                 "BIRIN/GIGARA/YANKARI",
                 "DAN/KUNGIBAR",
@@ -1403,9 +1403,9 @@ exports.areas = [
                 "MAIMADI",
                 "PALI",
                 "YALO",
-                "YULI/LIM",
+                "YULI/LIM"
             ],
-            BAUCHI: [
+            "BAUCHI": [
                 "BIRSHI/MIRI",
                 "DANDANGO YAMRAT",
                 "DAWAKI",
@@ -1417,9 +1417,9 @@ exports.areas = [
                 "MAJIDADI 'B'",
                 "MAKAMA SARKIN BAKI",
                 "MUN/MUNSAL",
-                "ZUNGUR LIMAN KATAGUM",
+                "ZUNGUR LIMAN KATAGUM"
             ],
-            BOGORO: [
+            "BOGORO": [
                 "BOGORO (A)",
                 "BOGORO (B)",
                 "BOGORO (C)",
@@ -1429,9 +1429,9 @@ exports.areas = [
                 "BOI (C)",
                 "LUSA (A)",
                 "LUSA (B)",
-                "LUSA (C)",
+                "LUSA (C)"
             ],
-            DANBAM: [
+            "DANBAM": [
                 "DAGAUDA",
                 "DAMBAM",
                 "GARGAWA",
@@ -1441,9 +1441,9 @@ exports.areas = [
                 "JALAM EAST",
                 "YAME",
                 "YANDA",
-                "ZAURA",
+                "ZAURA"
             ],
-            DARAZO: [
+            "DARAZO": [
                 "DARAZO",
                 "GABARIN",
                 "GABCIYARI",
@@ -1454,9 +1454,9 @@ exports.areas = [
                 "SADE",
                 "TAUYA",
                 "WAHU",
-                "YAUTARE",
+                "YAUTARE"
             ],
-            DASS: [
+            "DASS": [
                 "BAGEL/BAJAR",
                 "BARAZA",
                 "BUNDOT",
@@ -1466,9 +1466,9 @@ exports.areas = [
                 "DURR",
                 "POLCHI",
                 "WANDI",
-                "ZUMBUL/LUKSHI",
+                "ZUMBUL/LUKSHI"
             ],
-            GAMAWA: [
+            "GAMAWA": [
                 "ALAGARN/ JADORI",
                 "GADIYA",
                 "GAMAWA",
@@ -1479,9 +1479,9 @@ exports.areas = [
                 "TARMASUWA",
                 "TUMBI",
                 "UDUBO",
-                "ZINDIWA",
+                "ZINDIWA"
             ],
-            GANJUWA: [
+            "GANJUWA": [
                 "GANJUWA",
                 "GUNGURA",
                 "KAFIN MADAKI",
@@ -1492,9 +1492,9 @@ exports.areas = [
                 "MIYA WEST",
                 "NASARAWA NORTH",
                 "NASARAWA SOUTH",
-                "YALI",
+                "YALI"
             ],
-            GIADE: [
+            "GIADE": [
                 "CHINKANI",
                 "DOGUWA CENTRAL",
                 "DOGUWA SOUTH",
@@ -1504,7 +1504,7 @@ exports.areas = [
                 "UZUM A",
                 "UZUM B",
                 "ZABI",
-                "ZIRAMI",
+                "ZIRAMI"
             ],
             "ITAS GADAU": [
                 "ABDALLAWA/MAGARYA",
@@ -1516,7 +1516,7 @@ exports.areas = [
                 "ITAS",
                 "KASHURI",
                 "MASHEMA",
-                "ZUBUKI",
+                "ZUBUKI"
             ],
             "JAMA'ARE": [
                 "DOGON JEJI A",
@@ -1528,9 +1528,9 @@ exports.areas = [
                 "JAMA'ARE B",
                 "JAMA'ARE C",
                 "JAMA'ARE D",
-                "JURARA",
+                "JURARA"
             ],
-            KATAGUM: [
+            "KATAGUM": [
                 "BULKACHUWA/DAGARO",
                 "BUSKURI",
                 "CHINADE",
@@ -1541,9 +1541,9 @@ exports.areas = [
                 "NASARAWA BAKIN KASUWA",
                 "RAGWAM/MAGWONSHI",
                 "TSAKUWA KOFAR GABAS",
-                "YAYU",
+                "YAYU"
             ],
-            KIRFI: [
+            "KIRFI": [
                 "BADARA",
                 "BARA",
                 "BENI “A”",
@@ -1553,9 +1553,9 @@ exports.areas = [
                 "KIRFI",
                 "SHANGO",
                 "TUBULE",
-                "WANKA",
+                "WANKA"
             ],
-            MISAU: [
+            "MISAU": [
                 "AJILIN/GUGULIN",
                 "BETI",
                 "GWARAM",
@@ -1565,9 +1565,9 @@ exports.areas = [
                 "SARMA/AKUYAM",
                 "SIRKO",
                 "TOFU",
-                "ZADAWA",
+                "ZADAWA"
             ],
-            NINGI: [
+            "NINGI": [
                 "BALMA",
                 "BASHE",
                 "BURRA/KYATA",
@@ -1578,9 +1578,9 @@ exports.areas = [
                 "NASARU",
                 "NINGI",
                 "SAMA",
-                "TIFFI/GUDA",
+                "TIFFI/GUDA"
             ],
-            SHIRA: [
+            "SHIRA": [
                 "ANDUBUN",
                 "BELI/GAGIDIBA",
                 "BUKUL/BANGIRE",
@@ -1591,7 +1591,7 @@ exports.areas = [
                 "SHIRA",
                 "TSAFI",
                 "TUMFAFI",
-                "ZUBO",
+                "ZUBO"
             ],
             "T/BALEWA": [
                 "BALL",
@@ -1604,9 +1604,9 @@ exports.areas = [
                 "LERE NORTH",
                 "LERE SOUTH",
                 "TAPSHIN",
-                "WAI",
+                "WAI"
             ],
-            TORO: [
+            "TORO": [
                 "JAMA'A ZARANDA",
                 "LAME",
                 "MARA PALAMA",
@@ -1617,9 +1617,9 @@ exports.areas = [
                 "TILDEN FULANI",
                 "TORO TULAI",
                 "WONU",
-                "ZALAU RISHI",
+                "ZALAU RISHI"
             ],
-            WARJI: [
+            "WARJI": [
                 "BAIMA NORTH WEST",
                 "BAIMA SOUTH EAST",
                 "DAGU EAST",
@@ -1629,9 +1629,9 @@ exports.areas = [
                 "RANGA",
                 "TIYIN",
                 "TUDUN WADA EAST",
-                "TUDUN WADA WEST",
+                "TUDUN WADA WEST"
             ],
-            ZAKI: [
+            "ZAKI": [
                 "ALANGAWARI/KAFIN LARABAWA",
                 "BURSALI",
                 "GUMAI",
@@ -1642,14 +1642,14 @@ exports.areas = [
                 "MURMUR NORTH",
                 "MURMUR SOUTH",
                 "SAKWA",
-                "TASHENA/GADAI",
-            ],
-        },
+                "TASHENA/GADAI"
+            ]
+        }
     },
     {
-        code: "BY",
-        name: "BAYELSA",
-        lgas: [
+        "code": "BY",
+        "name": "BAYELSA",
+        "lgas": [
             "BRASS",
             "EKEREMOR",
             "KOLOKUMA/OPOKUMA",
@@ -1657,10 +1657,10 @@ exports.areas = [
             "OGBIA",
             "SAGBAMA",
             "SOUTHERN IJAW",
-            "YENAGOA",
+            "YENAGOA"
         ],
-        subs: {
-            BRASS: [
+        "subs": {
+            "BRASS": [
                 "BRASS WARD I",
                 "BRASS WARD II",
                 "CAPEFORMOSA",
@@ -1670,9 +1670,9 @@ exports.areas = [
                 "ODIOMA/DIEMA",
                 "OGINIBIRI",
                 "OKPOAMA",
-                "SANGANA",
+                "SANGANA"
             ],
-            EKEREMOR: [
+            "EKEREMOR": [
                 "EDUWINI I",
                 "EDUWINI II",
                 "OPOROMOR I",
@@ -1684,7 +1684,7 @@ exports.areas = [
                 "OYIAKIRI II",
                 "OYIAKIRI III",
                 "OYIAKIRI IV",
-                "TARAKIRI",
+                "TARAKIRI"
             ],
             "KOLOKUMA/OPOKUMA": [
                 "IGBEDI",
@@ -1697,9 +1697,9 @@ exports.areas = [
                 "OPOKUMA NORTH",
                 "OPOKUMA SOUTH",
                 "SAMPOU/KALAMA",
-                "SEIBOKOROGHA SABAGREIA",
+                "SEIBOKOROGHA SABAGREIA"
             ],
-            NEMBE: [
+            "NEMBE": [
                 "BASSAMBIRI I",
                 "BASSAMBIRI II",
                 "BASSAMBIRI III",
@@ -1712,9 +1712,9 @@ exports.areas = [
                 "OGBOLOMABIRI III",
                 "OKOROMA I",
                 "OKOROMA II",
-                "OLUASIRI",
+                "OLUASIRI"
             ],
-            OGBIA: [
+            "OGBIA": [
                 "ANYAMA",
                 "EMEYAL",
                 "IMIRINGI",
@@ -1727,9 +1727,9 @@ exports.areas = [
                 "OTAKEME",
                 "OTUABULA",
                 "OTUASEGA",
-                "OTUOKPOTI",
+                "OTUOKPOTI"
             ],
-            SAGBAMA: [
+            "SAGBAMA": [
                 "ADAGBABIRI",
                 "AGBERE",
                 "AGORO",
@@ -1743,7 +1743,7 @@ exports.areas = [
                 "OSIAMA",
                 "SAGBAMA",
                 "TORU-EBENI",
-                "TROFANI",
+                "TROFANI"
             ],
             "SOUTHERN IJAW": [
                 "AMASSOMA I",
@@ -1762,9 +1762,9 @@ exports.areas = [
                 "OPOROMA II",
                 "OTUAN",
                 "UKUBIE",
-                "WEST BOMO",
+                "WEST BOMO"
             ],
-            YENAGOA: [
+            "YENAGOA": [
                 "ATTISSA I",
                 "ATTISSA II",
                 "ATTISSA III",
@@ -1779,14 +1779,14 @@ exports.areas = [
                 "GBARAIN I",
                 "GBARAIN II",
                 "OKORDIA",
-                "ZARAMA",
-            ],
-        },
+                "ZARAMA"
+            ]
+        }
     },
     {
-        code: "BE",
-        name: "BENUE",
-        lgas: [
+        "code": "BE",
+        "name": "BENUE",
+        "lgas": [
             "ADO",
             "AGATU",
             "APA",
@@ -1795,24 +1795,24 @@ exports.areas = [
             "GUMA",
             "GWER EAST",
             "GWER WEST",
-            "KATSINALA",
+            "KATSINA ALA",
             "KONSHISHA",
-            "KWADE",
+            "KWANDE",
             "LOGO",
             "MAKURDI",
             "OBI",
-            "OGADIBO",
+            "OGBADIBO",
             "OJU",
             "OKPOKWU",
-            "OMIMII",
+            "OHIMINI",
             "OTUKPO",
             "TARKA",
             "UKUM",
             "USHONGO",
-            "VANDEKYA",
+            "VANDEIKYA"
         ],
-        subs: {
-            ADO: [
+        "subs": {
+            "ADO": [
                 "AKPOGE/OGBILOLO",
                 "APA",
                 "EKILE",
@@ -1822,9 +1822,9 @@ exports.areas = [
                 "OGEGE",
                 "ROYONGO",
                 "UKWONYO",
-                "ULAYI",
+                "ULAYI"
             ],
-            AGATU: [
+            "AGATU": [
                 "EGBA",
                 "ENUNGBA",
                 "OBAGAJI",
@@ -1834,9 +1834,9 @@ exports.areas = [
                 "OGWULE OGBAULU",
                 "OKOKOLO",
                 "OSHIGBUDU",
-                "USHA",
+                "USHA"
             ],
-            APA: [
+            "APA": [
                 "AKPETE/OJANTELE",
                 "AUKE",
                 "EDIKWU I",
@@ -1847,9 +1847,9 @@ exports.areas = [
                 "OBA",
                 "OFOKE",
                 "OIJI",
-                "UGBOKPO",
+                "UGBOKPO"
             ],
-            BURUKU: [
+            "BURUKU": [
                 "BINEV",
                 "ETULO",
                 "MB AYA",
@@ -1862,9 +1862,9 @@ exports.areas = [
                 "MBAITYOUGH",
                 "MBAKYAAN",
                 "MBAYAKA",
-                "SHOROV",
+                "SHOROV"
             ],
-            GBOKO: [
+            "GBOKO": [
                 "GBOKO CENTRAL MKT",
                 "GBOKO EAST",
                 "GBOKO N/WEST",
@@ -1881,9 +1881,9 @@ exports.areas = [
                 "MBATZER",
                 "UKPE-KPE",
                 "YANDEV NORTH",
-                "YANDEV SOUTH",
+                "YANDEV SOUTH"
             ],
-            GUMA: [
+            "GUMA": [
                 "ABINSI",
                 "KAAMBE",
                 "MBABAI",
@@ -1893,7 +1893,7 @@ exports.areas = [
                 "NYIEV",
                 "NZOROV",
                 "SAGHEV",
-                "UVIR",
+                "UVIR"
             ],
             "GWER EAST": [
                 "AKPACHANYI",
@@ -1909,7 +1909,7 @@ exports.areas = [
                 "MBASOSOMBO",
                 "MBAYOM",
                 "MBIAKYU",
-                "UGEE",
+                "UGEE"
             ],
             "GWER WEST": [
                 "AVIHIJIME",
@@ -1926,9 +1926,9 @@ exports.areas = [
                 "SENGEV",
                 "SENGEV/YENGEV",
                 "TIJIME",
-                "TSAMBE/MBESSEV",
+                "TSAMBE/MBESSEV"
             ],
-            KATSINALA: [
+            "KATSINA ALA": [
                 "IKURAV-TIEV I",
                 "IKURAV-TIEV II",
                 "IWAR",
@@ -1940,9 +1940,9 @@ exports.areas = [
                 "MICHICHE",
                 "TIIR",
                 "UTANGE",
-                "YOOYO",
+                "YOOYO"
             ],
-            KONSHISHA: [
+            "KONSHISHA": [
                 "IKYURAV/MBATWER",
                 "MBAGUSA/MBATSER",
                 "MBAINARNYAM",
@@ -1953,9 +1953,9 @@ exports.areas = [
                 "MBAVAA",
                 "MBAWAR",
                 "MBAYEGH/MBAIKYEGH",
-                "TSEAGARAGBA",
+                "TSEAGARAGBA"
             ],
-            KWADE: [
+            "KWANDE": [
                 "ADKPO METROPOLIS",
                 "KUMAKWAGH",
                 "LIVE I",
@@ -1970,9 +1970,9 @@ exports.areas = [
                 "TAAV",
                 "TONDOV I",
                 "TONDOV II",
-                "USAR",
+                "USAR"
             ],
-            LOGO: [
+            "LOGO": [
                 "MBADYUL",
                 "MBAGBER",
                 "MBATER",
@@ -1982,9 +1982,9 @@ exports.areas = [
                 "TOMBO",
                 "TURAN",
                 "UKEMBREGA/TSWAREV",
-                "YONV",
+                "YONV"
             ],
-            MAKURDI: [
+            "MAKURDI": [
                 "AGAN",
                 "ANKPA/WADATA",
                 "BAR",
@@ -1995,9 +1995,9 @@ exports.areas = [
                 "MODERN MKT",
                 "NORTH BANK I",
                 "NORTH BANK II",
-                "WALLOMAYO",
+                "WALLOMAYO"
             ],
-            OBI: [
+            "OBI": [
                 "ADIKO",
                 "AOUM-WEST",
                 "IKWOKWU",
@@ -2009,9 +2009,9 @@ exports.areas = [
                 "OGORE",
                 "OKPOKWU",
                 "OKWUTUNGBE",
-                "ORIHI",
+                "ORIHI"
             ],
-            OGADIBO: [
+            "OGBADIBO": [
                 "AI- OODO I",
                 "AI- OODO II",
                 "AI-OON I",
@@ -2024,9 +2024,9 @@ exports.areas = [
                 "OLACHAGBAHA",
                 "ORORAM I",
                 "ORORAM II",
-                "ORORAM III",
+                "ORORAM III"
             ],
-            OJU: [
+            "OJU": [
                 "ADOKPA",
                 "AINU",
                 "IBBILA",
@@ -2037,9 +2037,9 @@ exports.areas = [
                 "OKPOKPO",
                 "OKWUDU",
                 "OWO",
-                "UKPA AINU/ETTE",
+                "UKPA AINU/ETTE"
             ],
-            OKPOKWU: [
+            "OKPOKWU": [
                 "AMEJO",
                 "EKE",
                 "ICHAMA II",
@@ -2051,9 +2051,9 @@ exports.areas = [
                 "OKPOGA NORTH",
                 "OKPOGA SOUTH",
                 "OKPOGA WEST",
-                "UGBOKOLO",
+                "UGBOKOLO"
             ],
-            OMIMII: [
+            "OHIMINI": [
                 "AGADAGBA",
                 "AWUME-EHAJE",
                 "AWUME-ICHO",
@@ -2063,9 +2063,9 @@ exports.areas = [
                 "OGLENU-ICHO",
                 "OGLEWU-EHAJE",
                 "ONYAGEDE-EHAJE",
-                "ONYAGEDE-ICHO",
+                "ONYAGEDE-ICHO"
             ],
-            OTUKPO: [
+            "OTUKPO": [
                 "ADOKA-EHAJE",
                 "ADOKA-ICHO",
                 "ALLAN",
@@ -2078,9 +2078,9 @@ exports.areas = [
                 "OTUKPO/WEST",
                 "UGBOJU-EHAJE",
                 "UGBOJU-ICHO",
-                "UGBOJU-OTAHE",
+                "UGBOJU-OTAHE"
             ],
-            TARKA: [
+            "TARKA": [
                 "MBAAJIRAKAA",
                 "MBAAYO",
                 "MBACHAVRIKYONDO",
@@ -2090,9 +2090,9 @@ exports.areas = [
                 "MBANYAGBER",
                 "MBIAGBA",
                 "SHITILE",
-                "TONGOV",
+                "TONGOV"
             ],
-            UKUM: [
+            "UKUM": [
                 "ATEKEYANGE",
                 "AZENDESHE",
                 "BORIKYO",
@@ -2105,9 +2105,9 @@ exports.areas = [
                 "MBAZUM",
                 "TSAAV",
                 "UGBAAM",
-                "UYAM",
+                "UYAM"
             ],
-            USHONGO: [
+            "USHONGO": [
                 "ATIRKYE",
                 "IKOV",
                 "MBAAKA",
@@ -2118,9 +2118,9 @@ exports.areas = [
                 "MBAKUHA",
                 "MBAYEGH",
                 "TOWNSHIP",
-                "UTANGE",
+                "UTANGE"
             ],
-            VANDEKYA: [
+            "VANDEIKYA": [
                 "MBADEDE",
                 "MBAGBAM",
                 "MBAGBERA",
@@ -2132,14 +2132,14 @@ exports.areas = [
                 "MBAYONGO",
                 "NINGEV",
                 "TOWNSHIP",
-                "TSAMBE",
-            ],
-        },
+                "TSAMBE"
+            ]
+        }
     },
     {
-        code: "BO",
-        name: "BORNO",
-        lgas: [
+        "code": "BO",
+        "name": "BORNO",
+        "lgas": [
             "ABADAM",
             "ASKIRA UBA",
             "BAMA",
@@ -2160,16 +2160,16 @@ exports.areas = [
             "KWAYA KUSAR",
             "MAFA",
             "MAGUMERI",
-            "MAIDUGURI M.C",
+            "MAIDUGURI",
             "MARTE",
             "MOBBAR",
             "MONGUNO",
             "NGALA",
-            "NGANZI",
-            "SHANI",
+            "NGANZAI",
+            "SHANI"
         ],
-        subs: {
-            ABADAM: [
+        "subs": {
+            "ABADAM": [
                 "AREGE",
                 "BANWA",
                 "FOGUWA",
@@ -2179,7 +2179,7 @@ exports.areas = [
                 "MALLAM KAUNARI",
                 "YAU",
                 "YAWA KURA",
-                "YITUWA",
+                "YITUWA"
             ],
             "ASKIRA UBA": [
                 "ASKIRA EAST",
@@ -2194,9 +2194,9 @@ exports.areas = [
                 "UBA",
                 "UDA/UVU",
                 "WAMDEO/GIWI",
-                "ZADAWA/HAUSARI",
+                "ZADAWA/HAUSARI"
             ],
-            BAMA: [
+            "BAMA": [
                 "ANDARA/AJIRI/WULBA",
                 "BUDUWA/BULA CHIRABE",
                 "DIPCHARI/JERE/DARJAMMAL",
@@ -2210,9 +2210,9 @@ exports.areas = [
                 "SHEHURI/HAUSARI/MAIRI",
                 "WULBARI/NDINE/CHAHILE",
                 "YABIRI GANA/YABIRI KURA",
-                "ZANGERI KESH/KESH",
+                "ZANGERI KESH/KESH"
             ],
-            BAYO: [
+            "BAYO": [
                 "BALBAYA",
                 "BRIYEL",
                 "FIKAYEL",
@@ -2222,9 +2222,9 @@ exports.areas = [
                 "LIMANTI",
                 "TELI",
                 "WUYO",
-                "ZARA",
+                "ZARA"
             ],
-            BIU: [
+            "BIU": [
                 "BURATAI",
                 "DADIN KOWA",
                 "DUGJA",
@@ -2235,9 +2235,9 @@ exports.areas = [
                 "MIRINGA",
                 "SULUMTHLA",
                 "YAWI",
-                "ZARAWUYAKU",
+                "ZARAWUYAKU"
             ],
-            CHIBOK: [
+            "CHIBOK": [
                 "GARU",
                 "GATAMARWA",
                 "KAUTIKARI",
@@ -2248,9 +2248,9 @@ exports.areas = [
                 "MBOA - KURA",
                 "PEMI",
                 "SHIKARKIR",
-                "WHUNTHAKU",
+                "WHUNTHAKU"
             ],
-            DAMBOA: [
+            "DAMBOA": [
                 "AJIGIN (A)",
                 "AJIGIN (B)",
                 "AZIR, MULTE, FORFOR",
@@ -2260,9 +2260,9 @@ exports.areas = [
                 "KAFA MAFI",
                 "MULGWAI/KUBCHI",
                 "NZUDA/WUYARAM",
-                "WAWA KOREDE",
+                "WAWA KOREDE"
             ],
-            DIKWA: [
+            "DIKWA": [
                 "BOBOSHE",
                 "DIKWA",
                 "GAJIBO",
@@ -2272,9 +2272,9 @@ exports.areas = [
                 "MUDU KAZA",
                 "MULIYE/JEMURI",
                 "NGUDURAM",
-                "SOGOMO",
+                "SOGOMO"
             ],
-            GUBIO: [
+            "GUBIO": [
                 "ARDIMINI",
                 "DABIRA",
                 "FELO",
@@ -2284,9 +2284,9 @@ exports.areas = [
                 "GUBIO II",
                 "KINGOWA",
                 "NGETRA",
-                "ZOWO",
+                "ZOWO"
             ],
-            GUZAMALA: [
+            "GUZAMALA": [
                 "ADUWA",
                 "GUDUMBALI EAST",
                 "GUDUMBALI WEST",
@@ -2296,9 +2296,9 @@ exports.areas = [
                 "KINGARWA",
                 "MAIRARI",
                 "MODURI",
-                "WAMIRI",
+                "WAMIRI"
             ],
-            GWOZA: [
+            "GWOZA": [
                 "ASHIGASHIYA",
                 "BITA/IZGE",
                 "DURE/WARA/WARABE",
@@ -2311,9 +2311,9 @@ exports.areas = [
                 "KIRAWA JIMINI",
                 "KURANA BASSA NGOSHE SAMA’A",
                 "NGOSHE",
-                "PULKA",
+                "PULKA"
             ],
-            HAWUL: [
+            "HAWUL": [
                 "BIILINGWI",
                 "DZAR/VINADAM/BIRNI/DLANDI",
                 "GWANZANG/PUSDA",
@@ -2325,9 +2325,9 @@ exports.areas = [
                 "PAMA/WHITAMBAYA",
                 "PUBA/VIDAU/LOKAJA",
                 "SAKWA/HEMA",
-                "SHAFFA",
+                "SHAFFA"
             ],
-            JERE: [
+            "JERE": [
                 "ALAU",
                 "BALE/GALTIMARI",
                 "DALA LAWANTI",
@@ -2339,9 +2339,9 @@ exports.areas = [
                 "MASHAMARI",
                 "NGUDDA/ADDAMARI",
                 "OLD MAIDUGURI",
-                "TUBA",
+                "TUBA"
             ],
-            KAGA: [
+            "KAGA": [
                 "AFA/DIG/MAUDORI",
                 "BARGOZO",
                 "BENISHEIK",
@@ -2356,7 +2356,7 @@ exports.areas = [
                 "SHETTIMARI",
                 "TOBOLO",
                 "WAJIRO/BURGUMA",
-                "WASSARAM",
+                "WASSARAM"
             ],
             "KALA BALGE": [
                 "JARAWA",
@@ -2368,9 +2368,9 @@ exports.areas = [
                 "MOHOLO",
                 "RANN A",
                 "RANN B",
-                "SIGAL",
+                "SIGAL"
             ],
-            KONDUGA: [
+            "KONDUGA": [
                 "AUN / CHABBAL",
                 "DALORI / WANRI",
                 "JEWU / LAMBOA",
@@ -2381,9 +2381,9 @@ exports.areas = [
                 "MALARI / KAIGAMARI/ DALWA EAST",
                 "MASBA / DALWA WEST",
                 "SANDIYA / NYALERI / YAJIWA",
-                "SOJIRI / NGURO-NGURO",
+                "SOJIRI / NGURO-NGURO"
             ],
-            KUKAWA: [
+            "KUKAWA": [
                 "ALAGARN",
                 "BAGA",
                 "BUNDUR",
@@ -2393,7 +2393,7 @@ exports.areas = [
                 "KEKEN",
                 "KUKAWA",
                 "MODUARY/BARWATI",
-                "YOYO",
+                "YOYO"
             ],
             "KWAYA KUSAR": [
                 "GONDI",
@@ -2405,9 +2405,9 @@ exports.areas = [
                 "PETA",
                 "WADA",
                 "WAWA",
-                "YIRMITHAN",
+                "YIRMITHAN"
             ],
-            MAFA: [
+            "MAFA": [
                 "ABARI",
                 "ANADUA",
                 "GAWA",
@@ -2419,9 +2419,9 @@ exports.areas = [
                 "MAFA",
                 "MASU",
                 "MUJIGINE",
-                "TAMSUNGAMDUA",
+                "TAMSUNGAMDUA"
             ],
-            MAGUMERI: [
+            "MAGUMERI": [
                 "AGAMMA",
                 "ARDORAM",
                 "AYI/YASKU",
@@ -2434,9 +2434,9 @@ exports.areas = [
                 "KARERAM",
                 "KUBTI",
                 "MAGUMERI",
-                "NGUMBALA BAMMA",
+                "NGUMBALA BAMMA"
             ],
-            "MAIDUGURI M.C": [
+            "MAIDUGURI": [
                 "BOLORI I",
                 "BOLORI II",
                 "BULABULIN",
@@ -2451,9 +2451,9 @@ exports.areas = [
                 "MAFONI",
                 "MAISANDARI",
                 "SHEHURI NORTH",
-                "SHEHURI SOUTH",
+                "SHEHURI SOUTH"
             ],
-            MARTE: [
+            "MARTE": [
                 "ALA",
                 "ALA LAWANTI",
                 "BORSORI",
@@ -2466,9 +2466,9 @@ exports.areas = [
                 "MUSUNE",
                 "NGELEWA",
                 "NJINE",
-                "ZAGA",
+                "ZAGA"
             ],
-            MOBBAR: [
+            "MOBBAR": [
                 "ASAGA",
                 "BOGUM",
                 "CHAMBA",
@@ -2478,9 +2478,9 @@ exports.areas = [
                 "KARETO",
                 "LAYI",
                 "ZANNA UMORTI",
-                "ZARI",
+                "ZARI"
             ],
-            MONGUNO: [
+            "MONGUNO": [
                 "DAMAKULI",
                 "KAGURAM",
                 "KUMALIA",
@@ -2492,9 +2492,9 @@ exports.areas = [
                 "SURE",
                 "WULO",
                 "YELE",
-                "ZULUM",
+                "ZULUM"
             ],
-            NGALA: [
+            "NGALA": [
                 "FUYE",
                 "GAMBORU B",
                 "GAMBORU C",
@@ -2506,10 +2506,12 @@ exports.areas = [
                 "TUNKALIA",
                 "WARSHELE",
                 "WULGO",
-                "WURGE",
+                "WURGE"
             ],
-            NGANZI: ["GAJIRAM"],
-            SHANI: [
+            "NGANZAI": [
+                "GAJIRAM"
+            ],
+            "SHANI": [
                 "BARGU/BURASHIKA",
                 "BUMA",
                 "GASI/SALIFAWA",
@@ -2520,14 +2522,14 @@ exports.areas = [
                 "KUBO",
                 "KWABA",
                 "SHANI",
-                "WALAMA",
-            ],
-        },
+                "WALAMA"
+            ]
+        }
     },
     {
-        code: "CR",
-        name: "CROSS RIVER",
-        lgas: [
+        "code": "CR",
+        "name": "CROSS RIVER",
+        "lgas": [
             "ABI",
             "AKAMKPA",
             "AKPABUYO",
@@ -2535,9 +2537,8 @@ exports.areas = [
             "BEKWARRA",
             "BIASE",
             "BOKI",
-            "CALABAR MUNI",
+            "CALABAR MUNICIPAL",
             "CALABAR SOUTH",
-            "CHIBOK",
             "ETUNG",
             "IKOM",
             "OBANLIKU",
@@ -2546,10 +2547,10 @@ exports.areas = [
             "ODUKPANI",
             "OGOJA",
             "YAKURR",
-            "YALA",
+            "YALA"
         ],
-        subs: {
-            ABI: [
+        "subs": {
+            "ABI": [
                 "ADADAMA",
                 "AFAFANYI (IGONIGONI)",
                 "EBOM",
@@ -2559,9 +2560,9 @@ exports.areas = [
                 "IMABANA I",
                 "IMABANA II",
                 "ITIGIDI",
-                "USUMUTONG",
+                "USUMUTONG"
             ],
-            AKAMKPA: [
+            "AKAMKPA": [
                 "AKAMKPA URBAN",
                 "AWI",
                 "EKU",
@@ -2571,9 +2572,9 @@ exports.areas = [
                 "OBAN",
                 "OJUK NORTH",
                 "OJUK SOUTH",
-                "UYANGA",
+                "UYANGA"
             ],
-            AKPABUYO: [
+            "AKPABUYO": [
                 "ATIMBO EAST",
                 "ATIMBO WEST",
                 "ENEYO",
@@ -2583,9 +2584,9 @@ exports.areas = [
                 "IKANG SOUTH",
                 "IKOT EDEM ODO",
                 "IKOT EYO",
-                "IKOT NAKANDA",
+                "IKOT NAKANDA"
             ],
-            BAKASSI: [
+            "BAKASSI": [
                 "ABANA",
                 "AKPANKANYA",
                 "AKWA",
@@ -2595,10 +2596,14 @@ exports.areas = [
                 "ATAI EMA",
                 "EFUT INWANG",
                 "EKPOT ABIA",
-                "ODIONG",
+                "ODIONG"
             ],
-            BEKWARRA: ["ABUOCHICHE", "AFRIKE OCHAGBE", "AFRIKE OKPECHE"],
-            BIASE: [
+            "BEKWARRA": [
+                "ABUOCHICHE",
+                "AFRIKE OCHAGBE",
+                "AFRIKE OKPECHE"
+            ],
+            "BIASE": [
                 "ABAYONG",
                 "ADIM",
                 "AGWAGUNE/OKURIKE",
@@ -2609,9 +2614,9 @@ exports.areas = [
                 "ERIEI SOUTH",
                 "IKUN/ETON",
                 "UMON NORTH",
-                "UMON SOUTH",
+                "UMON SOUTH"
             ],
-            BOKI: [
+            "BOKI": [
                 "ABO",
                 "ALANKWU",
                 "BEEBO/BUMAJI",
@@ -2622,9 +2627,9 @@ exports.areas = [
                 "EKPASHI",
                 "KAKWAGOM/BAWOP",
                 "OGEP/OSOKOM",
-                "OKU/BORUM/NJUA",
+                "OKU/BORUM/NJUA"
             ],
-            "CALABAR MUNI": [
+            "CALABAR MUNICIPAL": [
                 "WARD EIGHT",
                 "WARD FIVE",
                 "WARD FOUR",
@@ -2634,7 +2639,7 @@ exports.areas = [
                 "WARD SIX",
                 "WARD TEN",
                 "WARD THREE",
-                "WARD TWO",
+                "WARD TWO"
             ],
             "CALABAR SOUTH": [
                 "EIGHT",
@@ -2648,10 +2653,9 @@ exports.areas = [
                 "TEN",
                 "THREE",
                 "TWELVE",
-                "TWO",
+                "TWO"
             ],
-            CHIBOK: ["GARU"],
-            ETUNG: [
+            "ETUNG": [
                 "ABIA",
                 "ABIJANG",
                 "AGBOKIM",
@@ -2661,9 +2665,9 @@ exports.areas = [
                 "ETOMI",
                 "ITAKA",
                 "MKPOT/ AYUK ABA",
-                "NSOFANG",
+                "NSOFANG"
             ],
-            IKOM: [
+            "IKOM": [
                 "ABANYUM",
                 "AKPARABONG",
                 "IKOM URBAN 1",
@@ -2674,9 +2678,9 @@ exports.areas = [
                 "OFUTOP 11",
                 "OFUTOP1",
                 "OLULUMO",
-                "YALA/ NKUM",
+                "YALA/ NKUM"
             ],
-            OBANLIKU: [
+            "OBANLIKU": [
                 "BASANG",
                 "BEBI",
                 "BECHEVE",
@@ -2686,9 +2690,9 @@ exports.areas = [
                 "BISHIRI SOUTH",
                 "BISU",
                 "BUSI",
-                "UTANGA",
+                "UTANGA"
             ],
-            OBUBRA: [
+            "OBUBRA": [
                 "ABABENE",
                 "APIAPUM",
                 "IYAMOYONG",
@@ -2699,9 +2703,9 @@ exports.areas = [
                 "OFUMBONGHA/YALA",
                 "OSOPONG I",
                 "OSOPONG II",
-                "OVONUM",
+                "OVONUM"
             ],
-            OBUDU: [
+            "OBUDU": [
                 "ALAGE/ UBANG",
                 "ANGIABA/BEGIAKA",
                 "BEGIADING",
@@ -2710,9 +2714,9 @@ exports.areas = [
                 "URBAN 1",
                 "URBAN 2",
                 "UTUGWANG CENTRAL",
-                "UTUGWANG NORTH",
+                "UTUGWANG NORTH"
             ],
-            ODUKPANI: [
+            "ODUKPANI": [
                 "ADIABO/EFUT",
                 "AKAMKPA",
                 "CREEK TOWN I",
@@ -2725,9 +2729,9 @@ exports.areas = [
                 "OBOMITIAT/MBIABO/EDIONG",
                 "ODOT",
                 "ODUKPANI CENTRAL",
-                "ONIMANKIONG",
+                "ONIMANKIONG"
             ],
-            OGOJA: [
+            "OGOJA": [
                 "EKAJUK I",
                 "EKAJUK II",
                 "MBUBE EAST I",
@@ -2737,9 +2741,9 @@ exports.areas = [
                 "NKUM IBORO",
                 "NKUM IREDE",
                 "OGOJA URBAN I",
-                "OGOJA URBAN II",
+                "OGOJA URBAN II"
             ],
-            YAKURR: [
+            "YAKURR": [
                 "ABANAKPI",
                 "AFREKPE/EPENTI",
                 "AJERE",
@@ -2752,9 +2756,9 @@ exports.areas = [
                 "INYIMA",
                 "MKPANI/AGOI",
                 "NKPOLO/UKPAWEN",
-                "NTAN",
+                "NTAN"
             ],
-            YALA: [
+            "YALA": [
                 "ECHUMOFANA",
                 "GABU",
                 "IJIRAGA",
@@ -2765,14 +2769,14 @@ exports.areas = [
                 "WANIHEM",
                 "WANIKADE",
                 "YACHE",
-                "YAHE",
-            ],
-        },
+                "YAHE"
+            ]
+        }
     },
     {
-        code: "DE",
-        name: "DELTA",
-        lgas: [
+        "code": "DE",
+        "name": "DELTA",
+        "lgas": [
             "ANIOCHA NORTH",
             "ANIOCHA SOUTH",
             "BOMADI",
@@ -2785,7 +2789,6 @@ exports.areas = [
             "ISOKO SOUTH",
             "NDOKWA EAST",
             "NDOKWA WEST",
-            "OBUDU",
             "OKPE",
             "OSHIMILI NORTH",
             "OSHIMILI SOUTH",
@@ -2798,9 +2801,9 @@ exports.areas = [
             "UVWIE",
             "WARRI NORTH",
             "WARRI SOUTH",
-            "WARRI SOUTH WEST",
+            "WARRI SOUTH WEST"
         ],
-        subs: {
+        "subs": {
             "ANIOCHA NORTH": [
                 "EZI",
                 "IDUMUJE UNR",
@@ -2810,7 +2813,7 @@ exports.areas = [
                 "OBOMKPA",
                 "ONICHA OLONA",
                 "ONICHA UGBO",
-                "UKWU-NZU",
+                "UKWU-NZU"
             ],
             "ANIOCHA SOUTH": [
                 "ABA UNR",
@@ -2823,9 +2826,9 @@ exports.areas = [
                 "UBULU OKITI",
                 "UBULU UKU I",
                 "UBULU UKU II",
-                "UBULU UNR",
+                "UBULU UNR"
             ],
-            BOMADI: [
+            "BOMADI": [
                 "AKUGBENE  I",
                 "AKUGBENE  II",
                 "AKUGBENE  III",
@@ -2835,9 +2838,9 @@ exports.areas = [
                 "KPAKIAMA",
                 "OGBEINAMA/OKOLOBA",
                 "OGO-EZE",
-                "OGRIAGBENE",
+                "OGRIAGBENE"
             ],
-            BURUTU: [
+            "BURUTU": [
                 "BOLOU-NDORO",
                 "NGBILEBIRI I",
                 "NGBILEBIRI II",
@@ -2848,7 +2851,7 @@ exports.areas = [
                 "SEIMBIRI",
                 "TAMIGBE",
                 "TORUGBENE",
-                "TUOMO",
+                "TUOMO"
             ],
             "ETHIOPE EAST": [
                 "ABRAKA I",
@@ -2861,7 +2864,7 @@ exports.areas = [
                 "AGBON V",
                 "AGBON VI",
                 "AGBON VII",
-                "AGBON VIII",
+                "AGBON VIII"
             ],
             "ETHIOPE WEST": [
                 "JESSE I",
@@ -2874,7 +2877,7 @@ exports.areas = [
                 "OGHARA II",
                 "OGHARA III",
                 "OGHARA IV",
-                "OGHARA V",
+                "OGHARA V"
             ],
             "IKA NORTH EAST": [
                 "AKUMAZI",
@@ -2890,7 +2893,7 @@ exports.areas = [
                 "OWA VI",
                 "UMUNEDE",
                 "UTE-OGBEJE",
-                "UTE-OKPU",
+                "UTE-OKPU"
             ],
             "IKA SOUTH": [
                 "ABAVO I",
@@ -2904,7 +2907,7 @@ exports.areas = [
                 "EKUKU-AGBOR",
                 "IHUIYASE I",
                 "IHUIYASE II",
-                "IHUZOMOR/ OZANGOGO",
+                "IHUZOMOR/ OZANGOGO"
             ],
             "ISOKO NORTH": [
                 "ELLU/OVRODE/OVRODE",
@@ -2919,7 +2922,7 @@ exports.areas = [
                 "OYEDE",
                 "OZORO I",
                 "OZORO II",
-                "OZORO III",
+                "OZORO III"
             ],
             "ISOKO SOUTH": [
                 "AVIARA",
@@ -2932,7 +2935,7 @@ exports.areas = [
                 "OLEH I",
                 "OLEH II",
                 "OLOMORO",
-                "UZERE",
+                "UZERE"
             ],
             "NDOKWA EAST": [
                 "ABARRA/INYI/ONUABOH",
@@ -2944,7 +2947,7 @@ exports.areas = [
                 "IBREDE/IGBUKU/ONGBOKOR",
                 "OKPAI/UTCHI/BENEKU",
                 "ONYAI/ADIAI/UMUOLU/ UTUOKWU",
-                "OSSISSA",
+                "OSSISSA"
             ],
             "NDOKWA WEST": [
                 "ABBI I",
@@ -2956,10 +2959,9 @@ exports.areas = [
                 "UTAGBA OGBE",
                 "UTAGBA UN I",
                 "UTAGBA UN II",
-                "UTAGBA UN III",
+                "UTAGBA UN III"
             ],
-            OBUDU: ["UTUGWANG SOUTH"],
-            OKPE: [
+            "OKPE": [
                 "AGHALOKPE",
                 "ARHAGBA",
                 "MEREJE I",
@@ -2969,7 +2971,7 @@ exports.areas = [
                 "OHA II",
                 "OREROKPE",
                 "OVIRI OKPE",
-                "UGHOTON",
+                "UGHOTON"
             ],
             "OSHIMILI NORTH": [
                 "AKWUKWU IGBO",
@@ -2981,7 +2983,7 @@ exports.areas = [
                 "IBUSA V",
                 "ILLAH",
                 "OKPANAM",
-                "UKALA",
+                "UKALA"
             ],
             "OSHIMILI SOUTH": [
                 "AGU",
@@ -2994,9 +2996,9 @@ exports.areas = [
                 "UMUAJI",
                 "UMUEZEI",
                 "UMUONAJE",
-                "WEST - END",
+                "WEST - END"
             ],
-            PATANI: [
+            "PATANI": [
                 "ABARI",
                 "AGOLOMA",
                 "BOLOU – ANGIAMA",
@@ -3006,9 +3008,9 @@ exports.areas = [
                 "PATNI II",
                 "TAWARE/KOLOWARE/AVEN",
                 "TORU ANGIAMA",
-                "UDUOPHORI",
+                "UDUOPHORI"
             ],
-            SAPELE: [
+            "SAPELE": [
                 "AMUOKPE",
                 "ELUME",
                 "OKOKPORO/UGBORHEN",
@@ -3019,9 +3021,9 @@ exports.areas = [
                 "SAPELE URBAN V",
                 "SAPELE URBAN VI",
                 "SAPELE URBAN VII",
-                "SAPELE URBAN VIII",
+                "SAPELE URBAN VIII"
             ],
-            UDU: [
+            "UDU": [
                 "ALADJA",
                 "EKETE",
                 "EMADAJA",
@@ -3031,7 +3033,7 @@ exports.areas = [
                 "OVWIAN I",
                 "OVWIAN II",
                 "OWHODE",
-                "UDU II",
+                "UDU II"
             ],
             "UGHELLI NORTH": [
                 "AGBARHA",
@@ -3044,7 +3046,7 @@ exports.areas = [
                 "UGHELLI I",
                 "UGHELLI II",
                 "UGHELLI III",
-                "UWHERU",
+                "UWHERU"
             ],
             "UGHELLI SOUTH": [
                 "EFFURUN-OTOR",
@@ -3057,9 +3059,9 @@ exports.areas = [
                 "JEREMI III",
                 "JEREMI IV",
                 "OLOMU I",
-                "OLOMU II",
+                "OLOMU II"
             ],
-            UKWUANI: [
+            "UKWUANI": [
                 "AKOKU",
                 "AMAI",
                 "EBEDEI",
@@ -3069,9 +3071,9 @@ exports.areas = [
                 "OBIARUKU II",
                 "UMUEBU",
                 "UMUKWATA",
-                "UMUTU",
+                "UMUTU"
             ],
-            UVWIE: [
+            "UVWIE": [
                 "ARMY BARRACKS AREA",
                 "EFFURUN I",
                 "EFFURUN II",
@@ -3081,7 +3083,7 @@ exports.areas = [
                 "ENERHEN II",
                 "UGBOMRO/UGBOLOKPOSO",
                 "UGBORIKOKO",
-                "UGBOROKE",
+                "UGBOROKE"
             ],
             "WARRI NORTH": [
                 "EBROHIMI",
@@ -3093,7 +3095,7 @@ exports.areas = [
                 "OGBUDUGBUDU",
                 "OGHEYE",
                 "OPUAMA",
-                "TSEKELEWU (EGBEMA)",
+                "TSEKELEWU (EGBEMA)"
             ],
             "WARRI SOUTH": [
                 "BOWEN",
@@ -3107,7 +3109,7 @@ exports.areas = [
                 "OKUMAGBA I",
                 "OKUMAGBA II",
                 "PESSU",
-                "UGBUWANGUE/ EKUREDE ITSEKIRI",
+                "UGBUWANGUE/ EKUREDE ITSEKIRI"
             ],
             "WARRI SOUTH WEST": [
                 "WARD  5 UGBORORDO",
@@ -3119,14 +3121,14 @@ exports.areas = [
                 "WARD 6 AKPIKPA",
                 "WARD 7 MADANGHO",
                 "WARD 8 ORERE",
-                "WARD 9 AJUDAIBO",
-            ],
-        },
+                "WARD 9 AJUDAIBO"
+            ]
+        }
     },
     {
-        code: "EB",
-        name: "EBONYI",
-        lgas: [
+        "code": "EB",
+        "name": "EBONYI",
+        "lgas": [
             "ABAKALIKI",
             "AFIKPO NORTH",
             "AFIKPO SOUTH",
@@ -3139,10 +3141,10 @@ exports.areas = [
             "IZZI",
             "OHAOZARA",
             "OHAUKWU",
-            "ONICHA",
+            "ONICHA"
         ],
-        subs: {
-            ABAKALIKI: [
+        "subs": {
+            "ABAKALIKI": [
                 "ABAKPA",
                 "AMACHI NDEBOR",
                 "AMACHI NDEGU",
@@ -3156,7 +3158,7 @@ exports.areas = [
                 "NDIAGU",
                 "OKPUITUMO NDIEBOER",
                 "OKPUITUMO NDIEGU",
-                "TIMBER SHED",
+                "TIMBER SHED"
             ],
             "AFIKPO NORTH": [
                 "AMATA AKPOHA",
@@ -3170,7 +3172,7 @@ exports.areas = [
                 "POPERI AMASIRI",
                 "UGWUEGU",
                 "UNWANA 'A'",
-                "UNWANA 'B'",
+                "UNWANA 'B'"
             ],
             "AFIKPO SOUTH": [
                 "AMAEKE EKOLI",
@@ -3183,9 +3185,9 @@ exports.areas = [
                 "NGUZU",
                 "OGBU",
                 "OSO",
-                "OWUTU",
+                "OWUTU"
             ],
-            EBONYI: [
+            "EBONYI": [
                 "ABAKPA",
                 "ABOFIA",
                 "AGALEGU",
@@ -3198,7 +3200,7 @@ exports.areas = [
                 "NDIAGU",
                 "NDIEBOR",
                 "ONUEBONYI",
-                "URBAN NEW LAYOUT",
+                "URBAN NEW LAYOUT"
             ],
             "EZZA NORTH": [
                 "AMUDA/AMAWULA",
@@ -3211,7 +3213,7 @@ exports.areas = [
                 "OMEGE UMUEZEOKOHA",
                 "ORIUZOR",
                 "OSHIEGBE UMUEZEOKOHA",
-                "UMUEZEOKA",
+                "UMUEZEOKA"
             ],
             "EZZA SOUTH": [
                 "AMAEZEKWE",
@@ -3224,9 +3226,9 @@ exports.areas = [
                 "EZZAMA",
                 "IKWUATOR/IDEMBIA",
                 "ONUEKE URBAN",
-                "UMUNWAGU/IDEMBIA",
+                "UMUNWAGU/IDEMBIA"
             ],
-            IKWO: [
+            "IKWO": [
                 "AKPANWUDELE",
                 "AMAINYIMA",
                 "ECHIALIKE",
@@ -3246,9 +3248,9 @@ exports.areas = [
                 "NDUFU AMAGU I",
                 "NDUFU AMAGU II",
                 "NDUFU ECHARA",
-                "NOYO",
+                "NOYO"
             ],
-            ISHIELU: [
+            "ISHIELU": [
                 "AGBA",
                 "AMAEZU",
                 "AZUINYIBA \"A'",
@@ -3264,9 +3266,9 @@ exports.areas = [
                 "OBEAGU",
                 "OHOFIA",
                 "OKPOTO",
-                "UMUHUALI",
+                "UMUHUALI"
             ],
-            IVO: [
+            "IVO": [
                 "AKAECE UKWU",
                 "AMAEZE",
                 "AMAGU",
@@ -3277,9 +3279,9 @@ exports.areas = [
                 "NGWONGWO",
                 "OBINAGU",
                 "OKUE",
-                "UMUBO",
+                "UMUBO"
             ],
-            IZZI: [
+            "IZZI": [
                 "AGBAJA ANYANWUIGWE",
                 "AGBAJA MGBO",
                 "AGBAJA OFFIA ONWE",
@@ -3293,9 +3295,9 @@ exports.areas = [
                 "MGBALAUKWU INYIMAGU I",
                 "MGBALAUKWU INYIMAGU II",
                 "NDIEZE INYIMAGU MGBABELUZOR",
-                "NDIEZE INYIMAGU II NDIABOR ISHIAGU",
+                "NDIEZE INYIMAGU II NDIABOR ISHIAGU"
             ],
-            OHAOZARA: [
+            "OHAOZARA": [
                 "AMAECHI OKPOSI",
                 "ENE-NA-EZERAKU",
                 "MGBOM OKPOSI",
@@ -3306,9 +3308,9 @@ exports.areas = [
                 "UHUOTARU",
                 "UMUCHIMA",
                 "UMUNAGA",
-                "UMUOBUNA",
+                "UMUOBUNA"
             ],
-            OHAUKWU: [
+            "OHAUKWU": [
                 "EFFIUM I",
                 "EFFIUM II",
                 "EZZANGBO",
@@ -3323,9 +3325,9 @@ exports.areas = [
                 "UMUOGUDU OSHIA",
                 "WIGBEKE I",
                 "WIGBEKE II",
-                "WIGBEKE III",
+                "WIGBEKE III"
             ],
-            ONICHA: [
+            "ONICHA": [
                 "ABAOMEGE",
                 "AGBABOR ISU",
                 "AMANATOR ISU",
@@ -3337,14 +3339,14 @@ exports.areas = [
                 "OGUDU OKWOR OSHIRI",
                 "OKUZU UKAWU",
                 "UGWU OSHIRI",
-                "UMUDOMI ONICHA",
-            ],
-        },
+                "UMUDOMI ONICHA"
+            ]
+        }
     },
     {
-        code: "ED",
-        name: "EDO",
-        lgas: [
+        "code": "ED",
+        "name": "EDO",
+        "lgas": [
             "AKOKO EDO",
             "EGOR",
             "ESAN CENTRAL",
@@ -3362,9 +3364,9 @@ exports.areas = [
             "OVIA SOUTH WEST",
             "OWAN EAST",
             "OWAN WEST",
-            "UHUNMWONDE",
+            "UHUNMWONDE"
         ],
-        subs: {
+        "subs": {
             "AKOKO EDO": [
                 "ENWAN/ATTE/IKPESHI/ EGBIGELE",
                 "IBILLO/EKPESA/IKIRANILE/ IKIRAN OKE",
@@ -3375,9 +3377,9 @@ exports.areas = [
                 "OLOMA/OKPE/IJAJA/ IKAKUMO/ANYANRA",
                 "OSOSO",
                 "SOMORIKA/OGBA/SASARO/ ONUMU",
-                "UNEME NEKHUA/AKPAMA/ AIYETORO/EKPEDO/UNEME OSU",
+                "UNEME NEKHUA/AKPAMA/ AIYETORO/EKPEDO/UNEME OSU"
             ],
-            EGOR: [
+            "EGOR": [
                 "EGOR",
                 "EVBAREKE",
                 "OGIDA/USE",
@@ -3387,7 +3389,7 @@ exports.areas = [
                 "UGBOWO",
                 "USELU I",
                 "USELU II",
-                "UWELU",
+                "UWELU"
             ],
             "ESAN CENTRAL": [
                 "EWU I",
@@ -3399,7 +3401,7 @@ exports.areas = [
                 "UGBEGUN",
                 "UNEAH",
                 "UWESSAN I",
-                "UWESSAN II",
+                "UWESSAN II"
             ],
             "ESAN NORTH EAST": [
                 "AMEDOKHAIN",
@@ -3412,7 +3414,7 @@ exports.areas = [
                 "UBIERUMU",
                 "UELEN OKUGBE",
                 "UWALOR",
-                "UZEA",
+                "UZEA"
             ],
             "ESAN SOUTH EAST": [
                 "EMU",
@@ -3424,7 +3426,7 @@ exports.areas = [
                 "OHORDUA",
                 "UBIAJA I",
                 "UBIAJA II",
-                "UGBOHA",
+                "UGBOHA"
             ],
             "ESAN WEST": [
                 "EGORO/IDOA/UKHUN",
@@ -3436,7 +3438,7 @@ exports.areas = [
                 "OGWA",
                 "UHIELE",
                 "UJIOGBA",
-                "UROHI",
+                "UROHI"
             ],
             "ETSAKO CENTRAL": [
                 "EKPERI I",
@@ -3448,7 +3450,7 @@ exports.areas = [
                 "IRAOKHOR",
                 "OGBONA",
                 "SOUTH UNEME I",
-                "SOUTH UNEME II",
+                "SOUTH UNEME II"
             ],
             "ETSAKO EAST": [
                 "AGENEBODE",
@@ -3460,7 +3462,7 @@ exports.areas = [
                 "THREE IBIES",
                 "WANNO I",
                 "WANNO II",
-                "WEPPA",
+                "WEPPA"
             ],
             "ETSAKO WEST": [
                 "ANWAIN",
@@ -3474,9 +3476,9 @@ exports.areas = [
                 "UZAIRUE NORTH EAST",
                 "UZAIRUE NORTH WEST",
                 "UZAIRUE SOUTH EAST",
-                "UZAIRUE SOUTH WEST",
+                "UZAIRUE SOUTH WEST"
             ],
-            IGUEBEN: [
+            "IGUEBEN": [
                 "AFUDA/IDUMUOKA",
                 "AMAHOR/UGUN",
                 "EKEKHEN/IDUMOGO/EGBIKI",
@@ -3486,7 +3488,7 @@ exports.areas = [
                 "OKALO/OKPUJIE",
                 "OWU/OKUTA/EGUARE EBELLE",
                 "UDO",
-                "UHE/IDUMUOGBO/IDUMEKE",
+                "UHE/IDUMUOGBO/IDUMEKE"
             ],
             "IKPOBA OKHA": [
                 "ADUWAWA / EVBOMODU",
@@ -3498,9 +3500,9 @@ exports.areas = [
                 "OLOGBO",
                 "OREGBENI",
                 "ST. SAVIOUR",
-                "UGBEKUN",
+                "UGBEKUN"
             ],
-            OREDO: [
+            "OREDO": [
                 "G.R.A/ETETE",
                 "IBIWE/IWEGIE/UGBAGUE",
                 "IKPEMA/EGUADASE",
@@ -3512,9 +3514,9 @@ exports.areas = [
                 "UNUERU/OGBOKA",
                 "URU/IWEHEN/IHOGBE/ICE RD",
                 "URUBI/EVBIEMWEN/IWEHEN",
-                "UZEBU",
+                "UZEBU"
             ],
-            ORHIONMWON: [
+            "ORHIONMWON": [
                 "AIBIOKULA I",
                 "AIBIOKULA II",
                 "EVBOESI",
@@ -3526,7 +3528,7 @@ exports.areas = [
                 "UGU",
                 "UKPATO",
                 "URHONIGBE NORHT",
-                "URHONIGBE SOUTH",
+                "URHONIGBE SOUTH"
             ],
             "OVIA NORTH EAST": [
                 "ADOLOR",
@@ -3541,7 +3543,7 @@ exports.areas = [
                 "OLUKU",
                 "UHEN",
                 "UHIERE",
-                "UTOKA",
+                "UTOKA"
             ],
             "OVIA SOUTH WEST": [
                 "IGUOBAZUWA EAST",
@@ -3553,7 +3555,7 @@ exports.areas = [
                 "UDO",
                 "UGBOGUI",
                 "UMAZA",
-                "USEN",
+                "USEN"
             ],
             "OWAN EAST": [
                 "EMAI I",
@@ -3566,7 +3568,7 @@ exports.areas = [
                 "OTUO I",
                 "OTUO II",
                 "UOKHA/AKE",
-                "WARRAKE",
+                "WARRAKE"
             ],
             "OWAN WEST": [
                 "AVBIOSI",
@@ -3579,9 +3581,9 @@ exports.areas = [
                 "UHUNMORA",
                 "UHUNSE-OSI",
                 "UZEBBA I",
-                "UZEBBA II",
+                "UZEBBA II"
             ],
-            UHUNMWONDE: [
+            "UHUNMWONDE": [
                 "EGBEDE",
                 "EHOR",
                 "IGIEDUMA",
@@ -3591,14 +3593,14 @@ exports.areas = [
                 "OHUAN",
                 "UHI",
                 "UMAGBAE SOUTH",
-                "UMAGEA NORTH",
-            ],
-        },
+                "UMAGEA NORTH"
+            ]
+        }
     },
     {
-        code: "EK",
-        name: "EKITI",
-        lgas: [
+        "code": "EK",
+        "name": "EKITI",
+        "lgas": [
             "ADO",
             "EFON",
             "EKITI EAST",
@@ -3614,10 +3616,10 @@ exports.areas = [
             "IREPODUN IFELODUN",
             "ISE/ORUN",
             "MOBA",
-            "OYE",
+            "OYE"
         ],
-        subs: {
-            ADO: [
+        "subs": {
+            "ADO": [
                 "ADO ‘A’ IDOFIN",
                 "ADO ‘B’ INISA",
                 "ADO ‘C’ IDOLOFIN",
@@ -3630,9 +3632,9 @@ exports.areas = [
                 "ADO ‘J’ OKESA",
                 "ADO ‘K’ IRONA",
                 "ADO ‘L’ IGBEHIN",
-                "ADO ‘M’ FARM SELTLEMENT",
+                "ADO ‘M’ FARM SELTLEMENT"
             ],
-            EFON: [
+            "EFON": [
                 "EFON I",
                 "EFON II",
                 "EFON III",
@@ -3642,7 +3644,7 @@ exports.areas = [
                 "EFON VI",
                 "EFON VII",
                 "EFON VIII",
-                "EFON X",
+                "EFON X"
             ],
             "EKITI EAST": [
                 "ARAROMI OMUO",
@@ -3656,7 +3658,7 @@ exports.areas = [
                 "OBADORE III",
                 "OBADORE IV",
                 "OMUO- OKE I",
-                "OMUO-OKE II",
+                "OMUO-OKE II"
             ],
             "EKITI SOUTH WEST": [
                 "IGBARA ODO I",
@@ -3669,7 +3671,7 @@ exports.areas = [
                 "ILAWE VI",
                 "ILAWE VII",
                 "OGOGTUN II",
-                "OGOTUN I",
+                "OGOTUN I"
             ],
             "EKITI WEST": [
                 "ARAMOKO I",
@@ -3682,9 +3684,9 @@ exports.areas = [
                 "IPOLE ILORO",
                 "OKEMESI 1",
                 "OKEMESI ll",
-                "OKEMESI lll",
+                "OKEMESI lll"
             ],
-            EMURE: [
+            "EMURE": [
                 "IDAMUDU I",
                 "IDAMUDU II",
                 "ODO EMURE I",
@@ -3694,9 +3696,9 @@ exports.areas = [
                 "OGBONTIORO I",
                 "OGBONTIORO II",
                 "OKE EMURE I",
-                "OKE EMURE II",
+                "OKE EMURE II"
             ],
-            GBONYIN: [
+            "GBONYIN": [
                 "AGBADO",
                 "AISEGBA I",
                 "AISEGBA II",
@@ -3706,7 +3708,7 @@ exports.areas = [
                 "IMESI",
                 "ODE I",
                 "ODE II",
-                "ODE III",
+                "ODE III"
             ],
             "IDO OSI": [
                 "AYETORO I",
@@ -3719,9 +3721,9 @@ exports.areas = [
                 "ILOGBO",
                 "ORIN/ORA",
                 "OSI",
-                "USI",
+                "USI"
             ],
-            IJERO: [
+            "IJERO": [
                 "EKAMARUN",
                 "EKAMETA",
                 "IJERO A",
@@ -3733,9 +3735,9 @@ exports.areas = [
                 "ILORO/IJURIN",
                 "IPOTI",
                 "IPOTI B",
-                "ODO-OWA",
+                "ODO-OWA"
             ],
-            IKERE: [
+            "IKERE": [
                 "AFAO/KAJOLA",
                 "AGBADO/OYO",
                 "ARE ARAROMI",
@@ -3746,9 +3748,9 @@ exports.areas = [
                 "OGBONJANA",
                 "OKE-OSUN",
                 "OKERUKU",
-                "UGELE/AROKU",
+                "UGELE/AROKU"
             ],
-            IKOLE: [
+            "IKOLE": [
                 "ARAROMI/ BOLUWADURO",
                 "IJESA ISU",
                 "IKOLE EAST",
@@ -3760,9 +3762,9 @@ exports.areas = [
                 "ITAPAJI/ IYEMERO",
                 "ODO AYEDUN",
                 "ODO AYEDUN/ AYEBODE",
-                "OKE AYEDUN",
+                "OKE AYEDUN"
             ],
-            ILEJEMEJE: [
+            "ILEJEMEJE": [
                 "EDA ONIYO",
                 "EWU",
                 "IJESAMODU",
@@ -3772,7 +3774,7 @@ exports.areas = [
                 "IYE I",
                 "IYE II",
                 "IYE III",
-                "OBADA",
+                "OBADA"
             ],
             "IREPODUN IFELODUN": [
                 "AFAO",
@@ -3785,7 +3787,7 @@ exports.areas = [
                 "IROPORA/ESURE/EYIO",
                 "IWOROKO",
                 "IYIN I",
-                "IYIN II",
+                "IYIN II"
             ],
             "ISE/ORUN": [
                 "ERINWA I",
@@ -3797,9 +3799,9 @@ exports.areas = [
                 "ORAYE II",
                 "ORAYE III",
                 "ORUN I",
-                "ORUN II",
+                "ORUN II"
             ],
-            MOBA: [
+            "MOBA": [
                 "ERINMOPE I",
                 "ERINMOPE II",
                 "IGOGO I",
@@ -3810,9 +3812,9 @@ exports.areas = [
                 "OSUN",
                 "OTUN I",
                 "OTUN II",
-                "OTUN III",
+                "OTUN III"
             ],
-            OYE: [
+            "OYE": [
                 "AYEDE NORTH",
                 "AYEDE SOUTH",
                 "AYEGBAJU",
@@ -3824,34 +3826,34 @@ exports.areas = [
                 "ITAPA/OSIN",
                 "OMU/IJELU",
                 "OYE I",
-                "OYE II",
-            ],
-        },
+                "OYE II"
+            ]
+        }
     },
     {
-        code: "EN",
-        name: "ENUGU",
-        lgas: [
+        "code": "EN",
+        "name": "ENUGU",
+        "lgas": [
             "ANINRI",
             "AWGU",
             "ENUGU EAST",
             "ENUGU NORTH",
             "ENUGU SOUTH",
             "EZEAGU",
-            "IGBO EKITI",
+            "IGBO ETITI",
             "IGBO EZE NORTH",
             "IGBO EZE SOUTH",
             "ISI UZO",
-            "NKANU",
+            "NKANU EAST",
             "NKANU WEST",
             "NSUKKA",
             "OJI RIVER",
             "UDENU",
             "UDI",
-            "UZO UWANI",
+            "UZO UWANI"
         ],
-        subs: {
-            ANINRI: [
+        "subs": {
+            "ANINRI": [
                 "MPU",
                 "NDEABOH",
                 "NENWE I",
@@ -3861,9 +3863,9 @@ exports.areas = [
                 "ODUMA II",
                 "ODUMA III",
                 "ODUMA IV",
-                "OKPANKU",
+                "OKPANKU"
             ],
-            AWGU: [
+            "AWGU": [
                 "AGBOGUGU",
                 "AMOLI/OGUGU/UGBO/OWELLI",
                 "ANIKENAN",
@@ -3874,7 +3876,7 @@ exports.areas = [
                 "MGBIDI/MAKU",
                 "MGBOWO",
                 "OBEAGU",
-                "OGBAKU",
+                "OGBAKU"
             ],
             "ENUGU EAST": [
                 "ABAKPA I",
@@ -3888,7 +3890,7 @@ exports.areas = [
                 "TRANS EKULU",
                 "UGWOGO NIKE",
                 "UMUCHIGBO",
-                "UMUENWENE",
+                "UMUENWENE"
             ],
             "ENUGU NORTH": [
                 "ASATA TOWNSHIP",
@@ -3903,7 +3905,7 @@ exports.areas = [
                 "OGUI TOWNSHIP",
                 "ONU-ASATA",
                 "UDI SIDING/ IVA VALLEY",
-                "UMUNEVO",
+                "UMUNEVO"
             ],
             "ENUGU SOUTH": [
                 "ACHARA LAYOUT EAST",
@@ -3918,9 +3920,9 @@ exports.areas = [
                 "OBEAGU II",
                 "UGWUAJI",
                 "UWANI EAST",
-                "UWANI WEST",
+                "UWANI WEST"
             ],
-            EZEAGU: [
+            "EZEAGU": [
                 "AGBA UMANA",
                 "AGUOBU (UMUMBA)",
                 "AGUOBU OWA I",
@@ -3940,9 +3942,9 @@ exports.areas = [
                 "OLO/AMAGU/UMULOKPA I",
                 "OLO/AMAGU/UMULOKPA II",
                 "UMANA NDIAGU",
-                "UMUMBA NDIUN",
+                "UMUMBA NDIUN"
             ],
-            "IGBO EKITI": [
+            "IGBO ETITI": [
                 "AKU I",
                 "AKU II",
                 "AKU III",
@@ -3962,7 +3964,7 @@ exports.areas = [
                 "UKEHE II",
                 "UKEHE III",
                 "UKEHE IV",
-                "UKEHE V",
+                "UKEHE V"
             ],
             "IGBO EZE NORTH": [
                 "ESSODO I",
@@ -3984,7 +3986,7 @@ exports.areas = [
                 "UMUOZZI VIII",
                 "UMUOZZI X",
                 "UMUTIODO II",
-                "UMUUITODO III",
+                "UMUUITODO III"
             ],
             "IGBO EZE SOUTH": [
                 "ALOR-AGU",
@@ -4002,7 +4004,7 @@ exports.areas = [
                 "OVOKO UMULOLO",
                 "UHUNWERRE",
                 "UMELO OVOKO AGU",
-                "UNADU",
+                "UNADU"
             ],
             "ISI UZO": [
                 "EHA AMUFU I",
@@ -4015,9 +4017,9 @@ exports.areas = [
                 "NEKE II",
                 "NKEM I",
                 "NKEM II",
-                "UMUALOR",
+                "UMUALOR"
             ],
-            NKANU: [
+            "NKANU EAST": [
                 "AKPAWFU/ISI-ENU/AMAGNZE",
                 "AMANKANU/OGBAHU",
                 "AMECHI/IDODO/ORUKUI",
@@ -4031,7 +4033,7 @@ exports.areas = [
                 "OHUANI/ONICHAAGU/ AMAUNZE",
                 "OWO",
                 "UGBAWKA I",
-                "UGBAWKA II",
+                "UGBAWKA II"
             ],
             "NKANU WEST": [
                 "AGBANI",
@@ -4047,9 +4049,9 @@ exports.areas = [
                 "OBE",
                 "OBUOFFIA",
                 "OZALLA",
-                "UMUEZE",
+                "UMUEZE"
             ],
-            NSUKKA: [
+            "NSUKKA": [
                 "AGBAME/UMABOR",
                 "AKAIBUTE",
                 "AKPA/OZZI",
@@ -4069,7 +4071,7 @@ exports.areas = [
                 "OBIMO/IKWOKA",
                 "OBUKPA",
                 "OKPUJE/OKUTU/ANUK",
-                "OWERE/UMUOYO",
+                "OWERE/UMUOYO"
             ],
             "OJI RIVER": [
                 "ACHIAGU I",
@@ -4091,9 +4093,9 @@ exports.areas = [
                 "OJI-RIVER IV",
                 "UGWUOBA I",
                 "UGWUOBA II",
-                "UGWUOBA III",
+                "UGWUOBA III"
             ],
-            UDENU: [
+            "UDENU": [
                 "AMALA",
                 "EZIMO",
                 "IMILIKE",
@@ -4103,9 +4105,9 @@ exports.areas = [
                 "OGBODU-ABA",
                 "ORBA I",
                 "ORBA II",
-                "UMUNEDEM",
+                "UMUNEDEM"
             ],
-            UDI: [
+            "UDI": [
                 "ABIA",
                 "ABOR",
                 "AFFA/PGHU/IKON",
@@ -4125,7 +4127,7 @@ exports.areas = [
                 "UDI/AGBUDU",
                 "UMUABI",
                 "UMUAGA",
-                "UMULUMGBE",
+                "UMULUMGBE"
             ],
             "UZO UWANI": [
                 "ABBI",
@@ -4143,22 +4145,22 @@ exports.areas = [
                 "UGBENE II",
                 "UKPATA",
                 "UMULOKPA",
-                "UVURU",
-            ],
-        },
+                "UVURU"
+            ]
+        }
     },
     {
-        code: "FC",
-        name: "FCT",
-        lgas: [
+        "code": "FC",
+        "name": "FCT",
+        "lgas": [
             "ABUJA MUNICIPAL AREA COUNCIL (AMAC)",
             "ABAJI AREA COUNCIL",
             "BWARI AREA COUNCIL",
             "GWAGWALADA AREA COUNCIL",
             "KUJE AREA COUNCIL",
-            "KWALI AREA COUNCIL",
+            "KWALI AREA COUNCIL"
         ],
-        subs: {
+        "subs": {
             "ABUJA MUNICIPAL AREA COUNCIL (AMAC)": [
                 "City Centre",
                 "Garki",
@@ -4172,7 +4174,7 @@ exports.areas = [
                 "Nyanya",
                 "Orozo",
                 "WARD",
-                "Wuse",
+                "Wuse"
             ],
             "ABAJI AREA COUNCIL": [
                 "Abaji Central",
@@ -4184,7 +4186,7 @@ exports.areas = [
                 "Gurdi",
                 "Nuku",
                 "Rimba Ebagi",
-                "Yaba",
+                "Yaba"
             ],
             "BWARI AREA COUNCIL": [
                 "Bwari Central",
@@ -4196,7 +4198,7 @@ exports.areas = [
                 "Kuduru",
                 "Shere",
                 "Ushafa",
-                "Usuma",
+                "Usuma"
             ],
             "GWAGWALADA AREA COUNCIL": [
                 "Dobi Ward",
@@ -4209,7 +4211,7 @@ exports.areas = [
                 "Staff Quarters Ward",
                 "Tungan Maje Ward",
                 "WARD",
-                "Zuba Ward",
+                "Zuba Ward"
             ],
             "KUJE AREA COUNCIL": [
                 "Chibiri",
@@ -4222,7 +4224,7 @@ exports.areas = [
                 "Kwaku",
                 "Rubochi",
                 "WARD",
-                "Yenche",
+                "Yenche"
             ],
             "KWALI AREA COUNCIL": [
                 "Ashara",
@@ -4235,14 +4237,14 @@ exports.areas = [
                 "Wako",
                 "WARD",
                 "Yangoji",
-                "Yebu",
-            ],
-        },
+                "Yebu"
+            ]
+        }
     },
     {
-        code: "GO",
-        name: "GOMBE",
-        lgas: [
+        "code": "GO",
+        "name": "GOMBE",
+        "lgas": [
             "AKKO",
             "BALANGA",
             "BILLIRI",
@@ -4253,10 +4255,10 @@ exports.areas = [
             "KWAMI",
             "NAFADA",
             "SHONGOM",
-            "YAMALTU",
+            "YAMALTU"
         ],
-        subs: {
-            AKKO: [
+        "subs": {
+            "AKKO": [
                 "AKKO",
                 "GARKO",
                 "KALSHINGI",
@@ -4267,9 +4269,9 @@ exports.areas = [
                 "KUMO WEST",
                 "PINDIGA",
                 "TUKULMA",
-                "TUMU",
+                "TUMU"
             ],
-            BALANGA: [
+            "BALANGA": [
                 "BAMBAM",
                 "BANGU/DALAWAJA/ WALA LUNGUDA",
                 "DADIYA",
@@ -4279,9 +4281,9 @@ exports.areas = [
                 "MWONA",
                 "NYUWAR/JESSU",
                 "SWA/REFELE/WALA WAJA",
-                "TALASSE/DONG/ REME",
+                "TALASSE/DONG/ REME"
             ],
-            BILLIRI: [
+            "BILLIRI": [
                 "BANGANJE NORTH",
                 "BANGANJE SOUTH",
                 "BARE",
@@ -4291,9 +4293,9 @@ exports.areas = [
                 "TAL",
                 "TANGLANG",
                 "TODI",
-                "TUDU KWAYA",
+                "TUDU KWAYA"
             ],
-            DUKKU: [
+            "DUKKU": [
                 "GOMBE ABBA",
                 "HASHIDU",
                 "JAMARI",
@@ -4304,9 +4306,9 @@ exports.areas = [
                 "WAZIRI SOUTH/CENTRAL",
                 "WURO TALE",
                 "ZANGE",
-                "ZAUNE",
+                "ZAUNE"
             ],
-            FUNAKAYE: [
+            "FUNAKAYE": [
                 "ASHAKA/MAGABA",
                 "BAGE",
                 "BAJOGA EAST",
@@ -4316,9 +4318,9 @@ exports.areas = [
                 "KUPTO",
                 "RIBADU",
                 "TONGO",
-                "WAWA/WAKALTU",
+                "WAWA/WAKALTU"
             ],
-            GOMBE: [
+            "GOMBE": [
                 "AJIYA",
                 "BAJOGA",
                 "BOLARI EAST",
@@ -4329,9 +4331,9 @@ exports.areas = [
                 "KUMBIYA KUMBIYA",
                 "NASARAWO",
                 "PANTAMI",
-                "SHAMAKI",
+                "SHAMAKI"
             ],
-            KALTUNGO: [
+            "KALTUNGO": [
                 "AWAK",
                 "BULE KALTIN",
                 "KALTUNGO EAST",
@@ -4341,9 +4343,9 @@ exports.areas = [
                 "TULA WANGE",
                 "TULA YIRI",
                 "TUNGO",
-                "TURE",
+                "TURE"
             ],
-            KWAMI: [
+            "KWAMI": [
                 "BOJUDE",
                 "DABAN FULANI",
                 "DOHO",
@@ -4353,9 +4355,9 @@ exports.areas = [
                 "KOMFULATA",
                 "KWAMI",
                 "MALAM SIDI",
-                "MALLERI",
+                "MALLERI"
             ],
-            NAFADA: [
+            "NAFADA": [
                 "BARWO WINDE",
                 "BARWO/NASSARAWO",
                 "BIRIN BOLEWA",
@@ -4365,9 +4367,9 @@ exports.areas = [
                 "JIGAWA",
                 "NAFADA CENTRAL",
                 "NAFADA EAST",
-                "NAFADA WEST",
+                "NAFADA WEST"
             ],
-            SHONGOM: [
+            "SHONGOM": [
                 "BANGUNJI",
                 "BOH",
                 "BURAK",
@@ -4377,9 +4379,9 @@ exports.areas = [
                 "KULISHIN",
                 "KUSHI",
                 "LALAIPIDO",
-                "LAPAN",
+                "LAPAN"
             ],
-            YAMALTU: [
+            "YAMALTU": [
                 "DEBA",
                 "DIFA/LUBO/KINAFA",
                 "GWANI/SHINGA/ WADE",
@@ -4390,14 +4392,14 @@ exports.areas = [
                 "KURI/LAN/LAMBAM",
                 "KWADON/LIJI/KURBA",
                 "NN/KUNUWAL/WURO BIRDEKA",
-                "ZAMBUK/KWALI",
-            ],
-        },
+                "ZAMBUK/KWALI"
+            ]
+        }
     },
     {
-        code: "IM",
-        name: "IMO",
-        lgas: [
+        "code": "IM",
+        "name": "IMO",
+        "lgas": [
             "ABOH MBAISE",
             "EHIME MBANO",
             "EZINHITTE MBAISE",
@@ -4424,9 +4426,9 @@ exports.areas = [
             "ORU WEST",
             "OWERRI MUNICIPAL",
             "OWERRI NORTH",
-            "OWERRI WEST",
+            "OWERRI WEST"
         ],
-        subs: {
+        "subs": {
             "ABOH MBAISE": [
                 "AMUZU",
                 "ENYIOGUGU",
@@ -4439,7 +4441,7 @@ exports.areas = [
                 "NGURU-NWANKWO",
                 "UMUHU",
                 "UVURU I",
-                "UVURU II",
+                "UVURU II"
             ],
             "EHIME MBANO": [
                 "AGBAJA",
@@ -4452,7 +4454,7 @@ exports.areas = [
                 "UMUEZEALA",
                 "UMUKABIA",
                 "UMUNAKANU",
-                "UMUNUMO",
+                "UMUNUMO"
             ],
             "EZINHITTE MBAISE": [
                 "AMUMARA",
@@ -4466,7 +4468,7 @@ exports.areas = [
                 "ONICHA II",
                 "ONICHA III",
                 "ONICHA IV",
-                "UDO NA OBIZI",
+                "UDO NA OBIZI"
             ],
             "IDEATO NORTH": [
                 "AKPULU",
@@ -4482,7 +4484,7 @@ exports.areas = [
                 "OZUAKOLI/UMUAGI",
                 "UMUOKWARA/UMUEZEAGA",
                 "UMUOPIA/UMUKEGWU",
-                "UZII/UMUALOMA",
+                "UZII/UMUALOMA"
             ],
             "IDEATOR SOUTH": [
                 "AMANATOR/UMUESHI",
@@ -4496,7 +4498,7 @@ exports.areas = [
                 "UMUAKAM/UMUAGO",
                 "UMUCHIMA",
                 "UMUMAISIAKU",
-                "UMUOBOM",
+                "UMUOBOM"
             ],
             "IHITTE UBOMA": [
                 "ABUEKE",
@@ -4508,9 +4510,9 @@ exports.areas = [
                 "IKPEREJERE",
                 "OKATA",
                 "UMUEZEGWU",
-                "UMUIHI",
+                "UMUIHI"
             ],
-            IKEDURU: [
+            "IKEDURU": [
                 "AKABO",
                 "AMAIMO",
                 "AMAKOHIA",
@@ -4522,7 +4524,7 @@ exports.areas = [
                 "INYISHI/UMUDIM",
                 "NGUGO/IKEMBARA",
                 "UGIRIKE/OKWU/EZIAMA",
-                "UZOAGBA",
+                "UZOAGBA"
             ],
             "ISIALA MBANO": [
                 "AMARAKU",
@@ -4536,9 +4538,9 @@ exports.areas = [
                 "OSUOWERRI II",
                 "UGIRI OKA",
                 "UMUNKWO",
-                "UMUOZU",
+                "UMUOZU"
             ],
-            ISU: [
+            "ISU": [
                 "AMANDUGBA I",
                 "AMANDUGBA II",
                 "AMURIE OMANZE I",
@@ -4549,9 +4551,9 @@ exports.areas = [
                 "ISUNJABA II",
                 "ISUNJABA III",
                 "UMUNDUGBA I",
-                "UMUNDUGBA II",
+                "UMUNDUGBA II"
             ],
-            MBAISE: [
+            "MBAISE": [
                 "AMUZI/IHENWORIE",
                 "MPAM",
                 "NNARAM BIA",
@@ -4563,9 +4565,9 @@ exports.areas = [
                 "OPARANADIM",
                 "ORUNA LUDE",
                 "OTULU/AGUNEZE",
-                "UMUNUMO/UMUCHIEZE",
+                "UMUNUMO/UMUCHIEZE"
             ],
-            MBAITOLI: [
+            "MBAITOLI": [
                 "AFARA/EZIAMA",
                 "AMAIKE MBIERI",
                 "EZINIHITTE MBIERI",
@@ -4577,7 +4579,7 @@ exports.areas = [
                 "ORODO B",
                 "UBOMIRI",
                 "UMUNOHA/AZARA",
-                "UMUNWOHA/UMUAGWU",
+                "UMUNWOHA/UMUAGWU"
             ],
             "NGOR OKPALA": [
                 "AMALA/ALULU/ OBOKWE/ OBURU/NTU",
@@ -4590,9 +4592,9 @@ exports.areas = [
                 "OBIANGWU",
                 "OHEKELEM/ NNEORIE",
                 "OZUZU",
-                "UMUHU",
+                "UMUHU"
             ],
-            NJABA: [
+            "NJABA": [
                 "AMUCHA I",
                 "AMUCHA II",
                 "ATTA I",
@@ -4603,9 +4605,9 @@ exports.areas = [
                 "UMUAKA I",
                 "UMUAKA II",
                 "UMUAKA III",
-                "UMUAKA IV",
+                "UMUAKA IV"
             ],
-            NKWERRE: [
+            "NKWERRE": [
                 "AMAOKPARA",
                 "EZIAMA-OBAIRE",
                 "NKWERE URBAN",
@@ -4615,9 +4617,9 @@ exports.areas = [
                 "OWERRE-NKWORJI II",
                 "UMUDI/UMWALA",
                 "UMUKO",
-                "UMUNOBO/UMUNACHI",
+                "UMUNOBO/UMUNACHI"
             ],
-            NWANGELE: [
+            "NWANGELE": [
                 "ABAJAH I",
                 "ABAJAH II",
                 "ABBA",
@@ -4628,9 +4630,9 @@ exports.areas = [
                 "AMAIGBO V",
                 "DIM NA NUME",
                 "KARA NA ORLU",
-                "UMUOZU",
+                "UMUOZU"
             ],
-            OBOWO: [
+            "OBOWO": [
                 "ALIKE",
                 "AMANZE/ UMUNGWA",
                 "AMUZI",
@@ -4640,9 +4642,9 @@ exports.areas = [
                 "OKENALOGHO",
                 "OKWUOHIA",
                 "UMUARIAM/ACHARA",
-                "UMUNACHI",
+                "UMUNACHI"
             ],
-            OGUTA: [
+            "OGUTA": [
                 "AWA",
                 "EGWE/EGBUOMA",
                 "IZOMBE",
@@ -4653,7 +4655,7 @@ exports.areas = [
                 "OGUTA B",
                 "ORU",
                 "OSEMOTO/  ENUIGBO",
-                "UWAORIE",
+                "UWAORIE"
             ],
             "OHAJI/EGBEME": [
                 "ASSA/OBILE",
@@ -4667,9 +4669,9 @@ exports.areas = [
                 "OBITI/MGBISHI",
                 "OHOBA",
                 "UMUAGWO",
-                "UMUAPU",
+                "UMUAPU"
             ],
-            OKIGWE: [
+            "OKIGWE": [
                 "AGBOBU",
                 "AKU",
                 "AMURO",
@@ -4680,9 +4682,9 @@ exports.areas = [
                 "OKIGWE I",
                 "OKIGWE II",
                 "UMUALUMOKE",
-                "UMULOLO",
+                "UMULOLO"
             ],
-            ONUIMO: [
+            "ONUIMO": [
                 "ABOH/OKOHIA",
                 "EZELU",
                 "EZIAMA",
@@ -4692,9 +4694,9 @@ exports.areas = [
                 "OWERRE OKWE",
                 "OZIMO/ UMUANUMEZE",
                 "UMUCHEKE",
-                "UMUNNA",
+                "UMUNNA"
             ],
-            ORLU: [
+            "ORLU": [
                 "AMAIFEKE",
                 "EBENESE/UMUEZE/NNACHI IHIOMA",
                 "EZIACHI/AMAIKE",
@@ -4707,9 +4709,9 @@ exports.areas = [
                 "OWERRR-EBEIRI",
                 "UMUDIOKA",
                 "UMUNA",
-                "UMUZIKE/ UMUOWA",
+                "UMUZIKE/ UMUOWA"
             ],
-            ORSU: [
+            "ORSU": [
                 "AMARURU",
                 "ASSAH UBIRIELEM",
                 "EBENATOR",
@@ -4720,7 +4722,7 @@ exports.areas = [
                 "OKWUETITI",
                 "OKWUFURUAKU",
                 "ORSU IHITTEUKWA",
-                "UMUHU OKABIA",
+                "UMUHU OKABIA"
             ],
             "ORU EAST": [
                 "AKATTA",
@@ -4732,7 +4734,7 @@ exports.areas = [
                 "AWO-OMAMMA II",
                 "AWO-OMAMMA III",
                 "AWO-OMAMMA IV",
-                "OMUMA",
+                "OMUMA"
             ],
             "ORU WEST": [
                 "AJI",
@@ -4744,7 +4746,7 @@ exports.areas = [
                 "OHAKPU",
                 "OTULU",
                 "OZARA",
-                "UBULU",
+                "UBULU"
             ],
             "OWERRI MUNICIPAL": [
                 "ALADINMA I",
@@ -4757,7 +4759,7 @@ exports.areas = [
                 "IKENEGBU I",
                 "IKENEGBU II",
                 "NEW OWERRI I",
-                "NEW OWERRI II",
+                "NEW OWERRI II"
             ],
             "OWERRI NORTH": [
                 "AGBALA/OBUBE/ ULAKWO",
@@ -4771,7 +4773,7 @@ exports.areas = [
                 "OBIBI URATTA I",
                 "OBIBI URATTA II",
                 "OBIBIEZENA",
-                "ORJI",
+                "ORJI"
             ],
             "OWERRI WEST": [
                 "AMAKOHIA-UBI/ NDEGWU/ OHII",
@@ -4783,14 +4785,14 @@ exports.areas = [
                 "NEKEDE",
                 "OBINZE",
                 "OKUKU",
-                "UMUGUMA",
-            ],
-        },
+                "UMUGUMA"
+            ]
+        }
     },
     {
-        code: "JI",
-        name: "JIGAWA",
-        lgas: [
+        "code": "JI",
+        "name": "JIGAWA",
+        "lgas": [
             "AUYO",
             "BABURA",
             "BIRNIN KUDU",
@@ -4817,10 +4819,10 @@ exports.areas = [
             "RONI",
             "SULETANKARKAR",
             "TAURA",
-            "YANKWASHI",
+            "YANKWASHI"
         ],
-        subs: {
-            AUYO: [
+        "subs": {
+            "AUYO": [
                 "AUYAKAWA",
                 "AUYO",
                 "AYAMA",
@@ -4830,9 +4832,9 @@ exports.areas = [
                 "GATAFA",
                 "KAFUR",
                 "TSINDIR",
-                "UNIK",
+                "UNIK"
             ],
-            BABURA: [
+            "BABURA": [
                 "BATALI",
                 "DORAWA",
                 "GARU",
@@ -4842,7 +4844,7 @@ exports.areas = [
                 "KANYA",
                 "KUZUNZUMI",
                 "KYAMBO",
-                "TAKWASA",
+                "TAKWASA"
             ],
             "BIRNIN KUDU": [
                 "BIRNIN KUDU",
@@ -4855,9 +4857,9 @@ exports.areas = [
                 "SURKO",
                 "UNGUWAR 'YA",
                 "WURN",
-                "YALWAN DAMAI",
+                "YALWAN DAMAI"
             ],
-            BIRNIWA: [
+            "BIRNIWA": [
                 "BATU",
                 "BIRNIWA",
                 "DANGWULERI",
@@ -4868,9 +4870,9 @@ exports.areas = [
                 "KAZURA",
                 "MACHINAMARI",
                 "MATAMU",
-                "NGUWA",
+                "NGUWA"
             ],
-            BUJI: [
+            "BUJI": [
                 "AHOTO",
                 "BUJI",
                 "CHURBUN",
@@ -4880,9 +4882,9 @@ exports.areas = [
                 "KUKUMA",
                 "LELEN KUDU",
                 "MADABE",
-                "YAYARIN TUKUR",
+                "YAYARIN TUKUR"
             ],
-            DUTSE: [
+            "DUTSE": [
                 "ABAYA",
                 "CHAMO",
                 "DUNDUBUS",
@@ -4893,9 +4895,9 @@ exports.areas = [
                 "KUDAI",
                 "LIMAWA",
                 "MADOBI",
-                "SAKWAYA",
+                "SAKWAYA"
             ],
-            GAGARAWA: [
+            "GAGARAWA": [
                 "GAGARAWA GARI",
                 "GAGARAWA TAHSA",
                 "GARIN CHIROMA",
@@ -4905,9 +4907,9 @@ exports.areas = [
                 "MAI KILILI",
                 "MEDU",
                 "YALAWA",
-                "ZARADA",
+                "ZARADA"
             ],
-            GARKI: [
+            "GARKI": [
                 "BUDURU",
                 "DOKO",
                 "GARKI",
@@ -4918,9 +4920,9 @@ exports.areas = [
                 "KORE",
                 "MUKU",
                 "RAFIN MARKE",
-                "SIYORI",
+                "SIYORI"
             ],
-            GUMEL: [
+            "GUMEL": [
                 "BAIKARYA",
                 "DAN AMA",
                 "DANTANMA",
@@ -4931,9 +4933,9 @@ exports.areas = [
                 "HAMMADO",
                 "K/AREWA",
                 "KIYAMMA",
-                "ZANGO",
+                "ZANGO"
             ],
-            GURI: [
+            "GURI": [
                 "ABUNABO",
                 "ADIYANI",
                 "DAWA",
@@ -4943,9 +4945,9 @@ exports.areas = [
                 "LAFIYA",
                 "MARGADU",
                 "MATARA BABBA",
-                "MUSARI",
+                "MUSARI"
             ],
-            GWARAM: [
+            "GWARAM": [
                 "BASIRKA",
                 "DINGAYA",
                 "FAGAM",
@@ -4956,9 +4958,9 @@ exports.areas = [
                 "MARUTA",
                 "SARA",
                 "TSANGARWA",
-                "ZANDAM NAGOGO",
+                "ZANDAM NAGOGO"
             ],
-            GWIWA: [
+            "GWIWA": [
                 "BUNTUSU",
                 "DABI",
                 "DARINA",
@@ -4969,9 +4971,9 @@ exports.areas = [
                 "RORAU",
                 "SHEFE",
                 "YOLA",
-                "ZAUMAR SAINAWA",
+                "ZAUMAR SAINAWA"
             ],
-            HADEJIA: [
+            "HADEJIA": [
                 "ATAFI",
                 "DUBANTU",
                 "GAGULMARI",
@@ -4982,9 +4984,9 @@ exports.areas = [
                 "RUMFA",
                 "SABON GARI",
                 "YAN KOLI",
-                "YAYRI",
+                "YAYRI"
             ],
-            JAHUN: [
+            "JAHUN": [
                 "AUJARA",
                 "GANGAWA",
                 "GAUZA TAZARA",
@@ -4995,7 +4997,7 @@ exports.areas = [
                 "JABARNA",
                 "JAHUN",
                 "KALE",
-                "KANWA",
+                "KANWA"
             ],
             "KAFIN HAUSA": [
                 "BALANGU",
@@ -5008,9 +5010,9 @@ exports.areas = [
                 "MEZAN",
                 "RUBA",
                 "SARAWA",
-                "ZAGO",
+                "ZAGO"
             ],
-            KAUGAMA: [
+            "KAUGAMA": [
                 "ARBUS",
                 "ASKANDU",
                 "DABUWARAN",
@@ -5021,9 +5023,9 @@ exports.areas = [
                 "KAUGAMA",
                 "MARKA",
                 "U/JIBRIN",
-                "YALO",
+                "YALO"
             ],
-            KAZAURE: [
+            "KAZAURE": [
                 "BA'AUZINI",
                 "DABA",
                 "DABAZA",
@@ -5034,9 +5036,9 @@ exports.areas = [
                 "SABARU",
                 "UNG. AREWA",
                 "UNG. GABAS",
-                "UNG. YAMMA",
+                "UNG. YAMMA"
             ],
-            KIRIKASAMMA: [
+            "KIRIKASAMMA": [
                 "BATURIYA",
                 "BULUNCHAI",
                 "DOLERI",
@@ -5046,9 +5048,9 @@ exports.areas = [
                 "MADACHI",
                 "MARMA",
                 "TARBU",
-                "TASHEGUWA",
+                "TASHEGUWA"
             ],
-            KIYAWA: [
+            "KIYAWA": [
                 "ABALAGO",
                 "ANDAZA",
                 "FAKE",
@@ -5059,9 +5061,9 @@ exports.areas = [
                 "KIYAWA",
                 "KWANDA",
                 "MAJE",
-                "TSURMA",
+                "TSURMA"
             ],
-            MAIGATARI: [
+            "MAIGATARI": [
                 "BALARABE",
                 "DANKUMBO",
                 "FULATA",
@@ -5072,7 +5074,7 @@ exports.areas = [
                 "MAIGATARI AREWA",
                 "MAIGATARI KUDU",
                 "MATOYA",
-                "TURBUS",
+                "TURBUS"
             ],
             "MALAM MADORI": [
                 "ARKI",
@@ -5085,9 +5087,9 @@ exports.areas = [
                 "SHAYYA",
                 "TAGWARO",
                 "TASHENA",
-                "TONIKUTARA",
+                "TONIKUTARA"
             ],
-            MIGA: [
+            "MIGA": [
                 "DANGYATIN",
                 "GARBO",
                 "HANSTU",
@@ -5097,9 +5099,9 @@ exports.areas = [
                 "SANSANI",
                 "TSAKUWAWA",
                 "YANDUNA",
-                "ZAREKU",
+                "ZAREKU"
             ],
-            RINGIM: [
+            "RINGIM": [
                 "CHAI-CHAI",
                 "DABI",
                 "KAFIN BABUSHE",
@@ -5109,9 +5111,9 @@ exports.areas = [
                 "SANKARA",
                 "SITILIMAWA",
                 "TOFA",
-                "YAN DUTSE",
+                "YAN DUTSE"
             ],
-            RONI: [
+            "RONI": [
                 "AMARYAWA",
                 "BATAGUMI",
                 "DANSURE",
@@ -5122,9 +5124,9 @@ exports.areas = [
                 "SANKAU",
                 "TUNAS",
                 "YAN ZAKI",
-                "ZUGAI",
+                "ZUGAI"
             ],
-            SULETANKARKAR: [
+            "SULETANKARKAR": [
                 "ALBASU",
                 "AMANGA",
                 "DANGWANKI",
@@ -5134,9 +5136,9 @@ exports.areas = [
                 "SHABARU",
                 "SULE TANKARKAR",
                 "TAKATSABA",
-                "YANDAMO",
+                "YANDAMO"
             ],
-            TAURA: [
+            "TAURA": [
                 "AJAURA",
                 "CHAKWAIKWAIWA",
                 "CHUKUTO",
@@ -5146,9 +5148,9 @@ exports.areas = [
                 "MAJE",
                 "MAJIYA",
                 "S/GARIN 'YA 'YA",
-                "TAURA",
+                "TAURA"
             ],
-            YANKWASHI: [
+            "YANKWASHI": [
                 "ACHILAFIYA",
                 "BELAS",
                 "DAWON GAWO",
@@ -5158,14 +5160,14 @@ exports.areas = [
                 "KUDA",
                 "RINGIM",
                 "YANKWASHI",
-                "ZUGUMBA",
-            ],
-        },
+                "ZUGUMBA"
+            ]
+        }
     },
     {
-        code: "KD",
-        name: "KADUNA",
-        lgas: [
+        "code": "KD",
+        "name": "KADUNA",
+        "lgas": [
             "BIRNIN GWARI",
             "CHIKUN",
             "GIWA",
@@ -5173,7 +5175,7 @@ exports.areas = [
             "IKARA",
             "JABA",
             "JEMA'A",
-            "KABAU",
+            "KUBAU",
             "KACHIA",
             "KADUNA NORTH",
             "KADUNA SOUTH",
@@ -5188,9 +5190,9 @@ exports.areas = [
             "SANGA",
             "SOBA",
             "ZANGON KATAF",
-            "ZARIA",
+            "ZARIA"
         ],
-        subs: {
+        "subs": {
             "BIRNIN GWARI": [
                 "DOGONDAWA",
                 "GAYAM",
@@ -5202,9 +5204,9 @@ exports.areas = [
                 "MAGAJINGARI II",
                 "MAGAJINGARI III",
                 "RANDAGI",
-                "TABANNI",
+                "TABANNI"
             ],
-            CHIKUN: [
+            "CHIKUN": [
                 "CHIKUN",
                 "GWAGWADA",
                 "KAKAU",
@@ -5215,9 +5217,9 @@ exports.areas = [
                 "RIDO",
                 "SABON TASHA",
                 "TRIKANIYA",
-                "UNGWAYELWA",
+                "UNGWAYELWA"
             ],
-            GIWA: [
+            "GIWA": [
                 "DANMAHAWAYI",
                 "GALADIMAWA",
                 "GANGARA",
@@ -5228,9 +5230,9 @@ exports.areas = [
                 "KIDANDAN",
                 "PANHAUYA",
                 "SHIKA",
-                "YAKAWADA",
+                "YAKAWADA"
             ],
-            IGABI: [
+            "IGABI": [
                 "AFAKA",
                 "BIRININ YERO",
                 "GADAN GAYAN",
@@ -5242,9 +5244,9 @@ exports.areas = [
                 "RIGASA",
                 "SABON BIRNIN DAJI",
                 "TURUNKU",
-                "ZANGON AYA",
+                "ZANGON AYA"
             ],
-            IKARA: [
+            "IKARA": [
                 "AUCHAN",
                 "IKARA",
                 "JAMFALAN",
@@ -5254,9 +5256,9 @@ exports.areas = [
                 "PALA",
                 "RUMI",
                 "SAULAWA",
-                "SAYA-SAYA",
+                "SAYA-SAYA"
             ],
-            JABA: [
+            "JABA": [
                 "CHORI",
                 "DADDU",
                 "DURA BITARO",
@@ -5266,7 +5268,7 @@ exports.areas = [
                 "NK",
                 "SAB-ZURO",
                 "SAMBAN",
-                "SAN-CHEM",
+                "SAN-CHEM"
             ],
             "JEMA'A": [
                 "ASSO",
@@ -5280,9 +5282,9 @@ exports.areas = [
                 "KANINKON",
                 "MAIZIGO",
                 "TAGOMA",
-                "TAKAU",
+                "TAKAU"
             ],
-            KABAU: [
+            "KUBAU": [
                 "ANCHAU",
                 "DAMAU",
                 "DUSTENWAI",
@@ -5293,9 +5295,9 @@ exports.areas = [
                 "MAH",
                 "PNNBEGUA",
                 "ZABI",
-                "ZUNTU",
+                "ZUNTU"
             ],
-            KACHIA: [
+            "KACHIA": [
                 "AGUNU",
                 "ANKWA",
                 "AWON",
@@ -5307,7 +5309,7 @@ exports.areas = [
                 "KATARI",
                 "KURMIN MUSA",
                 "KWATURU",
-                "SABON SARKI",
+                "SABON SARKI"
             ],
             "KADUNA NORTH": [
                 "BADARAWA",
@@ -5321,7 +5323,7 @@ exports.areas = [
                 "UNGWAN SHANU",
                 "UNGWAR DOSA",
                 "UNGWAR LIMAN",
-                "UNGWAR SARKI",
+                "UNGWAR SARKI"
             ],
             "KADUNA SOUTH": [
                 "BADIKKO",
@@ -5336,9 +5338,9 @@ exports.areas = [
                 "TUDUN WADA NORTH",
                 "TUDUN WADA SOUTH",
                 "TUDUN WADA WEST",
-                "UNGUWAN SANUSI",
+                "UNGUWAN SANUSI"
             ],
-            KAGARKO: [
+            "KAGARKO": [
                 "ARIBI",
                 "IDDAH",
                 "JERE NORTH",
@@ -5348,9 +5350,9 @@ exports.areas = [
                 "KATUGAL",
                 "KUKUI",
                 "KURMIN JIBRIN",
-                "KUSHE",
+                "KUSHE"
             ],
-            KAJURU: [
+            "KAJURU": [
                 "AFOGO",
                 "BUDA",
                 "IDON",
@@ -5360,9 +5362,9 @@ exports.areas = [
                 "KUFANA",
                 "MAGANI",
                 "RIMAU",
-                "TANTATU",
+                "TANTATU"
             ],
-            KAURA: [
+            "KAURA": [
                 "BADURUMSAMA",
                 "BITAL",
                 "DAMAKASUWA",
@@ -5373,9 +5375,9 @@ exports.areas = [
                 "KAURU WEST",
                 "KWASSAM",
                 "MAKAMI",
-                "PARI",
+                "PARI"
             ],
-            KAURU: [
+            "KAURU": [
                 "BADURUMSAMA",
                 "BITAL",
                 "DAMAKASUWA",
@@ -5386,9 +5388,9 @@ exports.areas = [
                 "KAURU WEST",
                 "KWASSAM",
                 "MAKAMI",
-                "PARI",
+                "PARI"
             ],
-            KUDAN: [
+            "KUDAN": [
                 "DOKA",
                 "GARU",
                 "HUNKUYI",
@@ -5398,9 +5400,9 @@ exports.areas = [
                 "LIKORO",
                 "S/ GARIN HUNKUYI",
                 "TABANSANI",
-                "ZABI",
+                "ZABI"
             ],
-            LERE: [
+            "LERE": [
                 "ABADAWA",
                 "DAN ALHAJI",
                 "GARU",
@@ -5411,9 +5413,9 @@ exports.areas = [
                 "RAMIN KURA",
                 "SABONBIRNI",
                 "SAMINAKA",
-                "YARKASUWA",
+                "YARKASUWA"
             ],
-            MAKARFI: [
+            "MAKARFI": [
                 "DANDAMISA",
                 "DANGUZIRI",
                 "GAZARA",
@@ -5423,7 +5425,7 @@ exports.areas = [
                 "MAKARFI",
                 "MEYERE",
                 "NASSARAWAN DOYA",
-                "TUDUN WADA",
+                "TUDUN WADA"
             ],
             "SABON GARI": [
                 "BASAWA",
@@ -5436,9 +5438,9 @@ exports.areas = [
                 "MUCHIYA",
                 "SAMARU",
                 "UNGUWAN GABAS",
-                "ZABI",
+                "ZABI"
             ],
-            SANGA: [
+            "SANGA": [
                 "ABORO",
                 "ARAK",
                 "AYU",
@@ -5449,9 +5451,9 @@ exports.areas = [
                 "NINZO NORTH",
                 "NINZO SOUTH",
                 "NINZO WEST",
-                "WASA STATION",
+                "WASA STATION"
             ],
-            SOBA: [
+            "SOBA": [
                 "DAN WATA",
                 "GAMAGIRA",
                 "GARUN GWANKI",
@@ -5462,7 +5464,7 @@ exports.areas = [
                 "RAHAMA",
                 "RICHIFA",
                 "SOBA",
-                "TURAWA",
+                "TURAWA"
             ],
             "ZANGON KATAF": [
                 "GIDANJATAU",
@@ -5474,9 +5476,9 @@ exports.areas = [
                 "UNGWANRIMI",
                 "ZAMANDABO",
                 "ZONKWA",
-                "ZONZON",
+                "ZONZON"
             ],
-            ZARIA: [
+            "ZARIA": [
                 "DAMBO",
                 "DUTSEN ABBA",
                 "GYALLESU",
@@ -5489,71 +5491,61 @@ exports.areas = [
                 "TUKUR-TUKUR",
                 "UNG. JUMA",
                 "UNGFATIKA",
-                "WUCICIRI",
-            ],
-        },
+                "WUCICIRI"
+            ]
+        }
     },
     {
-        code: "KN",
-        name: "KANO",
-        lgas: [
+        "code": "KN",
+        "name": "KANO",
+        "lgas": [
             "AJINGI",
             "ALBASU",
             "BAGWAI",
-            "BATTA",
             "BEBEJI",
             "BICHI",
             "BUNKURE",
-            "DAKATA",
             "DALA",
+            "DAMBATTA",
+            "DAWAKIN KUDU",
             "DAWAKIN TOFA",
             "DOGUWA",
             "FAGGE",
             "GABASAWA",
-            "GAMA",
             "GARKO",
-            "GAWUNA",
+            "GARUN MALAM",
             "GAYA",
             "GEZAWA",
-            "GIGINYU",
-            "GURUN MALLAM",
-            "GWAGWARWA",
             "GWALE",
             "GWARZO",
-            "HOTORO NORTH",
-            "HOTORO SOUTH",
             "KABO",
-            "KAN MUNICIPAL",
+            "KANO MUNICIPAL",
             "KARAYE",
-            "KAURA GOJE",
-            "KAWAJI",
             "KIBIYA",
             "KIRU",
-            "KUDU",
             "KUMBOTSO",
             "KUNCHI",
             "KURA",
             "MADOBI",
             "MAKODA",
-            "MINIJIBIR",
+            "MINJIBIR",
+            "NASARAWA",
             "RANO",
-            "RIMIN",
+            "RIMIN GADO",
             "ROGO",
-            "SHANN",
+            "SHANONO",
             "SUMAILA",
             "TAKAI",
             "TARAUNI",
             "TOFA",
             "TSANYAWA",
-            "TUDUN MURTALA",
             "TUDUN WADA",
-            "TUNDUN WADA",
             "UNGOGO",
             "WARAWA",
-            "WUDIL",
+            "WUDIL"
         ],
-        subs: {
-            AJINGI: [
+        "subs": {
+            "AJINGI": [
                 "AJINGI",
                 "BALARE",
                 "CHULA",
@@ -5563,9 +5555,9 @@ exports.areas = [
                 "GURDUBA",
                 "KUNKURAWA",
                 "TORANKE",
-                "UNGUWAR BAI",
+                "UNGUWAR BAI"
             ],
-            ALBASU: [
+            "ALBASU": [
                 "ALBASU CENTRAL",
                 "BATAIYA",
                 "CHAMARANA",
@@ -5575,9 +5567,9 @@ exports.areas = [
                 "GAGARAME",
                 "HUNGU",
                 "SAYA-SAYA",
-                "TSANGAYA",
+                "TSANGAYA"
             ],
-            BAGWAI: [
+            "BAGWAI": [
                 "BAGWAI",
                 "DANGADA",
                 "GADANYA",
@@ -5587,9 +5579,9 @@ exports.areas = [
                 "RIMIN DAKO",
                 "ROMO",
                 "SARE SARE",
-                "WURO BAGGA",
+                "WURO BAGGA"
             ],
-            BATTA: [
+            "DAMBATTA": [
                 "AJUMAWA",
                 "DAN BATTA EAST",
                 "DAN BATTA WEST",
@@ -5599,9 +5591,9 @@ exports.areas = [
                 "GWARABJAWA",
                 "KORE",
                 "SAIDAWA",
-                "SANSAN",
+                "SANSAN"
             ],
-            BEBEJI: [
+            "BEBEJI": [
                 "ANADARIYA",
                 "BAGUDA",
                 "BEBEJI",
@@ -5615,9 +5607,9 @@ exports.areas = [
                 "RANKA",
                 "RANTAN",
                 "TARIWA",
-                "WAK",
+                "WAK"
             ],
-            BICHI: [
+            "BICHI": [
                 "BADUME",
                 "BICHI",
                 "DANZABUWA",
@@ -5628,9 +5620,9 @@ exports.areas = [
                 "MUNTSIRA",
                 "SAYE",
                 "WAIRE",
-                "YALLAMI",
+                "YALLAMI"
             ],
-            BUNKURE: [
+            "BUNKURE": [
                 "BARKUM",
                 "BON",
                 "BUNKURE",
@@ -5640,10 +5632,9 @@ exports.areas = [
                 "GWAMMA",
                 "KULLUWA",
                 "KUMURYA",
-                "SANDA",
+                "SANDA"
             ],
-            DAKATA: ["DAKATA"],
-            DALA: [
+            "DALA": [
                 "ADAKAWA",
                 "BAKIN RUWA",
                 "DALA",
@@ -5655,7 +5646,7 @@ exports.areas = [
                 "KOFAR MAZUGAL",
                 "KOFAR RUWA",
                 "MADIGAWA",
-                "YALWA",
+                "YALWA"
             ],
             "DAWAKIN TOFA": [
                 "DANGUGUWA",
@@ -5668,9 +5659,9 @@ exports.areas = [
                 "KWA",
                 "MARKE",
                 "TATTARAWA",
-                "TUMFAFI",
+                "TUMFAFI"
             ],
-            DOGUWA: [
+            "DOGUWA": [
                 "D/KAWO",
                 "DARIYA",
                 "DOGUWA",
@@ -5680,9 +5671,9 @@ exports.areas = [
                 "RIRUWAI",
                 "TAGWAYE",
                 "U/NATSOHUWA",
-                "ZAINABI",
+                "ZAINABI"
             ],
-            FAGGE: [
+            "FAGGE": [
                 "FAGGE A",
                 "FAGGE B",
                 "FAGGE C",
@@ -5692,9 +5683,9 @@ exports.areas = [
                 "RIJIYAR LEMO",
                 "SABON GARI EAST",
                 "SABON GARI WEST",
-                "YAMMATA",
+                "YAMMATA"
             ],
-            GABASAWA: [
+            "GABASAWA": [
                 "G/DANGA",
                 "GABASAWA",
                 "JODA",
@@ -5705,10 +5696,9 @@ exports.areas = [
                 "YAUTA/KUDU",
                 "YUNBU",
                 "ZAKIRAI",
-                "ZUGACHI",
+                "ZUGACHI"
             ],
-            GAMA: ["GAMA"],
-            GARKO: [
+            "GARKO": [
                 "DANDAGO",
                 "DISO",
                 "DORAYI",
@@ -5718,10 +5708,9 @@ exports.areas = [
                 "GYARANYA",
                 "KABUGA",
                 "MANDAWARI",
-                "SANI MAINAGGE",
+                "SANI MAINAGGE"
             ],
-            GAWUNA: ["GAWUNA"],
-            GAYA: [
+            "GAYA": [
                 "BALAN",
                 "GAMARYA",
                 "GAMOJI",
@@ -5731,9 +5720,9 @@ exports.areas = [
                 "KAZURAWA",
                 "MAIMAKAWA",
                 "SHAGOGO",
-                "WUDILAWA",
+                "WUDILAWA"
             ],
-            GEZAWA: [
+            "GEZAWA": [
                 "BABAWA",
                 "GAWO",
                 "GEZAWA",
@@ -5744,10 +5733,9 @@ exports.areas = [
                 "TSAMIYA BABBA",
                 "TUMBAU",
                 "WANGARA",
-                "ZANGO",
+                "ZANGO"
             ],
-            GIGINYU: ["GIGINYU"],
-            "GURUN MALLAM": [
+            "GARUN MALAM": [
                 "CHIROMAWA",
                 "D/SALLAU",
                 "FANKURUN",
@@ -5757,10 +5745,9 @@ exports.areas = [
                 "KADAWA",
                 "MAKWARO",
                 "Y/YADAKWARI",
-                "YADAKWARI",
+                "YADAKWARI"
             ],
-            GWAGWARWA: ["GWAGWARWA"],
-            GWALE: [
+            "GWALE": [
                 "DANDAGO",
                 "DISO",
                 "DORAYI",
@@ -5770,9 +5757,9 @@ exports.areas = [
                 "GYARANYA",
                 "KABUGA",
                 "MANDAWARI",
-                "SANI MAINAGGE",
+                "SANI MAINAGGE"
             ],
-            GWARZO: [
+            "GWARZO": [
                 "GETSO",
                 "GWARZO",
                 "JAMA'A",
@@ -5782,11 +5769,9 @@ exports.areas = [
                 "MADADI",
                 "MAINIKA",
                 "SABON BIRNI",
-                "UNGUWAR TUDU",
+                "UNGUWAR TUDU"
             ],
-            "HOTORO NORTH": ["HOTORO NORTH"],
-            "HOTORO SOUTH": ["HOTORO SOUTH"],
-            KABO: [
+            "KABO": [
                 "DUGABAU",
                 "DURUN",
                 "GAMMO",
@@ -5796,9 +5781,9 @@ exports.areas = [
                 "HAUWADE",
                 "KABO",
                 "KANWA",
-                "MASANAWA",
+                "MASANAWA"
             ],
-            "KAN MUNICIPAL": [
+            "KANO MUNICIPAL": [
                 "CHEDI",
                 "DANAGUNDI",
                 "GANDU",
@@ -5811,9 +5796,9 @@ exports.areas = [
                 "TUDUN WAZIRCH",
                 "YAKASAI",
                 "ZAITAWA",
-                "ZANGO",
+                "ZANGO"
             ],
-            KARAYE: [
+            "KARAYE": [
                 "DAURA",
                 "KAFIN DAFGA",
                 "KARAYE",
@@ -5823,11 +5808,9 @@ exports.areas = [
                 "TURAWA",
                 "UNGUWAR HAJI",
                 "YAMMEDI",
-                "YOLA",
+                "YOLA"
             ],
-            "KAURA GOJE": ["KAURA GOJE"],
-            KAWAJI: ["KAWAJI"],
-            KIBIYA: [
+            "KIBIYA": [
                 "DURBA",
                 "FAMMAR",
                 "FASSI",
@@ -5837,9 +5820,9 @@ exports.areas = [
                 "KIBIYA II",
                 "NARIYA",
                 "TARAI",
-                "UNGUWAR GAI",
+                "UNGUWAR GAI"
             ],
-            KIRU: [
+            "KIRU": [
                 "BA'AWA",
                 "BADAFI",
                 "BARGONI",
@@ -5854,9 +5837,9 @@ exports.areas = [
                 "TSAUDAWA",
                 "YAKO",
                 "YALWA",
-                "ZUWO",
+                "ZUWO"
             ],
-            KUDU: [
+            "DAWAKIN KUDU": [
                 "DABAR KWARI",
                 "DANBAGINA",
                 "DAWAKI",
@@ -5871,9 +5854,9 @@ exports.areas = [
                 "YANBARAU",
                 "YANKATSARI",
                 "YARGAYA",
-                "ZOGARAWA",
+                "ZOGARAWA"
             ],
-            KUMBOTSO: [
+            "KUMBOTSO": [
                 "CHALLAWA",
                 "CHIRANCHI",
                 "DANBARE",
@@ -5884,9 +5867,9 @@ exports.areas = [
                 "MARIRI",
                 "NAIBAWA",
                 "PANSHEKARA",
-                "UNGUWAR RIMI",
+                "UNGUWAR RIMI"
             ],
-            KUNCHI: [
+            "KUNCHI": [
                 "BUMAI",
                 "GARIN SHEME",
                 "GWARMAI",
@@ -5896,9 +5879,9 @@ exports.areas = [
                 "RIDAWA",
                 "SHAMAKAWA",
                 "SHUWAKI",
-                "YANDADI",
+                "YANDADI"
             ],
-            KURA: [
+            "KURA": [
                 "DALILI",
                 "DAN HASSAN",
                 "DUKAWA",
@@ -5908,9 +5891,9 @@ exports.areas = [
                 "KURUNSUMAU",
                 "RUGAR DUKA",
                 "SARKIN KURA",
-                "TANAWA",
+                "TANAWA"
             ],
-            MADOBI: [
+            "MADOBI": [
                 "BURJI",
                 "CINKOSO",
                 "GALINJA",
@@ -5922,9 +5905,9 @@ exports.areas = [
                 "KWANKWASO",
                 "MADOBI",
                 "RIKADAWA",
-                "YAKUN",
+                "YAKUN"
             ],
-            MAKODA: [
+            "MAKODA": [
                 "BABBAR RIGA",
                 "DURMA",
                 "JIBGA",
@@ -5935,9 +5918,9 @@ exports.areas = [
                 "MAKODA",
                 "SATAME",
                 "TANGAJI",
-                "WAILARE",
+                "WAILARE"
             ],
-            MINIJIBIR: [
+            "MINJIBIR": [
                 "AZURE",
                 "GANDURWAWA",
                 "KANTAMA",
@@ -5948,9 +5931,9 @@ exports.areas = [
                 "SARBI",
                 "TSAKIYA",
                 "TSAKUWA",
-                "WASAI",
+                "WASAI"
             ],
-            RANO: [
+            "RANO": [
                 "DAWAKI",
                 "LAUSU",
                 "MADACHI",
@@ -5960,9 +5943,9 @@ exports.areas = [
                 "SAJI",
                 "YALWA",
                 "ZINYAU",
-                "ZURGU",
+                "ZURGU"
             ],
-            RIMIN: [
+            "RIMIN GADO": [
                 "BUTU-BUTU",
                 "DAWAKIN GULU",
                 "DOKA-DAWA",
@@ -5974,9 +5957,9 @@ exports.areas = [
                 "SAKARATSA",
                 "TAMAWA",
                 "YALWAN DANZIYAL",
-                "ZANGON DAN ABDU",
+                "ZANGON DAN ABDU"
             ],
-            ROGO: [
+            "ROGO": [
                 "BELI",
                 "FALGORE",
                 "FULATAN",
@@ -5986,9 +5969,9 @@ exports.areas = [
                 "ROGO SABON GARI",
                 "RUWAN BAGO",
                 "ZAREWA",
-                "ZOZA",
+                "ZOZA"
             ],
-            SHANN: [
+            "SHANONO": [
                 "ALAJAWA",
                 "DUTSEN BAKOSHI",
                 "FARURUWA",
@@ -5998,9 +5981,9 @@ exports.areas = [
                 "LENI",
                 "SHAKOGI",
                 "SHANN",
-                "TSAURE",
+                "TSAURE"
             ],
-            SUMAILA: [
+            "SUMAILA": [
                 "GALA",
                 "GANI",
                 "GARFA",
@@ -6011,9 +5994,9 @@ exports.areas = [
                 "RIMI",
                 "RUMO",
                 "SITTI",
-                "SUMAILA",
+                "SUMAILA"
             ],
-            TAKAI: [
+            "TAKAI": [
                 "BAGWARO",
                 "DURBUNDE",
                 "FAJEWA",
@@ -6023,9 +6006,9 @@ exports.areas = [
                 "KARFI",
                 "KUKA",
                 "TAKAI",
-                "ZUGA",
+                "ZUGA"
             ],
-            TARAUNI: [
+            "TARAUNI": [
                 "BABBANGIJ",
                 "DARMANAWA",
                 "DAURAWA",
@@ -6035,9 +6018,9 @@ exports.areas = [
                 "KAUYEN ALU",
                 "TARAUNI",
                 "UNGUWA UKU",
-                "UNGUWAR GAN",
+                "UNGUWAR GAN"
             ],
-            TOFA: [
+            "TOFA": [
                 "DINDERE",
                 "DOKA",
                 "GAJIDA",
@@ -6052,9 +6035,9 @@ exports.areas = [
                 "WANGARA",
                 "YALWA KARAMA",
                 "YANKO",
-                "YARIMAWA",
+                "YARIMAWA"
             ],
-            TSANYAWA: [
+            "TSANYAWA": [
                 "DADDARAWA",
                 "DUMBULUM",
                 "GOZARKI",
@@ -6064,11 +6047,10 @@ exports.areas = [
                 "TSANYAWA",
                 "YANGANAU",
                 "YANKAMAYE",
-                "ZAROGI",
+                "ZAROGI"
             ],
-            "TUDUN MURTALA": ["TUDUN MURTALA"],
-            "TUDUN WADA": ["TUDUN WADA"],
-            "TUNDUN WADA": [
+            "TUDUN WADA": [
+                "TUDUN WADA",
                 "BABURI",
                 "BURUM BURUM",
                 "DALAWA",
@@ -6079,9 +6061,9 @@ exports.areas = [
                 "SABON GARI",
                 "SHUWAKI",
                 "TSOHON GARI",
-                "YAR YASA",
+                "YAR YASA"
             ],
-            UNGOGO: [
+            "UNGOGO": [
                 "BACHIRAWA",
                 "GAYAWA",
                 "KADAWA",
@@ -6092,9 +6074,9 @@ exports.areas = [
                 "TUDUN NUFAWA",
                 "UNGOGO",
                 "YADAKUNYA",
-                "ZANGO",
+                "ZANGO"
             ],
-            WARAWA: [
+            "WARAWA": [
                 "AMARAWA",
                 "DANLASAN",
                 "GARINDAU",
@@ -6109,9 +6091,9 @@ exports.areas = [
                 "TANAGAR",
                 "WARAWA",
                 "YANDALLA",
-                "YANGIZO",
+                "YANGIZO"
             ],
-            WUDIL: [
+            "WUDIL": [
                 "ACHIKA",
                 "DAGUMAWA",
                 "DAN KAZA",
@@ -6121,19 +6103,31 @@ exports.areas = [
                 "LAJAWA",
                 "SABON GARI",
                 "UTAI",
-                "WUDIL",
+                "WUDIL"
             ],
-        },
+            "NASARAWA": [
+                "DAKATA",
+                "GAMA",
+                "GAWUNA",
+                "GIGINYU",
+                "GWAGWARWA",
+                "HOTORO NORTH",
+                "HOTORO SOUTH",
+                "KAURA GOJE",
+                "KAWAJI",
+                "TUDUN MURTALA"
+            ]
+        }
     },
     {
-        code: "KT",
-        name: "KATSINA",
-        lgas: [
+        "code": "KT",
+        "name": "KATSINA",
+        "lgas": [
             "BATAGARAWA",
-            "BATSASRI",
+            "BATSARI",
             "BAURE",
             "BINDAWA",
-            "BOKORI",
+            "BAKORI",
             "CHARANCHI",
             "DANDUME",
             "DANJA",
@@ -6142,12 +6136,12 @@ exports.areas = [
             "DUTSI",
             "DUTSINMA",
             "FASKARI",
-            "FUNYUA",
+            "FUNTUA",
             "INGAWA",
             "JIBIA",
             "KAFUR",
             "KAITA",
-            "KAKIA",
+            "KANKIA",
             "KANKARA",
             "KATSINA",
             "KURFI",
@@ -6159,13 +6153,13 @@ exports.areas = [
             "MATAZU",
             "MUSAWA",
             "RIMI",
-            "SABUA",
+            "SABUWA",
             "SAFANA",
             "SANDAMU",
-            "ZANGO",
+            "ZANGO"
         ],
-        subs: {
-            BATAGARAWA: [
+        "subs": {
+            "BATAGARAWA": [
                 "AJIWA",
                 "BAKIYAWA",
                 "BARAWA",
@@ -6175,9 +6169,9 @@ exports.areas = [
                 "JIN",
                 "KAYAUKI",
                 "TSANNI",
-                "YARGAMJI",
+                "YARGAMJI"
             ],
-            BATSASRI: [
+            "BATSARI": [
                 "ABADAU/KAGARA",
                 "BATSARI",
                 "DANALHAJI/YANGAYYA",
@@ -6188,9 +6182,9 @@ exports.areas = [
                 "MANAWA",
                 "RUMA",
                 "WAGIN",
-                "YAUYAU/MALLAMAWA",
+                "YAUYAU/MALLAMAWA"
             ],
-            BAURE: [
+            "BAURE": [
                 "AGALA/DANKUM",
                 "BABBAN MUTUM",
                 "BAURE",
@@ -6202,9 +6196,9 @@ exports.areas = [
                 "TARAMNAWA/BARE",
                 "UNGUWAR RAI",
                 "YANDUNA",
-                "YANMAULU",
+                "YANMAULU"
             ],
-            BINDAWA: [
+            "BINDAWA": [
                 "BAURE",
                 "BINDAWA",
                 "DORO",
@@ -6215,9 +6209,9 @@ exports.areas = [
                 "KAMRI",
                 "SHIBDAWA",
                 "TAMA/DAYE",
-                "YANGORA",
+                "YANGORA"
             ],
-            BOKORI: [
+            "BAKORI": [
                 "BAKORI ‘A’",
                 "BAKORI ‘B’",
                 "BARDE/KWANTAKWARAN",
@@ -6228,9 +6222,9 @@ exports.areas = [
                 "KAKUMI",
                 "KANDARAWA",
                 "KURAMI/YANKWANI",
-                "TSIGA",
+                "TSIGA"
             ],
-            CHARANCHI: [
+            "CHARANCHI": [
                 "BANYE",
                 "CHARANCHI",
                 "DOKA",
@@ -6240,9 +6234,9 @@ exports.areas = [
                 "M/WAYYA",
                 "RADDA",
                 "SAFANA",
-                "TSAKATSA",
+                "TSAKATSA"
             ],
-            DANDUME: [
+            "DANDUME": [
                 "DANDUME ‘A’",
                 "DANDUME ‘B’",
                 "DANTANKARI",
@@ -6253,9 +6247,9 @@ exports.areas = [
                 "MAHUTA ‘C’",
                 "NASARAWA",
                 "TUMBURKAI ‘A’",
-                "TUMBURKAI ‘B’",
+                "TUMBURKAI ‘B’"
             ],
-            DANJA: [
+            "DANJA": [
                 "DABAI",
                 "DANJA A",
                 "DANJA B",
@@ -6265,9 +6259,9 @@ exports.areas = [
                 "TANDAMA",
                 "TSANGAMA WA",
                 "YAKAJI  A",
-                "YAKAJI B",
+                "YAKAJI B"
             ],
-            DANMUSA: [
+            "DANMUSA": [
                 "DAN - ALKIMA",
                 "DAN ALI",
                 "DAN MUSA B",
@@ -6278,9 +6272,9 @@ exports.areas = [
                 "MAIDABIN B",
                 "MARA",
                 "YANTUMAKI A",
-                "YANTUMAKI B",
+                "YANTUMAKI B"
             ],
-            DAURA: [
+            "DAURA": [
                 "KUSUGU",
                 "MADOBI A",
                 "MADOBI B",
@@ -6291,9 +6285,9 @@ exports.areas = [
                 "SARKIN YARA B",
                 "TUDUN WADA",
                 "UBANDAWAKI A",
-                "UBANDAWAKI B",
+                "UBANDAWAKI B"
             ],
-            DUTSI: [
+            "DUTSI": [
                 "DAN’AUNAI",
                 "DUTSI ‘A’",
                 "DUTSI ‘B’",
@@ -6303,9 +6297,9 @@ exports.areas = [
                 "SIRIKA ‘A’",
                 "SIRIKA ‘B’",
                 "YAMEL ‘A’",
-                "YAMEL ‘B’",
+                "YAMEL ‘B’"
             ],
-            DUTSINMA: [
+            "DUTSINMA": [
                 "BAGAGADI",
                 "DABAWA",
                 "DUTSINMA A",
@@ -6316,9 +6310,9 @@ exports.areas = [
                 "KUKI  B",
                 "KUTAWA",
                 "MAKERA",
-                "SHEMA",
+                "SHEMA"
             ],
-            FASKARI: [
+            "FASKARI": [
                 "DAUDAWA",
                 "FASKARI",
                 "MAIGORA",
@@ -6328,9 +6322,9 @@ exports.areas = [
                 "SHEME",
                 "TAFOKI",
                 "YANKARA",
-                "YAR MALAMAI",
+                "YAR MALAMAI"
             ],
-            FUNYUA: [
+            "FUNTUA": [
                 "DANDUTSE",
                 "DIKKE",
                 "GOYA",
@@ -6341,9 +6335,9 @@ exports.areas = [
                 "TUDUN IYA",
                 "UNG. IBRAHIM",
                 "UNG. MUSA",
-                "UNG. RABIU",
+                "UNG. RABIU"
             ],
-            INGAWA: [
+            "INGAWA": [
                 "AGAYAWA",
                 "BARERUWA/RURUMA",
                 "BIDORE/YAYA",
@@ -6354,9 +6348,9 @@ exports.areas = [
                 "JOBE/KANDAWA",
                 "KARFESI/YANKAURA",
                 "MANMAWA",
-                "YANDOMA",
+                "YANDOMA"
             ],
-            JIBIA: [
+            "JIBIA": [
                 "BUGAJE",
                 "FARFARU",
                 "FARU",
@@ -6367,9 +6361,9 @@ exports.areas = [
                 "KUSA",
                 "MAGAMA/MAZANYA",
                 "RIKO",
-                "YANGAYYA",
+                "YANGAYYA"
             ],
-            KAFUR: [
+            "KAFUR": [
                 "DANTUTURE",
                 "DUTSEN-KURA/KANYA",
                 "GAMZAGO",
@@ -6379,9 +6373,9 @@ exports.areas = [
                 "MASARI",
                 "RUGOJI/YARTALATA",
                 "SABUWAR KASA",
-                "YARI-BORI",
+                "YARI-BORI"
             ],
-            KAITA: [
+            "KAITA": [
                 "ABDALLAWA",
                 "BA'AWA",
                 "DANKABA",
@@ -6391,9 +6385,9 @@ exports.areas = [
                 "KAITA",
                 "MATSAI",
                 "YANDAKI",
-                "YANHOHO",
+                "YANHOHO"
             ],
-            KAKIA: [
+            "KANKIA": [
                 "FAKUWA/KAFINDANGI",
                 "GACHI",
                 "GALADIMAA",
@@ -6403,9 +6397,9 @@ exports.areas = [
                 "RIMAYE",
                 "SUKUNTUNI",
                 "TAFASHIYA/NASARAWA",
-                "TSA/MAGAM",
+                "TSA/MAGAM"
             ],
-            KANKARA: [
+            "KANKARA": [
                 "BURDUGAU",
                 "DANMAIDAKI",
                 "DANMURABU",
@@ -6416,9 +6410,9 @@ exports.areas = [
                 "KUKASHEKA",
                 "PAUWA A&B",
                 "WAWARKAZA",
-                "ZANGO/ ZABARO",
+                "ZANGO/ ZABARO"
             ],
-            KATSINA: [
+            "KATSINA": [
                 "KANGIWA",
                 "SHINKAFI “A”",
                 "SHINKAFI “B”",
@@ -6430,9 +6424,9 @@ exports.areas = [
                 "WAKILIN KUDU II",
                 "WAKILIN KUDU III",
                 "WAKILIN YAMMA I",
-                "WAKILIN YAMMA II",
+                "WAKILIN YAMMA II"
             ],
-            KURFI: [
+            "KURFI": [
                 "BARKIYA",
                 "BIRCHI",
                 "KURFI (A)",
@@ -6442,9 +6436,9 @@ exports.areas = [
                 "TSAURI (A)",
                 "TSAURI (B)",
                 "WURMA (A)",
-                "WURMA (B)",
+                "WURMA (B)"
             ],
-            KUSADA: [
+            "KUSADA": [
                 "BAURANYA’A",
                 "BAURANYA’B",
                 "BOKO",
@@ -6454,9 +6448,9 @@ exports.areas = [
                 "KUSADA",
                 "MAWASHI",
                 "YASHE’A",
-                "YASHE’B",
+                "YASHE’B"
             ],
-            MAIADUA: [
+            "MAIADUA": [
                 "BUMBUM 'A'",
                 "BUMBUM 'B'",
                 "DANYASHE",
@@ -6466,9 +6460,9 @@ exports.areas = [
                 "MAIADUA 'A'",
                 "MAIADUA 'C'",
                 "MAIKONI 'A'",
-                "NATSALLE",
+                "NATSALLE"
             ],
-            MALUMFASHI: [
+            "MALUMFASHI": [
                 "BORINDAWA",
                 "DANSARAI",
                 "DAYI",
@@ -6480,9 +6474,9 @@ exports.areas = [
                 "NA – ALMA",
                 "RUWANSANYI",
                 "YABA",
-                "YAMMAMA",
+                "YAMMAMA"
             ],
-            MANI: [
+            "MANI": [
                 "BAGIWA",
                 "BUJAWA/GEWAYAU",
                 "DUWAN/MAKAU",
@@ -6493,9 +6487,9 @@ exports.areas = [
                 "MAGAMI",
                 "MANI",
                 "MUDURU",
-                "TSAGEM/TAKUSHEYI",
+                "TSAGEM/TAKUSHEYI"
             ],
-            MASHI: [
+            "MASHI": [
                 "BAMBLE",
                 "DOGURU A",
                 "DOGURU B",
@@ -6506,9 +6500,9 @@ exports.areas = [
                 "SABUWAR RIJIYA",
                 "SONKAYA",
                 "TAMILO A",
-                "TAMILO B",
+                "TAMILO B"
             ],
-            MATAZU: [
+            "MATAZU": [
                 "DISSI",
                 "GWARJO",
                 "KAARADUWA",
@@ -6518,9 +6512,9 @@ exports.areas = [
                 "MAZOJI 'A'",
                 "MAZOJI 'B'",
                 "RINJIN IDI",
-                "SAYAYA",
+                "SAYAYA"
             ],
-            MUSAWA: [
+            "MUSAWA": [
                 "DANGANI",
                 "DANJAKU KARACHI",
                 "GARU",
@@ -6531,9 +6525,9 @@ exports.areas = [
                 "KURKUJAN B",
                 "MUSAWA",
                 "TABANNI YARDAU",
-                "TUGE",
+                "TUGE"
             ],
-            RIMI: [
+            "RIMI": [
                 "ABUKUR",
                 "FARDAMI",
                 "KADANDANI",
@@ -6543,9 +6537,9 @@ exports.areas = [
                 "REMAWA IYATAWA",
                 "RIMI",
                 "SABON GARIN ALARAINI",
-                "TSAGERO",
+                "TSAGERO"
             ],
-            SABUA: [
+            "SABUWA": [
                 "DAMARI",
                 "DUGUN MUAZU",
                 "GAMJI",
@@ -6555,9 +6549,9 @@ exports.areas = [
                 "RAFIN IWA",
                 "SABUA A",
                 "SABUA B",
-                "SAYAU",
+                "SAYAU"
             ],
-            SAFANA: [
+            "SAFANA": [
                 "BABBAN DUHU 'A'",
                 "BABBAN DUHU 'B'",
                 "BAURE 'A'",
@@ -6567,9 +6561,9 @@ exports.areas = [
                 "SAFANA",
                 "TSASKIYA",
                 "ZAKKA 'A'",
-                "ZAKKA 'B'",
+                "ZAKKA 'B'"
             ],
-            SANDAMU: [
+            "SANDAMU": [
                 "DANEJI 'A'",
                 "DANEJI 'B'",
                 "FAGO 'A'",
@@ -6580,9 +6574,9 @@ exports.areas = [
                 "KWASARAWA",
                 "RADE 'A'",
                 "RADE 'B'",
-                "SANDAMU",
+                "SANDAMU"
             ],
-            ZANGO: [
+            "ZANGO": [
                 "DARGAGE",
                 "GARNI",
                 "GWAMBA",
@@ -6592,14 +6586,14 @@ exports.areas = [
                 "ROGOGO",
                 "SARA",
                 "YARDAJE",
-                "ZANGO",
-            ],
-        },
+                "ZANGO"
+            ]
+        }
     },
     {
-        code: "KE",
-        name: "KEBBI",
-        lgas: [
+        "code": "KE",
+        "name": "KEBBI",
+        "lgas": [
             "ALIERO",
             "AREWA",
             "ARGUNGU",
@@ -6620,10 +6614,10 @@ exports.areas = [
             "SURU",
             "WASAGU DANKO",
             "YAURI",
-            "ZURU",
+            "ZURU"
         ],
-        subs: {
-            ALIERO: [
+        "subs": {
+            "ALIERO": [
                 "DANGALADIMA I",
                 "DANGALADIMA II",
                 "DANWARAI",
@@ -6633,9 +6627,9 @@ exports.areas = [
                 "RAFIN BAUNA",
                 "SABIYEL",
                 "SHIYAR FADA I",
-                "SHIYAR FADA II",
+                "SHIYAR FADA II"
             ],
-            AREWA: [
+            "AREWA": [
                 "BUI",
                 "CHIBIKE",
                 "DAURA/SAK/JARKUKA",
@@ -6646,9 +6640,9 @@ exports.areas = [
                 "KANGIWA",
                 "LAIMA/JANTULLU",
                 "SARKA/DANTSOHO",
-                "YELDU",
+                "YELDU"
             ],
-            ARGUNGU: [
+            "ARGUNGU": [
                 "ALWASA/GOTOMO",
                 "DIKKO",
                 "FELANDE",
@@ -6659,9 +6653,9 @@ exports.areas = [
                 "KOKANI SOUTH",
                 "LAILABA/NATSINI",
                 "SAUWA/KAURA SANI",
-                "TUNGAR ZAZZAGAWA",
+                "TUNGAR ZAZZAGAWA"
             ],
-            AUGIE: [
+            "AUGIE": [
                 "AUGIE NORTH",
                 "AUGIE SOUTH",
                 "BAGAYE/MERA",
@@ -6671,9 +6665,9 @@ exports.areas = [
                 "BUBUCHE",
                 "DUNDAYE/KWAIDO",
                 "TIGGI/AWADE",
-                "YOLA",
+                "YOLA"
             ],
-            BAGUDO: [
+            "BAGUDO": [
                 "BAGUDO/TUGA",
                 "BAHINDI/B.DOMA",
                 "BANI/TSAMIYA",
@@ -6684,7 +6678,7 @@ exports.areas = [
                 "LOLO/GIRIS",
                 "MATSINKAI/GEZA",
                 "SHARABI/KWAN",
-                "ZAGGA/KWASARA",
+                "ZAGGA/KWASARA"
             ],
             "BIRNIN KEBBI": [
                 "AMBURSA",
@@ -6701,9 +6695,9 @@ exports.areas = [
                 "NASSARAWA I",
                 "NASSARAWA II",
                 "UJARIYO",
-                "ZAURO",
+                "ZAURO"
             ],
-            BUNZA: [
+            "BUNZA": [
                 "BUNZA D/GALADIMA",
                 "BUNZA MARAFA",
                 "GWADE",
@@ -6713,9 +6707,9 @@ exports.areas = [
                 "SALWAI",
                 "TILLI/HILEMA",
                 "TUNGA",
-                "ZOGIRMA",
+                "ZOGIRMA"
             ],
-            DANDI: [
+            "DANDI": [
                 "BANIZUMBU",
                 "BUMA",
                 "DOLEKAINA",
@@ -6726,9 +6720,9 @@ exports.areas = [
                 "KYANGAKWAI",
                 "MAIGAWAZA",
                 "MAIHAUSAWA",
-                "SHIKO",
+                "SHIKO"
             ],
-            FAKAI: [
+            "FAKAI": [
                 "BAJIDA",
                 "BANGU/GARIN ISAH",
                 "BIRNIN TUDU",
@@ -6738,9 +6732,9 @@ exports.areas = [
                 "KANGI",
                 "MAHUTA",
                 "MARAFA",
-                "PENNI PENNI",
+                "PENNI PENNI"
             ],
-            GWANDU: [
+            "GWANDU": [
                 "CHEBERU/BADA",
                 "DALIJAN",
                 "DODORU",
@@ -6750,9 +6744,9 @@ exports.areas = [
                 "KAMBAZA",
                 "MALISA",
                 "MARUDA",
-                "MASAMA/ KWASARA",
+                "MASAMA/ KWASARA"
             ],
-            JEGA: [
+            "JEGA": [
                 "ALELU GEHURU",
                 "DANGAMAJI",
                 "DUMBEGU/BASAURA",
@@ -6763,9 +6757,9 @@ exports.areas = [
                 "KIMBA",
                 "KOKANI",
                 "MAGAJI ‘A’",
-                "MAGAJI ‘B’",
+                "MAGAJI ‘B’"
             ],
-            KALGO: [
+            "KALGO": [
                 "BADARIYA MAGARZA",
                 "DANGOMA GAYI",
                 "DIGGI",
@@ -6775,7 +6769,7 @@ exports.areas = [
                 "MUTUBARE BANGANA",
                 "NAYELWA",
                 "WURO GAURI",
-                "ZUGURU",
+                "ZUGURU"
             ],
             "KOKO BESSE": [
                 "BESSE",
@@ -6789,9 +6783,9 @@ exports.areas = [
                 "MADACCI/ FIRINI",
                 "MAIKWAR/DAMBA",
                 "TAKWARE",
-                "ZARIA KALAKALA/AMIRU",
+                "ZARIA KALAKALA/AMIRU"
             ],
-            MAIYAMA: [
+            "MAIYAMA": [
                 "ANDARAI/KURUNKUDU/ZUGUN LIBA",
                 "GIWATAZO/ZARA",
                 "GUBIN KURE/GAMJEJI",
@@ -6802,9 +6796,9 @@ exports.areas = [
                 "MAIYAMA",
                 "MUNGADI/BOTORO",
                 "SAMBAWA/MAYALO",
-                "SARAN DOSA/GUBBA",
+                "SARAN DOSA/GUBBA"
             ],
-            NGASKI: [
+            "NGASKI": [
                 "BIRNIN YAURI",
                 "GAFARA MACHUPA",
                 "GARIN BAKA MAKIRIN",
@@ -6814,9 +6808,9 @@ exports.areas = [
                 "MAKAWA UKERA",
                 "NGASKI",
                 "UTON",
-                "WARRA",
+                "WARRA"
             ],
-            SAKABA: [
+            "SAKABA": [
                 "ADAI",
                 "DANKOLO",
                 "DOKA/BERE",
@@ -6826,9 +6820,9 @@ exports.areas = [
                 "MAKUKU",
                 "MAZA-MAZA",
                 "SAKABA",
-                "TUDUN KUKA",
+                "TUDUN KUKA"
             ],
-            SHANGA: [
+            "SHANGA": [
                 "ATUWO",
                 "BINUW/GEBBE/BUKUNJI",
                 "DUGU TSOHO/DUGU RAHA",
@@ -6838,9 +6832,9 @@ exports.areas = [
                 "SAWASHI",
                 "SHANGA",
                 "TAKWARE",
-                "YARBESSE",
+                "YARBESSE"
             ],
-            SURU: [
+            "SURU": [
                 "ALJANNARE",
                 "BAKUWAI",
                 "BANDAN",
@@ -6851,7 +6845,7 @@ exports.areas = [
                 "GINGA",
                 "GIRO",
                 "KWAIFA",
-                "SURU",
+                "SURU"
             ],
             "WASAGU DANKO": [
                 "AYU",
@@ -6864,9 +6858,9 @@ exports.areas = [
                 "RIBAH/MACHIKA",
                 "WAJE",
                 "WASAGU",
-                "YALMO/SHINDI",
+                "YALMO/SHINDI"
             ],
-            YAURI: [
+            "YAURI": [
                 "CHULU/KOMA",
                 "GUNGUN SARKI",
                 "JIJIMA",
@@ -6876,9 +6870,9 @@ exports.areas = [
                 "YELWA NORTH",
                 "YELWA SOUTH",
                 "YELWA WEST",
-                "ZAMARE",
+                "ZAMARE"
             ],
-            ZURU: [
+            "ZURU": [
                 "BEDI",
                 "CIROMAN DABAI",
                 "ISGOGO/DAGO",
@@ -6888,14 +6882,14 @@ exports.areas = [
                 "RUMU/DABE/SEME",
                 "SENCHI",
                 "TADURGA",
-                "ZODI",
-            ],
-        },
+                "ZODI"
+            ]
+        }
     },
     {
-        code: "KO",
-        name: "KOGI",
-        lgas: [
+        "code": "KO",
+        "name": "KOGI",
+        "lgas": [
             "ADAVI",
             "AJAOKUTA",
             "ANKPA",
@@ -6916,10 +6910,10 @@ exports.areas = [
             "OLAMABORO",
             "OMALA",
             "YAGBA EAST",
-            "YAGBA WEST",
+            "YAGBA WEST"
         ],
-        subs: {
-            ADAVI: [
+        "subs": {
+            "ADAVI": [
                 "ADAVI – EBA",
                 "EGE/IRUVECHINMI I",
                 "IDANUHUA",
@@ -6929,9 +6923,9 @@ exports.areas = [
                 "KUROKO II",
                 "NAGAZI FARM CENTER",
                 "OGAMINANA",
-                "OKUNCHI/OZURI/ONIEKA",
+                "OKUNCHI/OZURI/ONIEKA"
             ],
-            AJAOKUTA: [
+            "AJAOKUTA": [
                 "ABODI/PATESI",
                 "ACHAGANA",
                 "ADOGO",
@@ -6945,9 +6939,9 @@ exports.areas = [
                 "ODONU/UNSI",
                 "OGIGIRI",
                 "OLD AJAOKUTA",
-                "OMGBO",
+                "OMGBO"
             ],
-            ANKPA: [
+            "ANKPA": [
                 "ANKPA I",
                 "ANKPA II",
                 "ANKPA SUBURB I",
@@ -6960,9 +6954,9 @@ exports.areas = [
                 "OJOKU I",
                 "OJOKU II",
                 "OJOKU III",
-                "OJOKU IV",
+                "OJOKU IV"
             ],
-            BASSA: [
+            "BASSA": [
                 "AKUBA I",
                 "AKUBA II",
                 "AYEDE/AKAKANA",
@@ -6972,9 +6966,9 @@ exports.areas = [
                 "KPATA",
                 "MOZUM",
                 "OZONGOLO/KPANCHE",
-                "OZUGBE",
+                "OZUGBE"
             ],
-            DEKINA: [
+            "DEKINA": [
                 "ABOCHO",
                 "ADUMU EGUME",
                 "ANYIGBA",
@@ -6986,9 +6980,9 @@ exports.areas = [
                 "OGANE INIGU",
                 "OGBABEDE",
                 "OJIKPADALA",
-                "OKURA OLAFIA",
+                "OKURA OLAFIA"
             ],
-            IBAJI: [
+            "IBAJI": [
                 "AKPANYO",
                 "ANALO",
                 "AYAH",
@@ -6998,9 +6992,9 @@ exports.areas = [
                 "OJILA",
                 "ONYEDEGA",
                 "UJEH",
-                "UNALE",
+                "UNALE"
             ],
-            IDAH: [
+            "IDAH": [
                 "EDE",
                 "EGA",
                 "ICHALA",
@@ -7010,7 +7004,7 @@ exports.areas = [
                 "OWOLIAPA",
                 "SABON GARI",
                 "UGWODA",
-                "UKWAJA",
+                "UKWAJA"
             ],
             "IGALAMELA-ODOLU": [
                 "AJAKA I",
@@ -7022,9 +7016,9 @@ exports.areas = [
                 "OFORACHI I",
                 "OFORACHI II",
                 "OJI-AJI",
-                "UBELE",
+                "UBELE"
             ],
-            IJUMU: [
+            "IJUMU": [
                 "AIYEGUNLE",
                 "AIYEREH/ARIMAH",
                 "AIYETORO I",
@@ -7039,7 +7033,7 @@ exports.areas = [
                 "IYARA",
                 "ODOKORO",
                 "OGALE/ADUGE",
-                "OKORO/IGAH/OGIDI",
+                "OKORO/IGAH/OGIDI"
             ],
             "KABBA-BUNU": [
                 "AIYETEJU",
@@ -7056,7 +7050,7 @@ exports.areas = [
                 "OKEDAYO",
                 "OKEKOKO",
                 "OLLEOKE-OFIN",
-                "OTU",
+                "OTU"
             ],
             "KOGI KK": [
                 "AKPASU",
@@ -7069,9 +7063,9 @@ exports.areas = [
                 "KOTONKARFE",
                 "ODAKI",
                 "TAWARI",
-                "UKWO",
+                "UKWO"
             ],
-            LOKOJA: [
+            "LOKOJA": [
                 "EGGAN",
                 "KAKANDAN",
                 "KUPA NORTH",
@@ -7081,7 +7075,7 @@ exports.areas = [
                 "LOKOJA ‘C’",
                 "LOKOJA ‘D’",
                 "LOKOJA ‘E’",
-                "OWORO",
+                "OWORO"
             ],
             "MOPA MURO": [
                 "AGBAGOUN",
@@ -7093,9 +7087,9 @@ exports.areas = [
                 "ODOLE II",
                 "OKEAGI/ILAI",
                 "OROKERE",
-                "TAKETE/ODE/OTAFUN",
+                "TAKETE/ODE/OTAFUN"
             ],
-            OFU: [
+            "OFU": [
                 "ALOJI",
                 "ALOMA",
                 "EJULE ALLAH",
@@ -7106,7 +7100,7 @@ exports.areas = [
                 "OFOKE",
                 "OGBONICHA",
                 "UGWOLAWO 1",
-                "UGWOLAWO 2",
+                "UGWOLAWO 2"
             ],
             "OGORI MAGONGO": [
                 "AIYEROMI",
@@ -7118,9 +7112,9 @@ exports.areas = [
                 "OKIBO",
                 "OSHOBANE",
                 "OTURU OPOWUROYE",
-                "UGUGU",
+                "UGUGU"
             ],
-            OKEHI: [
+            "OKEHI": [
                 "EIKA/OHIZENYI",
                 "OBAIBA I",
                 "OBAIBA II",
@@ -7131,9 +7125,9 @@ exports.areas = [
                 "OHUEPE/OMAVI UBORO",
                 "OHUETA",
                 "OKAITO/USUNGWEN",
-                "OKUEHU",
+                "OKUEHU"
             ],
-            OKENE: [
+            "OKENE": [
                 "ABUGA/OZUJA",
                 "BARIKI",
                 "IDOJI",
@@ -7144,9 +7138,9 @@ exports.areas = [
                 "ONYUKOKO",
                 "ORIETESU",
                 "OTUTU",
-                "UPOGORO/ODENKU",
+                "UPOGORO/ODENKU"
             ],
-            OLAMABORO: [
+            "OLAMABORO": [
                 "IMANE I",
                 "IMANE II",
                 "OGUGU I",
@@ -7156,9 +7150,9 @@ exports.areas = [
                 "OLAMABORO II",
                 "OLAMABORO III",
                 "OLAMABORO IV",
-                "OLAMABORO V",
+                "OLAMABORO V"
             ],
-            OMALA: [
+            "OMALA": [
                 "ABEJUKOLO I",
                 "ABEJUKOLO II",
                 "AKPACHA",
@@ -7169,7 +7163,7 @@ exports.areas = [
                 "OJI-AJI",
                 "OKPATALA",
                 "OLLA`",
-                "OPODA/OFEJIJI",
+                "OPODA/OFEJIJI"
             ],
             "YAGBA EAST": [
                 "ALU/IGBAGUN/ORANRE",
@@ -7181,7 +7175,7 @@ exports.areas = [
                 "JEGE/OKEYAGI/OGBOM/ISHAN",
                 "MAKUTU I",
                 "MAKUTU II",
-                "PONYAN",
+                "PONYAN"
             ],
             "YAGBA WEST": [
                 "EJIBA",
@@ -7197,19 +7191,19 @@ exports.areas = [
                 "OKE EGBE I",
                 "OKE EGBE II",
                 "OKE EGBE III",
-                "OKE EGBE IV",
-            ],
-        },
+                "OKE EGBE IV"
+            ]
+        }
     },
     {
-        code: "KW",
-        name: "KWARA",
-        lgas: [
+        "code": "KW",
+        "name": "KWARA",
+        "lgas": [
             "ASA",
             "BARUTEN",
             "EDU",
             "EKITI",
-            "ERO",
+            "OKE ERO",
             "IFELODUN",
             "ILORIN EAST",
             "ILORIN SOUTH",
@@ -7220,10 +7214,10 @@ exports.areas = [
             "MORO",
             "OFFA",
             "OYUN",
-            "PATIGI",
+            "PATIGI"
         ],
-        subs: {
-            ASA: [
+        "subs": {
+            "ASA": [
                 "ADIGBONGBO/AWE/ORIMARO",
                 "AFON",
                 "AGO-OJA/OSHIN/LADUBA",
@@ -7240,9 +7234,9 @@ exports.areas = [
                 "ONIRE/ODEGIWA/ALAPA",
                 "OWODE/GBOGUN",
                 "YOWERE II/OKEWERU",
-                "YOWERE/SOSOKI",
+                "YOWERE/SOSOKI"
             ],
-            BARUTEN: [
+            "BARUTEN": [
                 "BORIYA/SHIYA",
                 "GBEREBERERU/BABANE",
                 "GURE/GWASORO",
@@ -7253,9 +7247,9 @@ exports.areas = [
                 "KPURA/YAKIRU",
                 "OKUTA",
                 "SHINAU/TUMBUYAN",
-                "YASHIKIRA",
+                "YASHIKIRA"
             ],
-            EDU: [
+            "EDU": [
                 "LAFIAGI I",
                 "LAFIAGI II",
                 "LAFIAGI III",
@@ -7265,9 +7259,9 @@ exports.areas = [
                 "TSARAGI III",
                 "TSONGA I",
                 "TSONGA II",
-                "TSONGA III",
+                "TSONGA III"
             ],
-            EKITI: [
+            "EKITI": [
                 "ERUKU",
                 "ISAPA",
                 "KORO",
@@ -7277,9 +7271,9 @@ exports.areas = [
                 "OKE-OPIN/ETAN",
                 "OPIN",
                 "OSI    I",
-                "OSI   II",
+                "OSI   II"
             ],
-            ERO: [
+            "OKE ERO": [
                 "AYEDUN",
                 "EKAN",
                 "IDOFIN IGBANA I",
@@ -7289,9 +7283,9 @@ exports.areas = [
                 "IMODE/EGOSI",
                 "IMOJI/ILALE/ERINMOPE",
                 "ODO OWA I",
-                "ODO OWA II",
+                "ODO OWA II"
             ],
-            IFELODUN: [
+            "IFELODUN": [
                 "AGUNJIN",
                 "IDOFIAN I",
                 "IDOFIAN II",
@@ -7309,7 +7303,7 @@ exports.areas = [
                 "SHARE II",
                 "SHARE III",
                 "SHARE IV",
-                "SHARE V",
+                "SHARE V"
             ],
             "ILORIN EAST": [
                 "AGBEYANGI",
@@ -7323,7 +7317,7 @@ exports.areas = [
                 "MARAFA/PEPELE",
                 "MAYA/ILE APA",
                 "OKE OYI/ OKE OSE/OSIN",
-                "ZANGO",
+                "ZANGO"
             ],
             "ILORIN SOUTH": [
                 "AKANBI I",
@@ -7336,7 +7330,7 @@ exports.areas = [
                 "BALOGUN FULANI III",
                 "OKAKA I",
                 "OKAKA II",
-                "OKE-OGUN",
+                "OKE-OGUN"
             ],
             "ILORIN WEST": [
                 "ADEWOLE",
@@ -7350,9 +7344,9 @@ exports.areas = [
                 "OKO ERIN",
                 "OLOJE",
                 "UBANDANWAKI",
-                "WARAH/OSHIN/EGBEJILA",
+                "WARAH/OSHIN/EGBEJILA"
             ],
-            IREPODUN: [
+            "IREPODUN": [
                 "AJASE IPO I",
                 "AJASE IPO II",
                 "ARANDUN",
@@ -7363,9 +7357,9 @@ exports.areas = [
                 "OMU ARAN II",
                 "OMU ARAN III",
                 "ORO I",
-                "ORO II",
+                "ORO II"
             ],
-            ISIN: [
+            "ISIN": [
                 "ALLA",
                 "EDIDI",
                 "IJARA",
@@ -7376,9 +7370,9 @@ exports.areas = [
                 "OKE-ONIGBIN",
                 "OLLA",
                 "OWU-ISIN",
-                "SAGBAJA/PAMO",
+                "SAGBAJA/PAMO"
             ],
-            KAIAMA: [
+            "KAIAMA": [
                 "ADENA",
                 "BANI",
                 "GWANABE I",
@@ -7388,9 +7382,9 @@ exports.areas = [
                 "KAIAMA II",
                 "KAIAMA III",
                 "KEMANJI",
-                "WAJIBE",
+                "WAJIBE"
             ],
-            MORO: [
+            "MORO": [
                 "ABATI/ALARA",
                 "AJANAKU",
                 "AROBADI",
@@ -7407,9 +7401,9 @@ exports.areas = [
                 "OLOORU",
                 "PAKUNMO",
                 "SHAO",
-                "WOMI/AYAKI",
+                "WOMI/AYAKI"
             ],
-            OFFA: [
+            "OFFA": [
                 "BALOGUN",
                 "ESSA 'A'",
                 "ESSA 'B'",
@@ -7421,9 +7415,9 @@ exports.areas = [
                 "OJOMU SOUTH/EAST",
                 "SHAWO CENTRE",
                 "SHAWO SOUTH WEST",
-                "SHAWO SOUTH/EAST",
+                "SHAWO SOUTH/EAST"
             ],
-            OYUN: [
+            "OYUN": [
                 "ERIN NORTH",
                 "ERIN SOUTH",
                 "IGBONNA",
@@ -7434,9 +7428,9 @@ exports.areas = [
                 "INNAJA/AHOGBADA",
                 "IPEE",
                 "IRRA",
-                "OJOKU",
+                "OJOKU"
             ],
-            PATIGI: [
+            "PATIGI": [
                 "KPADA I",
                 "KPADA II",
                 "KPADA III",
@@ -7446,24 +7440,24 @@ exports.areas = [
                 "PATIGI I",
                 "PATIGI II",
                 "PATIGI III",
-                "PATIGI IV",
-            ],
-        },
+                "PATIGI IV"
+            ]
+        }
     },
     {
-        code: "LA",
-        name: "LAGOS",
-        lgas: [
+        "code": "LA",
+        "name": "LAGOS",
+        "lgas": [
             "AGEGE",
-            "AJEROMI IFELODUN",
+            "AJEROMI-IFELODUN",
             "ALIMOSHO",
-            "AMUWO ODOFIN",
+            "AMUWO-ODOFIN",
             "APAPA",
             "BADAGRY",
             "EPE",
-            "ETI OSA",
-            "IBEJU LEKKI",
-            "IFAKO IJAYE",
+            "ETI-OSA",
+            "IBEJU-LEKKI",
+            "IFAKO-IJAIYE",
             "IKEJA",
             "IKORODU",
             "KOSOFE",
@@ -7471,12 +7465,12 @@ exports.areas = [
             "LAGOS MAINLAND",
             "MUSHIN",
             "OJO",
-            "OSHODI ISOLO",
-            "SOMOLU",
-            "SURULERE",
+            "OSHODI-ISOLO",
+            "SHOMOLU",
+            "SURULERE"
         ],
-        subs: {
-            AGEGE: [
+        "subs": {
+            "AGEGE": [
                 "AGBOTIKUYO/DOPEMU",
                 "DAROCHA",
                 "ILORO/ONIPETESI",
@@ -7487,9 +7481,9 @@ exports.areas = [
                 "ONIWAYA/PAPA-UKU",
                 "ORILE AGEGE/OKO OBA",
                 "OYEWOLE/PAPA ASHAFA",
-                "TABON TABON/OKO OBA",
+                "TABON TABON/OKO OBA"
             ],
-            "AJEROMI IFELODUN": [
+            "AJEROMI-IFELODUN": [
                 "AGO-HAUSA",
                 "ALABA ORO",
                 "AWODI-ORA",
@@ -7500,9 +7494,9 @@ exports.areas = [
                 "TEMIDIRE I",
                 "TEMIDIRE II",
                 "TOLU",
-                "WILMER",
+                "WILMER"
             ],
-            ALIMOSHO: [
+            "ALIMOSHO": [
                 "ABULE-EGBA, ABORU, MEIRAN, ALAGBADO",
                 "AYOBO/IJON",
                 "EGBE/AGODO",
@@ -7513,9 +7507,9 @@ exports.areas = [
                 "IPAJA NORTH",
                 "IPAJA SOUTH",
                 "PLEASURE/OKE-ODO",
-                "SHASHA/AKOWONJO",
+                "SHASHA/AKOWONJO"
             ],
-            "AMUWO ODOFIN": [
+            "AMUWO-ODOFIN": [
                 "AMUWO",
                 "FESTAC I",
                 "FESTAC II",
@@ -7526,9 +7520,9 @@ exports.areas = [
                 "IJEGUN",
                 "IREDE",
                 "KIRIKIRI",
-                "SATELLITE",
+                "SATELLITE"
             ],
-            APAPA: [
+            "APAPA": [
                 "AFOLABI ALASIA & ENVIRONS",
                 "APAPA I ( MARINE ROAD & ENVIRONS)",
                 "APAPA II (LIVERPOOL ROAD & ENVIRONS)",
@@ -7538,9 +7532,9 @@ exports.areas = [
                 "IJORA OLOYE & ENVIRONS",
                 "MALU ROAD & ENVIRONS",
                 "OLODAN/OLOJOWON & ENVIRONS",
-                "SARI & ENVIRONS",
+                "SARI & ENVIRONS"
             ],
-            BADAGRY: [
+            "BADAGRY": [
                 "AJARA",
                 "AJIDO",
                 "APA",
@@ -7551,9 +7545,9 @@ exports.areas = [
                 "IWORO/GBANKO",
                 "IYAFIN",
                 "KETA-EAST",
-                "POSUKOH",
+                "POSUKOH"
             ],
-            EPE: [
+            "EPE": [
                 "ABOMITI",
                 "AGBOWA",
                 "AGBOWA \\IKOSI",
@@ -7572,9 +7566,9 @@ exports.areas = [
                 "ORIBA/LADABA",
                 "ORUGBO",
                 "POKA",
-                "POPO-OBA",
+                "POPO-OBA"
             ],
-            "ETI OSA": [
+            "ETI-OSA": [
                 "ADDO/LANGBASA/BADORE",
                 "AJAH/SANGOTEDO",
                 "IKOYI I",
@@ -7584,9 +7578,9 @@ exports.areas = [
                 "LEKKI IKATE AND ENVIRONS",
                 "OBALENDE",
                 "VICTORIA ISLAND I",
-                "VICTORIA ISLAND II",
+                "VICTORIA ISLAND II"
             ],
-            "IBEJU LEKKI": [
+            "IBEJU-LEKKI": [
                 "IBEJI I",
                 "IBEJU II",
                 "IWEREKUN I",
@@ -7597,9 +7591,9 @@ exports.areas = [
                 "ORIMEDU II",
                 "ORIMEDU III",
                 "SIRIWON/IGBEKODO I",
-                "SIRIWON/IGBEKODO II",
+                "SIRIWON/IGBEKODO II"
             ],
-            "IFAKO IJAYE": [
+            "IFAKO-IJAIYE": [
                 "AJEGUNLE/AKINDE/ ANIMASHAUN",
                 "ALAKUKO/KOLLINTON",
                 "FAGBA/AKUTE",
@@ -7610,9 +7604,9 @@ exports.areas = [
                 "IJU OBAWOLE",
                 "NEW IFAKO/OYEMEKUN",
                 "OLD IFAKO/KARAOLE",
-                "PANADA/ABULE EGBA",
+                "PANADA/ABULE EGBA"
             ],
-            IKEJA: [
+            "IKEJA": [
                 "ADEKUNLE VILL./ADENIYI JONES/OGBA",
                 "AIRPORT/ONIPETESI/ONILEKERE",
                 "ALAUSA/OREGUN/OLUSOSUN",
@@ -7622,9 +7616,9 @@ exports.areas = [
                 "OJODU/AGIDINGBI/OMOLE",
                 "OKE-IRA/AGUDA",
                 "ONIGBONGBO/MILITARY CANTONEMENT",
-                "WASIMI/OPEBI/ALLEN",
+                "WASIMI/OPEBI/ALLEN"
             ],
-            IKORODU: [
+            "IKORODU": [
                 "AGA/IJOMU",
                 "AGBALA",
                 "AGURA IPONMI",
@@ -7643,9 +7637,9 @@ exports.areas = [
                 "ISELE III",
                 "ISIU",
                 "ODOGUNYAN",
-                "OLORUNDA IGBAGA",
+                "OLORUNDA IGBAGA"
             ],
-            KOSOFE: [
+            "KOSOFE": [
                 "AGBOYI I",
                 "AGBOYI II",
                 "ANTHONY/MARYLAND",
@@ -7655,7 +7649,7 @@ exports.areas = [
                 "KETU/IKOSI",
                 "OJOTA/OGUDU",
                 "OWODE/AJEGUNLE",
-                "OWORONSHOKI",
+                "OWORONSHOKI"
             ],
             "LAGOS ISLAND": [
                 "AGARAWU/OBADINA",
@@ -7676,7 +7670,7 @@ exports.areas = [
                 "OLUWOLE",
                 "ONIKAN",
                 "POPO-AGUDA",
-                "SANDGROUSE",
+                "SANDGROUSE"
             ],
             "LAGOS MAINLAND": [
                 "ALAGOMEJI",
@@ -7689,9 +7683,9 @@ exports.areas = [
                 "OTTO/IDDO",
                 "OYADIRAN ESTATE/ABULE‐OJA",
                 "OYINGBO MARKET/EBUTE METTA",
-                "YABA/IGBOBI",
+                "YABA/IGBOBI"
             ],
-            MUSHIN: [
+            "MUSHIN": [
                 "ALAKARA",
                 "BABALOSA",
                 "BABALOSA/IDI ARABA",
@@ -7705,9 +7699,9 @@ exports.areas = [
                 "MUSHIN ATEWOLARA",
                 "OJUWOYE",
                 "OLATEJU",
-                "PAPA AJAO",
+                "PAPA AJAO"
             ],
-            OJO: [
+            "OJO": [
                 "AJANGBADI",
                 "ETEGBIN",
                 "IBA",
@@ -7718,9 +7712,9 @@ exports.areas = [
                 "OJO- TOWN",
                 "OKOKOMAIKO",
                 "SABO- ONIBA",
-                "TAFFI",
+                "TAFFI"
             ],
-            "OSHODI ISOLO": [
+            "OSHODI-ISOLO": [
                 "AJAO",
                 "EJIGBO",
                 "ILASAMAJA",
@@ -7731,9 +7725,9 @@ exports.areas = [
                 "OSHODI/ BOLADE",
                 "SHAGATEDO",
                 "SHOGUNLE",
-                "SHOGUNLE/ ALASIA",
+                "SHOGUNLE/ ALASIA"
             ],
-            SOMOLU: [
+            "SHOMOLU": [
                 "ABULE OKUTA",
                 "ALADE",
                 "BAJULAIYE",
@@ -7745,9 +7739,9 @@ exports.areas = [
                 "LADI-LAK",
                 "MAFOWOKU",
                 "ONIPANU",
-                "PALMGROVE",
+                "PALMGROVE"
             ],
-            SURULERE: [
+            "SURULERE": [
                 "ADENIRAN OGUNSANYA",
                 "AGUDA",
                 "AKINHANMI/COLE",
@@ -7759,14 +7753,14 @@ exports.areas = [
                 "ITIRE",
                 "ORILE",
                 "SHITTA/OGUNLANA",
-                "YABA/OJUELEGBA",
-            ],
-        },
+                "YABA/OJUELEGBA"
+            ]
+        }
     },
     {
-        code: "NA",
-        name: "NASARAWA",
-        lgas: [
+        "code": "NA",
+        "name": "NASARAWA",
+        "lgas": [
             "AKWANGA",
             "AWE",
             "DOMA",
@@ -7779,10 +7773,10 @@ exports.areas = [
             "NASARAWA EGGON",
             "OBI",
             "TOTO",
-            "WAMBA",
+            "WAMBA"
         ],
-        subs: {
-            AKWANGA: [
+        "subs": {
+            "AKWANGA": [
                 "AGYAGA",
                 "AKWANGA EAST",
                 "AKWANGA WEST",
@@ -7793,9 +7787,9 @@ exports.areas = [
                 "GWANJE",
                 "MOROA",
                 "NINGO/BOHAR",
-                "NUNKU",
+                "NUNKU"
             ],
-            AWE: [
+            "AWE": [
                 "AKIRI",
                 "AZARA",
                 "GALADIMA",
@@ -7805,9 +7799,9 @@ exports.areas = [
                 "MAKWANGIJI",
                 "RIBI",
                 "TUNGA",
-                "WUSE",
+                "WUSE"
             ],
-            DOMA: [
+            "DOMA": [
                 "AGBASHI",
                 "AKPANAJA",
                 "ALAGYE",
@@ -7817,9 +7811,9 @@ exports.areas = [
                 "MADAUCHI",
                 "RUKUBI",
                 "SABON GARI",
-                "SARKI DAWAKI",
+                "SARKI DAWAKI"
             ],
-            KARU: [
+            "KARU": [
                 "AGADA/BAGAJI",
                 "ASO/KODAPE",
                 "GITATA",
@@ -7830,9 +7824,9 @@ exports.areas = [
                 "KEFFIN SHANU/BETTI",
                 "PANDA/KARE",
                 "TATTARA/KONDORO",
-                "UKE",
+                "UKE"
             ],
-            KEANA: [
+            "KEANA": [
                 "AGAZA",
                 "ALOSHI",
                 "AMIRI",
@@ -7842,9 +7836,9 @@ exports.areas = [
                 "KWARA",
                 "MADAKI",
                 "OBENE",
-                "OKI",
+                "OKI"
             ],
-            KEFFI: [
+            "KEFFI": [
                 "ANG. RIMI",
                 "ANGWAN IYA I",
                 "ANGWAN IYA II",
@@ -7854,9 +7848,9 @@ exports.areas = [
                 "LIMAN ABAJI",
                 "SABON GARI",
                 "TUDUN KOFAR",
-                "YARA",
+                "YARA"
             ],
-            KOKONA: [
+            "KOKONA": [
                 "AGWADA",
                 "AMBA",
                 "BASSA",
@@ -7867,9 +7861,9 @@ exports.areas = [
                 "KOKONA",
                 "KOYA/KANA",
                 "NINKORO",
-                "YELWA",
+                "YELWA"
             ],
-            LAFIA: [
+            "LAFIA": [
                 "ADOGI",
                 "AGYARAGUN TOFA",
                 "ARIKYA",
@@ -7882,9 +7876,9 @@ exports.areas = [
                 "MAKAMA",
                 "SHABU/KWANDERE",
                 "WAKWA",
-                "ZANWA",
+                "ZANWA"
             ],
-            NASARAWA: [
+            "NASARAWA": [
                 "AKUM",
                 "ARA I",
                 "ARA II",
@@ -7899,7 +7893,7 @@ exports.areas = [
                 "ODU",
                 "TUNGA/BAKONO",
                 "UDENIN GIDA",
-                "UDENIN MAGAJI",
+                "UDENIN MAGAJI"
             ],
             "NASARAWA EGGON": [
                 "AGUNJI",
@@ -7915,9 +7909,9 @@ exports.areas = [
                 "NASARAWA EGGON",
                 "UBBE",
                 "UMME",
-                "WAKAMA",
+                "WAKAMA"
             ],
-            OBI: [
+            "OBI": [
                 "ADUDU",
                 "AGWATASHI",
                 "DEDDERE/RIRI",
@@ -7927,9 +7921,9 @@ exports.areas = [
                 "GWADANYE",
                 "KYAKALE",
                 "OBI",
-                "TUDUN ADABU",
+                "TUDUN ADABU"
             ],
-            TOTO: [
+            "TOTO": [
                 "BUGA KARMO",
                 "DAUSU",
                 "GADAGBA",
@@ -7941,9 +7935,9 @@ exports.areas = [
                 "SHEGE",
                 "TOTO",
                 "UGYA",
-                "UMAISHA",
+                "UMAISHA"
             ],
-            WAMBA: [
+            "WAMBA": [
                 "ARUM",
                 "GITTA",
                 "JIMIYA",
@@ -7953,14 +7947,14 @@ exports.areas = [
                 "NAKERE",
                 "WAMBA EAST",
                 "WAMBA WEST",
-                "WAYO",
-            ],
-        },
+                "WAYO"
+            ]
+        }
     },
     {
-        code: "NI",
-        name: "NIGER",
-        lgas: [
+        "code": "NI",
+        "name": "NIGER",
+        "lgas": [
             "AGAIE",
             "AGWARA",
             "BIDA",
@@ -7985,10 +7979,10 @@ exports.areas = [
             "SHIRORO",
             "SULEJA",
             "TAFA",
-            "WUSHISHI",
+            "WUSHISHI"
         ],
-        subs: {
-            AGAIE: [
+        "subs": {
+            "AGAIE": [
                 "BARO",
                 "BOKU",
                 "DAUACI",
@@ -7999,9 +7993,9 @@ exports.areas = [
                 "ETSUGAIE",
                 "KUTIRKO",
                 "MAGAJI",
-                "TAGAGI",
+                "TAGAGI"
             ],
-            AGWARA: [
+            "AGWARA": [
                 "ADEHE",
                 "AGWATA",
                 "BUSURU",
@@ -8011,9 +8005,9 @@ exports.areas = [
                 "MAGO",
                 "PAPIRI",
                 "ROFIA",
-                "SUTEKU",
+                "SUTEKU"
             ],
-            BIDA: [
+            "BIDA": [
                 "BARIKI",
                 "CENIYAN",
                 "DOKODZA",
@@ -8027,9 +8021,9 @@ exports.areas = [
                 "NASSARAFU",
                 "UMARU MAJIGI  I",
                 "UMARU MAJIGI  II",
-                "WADATA",
+                "WADATA"
             ],
-            BORGU: [
+            "BORGU": [
                 "BABANNA",
                 "DUGGA",
                 "KABE/PISSA",
@@ -8039,9 +8033,9 @@ exports.areas = [
                 "NEW BUSSA",
                 "RIVERINE",
                 "SHAGUNU",
-                "WAWA",
+                "WAWA"
             ],
-            BOSSO: [
+            "BOSSO": [
                 "BEJI",
                 "BOSSO CENTRAL  I",
                 "BOSSO CENTRAL  II",
@@ -8051,9 +8045,9 @@ exports.areas = [
                 "KODO",
                 "MAIKUNKELE",
                 "MAITUMBI",
-                "SHATA",
+                "SHATA"
             ],
-            CHANCHAGA: [
+            "CHANCHAGA": [
                 "LIMAWA 'A'",
                 "LIMAWA 'B'",
                 "MAKERA",
@@ -8064,9 +8058,9 @@ exports.areas = [
                 "NASSARAWA 'C'",
                 "SABONGARI",
                 "TUDUN WADA NORTH",
-                "TUDUN WADA SOUTH",
+                "TUDUN WADA SOUTH"
             ],
-            EDATTI: [
+            "EDATTI": [
                 "ENAGI",
                 "ETSU TASHA",
                 "FAZHI",
@@ -8076,9 +8070,9 @@ exports.areas = [
                 "GONAGI",
                 "GUZAN",
                 "ROKOTA",
-                "SAKPE",
+                "SAKPE"
             ],
-            GBAKO: [
+            "GBAKO": [
                 "BATAGI",
                 "BATAKO",
                 "EDOKOTA",
@@ -8088,9 +8082,9 @@ exports.areas = [
                 "GOGATA",
                 "LEMU",
                 "NUWANKOTA",
-                "SAMMAJIKO",
+                "SAMMAJIKO"
             ],
-            GURARA: [
+            "GURARA": [
                 "BONU",
                 "DIKO",
                 "GAWU",
@@ -8100,9 +8094,9 @@ exports.areas = [
                 "LAMBATA",
                 "LEFU",
                 "SHAKO",
-                "TUFA",
+                "TUFA"
             ],
-            KATCHA: [
+            "KATCHA": [
                 "BADEGGI",
                 "BAKEKO",
                 "BISANTI",
@@ -8112,9 +8106,9 @@ exports.areas = [
                 "GBAKOGI",
                 "KATCHA",
                 "KATEREGI",
-                "SIDI SABA",
+                "SIDI SABA"
             ],
-            KONTAGORA: [
+            "KONTAGORA": [
                 "AREWA",
                 "CENTRAL",
                 "GABAS",
@@ -8127,9 +8121,9 @@ exports.areas = [
                 "TUNGAN KAWO",
                 "TUNGAN WAWA",
                 "USALLE",
-                "YAMMA",
+                "YAMMA"
             ],
-            LAPAI: [
+            "LAPAI": [
                 "AREWA/YAMMA",
                 "BIRNIN MAZA/TASHIBO",
                 "EBBO/GBACINKU",
@@ -8139,9 +8133,9 @@ exports.areas = [
                 "GURDI/ZAGO",
                 "KUDU/GABAS",
                 "MUYE/EGBA",
-                "TAKUTI/SHAKU",
+                "TAKUTI/SHAKU"
             ],
-            LAVUN: [
+            "LAVUN": [
                 "BATATI",
                 "BUSU/KUCHI",
                 "DABBAN",
@@ -8153,9 +8147,9 @@ exports.areas = [
                 "KUSOTACHI",
                 "KUTIGI",
                 "LAGUN",
-                "MAMBE",
+                "MAMBE"
             ],
-            MAGAMA: [
+            "MAGAMA": [
                 "AUNA CENTRAL",
                 "AUNA EAST",
                 "AUNA EAST CENTRAL",
@@ -8166,9 +8160,9 @@ exports.areas = [
                 "IBELU NORTH",
                 "IBELU WEST",
                 "NASKO",
-                "NASSARAWA",
+                "NASSARAWA"
             ],
-            MARIGA: [
+            "MARIGA": [
                 "BANGI",
                 "BERI",
                 "BOBI",
@@ -8179,9 +8173,9 @@ exports.areas = [
                 "KAKIHUM",
                 "KOTONKORO",
                 "KUMBASHI",
-                "MABURYA",
+                "MABURYA"
             ],
-            MASHEGU: [
+            "MASHEGU": [
                 "BABBAN RAMI",
                 "DAPANGI/MAKERA",
                 "IBBI",
@@ -8191,9 +8185,9 @@ exports.areas = [
                 "KWATACHI",
                 "MASHEGU",
                 "MAZAKUKA/LIKORO",
-                "SAHO - RAMI",
+                "SAHO - RAMI"
             ],
-            MOKWA: [
+            "MOKWA": [
                 "BOKANI",
                 "GBAJIBO/MUWO",
                 "GBARA",
@@ -8204,9 +8198,9 @@ exports.areas = [
                 "LABOZHI",
                 "MOKWA",
                 "MUREGI",
-                "RABBA/NDAYAKO",
+                "RABBA/NDAYAKO"
             ],
-            MUNYA: [
+            "MUNYA": [
                 "BENI",
                 "DANDAUDU",
                 "DANGUNU",
@@ -8217,9 +8211,9 @@ exports.areas = [
                 "KABULA",
                 "KAZAI",
                 "KUCHI",
-                "SARKIN PAWA",
+                "SARKIN PAWA"
             ],
-            PAIKORO: [
+            "PAIKORO": [
                 "ADUNU",
                 "CHIMBI",
                 "GWAM",
@@ -8230,9 +8224,9 @@ exports.areas = [
                 "KWAKUTI",
                 "NIKUCHI T/MALLAM",
                 "PAIKO CENTRAL",
-                "TUTUNGO JEDNA",
+                "TUTUNGO JEDNA"
             ],
-            RAFI: [
+            "RAFI": [
                 "KAGARA GARI",
                 "KAKURI",
                 "KONGOMA CENTRAL",
@@ -8243,9 +8237,9 @@ exports.areas = [
                 "SABON GARI",
                 "TEGINA GARI",
                 "TEGINA WEST",
-                "YAKILA",
+                "YAKILA"
             ],
-            RIJAU: [
+            "RIJAU": [
                 "DANRANGI",
                 "DUGGE",
                 "DUKKU",
@@ -8256,9 +8250,9 @@ exports.areas = [
                 "T/BUNU",
                 "T/MAGAJIYA",
                 "USHE",
-                "WARARI",
+                "WARARI"
             ],
-            SHIRORO: [
+            "SHIRORO": [
                 "ALLAWA",
                 "BANGAJIYA",
                 "BASSA/KUKOKI",
@@ -8273,9 +8267,9 @@ exports.areas = [
                 "MANTA",
                 "PINA",
                 "SHE",
-                "UBANDOMA",
+                "UBANDOMA"
             ],
-            SULEJA: [
+            "SULEJA": [
                 "BAGAMA 'A'",
                 "BAGAMA 'B'",
                 "HASHIMI  'A'",
@@ -8285,9 +8279,9 @@ exports.areas = [
                 "KURMIN SARKI",
                 "MAGAJIYA",
                 "MAJE NORTH",
-                "WAMBAI",
+                "WAMBAI"
             ],
-            TAFA: [
+            "TAFA": [
                 "DOGON KURMI",
                 "GARAM",
                 "IJA GWARI",
@@ -8297,9 +8291,9 @@ exports.areas = [
                 "WUSE EAST",
                 "WUSE WEST",
                 "ZUMA EAST",
-                "ZUMA WEST",
+                "ZUMA WEST"
             ],
-            WUSHISHI: [
+            "WUSHISHI": [
                 "AKARE",
                 "BARWA",
                 "GWARJIKO",
@@ -8310,14 +8304,14 @@ exports.areas = [
                 "MAITO",
                 "SABON GARI",
                 "TUKUNJI/YEMIGI",
-                "ZUNGERU",
-            ],
-        },
+                "ZUNGERU"
+            ]
+        }
     },
     {
-        code: "OG",
-        name: "OGUN",
-        lgas: [
+        "code": "OG",
+        "name": "OGUN",
+        "lgas": [
             "ABEOKUTA NORTH",
             "ABEOKUTA SOUTH",
             "ADO ODO OTA",
@@ -8337,9 +8331,9 @@ exports.areas = [
             "ODOGBOLU",
             "OGUN WATERSIDE",
             "REMO NORTH",
-            "SAGAMU",
+            "SAGAMU"
         ],
-        subs: {
+        "subs": {
             "ABEOKUTA NORTH": [
                 "AGO OKO",
                 "ELEGA",
@@ -8356,7 +8350,7 @@ exports.areas = [
                 "OKE AGO OWU",
                 "OLORUNDA / IJALE",
                 "SABO",
-                "TOTORO / SOKORI",
+                "TOTORO / SOKORI"
             ],
             "ABEOKUTA SOUTH": [
                 "AGO EGUN/IJESA",
@@ -8373,7 +8367,7 @@ exports.areas = [
                 "ITOKO",
                 "KEESI/EMERE",
                 "SODEKE/ISALE IJEUN I",
-                "SODEKE/ISALE IJEUN II",
+                "SODEKE/ISALE IJEUN II"
             ],
             "ADO ODO OTA": [
                 "ADO I",
@@ -8391,7 +8385,7 @@ exports.areas = [
                 "OTA I",
                 "OTA II",
                 "OTA III",
-                "SANGO",
+                "SANGO"
             ],
             "EGBADO NORTH": [
                 "AYETORO I",
@@ -8404,7 +8398,7 @@ exports.areas = [
                 "IJOUN",
                 "IMASAI",
                 "OHUNBE",
-                "SUNWA",
+                "SUNWA"
             ],
             "EGBADO SOUTH": [
                 "AJILETE",
@@ -8416,21 +8410,21 @@ exports.areas = [
                 "IWOYE",
                 "OKE-ODAN",
                 "OWODE I",
-                "OWODE II",
+                "OWODE II"
             ],
-            EWEKORO: [
-                '"ARIGBAJO "',
-                '"ASA/YOBO "',
-                '"ELERE/ONIGBEDU "',
-                '"ITORI "',
-                '"MOSAN "',
-                '"PAPALANTO "',
-                '"WASIMI "',
+            "EWEKORO": [
+                "\"ARIGBAJO \"",
+                "\"ASA/YOBO \"",
+                "\"ELERE/ONIGBEDU \"",
+                "\"ITORI \"",
+                "\"MOSAN \"",
+                "\"PAPALANTO \"",
+                "\"WASIMI \"",
                 "ABALABI",
                 "OBADA-OKO",
-                "OWOWO",
+                "OWOWO"
             ],
-            IFO: [
+            "IFO": [
                 "AGBADO",
                 "AJUWON /AKUTE",
                 "COKER",
@@ -8441,7 +8435,7 @@ exports.areas = [
                 "ISERI/OJODU",
                 "OKE ARO /IBARAGUN",
                 "OSOSUN",
-                "SUNREN",
+                "SUNREN"
             ],
             "IJEBU EAST": [
                 "AJEBANDELE",
@@ -8453,7 +8447,7 @@ exports.areas = [
                 "IMOBI II",
                 "ITELE",
                 "OGBERE",
-                "OWU",
+                "OWU"
             ],
             "IJEBU NORTH": [
                 "AGO-IWOYE I",
@@ -8466,7 +8460,7 @@ exports.areas = [
                 "OKE-SOPEN",
                 "OMEN",
                 "ORU-AWA/ILAPORU",
-                "OSUN",
+                "OSUN"
             ],
             "IJEBU NORTH EAST": [
                 "ATAN/ IMUKU",
@@ -8478,7 +8472,7 @@ exports.areas = [
                 "ODOSENLU",
                 "ODOSIMADEGUN/ ODOSENBORA",
                 "OJU ONA",
-                "OKE ERI/ OGBOGBO",
+                "OKE ERI/ OGBOGBO"
             ],
             "IJEBU ODE": [
                 "IJADA-IMEPE I",
@@ -8491,9 +8485,9 @@ exports.areas = [
                 "ODO-EGBO OLIWORO",
                 "ODO-ESA",
                 "POROGUN I",
-                "POROGUN II",
+                "POROGUN II"
             ],
-            IKENNE: [
+            "IKENNE": [
                 "IKENNE I",
                 "IKENNE II",
                 "ILISAN I",
@@ -8503,7 +8497,7 @@ exports.areas = [
                 "IPERU II",
                 "IPERU III",
                 "OGERE I",
-                "OGERE II",
+                "OGERE II"
             ],
             "IMEKO AFON": [
                 "AFON",
@@ -8515,9 +8509,9 @@ exports.areas = [
                 "IWOYE/JABATA",
                 "KAJOLA/AGBERIODO",
                 "OKE AGBEDE",
-                "OWODE/IDIAYIN",
+                "OWODE/IDIAYIN"
             ],
-            IPOKIA: [
+            "IPOKIA": [
                 "AGADA",
                 "AGOSASA",
                 "AJEGUNLE",
@@ -8529,7 +8523,7 @@ exports.areas = [
                 "IPOKIA  II",
                 "MAUN  I",
                 "MAUN  II",
-                "TUBE",
+                "TUBE"
             ],
             "OBAFEMI OWODE": [
                 "AJEBO",
@@ -8543,9 +8537,9 @@ exports.areas = [
                 "OBAFEMI",
                 "OFADA",
                 "ONIDUNDU",
-                "OWODE",
+                "OWODE"
             ],
-            ODEDA: [
+            "ODEDA": [
                 "ALABATA",
                 "ALAGBAGBA",
                 "BALOGUN ITESI",
@@ -8555,9 +8549,9 @@ exports.areas = [
                 "ODEDA",
                 "OLODO",
                 "OPEJI",
-                "OSIELE",
+                "OSIELE"
             ],
-            ODOGBOLU: [
+            "ODOGBOLU": [
                 "AIYEPE",
                 "ALA",
                 "IBEFUN",
@@ -8572,7 +8566,7 @@ exports.areas = [
                 "OGBO MORAIKA ITA EPO I",
                 "OKUN- OWA",
                 "OMU",
-                "OSOSA",
+                "OSOSA"
             ],
             "OGUN WATERSIDE": [
                 "ABIGI",
@@ -8584,7 +8578,7 @@ exports.areas = [
                 "LUKOGBE/ILUSHIN",
                 "MAKUN/IROKUN",
                 "ODE OMI",
-                "ONI",
+                "ONI"
             ],
             "REMO NORTH": [
                 "AIYEGBAMI",
@@ -8596,9 +8590,9 @@ exports.areas = [
                 "ODE I",
                 "ODE II",
                 "ODOFIN/IMAGBON/PETEKU/ DAWA",
-                "ORILE-OKO",
+                "ORILE-OKO"
             ],
-            SAGAMU: [
+            "SAGAMU": [
                 "AGBOWA",
                 "AYEGBAMI / IJOKUN",
                 "IBIDO /ITUNLA / ALARA",
@@ -8613,14 +8607,14 @@ exports.areas = [
                 "SABO  I",
                 "SABO  II",
                 "SIMAWA / IWELEPE",
-                "SURULERE",
-            ],
-        },
+                "SURULERE"
+            ]
+        }
     },
     {
-        code: "ON",
-        name: "ONDO",
-        lgas: [
+        "code": "ON",
+        "name": "ONDO",
+        "lgas": [
             "AKOKO NORTH EAST",
             "AKOKO NORTH WEST",
             "AKOKO SOUTH EAST",
@@ -8638,9 +8632,9 @@ exports.areas = [
             "ONDO EAST",
             "ONDO WEST",
             "OSE",
-            "OWO",
+            "OWO"
         ],
-        subs: {
+        "subs": {
             "AKOKO NORTH EAST": [
                 "EDO",
                 "EKAN",
@@ -8654,7 +8648,7 @@ exports.areas = [
                 "IYOMETA II",
                 "OORUN I",
                 "OORUN II",
-                "OYINMO",
+                "OYINMO"
             ],
             "AKOKO NORTH WEST": [
                 "AJOWA",
@@ -8666,7 +8660,7 @@ exports.areas = [
                 "OGBAGI",
                 "OKE IRUN",
                 "OKEAGBE",
-                "OYIN/OGE",
+                "OYIN/OGE"
             ],
             "AKOKO SOUTH EAST": [
                 "EPINMI I",
@@ -8679,7 +8673,7 @@ exports.areas = [
                 "ISUA II",
                 "ISUA III",
                 "ISUA IV",
-                "SOSAN",
+                "SOSAN"
             ],
             "AKOKO SOUTH WEST": [
                 "AKUNGBA I",
@@ -8696,7 +8690,7 @@ exports.areas = [
                 "OKA VA OWALUSI",
                 "OKA VB OKA ODO",
                 "SUPARE I",
-                "SUPARE II",
+                "SUPARE II"
             ],
             "AKURE NORTH": [
                 "AGAMO /OKE OORE",
@@ -8710,7 +8704,7 @@ exports.areas = [
                 "OBA -ILE",
                 "ODO -OJA/IJIGBO",
                 "OKE AFA/OWODE",
-                "OKE IJU",
+                "OKE IJU"
             ],
             "AKURE SOUTH": [
                 "APONMU",
@@ -8723,7 +8717,7 @@ exports.areas = [
                 "OKE ARO / URO I",
                 "OKE ARO / URO II",
                 "OSHODI / ISOLO",
-                "OWODE / IMUAGUN",
+                "OWODE / IMUAGUN"
             ],
             "ESE ODO": [
                 "APOI I",
@@ -8735,9 +8729,9 @@ exports.areas = [
                 "AROGBO II",
                 "AROGBO III",
                 "UKPARAMA I",
-                "UKPARAMA II",
+                "UKPARAMA II"
             ],
-            IDANRE: [
+            "IDANRE": [
                 "ALA ELEFOSAN",
                 "ALADE ATOSIN",
                 "IDALE LEMIKAN",
@@ -8747,9 +8741,9 @@ exports.areas = [
                 "ISALU EHINPETI",
                 "ISALU JIGBOKIN",
                 "OFOSU/ONISERE",
-                "OWENA/APONMULONA",
+                "OWENA/APONMULONA"
             ],
-            IFEDORE: [
+            "IFEDORE": [
                 "ERO/IBOJI/MARIWO",
                 "IGBARAOKE I",
                 "IGBARAOKE II",
@@ -8759,9 +8753,9 @@ exports.areas = [
                 "ILARA II",
                 "IPOGUN/IBULE",
                 "ISARUN/ERIGI",
-                "OBO/IKOTA/OLO-GBO",
+                "OBO/IKOTA/OLO-GBO"
             ],
-            ILAJE: [
+            "ILAJE": [
                 "AHERI",
                 "ETIKAN",
                 "MAHIN 1V",
@@ -8773,7 +8767,7 @@ exports.areas = [
                 "UGBO III",
                 "UGBO IV",
                 "UGBO V",
-                "UGBO V1",
+                "UGBO V1"
             ],
             "ILEOLUJI/OKEIGBO": [
                 "ILEOLUJI I",
@@ -8785,9 +8779,9 @@ exports.areas = [
                 "OKE-IGBO III",
                 "OKE-IGBOIV",
                 "OKEIGBO I",
-                "OKEIGBO II",
+                "OKEIGBO II"
             ],
-            IRELE: [
+            "IRELE": [
                 "AJAGBA I",
                 "AJAGBA II",
                 "AKOTOGBO I",
@@ -8797,9 +8791,9 @@ exports.areas = [
                 "IRELE III",
                 "IRELE IV",
                 "IRELE V",
-                "IYANSAN/OMI",
+                "IYANSAN/OMI"
             ],
-            ODIGBO: [
+            "ODIGBO": [
                 "AGBABU",
                 "AGO ALAYE",
                 "AJUE",
@@ -8810,9 +8804,9 @@ exports.areas = [
                 "ODIGBO",
                 "ONIPARAGA",
                 "ORE I",
-                "ORE II",
+                "ORE II"
             ],
-            OKITIPUPA: [
+            "OKITIPUPA": [
                 "AYEKA/IGBODIGO",
                 "ERINJE",
                 "IGBOTAKO  I",
@@ -8825,7 +8819,7 @@ exports.areas = [
                 "ODE AYE  I",
                 "ODE AYE  II",
                 "OKITIPUPA  I",
-                "OKITIPUPA  II",
+                "OKITIPUPA  II"
             ],
             "ONDO EAST": [
                 "ASANTAN OJA",
@@ -8837,7 +8831,7 @@ exports.areas = [
                 "OBOTO",
                 "ORISUMIBARE",
                 "OWENA",
-                "TEPO",
+                "TEPO"
             ],
             "ONDO WEST": [
                 "ENU OWA/OBALALU",
@@ -8851,9 +8845,9 @@ exports.areas = [
                 "OKE AGUNLA/OKEROWO/ OKEKUTA",
                 "OKE OTUNBA/OKEDIBO/ SOKOTI",
                 "OKELISA/OKEDIBO/OGBODU",
-                "ORISUNMIBARE/ARAROMI",
+                "ORISUNMIBARE/ARAROMI"
             ],
-            OSE: [
+            "OSE": [
                 "AFO",
                 "IDOANI I",
                 "IDOANI II",
@@ -8865,9 +8859,9 @@ exports.areas = [
                 "IMERI",
                 "IMORU ARIMOGIJA",
                 "OKELUSE",
-                "UTE",
+                "UTE"
             ],
-            OWO: [
+            "OWO": [
                 "EHINGBE",
                 "IGBOROKO I",
                 "IGBOROKO II",
@@ -8878,14 +8872,14 @@ exports.areas = [
                 "ISAIPEN",
                 "ISUADA",
                 "IYERE",
-                "USO/EMURE",
-            ],
-        },
+                "USO/EMURE"
+            ]
+        }
     },
     {
-        code: "OS",
-        name: "OSUN",
-        lgas: [
+        "code": "OS",
+        "name": "OSUN",
+        "lgas": [
             "ATAKUMOSA EAST",
             "ATAKUMOSA WEST",
             "AYEDAADE",
@@ -8915,9 +8909,9 @@ exports.areas = [
             "OLORUNDA",
             "ORIADE",
             "OROLU",
-            "OSOGBO",
+            "OSOGBO"
         ],
-        subs: {
+        "subs": {
             "ATAKUMOSA EAST": [
                 "AJEBANDELE",
                 "AYEGUNLE",
@@ -8928,7 +8922,7 @@ exports.areas = [
                 "IGANGAN",
                 "IPERINDO",
                 "IPOLE",
-                "IWARA",
+                "IWARA"
             ],
             "ATAKUMOSA WEST": [
                 "IBODI",
@@ -8941,9 +8935,9 @@ exports.areas = [
                 "OKE-BODE",
                 "OSU I",
                 "OSU II",
-                "OSU III",
+                "OSU III"
             ],
-            AYEDAADE: [
+            "AYEDAADE": [
                 "ANLUGBUA",
                 "ARAROMI OWU",
                 "BALOGUN",
@@ -8954,9 +8948,9 @@ exports.areas = [
                 "ODEOMU RURAL",
                 "OLUFI",
                 "OTUN BALOGUN",
-                "OTUN OLUFI",
+                "OTUN OLUFI"
             ],
-            AYEDIRE: [
+            "AYEDIRE": [
                 "ILEOGBO 1",
                 "ILEOGBO II",
                 "ILEOGBO III",
@@ -8966,9 +8960,9 @@ exports.areas = [
                 "OKE OSUN",
                 "OLUPONNA I",
                 "OLUPONNA II",
-                "OLUPONNA III",
+                "OLUPONNA III"
             ],
-            BOLUWADURO: [
+            "BOLUWADURO": [
                 "ERIPA",
                 "GBELERU OBAALA I",
                 "GBELERU OBAALA II",
@@ -8978,9 +8972,9 @@ exports.areas = [
                 "OKE IRUN",
                 "OKE ODE OTAN",
                 "OKE OMI OTAN",
-                "OKE OTAN",
+                "OKE OTAN"
             ],
-            BORIPE: [
+            "BORIPE": [
                 "AAGBA",
                 "ADA I",
                 "ADA II",
@@ -8991,7 +8985,7 @@ exports.areas = [
                 "OKE AAREE",
                 "OKE ESA/OKE OGI",
                 "OLOTI",
-                "ORORUWO",
+                "ORORUWO"
             ],
             "EDE NORTH": [
                 "ABOGUNDE/SAGBA",
@@ -9004,7 +8998,7 @@ exports.areas = [
                 "OLOGUN/AGBAAKIN",
                 "OLUSOKUN",
                 "SABO/AGBONGBE I",
-                "SABO/AGBONGBE II",
+                "SABO/AGBONGBE II"
             ],
             "EDE SOUTH": [
                 "ALAJUE I",
@@ -9016,9 +9010,9 @@ exports.areas = [
                 "LOOGUN",
                 "OLODAN",
                 "OLOKI AKODA",
-                "SEKONA",
+                "SEKONA"
             ],
-            EGBEDORE: [
+            "EGBEDORE": [
                 "ARA I",
                 "ARA II",
                 "AWO/ABUDO",
@@ -9028,20 +9022,20 @@ exports.areas = [
                 "IRAGBERI II",
                 "IWOYE /IDOO/ ORIGBO",
                 "OJO /ARO",
-                "OKINNI/OFATEDO/ OLORUNSOGO",
+                "OKINNI/OFATEDO/ OLORUNSOGO"
             ],
-            EJIGBO: [
-                'ELEJIGBO "A"',
-                'ELEJIGBO "B"/OSOLO',
-                'ELEJIGBO "C"/MAPO',
-                'ELEJIGBO "D"',
+            "EJIGBO": [
+                "ELEJIGBO \"A\"",
+                "ELEJIGBO \"B\"/OSOLO",
+                "ELEJIGBO \"C\"/MAPO",
+                "ELEJIGBO \"D\"",
                 "ELEJIGBO/AYEGBOGBO",
-                'IFE ODAN "A"/,OWU ILE',
-                'IFE ODAN "B"/MASIFA',
+                "IFE ODAN \"A\"/,OWU ILE",
+                "IFE ODAN \"B\"/MASIFA",
                 "ILAWO/ISOKO/ISUNDUNRIN",
                 "INISA I/AATO/IGBON",
                 "INISA II/AFAAKE/AYEGUNLE",
-                "OLA/AAYE/AGURODO",
+                "OLA/AAYE/AGURODO"
             ],
             "IFE CENTRAL": [
                 "AKARABATA",
@@ -9054,7 +9048,7 @@ exports.areas = [
                 "IREMO III",
                 "IREMO IV",
                 "IREMO V",
-                "MOORE/OJAJA",
+                "MOORE/OJAJA"
             ],
             "IFE EAST": [
                 "ILODE I",
@@ -9066,7 +9060,7 @@ exports.areas = [
                 "OKEREWE I",
                 "OKEREWE II",
                 "OKEREWE III",
-                "YEKEMI",
+                "YEKEMI"
             ],
             "IFE NORTH": [
                 "ASIPA/AKINLALU",
@@ -9078,7 +9072,7 @@ exports.areas = [
                 "MORO",
                 "OYERE I",
                 "OYERE II",
-                "YAKOOYO",
+                "YAKOOYO"
             ],
             "IFE SOUTH": [
                 "AARE",
@@ -9091,9 +9085,9 @@ exports.areas = [
                 "MEFOWORADE",
                 "OKE OWENA",
                 "OLODE",
-                "OSI",
+                "OSI"
             ],
-            IFEDAYO: [
+            "IFEDAYO": [
                 "AKESIN",
                 "ASAONI",
                 "AWORO/ OKE ILA RURAL",
@@ -9103,9 +9097,9 @@ exports.areas = [
                 "ISINMI OLOOTU",
                 "OBAALE",
                 "OYI",
-                "TEMIDIRE",
+                "TEMIDIRE"
             ],
-            IFELODUN: [
+            "IFELODUN": [
                 "AMOLA IKIRUN",
                 "EESA IKIRUN",
                 "EKO ENDE/EKO AJALA",
@@ -9117,9 +9111,9 @@ exports.areas = [
                 "OKEBA IKIRUN",
                 "OLONDE IKIRUN",
                 "OWODE IKIRUN",
-                "STATION RD, IKIRUN",
+                "STATION RD, IKIRUN"
             ],
-            ILA: [
+            "ILA": [
                 "AJABA/EDEMOSI/ABA ORANGUN",
                 "EJIGBO I",
                 "EJIGBO II",
@@ -9130,7 +9124,7 @@ exports.areas = [
                 "ISEDO I",
                 "ISEDO II",
                 "OKE OLA",
-                "OKE-EDE",
+                "OKE-EDE"
             ],
             "ILESHA EAST": [
                 "BILADU",
@@ -9143,7 +9137,7 @@ exports.areas = [
                 "ISARE",
                 "ITISIN",
                 "OKESA",
-                "UPPER &LOWER IJOKA",
+                "UPPER &LOWER IJOKA"
             ],
             "ILESHA WEST": [
                 "AYESO",
@@ -9155,9 +9149,9 @@ exports.areas = [
                 "ITAKOGUN/UPPER EGBE-IDI",
                 "LOWER EGBE-IDI",
                 "OMOFE/IDASA",
-                "UPPER/LOWER IGBOGI",
+                "UPPER/LOWER IGBOGI"
             ],
-            IREPODUN: [
+            "IREPODUN": [
                 "BARA 'A'",
                 "BARA 'B'",
                 "ELERIN 'A'",
@@ -9168,9 +9162,9 @@ exports.areas = [
                 "OLOBU 'A'",
                 "OLOBU 'B'",
                 "OLOBU 'C'",
-                "OLOBU 'D'",
+                "OLOBU 'D'"
             ],
-            IREWOLE: [
+            "IREWOLE": [
                 "IKIRE 'A'",
                 "IKIRE 'B'",
                 "IKIRE 'C'",
@@ -9181,9 +9175,9 @@ exports.areas = [
                 "IKIRE 'H'",
                 "IKIRE 'I'",
                 "IKIRE 'J'",
-                "IKIRE 'K'",
+                "IKIRE 'K'"
             ],
-            ISOKAN: [
+            "ISOKAN": [
                 "ALAPOMU I",
                 "ALAPOMU II",
                 "ASALU IKOYI",
@@ -9194,9 +9188,9 @@ exports.areas = [
                 "OLUKOYI (OJA-OSUN)",
                 "OOSA ADIFA",
                 "OOSA IKOYI",
-                "ORANRAN",
+                "ORANRAN"
             ],
-            IWO: [
+            "IWO": [
                 "GIDIGBO I",
                 "GIDIGBO II",
                 "GIDIGBO III",
@@ -9211,9 +9205,9 @@ exports.areas = [
                 "OKE ADAN II",
                 "OKE ADAN III",
                 "OKE OBA I",
-                "OKE OBA II",
+                "OKE OBA II"
             ],
-            OBOKUN: [
+            "OBOKUN": [
                 "EESUN / IDOOKO",
                 "ESA-ODO",
                 "ESA-OKE",
@@ -9223,7 +9217,7 @@ exports.areas = [
                 "ILASE / IDOMINASI",
                 "IMESI-ILE",
                 "IPETU/ADA OWODE",
-                "OTAN-ILE",
+                "OTAN-ILE"
             ],
             "ODO OTIN": [
                 "ASI/ASABA",
@@ -9240,7 +9234,7 @@ exports.areas = [
                 "OLUKOTUN",
                 "OLUNISA",
                 "OORE/AGBEYE",
-                "OSOLO/OPARINOLA",
+                "OSOLO/OPARINOLA"
             ],
             "OLA OLUWA": [
                 "AJAGBA /IWO-OKE",
@@ -9252,9 +9246,9 @@ exports.areas = [
                 "OBAMORO /ILE-OGBO",
                 "OGBAAGBA I",
                 "OGBAAGBA II",
-                "TELEMU",
+                "TELEMU"
             ],
-            OLORUNDA: [
+            "OLORUNDA": [
                 "AGOWANDE",
                 "AKOGUN",
                 "ATELEWO",
@@ -9265,9 +9259,9 @@ exports.areas = [
                 "OBA-ILE",
                 "OWODE I",
                 "OWODE II",
-                "OWOOPE",
+                "OWOOPE"
             ],
-            ORIADE: [
+            "ORIADE": [
                 "APOTI/DAGBAJA",
                 "ERIN-JESA",
                 "ERIN-OKE",
@@ -9279,9 +9273,9 @@ exports.areas = [
                 "IPETU-IJESA I",
                 "IPETU-IJESA II",
                 "IRA",
-                "IWOYE-IJESA",
+                "IWOYE-IJESA"
             ],
-            OROLU: [
+            "OROLU": [
                 "OLUFON 'A'",
                 "OLUFON 'B'",
                 "OLUFON 'C'",
@@ -9291,9 +9285,9 @@ exports.areas = [
                 "OLUFON 'G'",
                 "OLUFON 'H'",
                 "OLUFON 'I'",
-                "OLUFON 'J'",
+                "OLUFON 'J'"
             ],
-            OSOGBO: [
+            "OSOGBO": [
                 "ALAGBAA",
                 "ARE AGO",
                 "ATAOJA 'A'",
@@ -9308,14 +9302,14 @@ exports.areas = [
                 "JAGUN 'B'",
                 "OTUN BALOGUN 'A'",
                 "OTUN JAGUN 'A'",
-                "OTUN JAGUN 'B'",
-            ],
-        },
+                "OTUN JAGUN 'B'"
+            ]
+        }
     },
     {
-        code: "OY",
-        name: "OYO",
-        lgas: [
+        "code": "OY",
+        "name": "OYO",
+        "lgas": [
             "AFIJIO",
             "AKINYELE",
             "ATIBA",
@@ -9348,10 +9342,10 @@ exports.areas = [
             "OYO WEST",
             "SAKI EAST",
             "SAKI WEST",
-            "SURULERE",
+            "SURULERE"
         ],
-        subs: {
-            AFIJIO: [
+        "subs": {
+            "AFIJIO": [
                 "AKINMORIN/JOBELE",
                 "AWE I",
                 "AWE II",
@@ -9361,9 +9355,9 @@ exports.areas = [
                 "ILORAL II",
                 "ILORAL III",
                 "IMINI",
-                "IWARE",
+                "IWARE"
             ],
-            AKINYELE: [
+            "AKINYELE": [
                 "AJIBADE/ALABATA/ELEKURU",
                 "AKINYELE/ISABIYI/IREPODUN",
                 "ARULOGUN/ENIOSA/ARORO",
@@ -9375,9 +9369,9 @@ exports.areas = [
                 "OJOO/AJIBODE/LANIBA",
                 "OLANLA/OBODA/LABODE",
                 "OLODE/AMOSUN/ONIDUNDU",
-                "OLORISA-OKO/OKEGBEMI/ MELE",
+                "OLORISA-OKO/OKEGBEMI/ MELE"
             ],
-            ATIBA: [
+            "ATIBA": [
                 "AGUNPOPO I",
                 "AGUNPOPO II",
                 "AGUNPOPO III",
@@ -9387,9 +9381,9 @@ exports.areas = [
                 "ASHIPA III",
                 "BASHORUN",
                 "OKE-AFIN I",
-                "OKE-AFIN II",
+                "OKE-AFIN II"
             ],
-            ATISBO: [
+            "ATISBO": [
                 "AGO-ARE I",
                 "AGO-ARE II",
                 "ALAGA",
@@ -9399,9 +9393,9 @@ exports.areas = [
                 "OFIKI",
                 "OWO/AGUNREGE/SABE",
                 "TEDE I",
-                "TEDE II",
+                "TEDE II"
             ],
-            EGBEDA: [
+            "EGBEDA": [
                 "AYEDE/ALUGBO KOLOKO",
                 "EGBEDA",
                 "ERUNMU",
@@ -9412,7 +9406,7 @@ exports.areas = [
                 "OLODO/KUMAPAYI I",
                 "OLUBADAN ESTATE",
                 "OSEGERE/AWAYE",
-                "OWOBAALE/KASUMU",
+                "OWOBAALE/KASUMU"
             ],
             "IBADAN NORTH": [
                 "WARD 1 N2",
@@ -9426,7 +9420,7 @@ exports.areas = [
                 "WARD VIII, N6A PARTY III",
                 "WARD X, N6B PARTY II",
                 "WARD XI, NW8",
-                "WARD XII, NW8",
+                "WARD XII, NW8"
             ],
             "IBADAN NORTH EAST": [
                 "WARD 1 EI",
@@ -9440,7 +9434,7 @@ exports.areas = [
                 "WARD VIII, E71",
                 "WARD X,  E8",
                 "WARD XI, E9I",
-                "WARD XII, E9II",
+                "WARD XII, E9II"
             ],
             "IBADAN NORTH WEST": [
                 "WARD 02 N1(PART 2)",
@@ -9453,7 +9447,7 @@ exports.areas = [
                 "WARD 09 NW6",
                 "WARD 1 N1(PART1)",
                 "WARD 10 NW7",
-                "WARD 11 NW7",
+                "WARD 11 NW7"
             ],
             "IBADAN SOUTH EAST": [
                 "C1",
@@ -9467,7 +9461,7 @@ exports.areas = [
                 "S6A",
                 "S6B",
                 "S7A",
-                "S7B",
+                "S7B"
             ],
             "IBADAN SOUTH WEST": [
                 "WARD 01 C1",
@@ -9481,7 +9475,7 @@ exports.areas = [
                 "WARD 09 SW8 (I)",
                 "WARD 10 SW8 (II)",
                 "WARD 11 SW9 (I)",
-                "WARD 12 SW9 (II)",
+                "WARD 12 SW9 (II)"
             ],
             "IBARAPA CENTRAL": [
                 "IBEREKODO (AGBOORO/ITA BAA)",
@@ -9493,7 +9487,7 @@ exports.areas = [
                 "IGBOLE/PAKO",
                 "ISALE OBA",
                 "OKESERIN I & II",
-                "OKO ODO",
+                "OKO ODO"
             ],
             "IBARAPA EAST": [
                 "ABORERIN",
@@ -9505,7 +9499,7 @@ exports.areas = [
                 "OKE OBA",
                 "OKE OTUN",
                 "OKE-IMALE",
-                "SANGO",
+                "SANGO"
             ],
             "IBARAPA NORTH": [
                 "AYETE I",
@@ -9517,9 +9511,9 @@ exports.areas = [
                 "OFIKI I",
                 "OFIKI II",
                 "TAPA I",
-                "TAPA II",
+                "TAPA II"
             ],
-            IDO: [
+            "IDO": [
                 "ABA EMO /ILAJU /ALAKO",
                 "AKINWARE/AKINDELE",
                 "AKUFO/IDIGBA/ARAROMI",
@@ -9529,9 +9523,9 @@ exports.areas = [
                 "FENWA/OGANLA/ELENUSONSO",
                 "IDO/ONIKEDE/OKUNA-AWO",
                 "OGUNDELE/ALAHO/SIBA/IDI- AHUN",
-                "OMI-ADIO/OMIONIGBAGBO/ BAKATARI",
+                "OMI-ADIO/OMIONIGBAGBO/ BAKATARI"
             ],
-            IREPO: [
+            "IREPO": [
                 "AGORO",
                 "AJAGUNNA",
                 "ATIPA",
@@ -9541,9 +9535,9 @@ exports.areas = [
                 "IBA IV",
                 "IBA V",
                 "IKOLABA",
-                "LAHA/AJANA",
+                "LAHA/AJANA"
             ],
-            ISEYIN: [
+            "ISEYIN": [
                 "ADO AWAYE",
                 "AKINWUMI/OSOOGO",
                 "EKUNLE I",
@@ -9554,9 +9548,9 @@ exports.areas = [
                 "ISALU II",
                 "KOSO I",
                 "KOSO II",
-                "LADOGAN",
+                "LADOGAN"
             ],
-            ITESIWAJU: [
+            "ITESIWAJU": [
                 "BABA ODE",
                 "IGBOJAIYE",
                 "IPAPO",
@@ -9566,9 +9560,9 @@ exports.areas = [
                 "OKE AMU",
                 "OTU I",
                 "OTU II",
-                "OWODE/IPAPO",
+                "OWODE/IPAPO"
             ],
-            IWAJOWA: [
+            "IWAJOWA": [
                 "AGBAAKIN I",
                 "AGBAAKIN II",
                 "IWERE-ILE  I",
@@ -9578,9 +9572,9 @@ exports.areas = [
                 "SABI-GANA I",
                 "SABI-GANA II",
                 "SABI-GANA III",
-                "SABI-GANA IV",
+                "SABI-GANA IV"
             ],
-            KAJOLA: [
+            "KAJOLA": [
                 "AYETORO-OKE",
                 "ELERO",
                 "GBELEKALE I&II",
@@ -9591,9 +9585,9 @@ exports.areas = [
                 "ISEMI-ILE/IMIA/ILUA",
                 "ISIA",
                 "KAJOLA",
-                "OLELE",
+                "OLELE"
             ],
-            LAGELU: [
+            "LAGELU": [
                 "AYETE I",
                 "AYETE II",
                 "IGANGAN I",
@@ -9607,7 +9601,7 @@ exports.areas = [
                 "SAGBE/PABIEKUN",
                 "TAPA I",
                 "TAPA II",
-                "UNITED NATION PRY SCH. OGUNREMI",
+                "UNITED NATION PRY SCH. OGUNREMI"
             ],
             "OGBOMOSHO NIORTH": [
                 "AAJE/ABOGUNDE",
@@ -9619,7 +9613,7 @@ exports.areas = [
                 "JAGUN",
                 "OKE ELERIN",
                 "OSUPA",
-                "SABO/TARA",
+                "SABO/TARA"
             ],
             "OGBOMOSHO SOUTH": [
                 "AKATA",
@@ -9631,7 +9625,7 @@ exports.areas = [
                 "ILOGBO",
                 "ISOKO",
                 "LAGBEDU",
-                "OKE OLA/FARM SETTLEMENT",
+                "OKE OLA/FARM SETTLEMENT"
             ],
             "OGO OLUWA": [
                 "AJAAWA I",
@@ -9643,9 +9637,9 @@ exports.areas = [
                 "MOWOLOWO/IWO-ATE",
                 "ODO-OBA",
                 "OPETE",
-                "OTAMOKUN",
+                "OTAMOKUN"
             ],
-            OLORUNSOGO: [
+            "OLORUNSOGO": [
                 "ABOKE (ABOYUNOGUN)",
                 "ELERUGBA/ELEHINKE/SAGBON (APERU)",
                 "IKOLABA/OBADIMO",
@@ -9655,9 +9649,9 @@ exports.areas = [
                 "OPA/OGUNNIYI",
                 "SERIKI I & ABOSIN (OKIN)",
                 "SERIKI II (AGBELE)",
-                "WARO /APATA-ALAJE",
+                "WARO /APATA-ALAJE"
             ],
-            OLUYOLE: [
+            "OLUYOLE": [
                 "ABANLA/OLUNDE",
                 "AYEGUN",
                 "IDI-IROKO/IKEREKU",
@@ -9667,7 +9661,7 @@ exports.areas = [
                 "OKANHINDE/LATUNDE",
                 "OLOMI/OLURINDE",
                 "ONIPE",
-                "ORISUNBARE/OJO-EKUN",
+                "ORISUNBARE/OJO-EKUN"
             ],
             "ONA ARA": [
                 "AKANRAN/OLORUNDA",
@@ -9680,9 +9674,9 @@ exports.areas = [
                 "OJOKU/AJIA",
                 "OLODE/GBEDUN/OJEBODE",
                 "OLORUNSOGO",
-                "OREMEJI/AGUGU",
+                "OREMEJI/AGUGU"
             ],
-            OORELOPE: [
+            "OORELOPE": [
                 "AARE",
                 "ALEPATA",
                 "BONNI",
@@ -9692,9 +9686,9 @@ exports.areas = [
                 "ONIBODE I",
                 "ONIBODE II",
                 "ONIBODE III",
-                "ONIGBOHO/ALOMO/OKERE",
+                "ONIGBOHO/ALOMO/OKERE"
             ],
-            ORIIRE: [
+            "ORIIRE": [
                 "ORIIRE I",
                 "ORIIRE II",
                 "ORIIRE III",
@@ -9704,7 +9698,7 @@ exports.areas = [
                 "ORIIRE VI",
                 "ORIIRE VII",
                 "ORIIRE VIII",
-                "ORIIRE X",
+                "ORIIRE X"
             ],
             "OYO EAST": [
                 "AGBOYE/MOLETE",
@@ -9716,7 +9710,7 @@ exports.areas = [
                 "JABATA",
                 "OKE APO",
                 "OLU AJO",
-                "OWODE/ARAROMI",
+                "OWODE/ARAROMI"
             ],
             "OYO WEST": [
                 "AJOKIDERU",
@@ -9728,7 +9722,7 @@ exports.areas = [
                 "IYAJI",
                 "OPAPA",
                 "OWODE",
-                "PAKOYI / IDODE",
+                "PAKOYI / IDODE"
             ],
             "SAKI EAST": [
                 "AGBONLE",
@@ -9741,7 +9735,7 @@ exports.areas = [
                 "SEPETERI I",
                 "SEPETERI II",
                 "SEPETERI III",
-                "SEPETERI IV",
+                "SEPETERI IV"
             ],
             "SAKI WEST": [
                 "AGANMU/KOOKO",
@@ -9754,9 +9748,9 @@ exports.areas = [
                 "OKERE I",
                 "OKERE II",
                 "SANGOTE/BOODA/BAABO/ ILUA",
-                "SEPETERI/BAPON",
+                "SEPETERI/BAPON"
             ],
-            SURULERE: [
+            "SURULERE": [
                 "AROLU",
                 "BAYAOJE",
                 "IGBON/GAMBARI",
@@ -9766,15 +9760,15 @@ exports.areas = [
                 "IRESAAPA",
                 "IWOFIN",
                 "MAYIN",
-                "OKO",
-            ],
-        },
+                "OKO"
+            ]
+        }
     },
     {
-        code: "PL",
-        name: "PLATEAU",
-        lgas: [
-            "BARKINLADI",
+        "code": "PL",
+        "name": "PLATEAU",
+        "lgas": [
+            "BARKIN LADI",
             "BASSA",
             "BOKKOS",
             "JOS EAST",
@@ -9782,18 +9776,18 @@ exports.areas = [
             "JOS SOUTH",
             "KANAM",
             "KANKE",
-            "LANTANG NORTH",
-            "LANTANG SOUTH",
+            "LANGTANG NORTH",
+            "LANGTANG SOUTH",
             "MANGU",
             "MIKANG",
             "PANKSHIN",
-            "QUAANPAN",
-            "RIYON",
+            "QUAAN PAN",
+            "RIYOM",
             "SHENDAM",
-            "WASE",
+            "WASE"
         ],
-        subs: {
-            BARKINLADI: [
+        "subs": {
+            "BARKIN LADI": [
                 "BARKIN LADI",
                 "GASSA/SHO",
                 "GINDIN AKWATI",
@@ -9804,9 +9798,9 @@ exports.areas = [
                 "MARIT/MAZAT",
                 "RAFAN",
                 "TAFAN",
-                "ZABOT",
+                "ZABOT"
             ],
-            BASSA: [
+            "BASSA": [
                 "BUHIT",
                 "BUJI",
                 "GABIA",
@@ -9822,9 +9816,9 @@ exports.areas = [
                 "TA'AGBE",
                 "TAHU",
                 "ZABOLO",
-                "ZOBWO",
+                "ZOBWO"
             ],
-            BOKKOS: [
+            "BOKKOS": [
                 "BOKKOS",
                 "BUTURA",
                 "DAFFO",
@@ -9838,7 +9832,7 @@ exports.areas = [
                 "RICHA",
                 "SHA",
                 "TANGUR",
-                "TOFF",
+                "TOFF"
             ],
             "JOS EAST": [
                 "FEDERE",
@@ -9850,7 +9844,7 @@ exports.areas = [
                 "MAI JUJU",
                 "SHERE EAST",
                 "SHERE WEST",
-                "ZANDI",
+                "ZANDI"
             ],
             "JOS NORTH": [
                 "ABBA NA SHEHU",
@@ -9866,7 +9860,7 @@ exports.areas = [
                 "SARKIN ARAB",
                 "TAFAWA BALEWA",
                 "TUDUN WADA KABONG",
-                "VANDERPUYE",
+                "VANDERPUYE"
             ],
             "JOS SOUTH": [
                 "BUKURU",
@@ -9880,9 +9874,9 @@ exports.areas = [
                 "TURU",
                 "VWANG",
                 "ZAWAN 'A",
-                "ZAWAN 'B'",
+                "ZAWAN 'B'"
             ],
-            KANAM: [
+            "KANAM": [
                 "BIRBYANG",
                 "DENGI",
                 "DUGUB",
@@ -9896,9 +9890,9 @@ exports.areas = [
                 "KANTANA",
                 "KUNKYAM",
                 "MUNBUTBO",
-                "NAMARAN",
+                "NAMARAN"
             ],
-            KANKE: [
+            "KANKE": [
                 "AMPANG EAST",
                 "AMPER CHIKA 'A'",
                 "AMPER CHIKA 'B'",
@@ -9908,9 +9902,9 @@ exports.areas = [
                 "KABWIR GYANGYANG",
                 "KABWIR PADA",
                 "LANGSHI",
-                "NEMEL",
+                "NEMEL"
             ],
-            "LANTANG NORTH": [
+            "LANGTANG NORTH": [
                 "FUNYALANG",
                 "JAT",
                 "KELLER",
@@ -9924,9 +9918,9 @@ exports.areas = [
                 "PILGANI",
                 "PISHE/YASHI",
                 "REAK",
-                "WAROH”",
+                "WAROH”"
             ],
-            "LANTANG SOUTH": [
+            "LANGTANG SOUTH": [
                 "DADIN KOWA",
                 "FAJUL",
                 "GAMAKAI",
@@ -9936,9 +9930,9 @@ exports.areas = [
                 "SABON GIDA",
                 "TALGWANG",
                 "TIMBOL",
-                "TURAKI",
+                "TURAKI"
             ],
-            MANGU: [
+            "MANGU": [
                 "AMPANG WEST",
                 "CHANSO",
                 "GINDIRI I",
@@ -9954,9 +9948,9 @@ exports.areas = [
                 "MANGU II",
                 "MANGUN",
                 "PANYAM",
-                "PUSHIT",
+                "PUSHIT"
             ],
-            MIKANG: [
+            "MIKANG": [
                 "BALTEP",
                 "GARKAWA CENTRAL",
                 "GARKAWA NORTH",
@@ -9966,9 +9960,9 @@ exports.areas = [
                 "LALIN",
                 "PIAPUNG 'A'",
                 "PIAPUNG 'B'",
-                "TUNKUS",
+                "TUNKUS"
             ],
-            PANKSHIN: [
+            "PANKSHIN": [
                 "BELNING",
                 "CHIGWONG",
                 "CHIP",
@@ -9980,9 +9974,9 @@ exports.areas = [
                 "LANKAN",
                 "PANKSHIN CENTRAL",
                 "TAL",
-                "WOKKOS",
+                "WOKKOS"
             ],
-            QUAANPAN: [
+            "QUAAN PAN": [
                 "BWALL",
                 "DOEMAK GOECHIM",
                 "DOEMAK KOPLONG",
@@ -9993,9 +9987,9 @@ exports.areas = [
                 "KWALLA YILA'AR",
                 "KWANDE",
                 "KWANG",
-                "NAMU",
+                "NAMU"
             ],
-            RIYON: [
+            "RIYOM": [
                 "ATTAKAR",
                 "BUM",
                 "DANTO",
@@ -10005,9 +9999,9 @@ exports.areas = [
                 "RIYOM",
                 "SARUBUTU",
                 "SOPP",
-                "TAHOSS",
+                "TAHOSS"
             ],
-            SHENDAM: [
+            "SHENDAM": [
                 "DERTENG",
                 "KALONG",
                 "KURUNGBOU A",
@@ -10018,9 +10012,9 @@ exports.areas = [
                 "SHENDAM A",
                 "SHENDAM B",
                 "SHIMANKAR",
-                "YELWA",
+                "YELWA"
             ],
-            WASE: [
+            "WASE": [
                 "BASHAR",
                 "DANBIRAM",
                 "GUDUS",
@@ -10032,20 +10026,20 @@ exports.areas = [
                 "NYALUM/ KAMPANI",
                 "SALUWE",
                 "WASE TOFA",
-                "YOLA WAKAT",
-            ],
-        },
+                "YOLA WAKAT"
+            ]
+        }
     },
     {
-        code: "RI",
-        name: "RIVERS",
-        lgas: [
+        "code": "RI",
+        "name": "RIVERS",
+        "lgas": [
             "ABUA/ODUAL",
             "AHOADA EAST",
             "AHOADA WEST",
-            "AKUKU TORU",
+            "AKUKU-TORU",
             "ANDONI",
-            "ASARI TORU",
+            "ASARI-TORU",
             "BONNY",
             "DEGEMA",
             "ELEME",
@@ -10054,17 +10048,17 @@ exports.areas = [
             "GOKANA",
             "IKWERRE",
             "KHANA",
-            "OBIO AKPOR",
-            "OGBA EGBEMA NDONI",
-            "OGU BOLO",
-            "OKIRIKA",
+            "OBIO/AKPOR",
+            "OGBA/EGBEMA/NDONI",
+            "OGU/BOLO",
+            "OKRIKA",
             "OMUMA",
-            "OPOBO NKORO",
+            "OPOBO/NKORO",
             "OYIGBO",
             "PORT HARCOURT",
-            "TAI",
+            "TAI"
         ],
-        subs: {
+        "subs": {
             "ABUA/ODUAL": [
                 "ABUA I",
                 "ABUA II",
@@ -10078,7 +10072,7 @@ exports.areas = [
                 "EMUGHAM I",
                 "EMUGHAM II",
                 "OKPEDEN",
-                "OTAPHA",
+                "OTAPHA"
             ],
             "AHOADA EAST": [
                 "AHOADA I",
@@ -10093,7 +10087,7 @@ exports.areas = [
                 "UPPATA III",
                 "UPPATA IV",
                 "UPPATA V",
-                "UPPATA VI",
+                "UPPATA VI"
             ],
             "AHOADA WEST": [
                 "EDIRO I",
@@ -10107,9 +10101,9 @@ exports.areas = [
                 "UBIE I",
                 "UBIE II",
                 "UBIE III",
-                "UBIE IV",
+                "UBIE IV"
             ],
-            "AKUKU TORU": [
+            "AKUKU-TORU": [
                 "ALISE GROUP",
                 "BRIGGS I",
                 "BRIGGS II",
@@ -10126,9 +10120,9 @@ exports.areas = [
                 "KULA I",
                 "KULA II",
                 "NORTH/SOUTH GROUP",
-                "OBONMA",
+                "OBONMA"
             ],
-            ANDONI: [
+            "ANDONI": [
                 "AGWUT OBOLO",
                 "ASARAMA",
                 "ATABA I",
@@ -10138,9 +10132,9 @@ exports.areas = [
                 "SAMANGA",
                 "UNYEADA I",
                 "UNYEADA II",
-                "UNYENGALA",
+                "UNYENGALA"
             ],
-            "ASARI TORU": [
+            "ASARI-TORU": [
                 "BUGUMA EAST I",
                 "BUGUMA EAST II",
                 "BUGUMA EAST WEST",
@@ -10153,9 +10147,9 @@ exports.areas = [
                 "BUGUMA WEST",
                 "ISIA GROUP I",
                 "ISIA GROUP II",
-                "WEST CENTRAL GROUP",
+                "WEST CENTRAL GROUP"
             ],
-            BONNY: [
+            "BONNY": [
                 "ABALAMABIE",
                 "COURT/ADA ALLISON",
                 "DAN JUMBO/BERESIRI",
@@ -10167,9 +10161,9 @@ exports.areas = [
                 "OLOMA/AYAMINIMA",
                 "ORO-IGWE",
                 "OROSIRIRI",
-                "PETERSIDE",
+                "PETERSIDE"
             ],
-            DEGEMA: [
+            "DEGEMA": [
                 "BAKANA I",
                 "BAKANA II",
                 "BAKANA III",
@@ -10186,9 +10180,9 @@ exports.areas = [
                 "TOMBIA I",
                 "TOMBIA II",
                 "TOMBIA III",
-                "TOMBIA IV",
+                "TOMBIA IV"
             ],
-            ELEME: [
+            "ELEME": [
                 "AGBONCHIA",
                 "AKPAJO",
                 "ALESA",
@@ -10198,9 +10192,9 @@ exports.areas = [
                 "EKPORO",
                 "ETEO",
                 "OGALE",
-                "ONNE",
+                "ONNE"
             ],
-            EMOHUA: [
+            "EMOHUA": [
                 "EGBEDA",
                 "ELELE - ALIMINI",
                 "EMOHUA I",
@@ -10214,9 +10208,9 @@ exports.areas = [
                 "OMUDIOGA/AKPAABU/ITU",
                 "RUMUEKPE",
                 "RUNDELE",
-                "UBIMINI",
+                "UBIMINI"
             ],
-            ETCHE: [
+            "ETCHE": [
                 "AFARA",
                 "AKPOKU/UMUOYE OKEHI",
                 "AKWA/ODAGWA",
@@ -10235,9 +10229,9 @@ exports.areas = [
                 "OKEHI",
                 "ORWU",
                 "OZUZU",
-                "ULAKWO",
+                "ULAKWO"
             ],
-            GOKANA: [
+            "GOKANA": [
                 "B-DERE",
                 "BERA",
                 "BIARA  II",
@@ -10254,9 +10248,9 @@ exports.areas = [
                 "MOGHO",
                 "NWEOL/GIOKO/BARAKO",
                 "YEGHE I",
-                "YEGHE II",
+                "YEGHE II"
             ],
-            IKWERRE: [
+            "IKWERRE": [
                 "ALUU",
                 "APANI",
                 "ELELE  I",
@@ -10269,9 +10263,9 @@ exports.areas = [
                 "OMEDEMI/IPO",
                 "OMERELU",
                 "OZUAHA",
-                "UMUANWA",
+                "UMUANWA"
             ],
-            KHANA: [
+            "KHANA": [
                 "BAEN/KPEAN/ DUBORO",
                 "BANE",
                 "BANGHA",
@@ -10290,9 +10284,9 @@ exports.areas = [
                 "TAABAA",
                 "UEGWERE",
                 "WIIYAKARA",
-                "ZAAKPON",
+                "ZAAKPON"
             ],
-            "OBIO AKPOR": [
+            "OBIO/AKPOR": [
                 "CHOBA",
                 "ELELENWO",
                 "ORO-IGWE",
@@ -10309,9 +10303,9 @@ exports.areas = [
                 "RUMUOKWUTA",
                 "RUMUOLUMENI",
                 "RUMUOMASI",
-                "WOJI",
+                "WOJI"
             ],
-            "OGBA EGBEMA NDONI": [
+            "OGBA/EGBEMA/NDONI": [
                 "EGBEMA I",
                 "EGBEMA II",
                 "EGI",
@@ -10327,9 +10321,9 @@ exports.areas = [
                 "OMOKU I (OBOSI)",
                 "OMOKU II (OBAKATA)",
                 "OMOKU III (OBOSI)",
-                "OMOKU IV (OBAKATA)",
+                "OMOKU IV (OBAKATA)"
             ],
-            "OGU BOLO": [
+            "OGU/BOLO": [
                 "BOLO I",
                 "BOLO II",
                 "BOLO III",
@@ -10341,9 +10335,9 @@ exports.areas = [
                 "OGU IV",
                 "OGU V",
                 "OGU VI",
-                "WAKAMA",
+                "WAKAMA"
             ],
-            OKIRIKA: [
+            "OKRIKA": [
                 "KALIO",
                 "OGAN",
                 "OGOLOMA I",
@@ -10354,9 +10348,9 @@ exports.areas = [
                 "OKRIKA II",
                 "OKRIKA III",
                 "OKRIKA IV",
-                "OKRIKA V",
+                "OKRIKA V"
             ],
-            OMUMA: [
+            "OMUMA": [
                 "ARIRANIIRI/OWU-AHIA COMMUNITY",
                 "EBERI-DIKEOMUUO COMMUNITY",
                 "OBIBI/AJULOKE COMMUNITY",
@@ -10366,9 +10360,9 @@ exports.areas = [
                 "OYORO",
                 "UMUAJULOKE COMMUNITY",
                 "UMUOGBA I COMMUNITY",
-                "UMUOGBA II COMMUNITY",
+                "UMUOGBA II COMMUNITY"
             ],
-            "OPOBO NKORO": [
+            "OPOBO/NKORO": [
                 "DAPPAYE AMA-KIRI I",
                 "DAPPAYE AMA-KIRI II",
                 "DIEPIRI",
@@ -10379,9 +10373,9 @@ exports.areas = [
                 "NKORO II",
                 "NKORO III",
                 "QUEEN'S TOWN, KAIAMA",
-                "UKONU",
+                "UKONU"
             ],
-            OYIGBO: [
+            "OYIGBO": [
                 "WARD 1",
                 "WARD 10",
                 "WARD 2",
@@ -10391,7 +10385,7 @@ exports.areas = [
                 "WARD 6",
                 "WARD 7",
                 "WARD 8",
-                "WARD 9",
+                "WARD 9"
             ],
             "PORT HARCOURT": [
                 "ABULOMA/AMADI-AMA",
@@ -10412,9 +10406,9 @@ exports.areas = [
                 "RUMUOIBEKWE",
                 "RUMUWOJI (ONE)",
                 "RUMUWOJI (THREE)",
-                "RUMUWOJI (TWO)",
+                "RUMUWOJI (TWO)"
             ],
-            TAI: [
+            "TAI": [
                 "BAN-OGOI",
                 "BOTEM/GBENEO",
                 "BUBU/BARA/KANI",
@@ -10424,14 +10418,14 @@ exports.areas = [
                 "KOROMA/HORO",
                 "KPITE",
                 "NNWA",
-                "OYIGBO WEST",
-            ],
-        },
+                "OYIGBO WEST"
+            ]
+        }
     },
     {
-        code: "SO",
-        name: "SOKOTO",
-        lgas: [
+        "code": "SO",
+        "name": "SOKOTO",
+        "lgas": [
             "BINJI",
             "BODINGA",
             "DANGE SHUNNI",
@@ -10454,10 +10448,10 @@ exports.areas = [
             "TURETA",
             "WAMAKKO",
             "WURNO",
-            "YABO",
+            "YABO"
         ],
-        subs: {
-            BINJI: [
+        "subs": {
+            "BINJI": [
                 "BINJI",
                 "BUNKARI",
                 "GAWAZZAI",
@@ -10467,9 +10461,9 @@ exports.areas = [
                 "SAMAMA",
                 "SORON GABAS",
                 "SORON YAMMA",
-                "TUDUN KOSE",
+                "TUDUN KOSE"
             ],
-            BODINGA: [
+            "BODINGA": [
                 "BADAU/DARHELA",
                 "BAGARAWA",
                 "BANGI/ DABAGA",
@@ -10480,7 +10474,7 @@ exports.areas = [
                 "MAZAN GARI/ KAURAN MIYO",
                 "SIFAWA/LUKUYAWA",
                 "TAKATUKU/MADORAWA",
-                "TUUWA/KULLAFASA",
+                "TUUWA/KULLAFASA"
             ],
             "DANGE SHUNNI": [
                 "BODAI/JURGA",
@@ -10493,9 +10487,9 @@ exports.areas = [
                 "SHUNI",
                 "TSAFANADE",
                 "TUNTUBE/TSEHE",
-                "WABABE/SALALU",
+                "WABABE/SALALU"
             ],
-            GADA: [
+            "GADA": [
                 "DUKAMAJE/ILLAH",
                 "GADA",
                 "GILBADI",
@@ -10506,9 +10500,9 @@ exports.areas = [
                 "KIRI",
                 "KWARMA",
                 "KYADAWA/HOLAI",
-                "TSITSE",
+                "TSITSE"
             ],
-            GORONYO: [
+            "GORONYO": [
                 "BIRJINGO",
                 "BOYEKAI",
                 "GIYAWA",
@@ -10519,9 +10513,9 @@ exports.areas = [
                 "RIMAWA",
                 "SABON G/DOLEDAN/TASAKKO",
                 "SHINAKA",
-                "TAKAKUME",
+                "TAKAKUME"
             ],
-            GUDU: [
+            "GUDU": [
                 "AWULKITI",
                 "BACHAKA",
                 "BALLE",
@@ -10531,9 +10525,9 @@ exports.areas = [
                 "KARFEN SARKI",
                 "KURDULA",
                 "MARAKEN BORI",
-                "TULLUN DOYA",
+                "TULLUN DOYA"
             ],
-            GWADABAWA: [
+            "GWADABAWA": [
                 "ASARA AREWA",
                 "ASARA KUDU",
                 "ATAKWANYO",
@@ -10544,9 +10538,9 @@ exports.areas = [
                 "GWADABAWA",
                 "HUCHI",
                 "MANMANDE",
-                "SALAME",
+                "SALAME"
             ],
-            ILLELA: [
+            "ILLELA": [
                 "ARABA",
                 "DAMBA",
                 "DARNA SABON GARI",
@@ -10557,9 +10551,9 @@ exports.areas = [
                 "ILLELA",
                 "KALMALO",
                 "RUNGUMAWAR GATTI",
-                "TOZAI",
+                "TOZAI"
             ],
-            ISA: [
+            "ISA": [
                 "BARGAJA",
                 "GEBE A",
                 "GEBE B",
@@ -10569,9 +10563,9 @@ exports.areas = [
                 "TOZAI",
                 "TSABREN S DARAI",
                 "TURBA",
-                "YARFAKO",
+                "YARFAKO"
             ],
-            KEBBE: [
+            "KEBBE": [
                 "FAKKU",
                 "GIRKAU",
                 "KEBBE EAST",
@@ -10581,9 +10575,9 @@ exports.areas = [
                 "MARGAI B",
                 "NASAGUDU",
                 "SANGI",
-                "UNGUSHI",
+                "UNGUSHI"
             ],
-            KWARE: [
+            "KWARE": [
                 "BANKANU",
                 "BASANSAN",
                 "DURBAWA",
@@ -10593,9 +10587,9 @@ exports.areas = [
                 "KABANGA",
                 "KWARE",
                 "S/BIRNI G. KARMA",
-                "TUNGA MALLAMAWA",
+                "TUNGA MALLAMAWA"
             ],
-            RABAH: [
+            "RABAH": [
                 "GANDI A",
                 "GANDI B",
                 "GAWAKUKE TOFA",
@@ -10606,7 +10600,7 @@ exports.areas = [
                 "RIJI MAIKUJERA",
                 "TSAMIYA",
                 "TURSA",
-                "YARTSAKUWA",
+                "YARTSAKUWA"
             ],
             "SABON BIRNI": [
                 "GANGARA",
@@ -10619,9 +10613,9 @@ exports.areas = [
                 "S/BIRNI WEST",
                 "TARA",
                 "TSAMAYE",
-                "UNGUWAR LALLE",
+                "UNGUWAR LALLE"
             ],
-            SHAGARI: [
+            "SHAGARI": [
                 "DANDIN MAHE",
                 "GAMGAM",
                 "HORO BIRNI",
@@ -10631,9 +10625,9 @@ exports.areas = [
                 "LAMBARA",
                 "MANDERA",
                 "SANYINNAWAL",
-                "SHAGARI",
+                "SHAGARI"
             ],
-            SILAME: [
+            "SILAME": [
                 "GANDE EAST",
                 "GANDE WEST",
                 "KATAMI NORTH",
@@ -10643,7 +10637,7 @@ exports.areas = [
                 "LABANI",
                 "MARAFA EAST",
                 "MARAFA WEST",
-                "SILAME",
+                "SILAME"
             ],
             "SOKOTO NORTH": [
                 "M/RAFI ‘A’",
@@ -10656,7 +10650,7 @@ exports.areas = [
                 "S/MUSULMI ‘B’",
                 "WAZIRI ‘A’",
                 "WAZIRI ‘B’",
-                "WAZIRI ‘C’",
+                "WAZIRI ‘C’"
             ],
             "SOKOTO SOUTH": [
                 "GAGI 'A'",
@@ -10669,9 +10663,9 @@ exports.areas = [
                 "SARKIN ZANFARA 'A'",
                 "SARKIN ZANFARA'B'",
                 "TUDUN WADA 'A'",
-                "TUDUN WADA'B'",
+                "TUDUN WADA'B'"
             ],
-            TAMBUWAL: [
+            "TAMBUWAL": [
                 "BAGIDA LUKINGO",
                 "BAKAYA SABON BIRNI",
                 "BARKEJI NABAGUDA",
@@ -10682,9 +10676,9 @@ exports.areas = [
                 "ROMON/SARKI",
                 "SAIDA GOSHE",
                 "SANYINNA",
-                "TAMBUWAL SHINFIRI",
+                "TAMBUWAL SHINFIRI"
             ],
-            TANGAZA: [
+            "TANGAZA": [
                 "GIDAN MADI",
                 "KALANJENI",
                 "KWACCEJURU",
@@ -10694,9 +10688,9 @@ exports.areas = [
                 "SAKKWAI",
                 "SALEWA",
                 "SUTTI",
-                "TANGAZA",
+                "TANGAZA"
             ],
-            TURETA: [
+            "TURETA": [
                 "BARAYAR GIWA",
                 "BIMASA G/KARE",
                 "DUMA",
@@ -10706,9 +10700,9 @@ exports.areas = [
                 "LAMBA TURETA",
                 "LOFA",
                 "TSAMIYA",
-                "TURETA GARI",
+                "TURETA GARI"
             ],
-            WAMAKKO: [
+            "WAMAKKO": [
                 "ARKILLA",
                 "BADO/KASARAWA",
                 "DUNDAYE/GUMBURAWA",
@@ -10719,9 +10713,9 @@ exports.areas = [
                 "KALAMBAINA/GIRABSHI",
                 "KAMMATA",
                 "KAURAR KIMBA GEDAWA",
-                "WAMAKKO",
+                "WAMAKKO"
             ],
-            WURNO: [
+            "WURNO": [
                 "ACHIDA",
                 "ALKAMMU/GYALGYAL",
                 "CHACHO/MARNNA",
@@ -10732,9 +10726,9 @@ exports.areas = [
                 "KWASARE/SISAWA",
                 "LAHODU/GIDAN BANGO",
                 "MAGARYA",
-                "MARAFA",
+                "MARAFA"
             ],
-            YABO: [
+            "YABO": [
                 "__",
                 "B/RUWA",
                 "BENGAJE",
@@ -10744,14 +10738,14 @@ exports.areas = [
                 "RUGGAR IYA",
                 "TORANKAWA",
                 "YABO 'A'",
-                "YABO 'B'",
-            ],
-        },
+                "YABO 'B'"
+            ]
+        }
     },
     {
-        code: "TA",
-        name: "TARABA",
-        lgas: [
+        "code": "TA",
+        "name": "TARABA",
+        "lgas": [
             "ARDO KOLA",
             "BALI",
             "DONGA",
@@ -10767,9 +10761,9 @@ exports.areas = [
             "USSA",
             "WUKARI",
             "YORRO",
-            "ZING",
+            "ZING"
         ],
-        subs: {
+        "subs": {
             "ARDO KOLA": [
                 "ALIM GORA",
                 "ARDO KOLA",
@@ -10780,9 +10774,9 @@ exports.areas = [
                 "SARKIN DUTSE",
                 "SUNKANI",
                 "TAU",
-                "ZANGON KOMBI",
+                "ZANGON KOMBI"
             ],
-            BALI: [
+            "BALI": [
                 "BADAKOSHI",
                 "BALI ' A'",
                 "BALI 'B'",
@@ -10793,9 +10787,9 @@ exports.areas = [
                 "KAIGAMA",
                 "MAIHULA",
                 "SUNTAI",
-                "TAKALAFIYA",
+                "TAKALAFIYA"
             ],
-            DONGA: [
+            "DONGA": [
                 "AKATE",
                 "ASIBITI",
                 "BIKADARKO",
@@ -10805,9 +10799,9 @@ exports.areas = [
                 "GYATTA AURE",
                 "MARARABA",
                 "NYITA",
-                "SUNTAI",
+                "SUNTAI"
             ],
-            GASHAKA: [
+            "GASHAKA": [
                 "GALUMJINA",
                 "GANGUMI",
                 "GARBABI",
@@ -10817,9 +10811,9 @@ exports.areas = [
                 "MAI-IDANU",
                 "MAYO SELBE",
                 "SERTI 'A'",
-                "SERTI 'B'",
+                "SERTI 'B'"
             ],
-            GASSOL: [
+            "GASSOL": [
                 "GASSOL",
                 "GUNDUMA",
                 "MUTUM BIYU I",
@@ -10831,9 +10825,9 @@ exports.areas = [
                 "TUTARE",
                 "WUROJAM",
                 "WURYO",
-                "YARIMA",
+                "YARIMA"
             ],
-            IBI: [
+            "IBI": [
                 "DAMPAR I",
                 "DAMPAR II",
                 "DAMPAR III",
@@ -10843,9 +10837,9 @@ exports.areas = [
                 "RIMI UKU II",
                 "SARKIN KUDU I",
                 "SARKIN KUDU II",
-                "SARKIN KUDU III",
+                "SARKIN KUDU III"
             ],
-            JALINGO: [
+            "JALINGO": [
                 "ABBARE YELWA",
                 "BARADE",
                 "KACHALLA SEMBE",
@@ -10855,7 +10849,7 @@ exports.areas = [
                 "SARKIN DAWAKI",
                 "SINTALI",
                 "TURAKI 'A'",
-                "TURAKI 'B'",
+                "TURAKI 'B'"
             ],
             "KARIM LAMIDO": [
                 "AMAR",
@@ -10868,9 +10862,9 @@ exports.areas = [
                 "JEN KAIGAMA",
                 "KARIM A",
                 "KARIM B",
-                "KWANCHI",
+                "KWANCHI"
             ],
-            KURMI: [
+            "KURMI": [
                 "ABONG",
                 "AKWENTO/BOKO",
                 "ASHUKU/ENEME",
@@ -10880,9 +10874,9 @@ exports.areas = [
                 "DIDAN",
                 "NDAFORO/GENDA",
                 "NJUWANDE",
-                "NYIDO/TOSSO",
+                "NYIDO/TOSSO"
             ],
-            LAU: [
+            "LAU": [
                 "ABBARE I",
                 "ABBARE II",
                 "DONADDA",
@@ -10892,9 +10886,9 @@ exports.areas = [
                 "KUNINI",
                 "LAU I",
                 "LAU II",
-                "MAYO LOPE",
+                "MAYO LOPE"
             ],
-            SARDAUNA: [
+            "SARDAUNA": [
                 "GEMBU A",
                 "GEMBU B",
                 "KABRI",
@@ -10905,9 +10899,9 @@ exports.areas = [
                 "NDUMI-YAJI",
                 "NGUROJE",
                 "TITONG",
-                "WARWAR",
+                "WARWAR"
             ],
-            TAKUM: [
+            "TAKUM": [
                 "BETE",
                 "BIKASHIMBILA",
                 "CHACHANJI",
@@ -10918,9 +10912,9 @@ exports.areas = [
                 "ROGO",
                 "SHIBONG",
                 "TIKARI",
-                "YUKUBEN",
+                "YUKUBEN"
             ],
-            USSA: [
+            "USSA": [
                 "BIKA",
                 "FIKYU",
                 "JENUWA GIDA",
@@ -10931,9 +10925,9 @@ exports.areas = [
                 "LISSAM I",
                 "LISSAM II",
                 "LUMBU",
-                "RUFU",
+                "RUFU"
             ],
-            WUKARI: [
+            "WUKARI": [
                 "AKWANA",
                 "AVYI",
                 "BANTAJE",
@@ -10943,9 +10937,9 @@ exports.areas = [
                 "KENTE",
                 "PUJE",
                 "RAFIN KADA",
-                "TSOKUNBI",
+                "TSOKUNBI"
             ],
-            YORRO: [
+            "YORRO": [
                 "BIKASSA I",
                 "BIKASSA II",
                 "NYAJA I",
@@ -10956,9 +10950,9 @@ exports.areas = [
                 "PUPULE II",
                 "PUPULE III",
                 "SUMBU I",
-                "SUMBU II",
+                "SUMBU II"
             ],
-            ZING: [
+            "ZING": [
                 "BITAKO",
                 "BUBONG",
                 "DINDING",
@@ -10968,14 +10962,14 @@ exports.areas = [
                 "YAKOKO",
                 "ZING (AI)",
                 "ZING (AII)",
-                "ZING B",
-            ],
-        },
+                "ZING B"
+            ]
+        }
     },
     {
-        code: "YO",
-        name: "YOBE",
-        lgas: [
+        "code": "YO",
+        "name": "YOBE",
+        "lgas": [
             "BADE",
             "BURSARI",
             "DAMATURU",
@@ -10992,10 +10986,10 @@ exports.areas = [
             "POTISKUM",
             "TARMUWA",
             "YUNUSARI",
-            "YUSUFARI",
+            "YUSUFARI"
         ],
-        subs: {
-            BADE: [
+        "subs": {
+            "BADE": [
                 "DAGONA",
                 "GWIO KURA",
                 "KATUZU",
@@ -11005,9 +10999,9 @@ exports.areas = [
                 "SARKIN HAUSAWA",
                 "SUGUM/TAGALI",
                 "USUR DAWAYO",
-                "ZANGO",
+                "ZANGO"
             ],
-            BURSARI: [
+            "BURSARI": [
                 "BAYAMARI",
                 "DAMNAWA/JULURI",
                 "DANANI",
@@ -11017,9 +11011,9 @@ exports.areas = [
                 "GUJI METALARI",
                 "KALIYARI",
                 "KURNAWA",
-                "MASABA",
+                "MASABA"
             ],
-            DAMATURU: [
+            "DAMATURU": [
                 "BINDIGARI/FAWARI",
                 "DAMAKASU",
                 "DAMATURU CENTRAL",
@@ -11030,9 +11024,9 @@ exports.areas = [
                 "MURFA KALAM",
                 "NAYINAWA",
                 "NJIWAJI/GWANGE",
-                "SASAWA/KABARU",
+                "SASAWA/KABARU"
             ],
-            FIKA: [
+            "FIKA": [
                 "DAYA/CHANA",
                 "FIKA/ANZE",
                 "GAKADAISHEMBIRE",
@@ -11042,9 +11036,9 @@ exports.areas = [
                 "NGALDA/DUMBULWA",
                 "SHOYE/GARINABA",
                 "TURMI/MALURI",
-                "ZANGAYA/MAZAWUN",
+                "ZANGAYA/MAZAWUN"
             ],
-            FUNE: [
+            "FUNE": [
                 "ABAKIRE",
                 "ALAGARN",
                 "BORN KIJI",
@@ -11057,9 +11051,9 @@ exports.areas = [
                 "JAJERE",
                 "KAYERI",
                 "KOLLERE",
-                "MASHIO",
+                "MASHIO"
             ],
-            GEIDAM: [
+            "GEIDAM": [
                 "ASHEIKRI",
                 "BALLE/GALLABA/MELERI",
                 "DAMAKARWA/KUSUR",
@@ -11070,9 +11064,9 @@ exports.areas = [
                 "KAWURI",
                 "MAANA/DAGAMBI",
                 "SHAME KURA/DILAWA",
-                "ZURGU NGILIWA/BORKO",
+                "ZURGU NGILIWA/BORKO"
             ],
-            GUJBA: [
+            "GUJBA": [
                 "BUNI GARI/LAWANTI",
                 "BUNI YADI NORTH AND SOUTH",
                 "DADINGEL",
@@ -11082,9 +11076,9 @@ exports.areas = [
                 "MANDUNARI",
                 "MUTAI",
                 "NGURBUWA",
-                "WAGIR",
+                "WAGIR"
             ],
-            GULANI: [
+            "GULANI": [
                 "BARA",
                 "BORN KIJI TETTEBA",
                 "BULARAFA",
@@ -11096,9 +11090,9 @@ exports.areas = [
                 "GULANI",
                 "KUSHIMAGA",
                 "NJIBILWA",
-                "RUHU",
+                "RUHU"
             ],
-            JAKUSKO: [
+            "JAKUSKO": [
                 "BUDUWA/SAMINAKA",
                 "DUMBARI",
                 "GIDGID/BAYAM",
@@ -11108,9 +11102,9 @@ exports.areas = [
                 "JAWUR/KATAMA",
                 "LAFIYA LOILOI",
                 "MUGURAM",
-                "ZABUDUM DACHIA",
+                "ZABUDUM DACHIA"
             ],
-            KARASUWA: [
+            "KARASUWA": [
                 "BUKARTI",
                 "FAJIGANARI",
                 "GARIN GAWO",
@@ -11120,9 +11114,9 @@ exports.areas = [
                 "KARASUWA GARU GUNA",
                 "WACHAKAL",
                 "WARO",
-                "YAJERI",
+                "YAJERI"
             ],
-            MACHINA: [
+            "MACHINA": [
                 "BOGO",
                 "DAMAI",
                 "DONE",
@@ -11132,9 +11126,9 @@ exports.areas = [
                 "LAMISU",
                 "MACHINA",
                 "MASKAWIDARE",
-                "TAGANAMA",
+                "TAGANAMA"
             ],
-            NANGERE: [
+            "NANGERE": [
                 "CHILLARIYE",
                 "DADISO/CHIKURIWA",
                 "DAWASA/G.BABA",
@@ -11145,9 +11139,9 @@ exports.areas = [
                 "NANGERE",
                 "PAKARAU",
                 "TIKAU",
-                "WATINANI",
+                "WATINANI"
             ],
-            NGURU: [
+            "NGURU": [
                 "BULABULIN",
                 "BULANGUWA",
                 "DABULE",
@@ -11157,9 +11151,9 @@ exports.areas = [
                 "KANURI",
                 "MAJAKURA",
                 "MIRWA/KABIR SAGIR",
-                "NGILEWA",
+                "NGILEWA"
             ],
-            POTISKUM: [
+            "POTISKUM": [
                 "ARIKIME PRI. SCH.",
                 "ARMY BARRACKS PRI. SCH.",
                 "DAMBOA PRI. SCH.",
@@ -11169,9 +11163,9 @@ exports.areas = [
                 "KARA PRI. SCH.",
                 "KWATA PRI. SCH.",
                 "MAMUDO PRI. SCH.",
-                "NGOJIN PRI. SCH.",
+                "NGOJIN PRI. SCH."
             ],
-            TARMUWA: [
+            "TARMUWA": [
                 "BABBANGIDA",
                 "BARKAMI/BULTURI",
                 "BIRIRI/CHIROKUSKO",
@@ -11181,9 +11175,9 @@ exports.areas = [
                 "LANTEWA",
                 "MAFA",
                 "MANDADAWA",
-                "SHEKAU",
+                "SHEKAU"
             ],
-            YUNUSARI: [
+            "YUNUSARI": [
                 "BULTUWA MAR YARO",
                 "DARA TOSHIA",
                 "DEGELTURA NGAMAZAI",
@@ -11193,9 +11187,9 @@ exports.areas = [
                 "MOZOGUN KUJARI",
                 "NGIRABO",
                 "SWADI KAFIYA",
-                "ZAJIBIRIRI DUMBOL",
+                "ZAJIBIRIRI DUMBOL"
             ],
-            YUSUFARI: [
+            "YUSUFARI": [
                 "ALANJIRORI",
                 "GUMSHI",
                 "GUYA",
@@ -11205,14 +11199,14 @@ exports.areas = [
                 "KUMAGANNAM",
                 "MAIMALARI",
                 "MAYORI",
-                "YUSUFARI",
-            ],
-        },
+                "YUSUFARI"
+            ]
+        }
     },
     {
-        code: "ZA",
-        name: "ZAMFARA",
-        lgas: [
+        "code": "ZA",
+        "name": "ZAMFARA",
+        "lgas": [
             "ANKA",
             "BAKURA",
             "BIRNIN MAGAJI",
@@ -11226,10 +11220,10 @@ exports.areas = [
             "SHINKAFI",
             "TALATA MAFARA",
             "TSAFE",
-            "ZURMI",
+            "ZURMI"
         ],
-        subs: {
-            ANKA: [
+        "subs": {
+            "ANKA": [
                 "BAGEGA",
                 "BARAYAR ZAKI",
                 "DAN GALADIMA",
@@ -11239,9 +11233,9 @@ exports.areas = [
                 "SABON BIRNI",
                 "WARAMU",
                 "WUYA",
-                "YAR SABAYA",
+                "YAR SABAYA"
             ],
-            BAKURA: [
+            "BAKURA": [
                 "BAKURA",
                 "BIRNIN TUDU",
                 "DAKKO",
@@ -11251,7 +11245,7 @@ exports.areas = [
                 "NASARAWA",
                 "RINI",
                 "YAR GEDA",
-                "YAR KUFUJI",
+                "YAR KUFUJI"
             ],
             "BIRNIN MAGAJI": [
                 "B/MAGAJI",
@@ -11263,9 +11257,9 @@ exports.areas = [
                 "MADOMAWA EAST",
                 "MODOMAWA WEST",
                 "NASARAWA GODEL EAST",
-                "NASARAWA GODEL WEST",
+                "NASARAWA GODEL WEST"
             ],
-            BUKKUYUM: [
+            "BUKKUYUM": [
                 "ADABKA",
                 "BUKKUYUM",
                 "GWASHI",
@@ -11275,9 +11269,9 @@ exports.areas = [
                 "RUWAN JEMA",
                 "YASHI",
                 "ZARUMMAI",
-                "ZAUMA",
+                "ZAUMA"
             ],
-            BUNGUDU: [
+            "BUNGUDU": [
                 "BINGI NORTH",
                 "BINGI SOUTH",
                 "BUNGUDU",
@@ -11288,9 +11282,9 @@ exports.areas = [
                 "RAWAYYA/BELA",
                 "SAMAWA",
                 "SANKALAWA",
-                "TOFA",
+                "TOFA"
             ],
-            GUMMI: [
+            "GUMMI": [
                 "B/MAGAJI",
                 "B/TUDU",
                 "BARDOKI",
@@ -11301,9 +11295,9 @@ exports.areas = [
                 "ILLELARAWAL",
                 "MAGAJI GARI",
                 "SHIYAR RAFI",
-                "UBANDAWAKI",
+                "UBANDAWAKI"
             ],
-            GUSAU: [
+            "GUSAU": [
                 "GALADIMA",
                 "MADA",
                 "MADAWAKI",
@@ -11314,7 +11308,7 @@ exports.areas = [
                 "SABON GARI",
                 "TUDUN WADA",
                 "WANKE",
-                "WONAKA",
+                "WONAKA"
             ],
             "KAURA NAMODA": [
                 "BANGA",
@@ -11327,9 +11321,9 @@ exports.areas = [
                 "KYAMBARAWA",
                 "S/BAURAS/MAFARA",
                 "SAKAJIKI",
-                "YANKABA",
+                "YANKABA"
             ],
-            MARADUN: [
+            "MARADUN": [
                 "BIRNIN KAYA DOSARA",
                 "DAMAGA/ GAMAGIWA",
                 "FARU MAGAMI",
@@ -11339,9 +11333,9 @@ exports.areas = [
                 "KAYA",
                 "MARADUN NORTH",
                 "MARADUN SOUTH",
-                "TSIBIRL",
+                "TSIBIRL"
             ],
-            MARU: [
+            "MARU": [
                 "BINDIN",
                 "BINGI",
                 "DANGULBI",
@@ -11351,9 +11345,9 @@ exports.areas = [
                 "KUYAN BANA",
                 "MARU",
                 "MAYANCI",
-                "RUWAN DORAWA",
+                "RUWAN DORAWA"
             ],
-            SHINKAFI: [
+            "SHINKAFI": [
                 "BADARAWA",
                 "CHIKI",
                 "GALADI",
@@ -11363,7 +11357,7 @@ exports.areas = [
                 "KWARE",
                 "SHANAWA",
                 "SHINKAFI NRHT",
-                "SHINKAFI SOUTH",
+                "SHINKAFI SOUTH"
             ],
             "TALATA MAFARA": [
                 "GARBADU",
@@ -11376,9 +11370,9 @@ exports.areas = [
                 "S/KAYAYE MATUGI",
                 "SAUNA R/GORA",
                 "SHIYAR GALADIMA",
-                "T/TSABA MAKERA",
+                "T/TSABA MAKERA"
             ],
-            TSAFE: [
+            "TSAFE": [
                 "BILBIS",
                 "CHEDIYA",
                 "DANJIBGA",
@@ -11389,9 +11383,9 @@ exports.areas = [
                 "YANDOTO DAJI",
                 "YANKUZO “A”",
                 "YANKUZO “B”",
-                "YANWAREN DAJI",
+                "YANWAREN DAJI"
             ],
-            ZURMI: [
+            "ZURMI": [
                 "BOKO",
                 "DAURAN B/TSABA",
                 "DOLE",
@@ -11402,8 +11396,8 @@ exports.areas = [
                 "MAYASA/KUTURU",
                 "RUKUDAWA",
                 "YANBUKI/DUTSI",
-                "ZURMI",
-            ],
-        },
-    },
+                "ZURMI"
+            ]
+        }
+    }
 ];
